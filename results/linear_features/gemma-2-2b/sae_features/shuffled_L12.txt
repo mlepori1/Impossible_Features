@@ -1,0 +1,21 @@
+shuffled - Layer 12
+19/16384 are significant
+P-val: 4.1471850441009505e-06 Description: comma-separated lists or sequences of items
+P-val: 2.687399847392446e-07 Description: structured information related to medical standards and practices
+P-val: 1.8183827915146926e-07 Description:  mentions of code elements and programming concepts
+P-val: 6.139592680668323e-06 Description: mathematical symbols and terms related to calculations
+P-val: 3.7927922666610275e-06 Description: mentions of elemental content and its related deficiencies
+P-val: 6.591694449141665e-05 Description: technical acronyms and specific numerical data in a structured format
+P-val: 3.9720470506502005e-07 Description: data points and numerical values related to statistical or computational outputs
+P-val: 2.467356777625765e-06 Description: terms related to software licensing and legal disclaimers
+P-val: 2.688797716598346e-07 Description:  mathematical expressions involving derivatives
+P-val: 8.624866504638802e-09 Description: numerical data and references related to statistics and measurements
+P-val: 5.3080028473044784e-05 Description:  punctuation marks and numerical values
+P-val: 1.513120163456701e-07 Description: technical jargon and code-related terminology
+P-val: 4.4161929315406386e-05 Description:  terms and phrases related to health, viruses, and medical conditions
+P-val: 6.693418702725857e-07 Description:  references to specific entities or measurements in scientific or technical contexts
+P-val: 6.987907687071379e-05 Description:  keywords and phrases related to control and oversight in various contexts
+P-val: 2.667096871282074e-09 Description:  references to joint tort liability and negligence in a legal context
+P-val: 3.8486869072201e-08 Description:  legal terms or phrases
+P-val: 2.915506798781554e-05 Description: references to academic or technical content, particularly related to methods and results
+P-val: 1.8246286932632965e-07 Description: references to medical conditions and their treatments

@@ -1,0 +1,25 @@
+birds - Layer 12
+23/16384 are significant
+P-val: 0.00020869747193017353 Description: references to individual struggles and societal themes, particularly in relation to character development and interpersonal dynamics
+P-val: 2.076020758468159e-08 Description: punctuation marks and their usage in sentences
+P-val: 4.057852077602029e-05 Description: words and expressions related to kindness and gentleness
+P-val: 4.414116649713297e-07 Description: technical terms and concepts related to programming or data structures
+P-val: 0.00035267578908305497 Description: references to legal issues and procedural terminology
+P-val: 7.167692989472426e-05 Description: phrases related to rules, regulations, and political dynamics
+P-val: 1.8866111406706557e-06 Description: keywords related to marine animals and their behaviors
+P-val: 0.0002717109249471439 Description: states of heightened emotion or tension in interpersonal relationships
+P-val: 0.00014219068605149997 Description: phrases related to fairness and responsibility in contexts involving work or social interactions
+P-val: 2.687399847392446e-07 Description: aspects related to animal behavior and interactions
+P-val: 0.00044608663681918777 Description: mentions of elemental content and its related deficiencies
+P-val: 5.586573507102739e-05 Description:  the beginning of a document or a new section
+P-val: 4.116181445648362e-08 Description: phrases related to technical descriptions and comparisons in software development contexts
+P-val: 8.257884223022655e-13 Description: instances of reported statements or quotes
+P-val: 1.8907067687613852e-06 Description: concepts related to adaptive strategies and survival in low iron environments
+P-val: 2.619838329216281e-08 Description: mentions of specific bird species and their ecological contexts
+P-val: 0.0003321203684487276 Description: descriptive adjectives and adverbs related to physical characteristics and appearances
+P-val: 0.00011900692880966398 Description:  terms related to computational concepts and scientific terminology
+P-val: 4.2984430738575064e-05 Description: information related to species life cycles and developmental stages
+P-val: 0.00048652826472334255 Description: references to slavery and its historical context
+P-val: 7.229145848670652e-05 Description: terms related to art and representation, particularly involving human or animal figures
+P-val: 1.7708583773650254e-08 Description: references to wildlife and animals in various contexts
+P-val: 5.536995638086802e-06 Description: elements related to experimental results and statistical analysis

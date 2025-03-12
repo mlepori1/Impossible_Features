@@ -1,0 +1,52 @@
+[x] Write surprisal based behavioral eval
+[x] Write datset class with all continuations
+[x] Write mean difference eval using 5 fold CV
+[x] Plot projections for each difference vector per layer
+[x] Add RSM between difference vectors to get a sense of geometry of features
+[X] Diff of SAE vectors, treat as independent samples. Test diff from 0
+[X] If any have sig diff, print out autointerp of them
+[X] Add controls with different sorts of semantics: monsters and birds
+[ ] Implement Holm-Bonferoni correction: Implement regular bonferonni correction for all nonzero diff latents: Going to be about 100 * 140 ish 
+[ ] Print out the N SAE features with the greatest cosine similarity to the difference vector, as well as what that cosine similarity is
+[ ] Using a big corpus of sentences (maybe wikitext or something) project on to difference and report high projection vs. low projection.
+    This is a strong verification that the difference vectors are capturing things we care about. Ofc use monsters and birds as control.
+[ ] Investigate old topic-modeling human subjects studies to derive a human subjects experiment that we can perform
+
+Paper:
+[ ] Linear features for inconceivable etc etc
+    - Mean Diff Classification
+    - Max/Min activating natural sentences
+        -Finding: Improbable - No, Impossible - Maybe?, Others - Yes
+
+[ ] Are they categorically the same or categorically different?
+    - Generalization between categories using difference vector
+        - Think about just sharing the difference vectors, and "learning" the knn classifier uniquely for each feature.
+        Have to write about this to see what to do
+        - Finding: Increasing surprise seems to be linearly decipherable, but only when things are substantially surprising
+            - This carves up the space differently than just surprisal
+            -Shuffled tokens seem to be different than surprising tokens: shuffled and impossible get similar surprisal but diff linear vector representations
+    - RSMs
+
+[ ] Are they captured by SAEs?
+    - SAEs + statistical tests for features provides a subset of crappy features
+        -Display them, and run human subjects testing
+    - Get most similar SAE decoder vector to each difference vector, see that one doesn't really exist 
+        for metaling features, but does exist for birds and monsters
+        - Finding: No good SAE features for metaling features, yes for monsters etc
+
+[ ] Can we get them to be?
+    - Train an SAE on final sentence tokens to bias them towards such features
+    - Control: Train SAE like normal
+
+
+
+
+[] Attribution: Autointerp
+    [] Per-Pair, print top attribution features + their autointerp
+    [] Per-pair, print top activating features + their autointerp
+    -------------------------------------
+    [] Dataset-level, same ^
+[] Attribution: Max activating
+    [] Per-Pair, Interactive interface to neuronpedia for max attrib dashboard
+    [] Per-Pair, Interactive interface to neuronpedia for max act dashboard
+    [] Dataset-level, same^

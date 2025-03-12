@@ -1,0 +1,35 @@
+impossible - Layer 12
+33/16384 are significant
+P-val: 4.4099351020972264e-05 Description: phrases related to accountability and ownership
+P-val: 5.167324782326882e-05 Description: references to various forms of art, especially embroidery and its techniques
+P-val: 9.048319192454899e-07 Description: technical terms and concepts related to programming or data structures
+P-val: 5.428471618712794e-05 Description: sections or headings related to procedure and historical background in documents
+P-val: 0.0003473535780165591 Description: terms and phrases related to data analysis, measurements, and specific methodologies in scientific or technical contexts
+P-val: 3.992724207538241e-05 Description: specific measurements and attributes related to physical objects or structures
+P-val: 0.00021840451160574153 Description: structured information related to medical standards and practices
+P-val: 7.95936293529323e-08 Description: xml or html tags and their attributes in the document
+P-val: 0.0001803432255855202 Description: relations and structural connections within complex datasets
+P-val: 9.095367845790004e-05 Description: phrases related to attempts and actions that express conditional situations
+P-val: 3.800191792988814e-09 Description: phrases related to fairness and responsibility in contexts involving work or social interactions
+P-val: 2.45843596011194e-05 Description:  punctuation and common sentence connectors
+P-val: 1.6426132475661783e-05 Description: terms related to legal and medical contexts, particularly focusing on patient demographics and conditions
+P-val: 0.0003274791716928477 Description: references to various objects and items involved in a narrative, particularly those that are unusual or associated with conflict
+P-val: 1.2305239782633147e-11 Description: numerical data and references related to statistics and measurements
+P-val: 0.0003250121193590314 Description:  punctuation and sentence structures
+P-val: 0.0002504021240471687 Description: details related to the establishment and use of tools or systems
+P-val: 2.974663326151682e-05 Description: terms related to serious mental illnesses and their implications for patient care
+P-val: 2.0558857281806475e-06 Description: gerunds and present participles
+P-val: 1.0680636279349199e-08 Description: the presence of the article "a" in the context of significant statements
+P-val: 0.0003274791716928477 Description:  legal terms or phrases
+P-val: 0.000350250798067131 Description: medical and scientific terms related to genetics and physiological processes
+P-val: 9.821836310615567e-05 Description: discussions related to health and medical scenarios
+P-val: 9.545674289904152e-08 Description: terminology associated with evaluations or judgments in legal or mathematical contexts
+P-val: 9.9892242264885e-06 Description: expressions of fatigue and emotional distress
+P-val: 0.00022997209479812028 Description: references to crafting materials and methods
+P-val: 4.230719161336785e-06 Description: phrases related to resourcefulness and overcoming challenges
+P-val: 2.5303929264684826e-08 Description: sentient beings, particularly those involved in creative or transformative actions
+P-val: 1.9698366224743903e-07 Description: information related to immune system interactions and their implications in various medical contexts
+P-val: 0.000209611494871948 Description: references to specific names and titles, especially in the context of people, events, and scientific or artistic works
+P-val: 1.794206793769542e-06 Description:  phrases related to actions, omissions, and conditions in various contexts, often emphasizing decision-making and the consequences of choices
+P-val: 1.5569622978288455e-07 Description: objects and tools related to eating or handling food
+P-val: 3.9523201961760374e-07 Description: technical terms related to data structures and programming concepts

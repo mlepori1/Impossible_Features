@@ -1,0 +1,31 @@
+,prompt,base_class,surprisal,improbable_impossible,impossible_inconceivable,class
+32,watering plants with a coffee pot.,improbable,5.96875,0.1767578125,0.255859375,improbable
+13,carving a turkey with a chainsaw.,improbable,4.5,0.1943359375,0.2373046875,improbable
+28,bathing a cat in a teacup.,improbable,5.84375,0.1748046875,0.25390625,improbable
+55,cooking pancakes on a car hood.,improbable,7.1875,0.18359375,0.2412109375,improbable
+73,transporting groceries in a kayak.,improbable,6.375,0.1826171875,0.263671875,improbable
+72,polishing shoes with a banana peel.,improbable,6.28125,0.173828125,0.275390625,improbable
+80,grilling a steak using a hairdryer.,improbable,6.125,0.17578125,0.29296875,improbable
+43,feeding ducks with cooked spaghetti.,improbable,7.84375,0.1748046875,0.263671875,improbable
+67,binding a book using dental floss.,improbable,7.1875,0.1787109375,0.27734375,improbable
+37,cooking pasta in a waffle maker.,improbable,6.4375,0.171875,0.2451171875,improbable
+151,filling a bathtub with sunlight.,impossible,7.375,0.080078125,0.2333984375,impossible
+121,holding a mountain with a thread.,impossible,7.3125,0.0986328125,0.2470703125,impossible
+187,growing a garden using only fire.,impossible,7.0,0.09033203125,0.25,impossible
+160,knitting a sweater from fog.,impossible,8.125,0.048828125,0.212890625,impossible
+175,swimming underwater without encountering any resistance.,impossible,7.625,0.08740234375,0.2119140625,impossible
+188,telephoning someone using an icicle.,impossible,6.28125,0.06640625,0.232421875,impossible
+157,slicing a loaf of bread with water.,impossible,4.9375,0.095703125,0.2392578125,impossible
+105,boiling water using an ice cube.,impossible,6.375,0.103515625,0.248046875,impossible
+196,programming a computer with a leaf.,impossible,7.90625,0.0634765625,0.212890625,impossible
+161,carving a sculpture from a shadow.,impossible,6.40625,0.08740234375,0.2421875,impossible
+77,balancing a book on a pencil.,improbable,5.9375,0.12060546875,0.2451171875,improbable-impossible
+17,cutting grass with scissors.,improbable,7.78125,0.12255859375,0.1357421875,improbable-impossible
+193,breaking a wall with a pillow.,impossible,6.28125,0.1474609375,0.208984375,improbable-impossible
+27,writing a letter with a feather and water.,improbable,5.8125,0.12158203125,0.2041015625,improbable-impossible
+68,insulating a room with popcorn.,improbable,6.375,0.10498046875,0.2490234375,improbable-impossible
+56,measuring distance using footsteps.,improbable,8.4375,0.11279296875,0.212890625,improbable-impossible
+147,creating a rainbow at night with a flashlight.,impossible,5.75,0.13671875,0.21875,improbable-impossible
+135,galloping across the ocean on a horse.,impossible,4.6875,0.12451171875,0.2314453125,improbable-impossible
+12,hammering a nail with a stapler.,improbable,5.25,0.119140625,0.228515625,improbable-impossible
+126,keeping drinks cold using a candle.,impossible,7.875,0.1328125,0.27734375,improbable-impossible

@@ -1,0 +1,26 @@
+monsters - Layer 12
+24/16384 are significant
+P-val: 3.602980656646105e-05 Description: references to individual struggles and societal themes, particularly in relation to character development and interpersonal dynamics
+P-val: 4.0434816977309827e-11 Description: punctuation marks and their usage in sentences
+P-val: 2.084367109713988e-10 Description: technical terms and concepts related to programming or data structures
+P-val: 7.62154937775503e-06 Description: legal terminology related to parental rights and citizenship
+P-val: 8.33781740055173e-06 Description: references to legal issues and procedural terminology
+P-val: 4.4224575106059504e-05 Description: elements related to battles and conflicts, particularly in a fictional context
+P-val: 1.3493511204839723e-05 Description: keywords related to supernatural abilities or powers
+P-val: 6.890195839044515e-05 Description:  references to themes of crime and deception
+P-val: 2.8008809414833275e-06 Description: phrases related to technology and abilities in a character context
+P-val: 8.218569253829705e-09 Description: states of heightened emotion or tension in interpersonal relationships
+P-val: 5.0558258521030554e-11 Description: phrases related to fairness and responsibility in contexts involving work or social interactions
+P-val: 2.974663326151682e-05 Description: descriptions of magical abilities or technologies
+P-val: 5.955758573220817e-05 Description:  punctuation and sentence structures
+P-val: 1.8604893539103495e-06 Description: phrases related to technical descriptions and comparisons in software development contexts
+P-val: 3.255892779139118e-08 Description: expression of authority or commands related to judgment and punishment
+P-val: 6.985424908027889e-13 Description: instances of reported statements or quotes
+P-val: 1.6519724559758778e-05 Description:  historical references or events
+P-val: 2.7918093640950252e-05 Description: gerunds and present participles
+P-val: 2.2854704838395543e-05 Description: terms related to medical conditions and their implications
+P-val: 5.741753104328316e-07 Description: technical terminology and measurements related to materials and processes in scientific contexts
+P-val: 8.956956042747729e-06 Description: objects and tools related to eating or handling food
+P-val: 1.2362266847745263e-07 Description: mentions of role-playing game mechanics
+P-val: 1.171222931653956e-05 Description: technical terms and processes related to experimental methodologies and data analysis
+P-val: 4.928759140688559e-07 Description: elements related to experimental results and statistical analysis

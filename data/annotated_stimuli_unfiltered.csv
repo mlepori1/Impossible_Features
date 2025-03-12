@@ -1,0 +1,143 @@
+,prompt,base_class,surprisal,improbable_impossible,impossible_inconceivable,class
+7,grooming a dog using a vacuum cleaner.,improbable,5.28125,0.1767578125,0.189453125,improbable
+13,carving a turkey with a chainsaw.,improbable,4.5,0.1943359375,0.2373046875,improbable
+14,drying hair with a leaf blower.,improbable,6.0625,0.185546875,0.267578125,improbable
+28,bathing a cat in a teacup.,improbable,5.84375,0.1748046875,0.25390625,improbable
+32,watering plants with a coffee pot.,improbable,5.96875,0.1767578125,0.255859375,improbable
+37,cooking pasta in a waffle maker.,improbable,6.4375,0.171875,0.2451171875,improbable
+38,toasting bread with a hairdryer.,improbable,5.59375,0.173828125,0.27734375,improbable
+43,feeding ducks with cooked spaghetti.,improbable,7.84375,0.1748046875,0.263671875,improbable
+47,lifting weights with helium balloons.,improbable,8.5625,0.171875,0.259765625,improbable
+50,catching butterflies using a colander.,improbable,6.96875,0.1748046875,0.267578125,improbable
+52,sewing a dress with fishing line.,improbable,6.6875,0.1875,0.255859375,improbable
+53,building a raft out of soda bottles.,improbable,5.625,0.177734375,0.2734375,improbable
+55,cooking pancakes on a car hood.,improbable,7.1875,0.18359375,0.2412109375,improbable
+64,washing clothes by river stones.,improbable,8.25,0.171875,0.240234375,improbable
+65,patching a tire with duct tape.,improbable,4.96875,0.1904296875,0.25,improbable
+67,binding a book using dental floss.,improbable,7.1875,0.1787109375,0.27734375,improbable
+72,polishing shoes with a banana peel.,improbable,6.28125,0.173828125,0.275390625,improbable
+73,transporting groceries in a kayak.,improbable,6.375,0.1826171875,0.263671875,improbable
+78,painting a fence using a toothbrush.,improbable,7.0625,0.18359375,0.26171875,improbable
+80,grilling a steak using a hairdryer.,improbable,6.125,0.17578125,0.29296875,improbable
+12,hammering a nail with a stapler.,improbable,5.25,0.119140625,0.228515625,improbable-impossible
+15,boiling water on a barbecue grill.,improbable,6.28125,0.11962890625,0.2021484375,improbable-impossible
+17,cutting grass with scissors.,improbable,7.78125,0.12255859375,0.1357421875,improbable-impossible
+18,printing a document using a typewriter.,improbable,7.0625,0.119140625,0.1826171875,improbable-impossible
+19,stirring a pot with a pen.,improbable,5.375,0.08740234375,0.1923828125,improbable-impossible
+21,toasting bread with a campfire.,improbable,5.53125,0.10546875,0.12451171875,improbable-impossible
+27,writing a letter with a feather and water.,improbable,5.8125,0.12158203125,0.2041015625,improbable-impossible
+30,bouncing a basketball on a trampoline.,improbable,4.3125,0.1220703125,0.197265625,improbable-impossible
+35,driving a car using only the reverse gear.,improbable,5.125,0.1279296875,0.2294921875,improbable-impossible
+36,reading by the light of fireflies.,improbable,5.21875,0.1015625,0.197265625,improbable-impossible
+41,balancing a book on a moving car's dashboard.,improbable,4.875,0.1279296875,0.220703125,improbable-impossible
+42,hammering a nail with a rubber chicken.,improbable,5.5625,0.12890625,0.263671875,improbable-impossible
+48,composing a melody using only doorbells.,improbable,5.6875,0.09326171875,0.2373046875,improbable-impossible
+56,measuring distance using footsteps.,improbable,8.4375,0.11279296875,0.212890625,improbable-impossible
+62,navigating by starlight alone.,improbable,7.3125,0.0986328125,0.1767578125,improbable-impossible
+68,insulating a room with popcorn.,improbable,6.375,0.10498046875,0.2490234375,improbable-impossible
+77,balancing a book on a pencil.,improbable,5.9375,0.12060546875,0.2451171875,improbable-impossible
+82,cracking a nut using another nut.,improbable,5.625,0.0654296875,0.2392578125,improbable-impossible
+88,starting a fire with a handful of sticks.,improbable,5.09375,0.1259765625,0.240234375,improbable-impossible
+100,catching a fish with a pencil.,impossible,5.59375,0.150390625,0.2041015625,improbable-impossible
+101,filling a bucket using a sieve.,impossible,6.0625,0.140625,0.23828125,improbable-impossible
+102,extinguishing a fire using a magnifying glass.,impossible,5.75,0.1474609375,0.212890625,improbable-impossible
+103,cutting steel using a rubber band.,impossible,6.625,0.1552734375,0.291015625,improbable-impossible
+107,inflating a tire with a matchstick.,impossible,5.34375,0.1435546875,0.26953125,improbable-impossible
+108,floating a boat on a carpet.,impossible,6.46875,0.16015625,0.275390625,improbable-impossible
+111,powering a car using marshmallows.,impossible,9.25,0.1396484375,0.2734375,improbable-impossible
+113,freezing water with a match flame.,impossible,6.9375,0.142578125,0.27734375,improbable-impossible
+114,building a house out of soap bubbles.,impossible,5.25,0.1416015625,0.265625,improbable-impossible
+117,sailing a ship with a spoon.,impossible,6.90625,0.1259765625,0.26171875,improbable-impossible
+118,trapping air with a wooden stake.,impossible,6.25,0.1318359375,0.2392578125,improbable-impossible
+126,keeping drinks cold using a candle.,impossible,7.875,0.1328125,0.27734375,improbable-impossible
+127,writing a novel using invisible ink.,impossible,7.4375,0.12890625,0.2216796875,improbable-impossible
+130,frying an egg on ice.,impossible,6.25,0.15625,0.265625,improbable-impossible
+135,galloping across the ocean on a horse.,impossible,4.6875,0.12451171875,0.2314453125,improbable-impossible
+143,freezing lava using warm water.,impossible,10.0625,0.138671875,0.267578125,improbable-impossible
+147,creating a rainbow at night with a flashlight.,impossible,5.75,0.13671875,0.21875,improbable-impossible
+149,walking directly up the side of a cliff using slippers.,impossible,6.1875,0.12890625,0.259765625,improbable-impossible
+185,teleporting using a spoon.,impossible,6.3125,0.1298828125,0.24609375,improbable-impossible
+193,breaking a wall with a pillow.,impossible,6.28125,0.1474609375,0.208984375,improbable-impossible
+105,boiling water using an ice cube.,impossible,6.375,0.103515625,0.248046875,impossible
+110,painting a wall with a beam of light.,impossible,5.25,0.10205078125,0.212890625,impossible
+121,holding a mountain with a thread.,impossible,7.3125,0.0986328125,0.2470703125,impossible
+124,growing flowers on a star.,impossible,8.25,0.04345703125,0.2197265625,impossible
+128,painting a mural using wind.,impossible,9.125,0.0283203125,0.21484375,impossible
+132,lifting a mountain with a teaspoon.,impossible,6.625,0.083984375,0.251953125,impossible
+142,constructing a sandy beach in the center of the sun.,impossible,5.15625,0.033447265625,0.2138671875,impossible
+148,telepathically controlling the weather.,impossible,5.90625,0.09765625,0.2177734375,impossible
+150,bending light with a thought.,impossible,8.0,0.0986328125,0.2177734375,impossible
+151,filling a bathtub with sunlight.,impossible,7.375,0.080078125,0.2333984375,impossible
+157,slicing a loaf of bread with water.,impossible,4.9375,0.095703125,0.2392578125,impossible
+158,navigating a river on a rainbow.,impossible,6.1875,0.059814453125,0.2138671875,impossible
+160,knitting a sweater from fog.,impossible,8.125,0.048828125,0.212890625,impossible
+161,carving a sculpture from a shadow.,impossible,6.40625,0.08740234375,0.2421875,impossible
+170,balancing a building on a whisper.,impossible,8.4375,0.03271484375,0.208984375,impossible
+175,swimming underwater without encountering any resistance.,impossible,7.625,0.08740234375,0.2119140625,impossible
+180,freezing water with a whisper.,impossible,8.3125,0.050537109375,0.2119140625,impossible
+183,navigating a ship with a dandelion seed.,impossible,6.46875,0.10009765625,0.251953125,impossible
+187,growing a garden using only fire.,impossible,7.0,0.09033203125,0.25,impossible
+188,telephoning someone using an icicle.,impossible,6.28125,0.06640625,0.232421875,impossible
+190,playing a guitar using raindrops.,impossible,7.28125,0.10302734375,0.2392578125,impossible
+194,measuring weight using a smell.,impossible,9.5,0.056640625,0.21875,impossible
+196,programming a computer with a leaf.,impossible,7.90625,0.0634765625,0.212890625,impossible
+119,measuring time with a cloud.,impossible,7.3125,0.033203125,0.173828125,impossible-inconceivable
+120,ironing clothes using a breeze.,impossible,7.46875,0.061279296875,0.1806640625,impossible-inconceivable
+122,lifting a rock using a sigh.,impossible,8.3125,0.0291748046875,0.1298828125,impossible-inconceivable
+145,stopping time by closing eyes.,impossible,8.9375,0.06591796875,0.1611328125,impossible-inconceivable
+152,painting a room using pure silence.,impossible,7.84375,0.061767578125,0.1796875,impossible-inconceivable
+153,writing a novel on a gust of wind.,impossible,6.34375,0.061279296875,0.1689453125,impossible-inconceivable
+156,growing a tree from a whisper.,impossible,6.65625,0.0517578125,0.1796875,impossible-inconceivable
+162,opening a door into yesterday.,impossible,7.53125,0.049072265625,0.1201171875,impossible-inconceivable
+163,bridging two islands with emotion.,impossible,7.5625,0.072265625,0.1572265625,impossible-inconceivable
+166,floating on clouds made of melody.,impossible,7.59375,0.053466796875,0.1806640625,impossible-inconceivable
+167,transforming sand into time.,impossible,8.3125,0.0556640625,0.1572265625,impossible-inconceivable
+168,weaving a web of light and shadow.,impossible,4.59375,0.068359375,0.173828125,impossible-inconceivable
+169,writing equations on a breeze.,impossible,9.3125,0.06298828125,0.11669921875,impossible-inconceivable
+172,experiencing a forest in a teardrop.,impossible,6.875,0.016845703125,0.1787109375,impossible-inconceivable
+173,conversing with echo through touch.,impossible,8.4375,0.0888671875,0.181640625,impossible-inconceivable
+174,stretching a sunset to cover the night.,impossible,6.28125,0.0615234375,0.181640625,impossible-inconceivable
+176,lighting a dark room using a shadow.,impossible,6.625,0.047119140625,0.1650390625,impossible-inconceivable
+192,documenting history on a glass of air.,impossible,6.46875,0.033935546875,0.162109375,impossible-inconceivable
+195,stretching time with a blink.,impossible,7.0,0.029541015625,0.11865234375,impossible-inconceivable
+198,turning on a light using darkness.,impossible,7.53125,0.046142578125,0.181640625,impossible-inconceivable
+217,tying shoelaces with sunlight.,inconceivable,6.375,0.1005859375,0.236328125,impossible-inconceivable
+220,driving a car using a breeze.,inconceivable,7.28125,0.055419921875,0.205078125,impossible-inconceivable
+227,building a house out of sunlight.,inconceivable,6.28125,0.08154296875,0.234375,impossible-inconceivable
+228,reading a book using a melody.,inconceivable,7.5625,0.10009765625,0.203125,impossible-inconceivable
+231,boiling water with a breeze.,inconceivable,8.375,0.08740234375,0.2177734375,impossible-inconceivable
+233,drawing a picture using a scent.,inconceivable,7.71875,0.0732421875,0.2099609375,impossible-inconceivable
+236,writing a poem with a shadow.,inconceivable,6.875,0.07666015625,0.1943359375,impossible-inconceivable
+240,braiding hair with wind.,inconceivable,8.8125,0.11279296875,0.2021484375,impossible-inconceivable
+247,tuning a piano using empathy.,inconceivable,10.1875,0.11572265625,0.189453125,impossible-inconceivable
+249,constructing a bridge with an echo.,inconceivable,6.21875,0.064453125,0.2216796875,impossible-inconceivable
+251,building a house using a sneeze.,inconceivable,8.75,1.8835067749023438e-05,0.1962890625,impossible-inconceivable
+259,knitting a sweater from a joke.,inconceivable,6.09375,0.09765625,0.208984375,impossible-inconceivable
+275,swimming across a river using a whisper.,inconceivable,6.875,0.06396484375,0.2451171875,impossible-inconceivable
+276,painting a wall with the smell of popcorn.,inconceivable,5.40625,0.107421875,0.2275390625,impossible-inconceivable
+277,tying a shoelace with a breeze.,inconceivable,5.21875,0.052978515625,0.19921875,impossible-inconceivable
+279,frying an egg on a hiccup.,inconceivable,6.3125,0.09326171875,0.240234375,impossible-inconceivable
+282,writing a letter with a sneeze.,inconceivable,7.5625,0.09912109375,0.2080078125,impossible-inconceivable
+293,sailing a boat with a shadow.,inconceivable,6.59375,0.1279296875,0.189453125,impossible-inconceivable
+295,telling time by listening to a shadow.,inconceivable,6.84375,0.0849609375,0.2265625,impossible-inconceivable
+297,harvesting apples using a rainbow.,inconceivable,7.75,0.04052734375,0.2138671875,impossible-inconceivable
+210,finding keys in a hope.,inconceivable,8.5625,-0.0111083984375,0.09130859375,inconceivable
+211,building a house on a question.,inconceivable,6.46875,0.049560546875,0.060791015625,inconceivable
+218,mailing a package via thought.,inconceivable,8.9375,-0.0062255859375,0.076171875,inconceivable
+222,riding a bicycle on courage.,inconceivable,8.75,0.0693359375,0.12255859375,inconceivable
+223,unrolling carpet on a thought.,inconceivable,8.875,0.037841796875,0.087890625,inconceivable
+230,driving a car using a memory.,inconceivable,7.21875,0.003875732421875,0.12353515625,inconceivable
+241,carving a statue using joy.,inconceivable,8.375,0.01513671875,0.126953125,inconceivable
+243,folding a map using trust.,inconceivable,9.625,-0.000514984130859375,0.07373046875,inconceivable
+246,mowing a lawn with sleep.,inconceivable,6.875,0.060546875,0.12158203125,inconceivable
+253,flying a plane using sleep.,inconceivable,9.0,0.046142578125,0.11865234375,inconceivable
+256,sleeping soundly inside a thought.,inconceivable,9.4375,0.02197265625,0.12890625,inconceivable
+258,boiling water with a question.,inconceivable,7.53125,0.07568359375,0.11865234375,inconceivable
+263,brewing coffee with a hum.,inconceivable,6.625,0.033447265625,0.126953125,inconceivable
+266,playing piano on loyalty.,inconceivable,11.25,0.04638671875,0.1171875,inconceivable
+268,baking a cake using a dream.,inconceivable,7.21875,0.025390625,0.126953125,inconceivable
+272,melting ice using history.,inconceivable,10.5625,0.042724609375,0.09228515625,inconceivable
+274,programming a computer with wind.,inconceivable,8.75,0.028076171875,0.130859375,inconceivable
+281,baking a cake using a color.,inconceivable,7.03125,0.00799560546875,0.130859375,inconceivable
+287,chopping wood using an idea.,inconceivable,7.21875,0.07373046875,0.1162109375,inconceivable
+294,juggling balls using a temperature.,inconceivable,7.78125,0.0115966796875,0.12890625,inconceivable

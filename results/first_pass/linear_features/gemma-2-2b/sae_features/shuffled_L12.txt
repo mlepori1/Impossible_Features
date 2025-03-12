@@ -1,0 +1,48 @@
+shuffled - Layer 12
+46/16384 are significant
+P-val: 0.00021888859728733177 Description:  references to events, notifications, or calls to action related to various activities
+P-val: 0.0004893532626585275 Description: patterns related to dates or measurements in a statistical context
+P-val: 0.0002990290861872738 Description: comma-separated lists or sequences of items
+P-val: 0.00026661299145927904 Description: elements related to programming syntax and structures
+P-val: 0.0003274791716928477 Description: bullet points and list items in a document
+P-val: 9.753294565024003e-05 Description:  structured lists of items or elements
+P-val: 2.974663326151682e-05 Description: mathematical symbols and notation related to equations
+P-val: 4.138743048663578e-09 Description: structured information related to medical standards and practices
+P-val: 4.4099351020972264e-05 Description: specific codes or labels followed by numerical values
+P-val: 0.00014595245039721014 Description: technical terms and phrases related to engineering and scientific processes
+P-val: 1.997949597485874e-05 Description:  specific formats or structures used in scientific data representation
+P-val: 4.4036840176377516e-05 Description:  keywords and terms related to genetics and genetic research
+P-val: 0.0004907698762608342 Description: terms related to statistics and data representation
+P-val: 2.480462518443863e-06 Description:  mentions of code elements and programming concepts
+P-val: 4.4224575106059504e-05 Description: mathematical symbols and terms related to calculations
+P-val: 0.00033209334025519484 Description: mentions of elemental content and its related deficiencies
+P-val: 1.3464621782627036e-05 Description: technical acronyms and specific numerical data in a structured format
+P-val: 6.1451611051242046e-06 Description: data points and numerical values related to statistical or computational outputs
+P-val: 7.685764057107314e-06 Description: terms related to software licensing and legal disclaimers
+P-val: 1.3464621782627036e-05 Description:  mathematical expressions involving derivatives
+P-val: 0.00036318924277673473 Description: calculations related to factors, multiples, and basic arithmetic operations
+P-val: 6.560979245217794e-11 Description: numerical data and references related to statistics and measurements
+P-val: 2.0620189053852206e-05 Description:  punctuation marks and numerical values
+P-val: 1.6061140869927367e-07 Description: technical jargon and code-related terminology
+P-val: 0.00048793939284635685 Description: sections related to methodologies and experimental results in research documents
+P-val: 0.00025748543939496643 Description: mathematical operations and calculations
+P-val: 0.0004907698762608342 Description: structural elements and functions within a system or framework
+P-val: 4.4224575106059504e-05 Description:  terms and phrases related to health, viruses, and medical conditions
+P-val: 9.787521252150102e-05 Description: elements related to market dynamics and communication
+P-val: 0.00014623915190606628 Description:  textual elements related to legal assessments or criteria
+P-val: 8.822594702288577e-06 Description:  references to specific entities or measurements in scientific or technical contexts
+P-val: 9.9892242264885e-06 Description:  keywords and phrases related to control and oversight in various contexts
+P-val: 3.593006039090202e-07 Description:  references to joint tort liability and negligence in a legal context
+P-val: 2.687399847392446e-07 Description:  legal terms or phrases
+P-val: 6.581352259461346e-05 Description: patterns related to mathematical values and comparisons
+P-val: 9.804667726686511e-05 Description: references to project objectives or aims
+P-val: 9.917697110926012e-05 Description: references to academic or technical content, particularly related to methods and results
+P-val: 0.0004907698762608342 Description:  occurrences of the letter "a" in various contexts
+P-val: 0.00014652626009624466 Description:  references to examples or instances in a discussion
+P-val: 1.2815416253625037e-06 Description: references to medical conditions and their treatments
+P-val: 9.821836310615567e-05 Description: references to slavery and its historical context
+P-val: 0.00014652626009624466 Description: references to medical or scientific terminology, particularly relating to biological and chemical contexts
+P-val: 9.821836310615567e-05 Description: financial terms and industry-related jargon
+P-val: 9.821836310615567e-05 Description: numbers and their associated units of measurement
+P-val: 0.0004657007709001634 Description: specific numerical codes or identifiers related to data structures or programming configurations
+P-val: 4.428728843931774e-05 Description: negative expressions or tones in language

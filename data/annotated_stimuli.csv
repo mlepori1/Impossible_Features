@@ -1,0 +1,364 @@
+,prompt,base_class,surprisal,improbable_impossible,impossible_inconceivable,class
+4,cooking pasta using a hairdryer.,improbable,8.6875,0.1748046875,0.271484375,improbable
+5,juggling oranges while riding a unicycle.,improbable,4.78125,0.1611328125,0.2451171875,improbable
+6,painting a portrait with a broomstick.,improbable,6.34375,0.1650390625,0.24609375,improbable
+10,painting a house with a toothbrush.,improbable,6.375,0.181640625,0.271484375,improbable
+11,cooking pasta using a flashlight.,improbable,9.0625,0.162109375,0.2578125,improbable
+14,sailing a boat on a trampoline.,improbable,6.84375,0.1689453125,0.23046875,improbable
+15,grating cheese using a chainsaw.,improbable,8.0625,0.1767578125,0.271484375,improbable
+16,slicing bread with a samurai sword.,improbable,4.5625,0.1640625,0.2578125,improbable
+20,sculpting ice with a hairdryer.,improbable,6.8125,0.1708984375,0.275390625,improbable
+29,baking cookies on a skateboard.,improbable,7.53125,0.1640625,0.2421875,improbable
+30,painting a mural with a toothbrush.,improbable,6.59375,0.166015625,0.26171875,improbable
+36,painting a canvas using a spoon.,improbable,6.65625,0.173828125,0.275390625,improbable
+39,knitting a sweater using a garden rake.,improbable,6.3125,0.166015625,0.255859375,improbable
+47,drinking tea using a broomstick.,improbable,7.71875,0.166015625,0.236328125,improbable
+50,cooking an egg using a baseball bat.,improbable,6.46875,0.1630859375,0.26171875,improbable
+59,chopping vegetables with a rubber band.,improbable,5.8125,0.1669921875,0.2421875,improbable
+61,painting a mural on a moving train.,improbable,5.4375,0.16015625,0.2578125,improbable
+66,painting a mural with a toothbrush.,improbable,6.59375,0.166015625,0.26171875,improbable
+68,building a chair from marshmallows.,improbable,8.5625,0.16796875,0.265625,improbable
+69,hanging paintings on a fence.,improbable,7.375,0.171875,0.22265625,improbable
+71,painting a portrait with a toothbrush.,improbable,6.46875,0.1669921875,0.26953125,improbable
+80,baking a cake using a flashlight.,improbable,7.03125,0.16015625,0.26171875,improbable
+83,wrapping a gift using a leaf blower.,improbable,6.53125,0.1865234375,0.26953125,improbable
+84,mixing a smoothie using a hairdryer.,improbable,8.4375,0.169921875,0.26953125,improbable
+90,shaving a cat with a chainsaw.,improbable,5.5625,0.18359375,0.267578125,improbable
+92,washing dishes with a paintbrush.,improbable,6.59375,0.158203125,0.2451171875,improbable
+93,painting a fence with a sponge.,improbable,5.96875,0.17578125,0.2470703125,improbable
+95,baking a cake using a leaf blower.,improbable,5.9375,0.1728515625,0.283203125,improbable
+97,slicing bread using a trampoline.,improbable,7.25,0.16796875,0.2890625,improbable
+117,painting a wall with a paintbrush made of hair.,improbable,4.53125,0.162109375,0.2451171875,improbable
+122,running a marathon in roller skates.,improbable,6.53125,0.1572265625,0.265625,improbable
+125,spinning a pizza using a book.,improbable,7.84375,0.158203125,0.25,improbable
+127,painting a fence with a toothbrush.,improbable,6.46875,0.18359375,0.271484375,improbable
+137,painting a wall with a sponge.,improbable,5.4375,0.1591796875,0.2236328125,improbable
+140,baking a cake using a hairdryer.,improbable,6.625,0.177734375,0.26171875,improbable
+141,painting a wall with a toothbrush.,improbable,6.28125,0.1767578125,0.26171875,improbable
+151,painting a fence with chocolate syrup.,improbable,6.875,0.1630859375,0.283203125,improbable
+152,carving pumpkins in the middle of a desert.,improbable,4.375,0.16015625,0.2431640625,improbable
+154,cooking pasta in a washing machine.,improbable,6.40625,0.1767578125,0.232421875,improbable
+155,painting a fence with a toothbrush.,improbable,6.46875,0.18359375,0.271484375,improbable
+165,cycling up a mountain on a unicycle.,improbable,5.15625,0.1669921875,0.2412109375,improbable
+168,cooking spaghetti in a toaster oven.,improbable,6.5625,0.17578125,0.2470703125,improbable
+169,watering plants using a coffee mug.,improbable,6.53125,0.1689453125,0.2255859375,improbable
+173,painting a wall using a sponge.,improbable,5.9375,0.1591796875,0.220703125,improbable
+176,catching a fish with a rubber band.,improbable,4.84375,0.1689453125,0.2734375,improbable
+178,cooking soup using a flashlight.,improbable,9.5,0.1591796875,0.2578125,improbable
+187,building a chair out of paper.,improbable,5.9375,0.1669921875,0.24609375,improbable
+189,lighting a fire using ice cubes.,improbable,6.59375,0.158203125,0.28125,improbable
+190,painting a mural on a moving train.,improbable,5.4375,0.16015625,0.2578125,improbable
+195,popping popcorn using a hammer.,improbable,6.6875,0.1787109375,0.251953125,improbable
+0,painting a fence using spaghetti.,improbable,9.0,0.07763671875,0.26171875,improbable-impossible
+9,playing chess with a raccoon as the opponent.,improbable,6.0,0.12109375,0.21875,improbable-impossible
+17,painting a wall using spaghetti.,improbable,8.5625,0.099609375,0.271484375,improbable-impossible
+18,boiling water using a feather.,improbable,8.5,0.12060546875,0.29296875,improbable-impossible
+23,making a sandwich out of clouds.,improbable,6.78125,0.09716796875,0.23828125,improbable-impossible
+25,painting a fence with spaghetti.,improbable,8.8125,0.11083984375,0.279296875,improbable-impossible
+27,growing flowers in a shoe.,improbable,6.65625,0.10791015625,0.279296875,improbable-impossible
+33,building a bridge from spaghetti.,improbable,7.90625,0.115234375,0.271484375,improbable-impossible
+46,painting a picture using a shoe.,improbable,7.375,0.07080078125,0.255859375,improbable-impossible
+51,ironing a shirt using a snowstorm.,improbable,6.59375,0.11865234375,0.2255859375,improbable-impossible
+53,cleaning a window using a cactus.,improbable,7.875,0.0888671875,0.255859375,improbable-impossible
+55,finding a fish in a teacup.,improbable,6.40625,0.11083984375,0.23828125,improbable-impossible
+57,hanging paintings on a cloud.,improbable,8.1875,0.1220703125,0.220703125,improbable-impossible
+65,serving soup in a shoebox.,improbable,6.65625,0.1201171875,0.2255859375,improbable-impossible
+70,driving a car on a frozen lake of ice cream.,improbable,4.4375,0.1201171875,0.2578125,improbable-impossible
+72,flying a kite in a windless room.,improbable,5.375,0.10302734375,0.208984375,improbable-impossible
+76,painting a fence using spaghetti.,improbable,9.0,0.07763671875,0.26171875,improbable-impossible
+79,trimming a tree using a snowball.,improbable,6.6875,0.08642578125,0.244140625,improbable-impossible
+86,painting a picture using a sandwich.,improbable,7.34375,0.04638671875,0.2412109375,improbable-impossible
+89,washing their hair using a book.,improbable,7.5,0.1181640625,0.2451171875,improbable-impossible
+99,driving a car using a banana.,improbable,7.4375,0.0947265625,0.275390625,improbable-impossible
+100,riding a fish through a forest.,improbable,7.09375,0.123046875,0.224609375,improbable-impossible
+102,painting a picture using whispers.,improbable,9.4375,0.035400390625,0.154296875,improbable-impossible
+103,catching a breeze in a jar.,improbable,6.375,0.0908203125,0.228515625,improbable-impossible
+104,lighting a fire with a cloud.,improbable,6.4375,0.051025390625,0.2177734375,improbable-impossible
+109,whistling a tune while skateboarding uphill.,improbable,5.96875,0.1171875,0.2001953125,improbable-impossible
+111,evaporating soup with a refrigerator.,improbable,6.25,0.103515625,0.23828125,improbable-impossible
+114,driving a car made of paper.,improbable,6.15625,0.11572265625,0.265625,improbable-impossible
+115,installing a swimming pool in a thimble.,improbable,6.6875,0.06884765625,0.240234375,improbable-impossible
+116,cooking spaghetti with a toaster.,improbable,8.375,0.1181640625,0.263671875,improbable-impossible
+123,painting a masterpiece with ketchup.,improbable,8.6875,0.1220703125,0.265625,improbable-impossible
+124,flying a airplane using only paper.,improbable,7.28125,0.10498046875,0.259765625,improbable-impossible
+128,cleaning a car using a feather.,improbable,7.03125,0.0986328125,0.255859375,improbable-impossible
+131,painting a fence with spaghetti.,improbable,8.8125,0.11083984375,0.279296875,improbable-impossible
+134,driving a car with a banana.,improbable,6.6875,0.1083984375,0.2431640625,improbable-impossible
+138,washing a car using a feather.,improbable,7.1875,0.119140625,0.244140625,improbable-impossible
+149,playing chess using a banana.,improbable,7.875,0.1142578125,0.26171875,improbable-impossible
+156,cooking spaghetti in a basketball.,improbable,9.9375,0.058349609375,0.2734375,improbable-impossible
+157,sneezing with a mouthful of marbles.,improbable,4.9375,0.10888671875,0.2177734375,improbable-impossible
+158,tuning a piano with a hammer.,improbable,6.6875,0.10302734375,0.19140625,improbable-impossible
+161,painting a house with spaghetti.,improbable,8.75,0.1103515625,0.28125,improbable-impossible
+163,baking a cake in a toaster.,improbable,5.59375,0.1201171875,0.255859375,improbable-impossible
+170,driving a car using a banana.,improbable,7.4375,0.0947265625,0.275390625,improbable-impossible
+179,mowing the lawn with a roller coaster.,improbable,5.03125,0.10546875,0.2470703125,improbable-impossible
+181,baking a cake using only water.,improbable,6.09375,0.10400390625,0.2373046875,improbable-impossible
+184,knitting a sweater from spaghetti.,improbable,7.3125,0.10888671875,0.265625,improbable-impossible
+188,driving a car with a banana.,improbable,6.6875,0.1083984375,0.2431640625,improbable-impossible
+191,driving a car made of jelly.,improbable,6.65625,0.09423828125,0.263671875,improbable-impossible
+197,catching a cloud in a jar.,improbable,6.0625,0.10791015625,0.234375,improbable-impossible
+199,sharpening a pencil using a banana.,improbable,6.34375,0.10107421875,0.267578125,improbable-impossible
+208,driving a car on a river.,impossible,5.84375,0.1357421875,0.2236328125,improbable-impossible
+220,jumping over a mountain using a paper airplane.,impossible,5.875,0.13671875,0.2255859375,improbable-impossible
+222,building a bridge with spaghetti.,impossible,6.78125,0.1474609375,0.27734375,improbable-impossible
+223,sailing a boat on a frozen lake.,impossible,5.0625,0.1513671875,0.1865234375,improbable-impossible
+236,lifting a car with a spoon.,impossible,6.34375,0.154296875,0.27734375,improbable-impossible
+237,painting a wall with a toothpick.,impossible,6.78125,0.16796875,0.259765625,improbable-impossible
+238,cooking dinner using a book.,impossible,7.6875,0.1484375,0.2080078125,improbable-impossible
+243,mowing the lawn with a pencil.,impossible,5.28125,0.1357421875,0.236328125,improbable-impossible
+248,building a sandcastle inside a teacup.,impossible,5.84375,0.1484375,0.28125,improbable-impossible
+255,baking a cake in a rainstorm.,impossible,5.9375,0.1435546875,0.2197265625,improbable-impossible
+256,flying a kite underwater.,impossible,8.375,0.1474609375,0.236328125,improbable-impossible
+267,washing clothes using a book.,impossible,7.875,0.1435546875,0.24609375,improbable-impossible
+268,flying a kite with a pillow.,impossible,6.875,0.15625,0.263671875,improbable-impossible
+270,washing a car with whipped cream.,impossible,7.53125,0.1611328125,0.27734375,improbable-impossible
+273,cooking pasta with ice cubes.,impossible,7.34375,0.173828125,0.2353515625,improbable-impossible
+274,growing a tree from a paperclip.,impossible,5.53125,0.1337890625,0.26171875,improbable-impossible
+283,brewing coffee with ice.,impossible,6.1875,0.146484375,0.1962890625,improbable-impossible
+286,washing a car using shadows.,impossible,10.375,0.142578125,0.1962890625,improbable-impossible
+296,baking bread using a smartphone.,impossible,7.8125,0.154296875,0.23046875,improbable-impossible
+298,catching stars with a fishing net.,impossible,5.65625,0.1533203125,0.2314453125,improbable-impossible
+323,watering a plant with a pencil.,impossible,5.9375,0.154296875,0.236328125,improbable-impossible
+324,flying a kite in a snowstorm.,impossible,5.09375,0.138671875,0.2177734375,improbable-impossible
+327,riding a bicycle underwater.,impossible,8.3125,0.162109375,0.2412109375,improbable-impossible
+328,catching rainbows in a jar.,impossible,7.625,0.1455078125,0.234375,improbable-impossible
+334,catching stars using an umbrella.,impossible,7.875,0.140625,0.25390625,improbable-impossible
+335,stirring soup using a rubber band.,impossible,6.34375,0.1591796875,0.26171875,improbable-impossible
+336,washing a car with a feather.,impossible,6.5,0.142578125,0.2412109375,improbable-impossible
+337,cutting hair using a brick.,impossible,8.25,0.146484375,0.2490234375,improbable-impossible
+338,baking a cake using ice cubes.,impossible,6.53125,0.1435546875,0.251953125,improbable-impossible
+341,driving a car using a bicycle chain.,impossible,5.78125,0.1416015625,0.2734375,improbable-impossible
+342,reading a book using a mirror.,impossible,6.53125,0.13671875,0.181640625,improbable-impossible
+343,painting a wall using invisible ink.,impossible,7.53125,0.1484375,0.2578125,improbable-impossible
+344,baking a cake using a blender.,impossible,5.875,0.1484375,0.18359375,improbable-impossible
+355,eating spaghetti with a hammer.,impossible,7.90625,0.1455078125,0.259765625,improbable-impossible
+358,washing clothes in gasoline.,impossible,8.5625,0.1611328125,0.27734375,improbable-impossible
+359,flying a kite with a brick.,impossible,6.3125,0.15234375,0.267578125,improbable-impossible
+360,catching a cloud using a net.,impossible,6.78125,0.1611328125,0.2470703125,improbable-impossible
+361,filling a bathtub with sand.,impossible,6.90625,0.1337890625,0.251953125,improbable-impossible
+363,heating ice using a microwave.,impossible,8.4375,0.1474609375,0.2470703125,improbable-impossible
+370,baking a cake in a swimming pool.,impossible,5.25,0.1689453125,0.251953125,improbable-impossible
+373,washing a car with a feather.,impossible,6.5,0.142578125,0.2412109375,improbable-impossible
+374,growing a garden in a teacup.,impossible,5.34375,0.1455078125,0.2412109375,improbable-impossible
+376,baking cookies inside a snowstorm.,impossible,7.03125,0.1484375,0.236328125,improbable-impossible
+377,painting a rainbow with sand.,impossible,7.78125,0.134765625,0.2578125,improbable-impossible
+384,growing flowers in a snowstorm.,impossible,6.15625,0.154296875,0.236328125,improbable-impossible
+385,slicing bread using a hammer.,impossible,5.875,0.1669921875,0.236328125,improbable-impossible
+387,cooking pasta using cold water.,impossible,7.53125,0.13671875,0.2060546875,improbable-impossible
+388,cleaning a window with mud.,impossible,8.0,0.13671875,0.232421875,improbable-impossible
+399,catching fish in a desert.,impossible,6.1875,0.1396484375,0.2177734375,improbable-impossible
+203,pouring honey into a black hole.,impossible,6.4375,0.10009765625,0.26171875,impossible
+205,flying a kite using a refrigerator.,impossible,7.96875,0.1201171875,0.28515625,impossible
+209,catching a cloud with a net.,impossible,5.84375,0.12158203125,0.236328125,impossible
+211,jumping over a mountain made of candy.,impossible,6.0,0.10302734375,0.2490234375,impossible
+213,dancing on a lake of ice cream.,impossible,5.875,0.10302734375,0.2333984375,impossible
+217,cooking a meal with ice.,impossible,7.78125,0.1162109375,0.26953125,impossible
+227,whispering a song into a cloud.,impossible,5.71875,0.080078125,0.2216796875,impossible
+230,conducting electricity using a sponge.,impossible,7.375,0.11865234375,0.2490234375,impossible
+232,writing a book using spaghetti.,impossible,8.875,0.08349609375,0.251953125,impossible
+235,pulling a cart using a feather.,impossible,6.3125,0.09716796875,0.24609375,impossible
+242,catching the wind in a bottle.,impossible,5.28125,0.083984375,0.220703125,impossible
+244,reading a book made of water.,impossible,6.15625,0.068359375,0.2265625,impossible
+246,painting a picture with a rubber band.,impossible,5.9375,0.119140625,0.2578125,impossible
+250,flying a kite in a vacuum.,impossible,5.65625,0.12158203125,0.2294921875,impossible
+251,catching a cloud in a bottle.,impossible,5.90625,0.1181640625,0.240234375,impossible
+253,fishing for stars in a lake.,impossible,7.0,0.1044921875,0.2197265625,impossible
+257,painting a mural on a cloud.,impossible,6.84375,0.1142578125,0.2470703125,impossible
+258,catching a star in a jar.,impossible,5.3125,0.1162109375,0.2314453125,impossible
+260,making a sandwich out of rainbows.,impossible,7.09375,0.10693359375,0.240234375,impossible
+262,jumping over a mountain using a feather.,impossible,6.53125,0.1103515625,0.25390625,impossible
+263,writing a novel with a jar of peanut butter.,impossible,5.3125,0.08984375,0.232421875,impossible
+266,stirring soup with a telephone.,impossible,6.59375,0.12109375,0.248046875,impossible
+271,painting a fence with spaghetti.,impossible,8.8125,0.11083984375,0.279296875,impossible
+280,building a house using spaghetti.,impossible,7.90625,0.11279296875,0.28125,impossible
+281,driving a car with a feather.,impossible,6.8125,0.10546875,0.2578125,impossible
+282,painting a canvas using water.,impossible,7.3125,0.0791015625,0.2265625,impossible
+287,baking bread using ice.,impossible,9.1875,0.0595703125,0.2578125,impossible
+293,flying a kite made of shadows.,impossible,7.46875,0.11767578125,0.23828125,impossible
+295,painting the sky with a spoon.,impossible,6.1875,0.1123046875,0.2373046875,impossible
+299,dancing on a mountain of spaghetti.,impossible,6.6875,0.09130859375,0.23046875,impossible
+300,collecting rainwater using a feather.,impossible,9.25,0.0849609375,0.265625,impossible
+301,baking a cake using a rock.,impossible,6.84375,0.07470703125,0.27734375,impossible
+303,painting a portrait using a string.,impossible,7.5625,0.08203125,0.2490234375,impossible
+304,lighting a fire using ice.,impossible,7.25,0.119140625,0.26953125,impossible
+306,driving a car made of shadows.,impossible,7.34375,0.078125,0.21875,impossible
+309,flying a kite made of music.,impossible,6.90625,0.0732421875,0.2197265625,impossible
+316,painting a picture with a sandwich.,impossible,6.6875,0.0830078125,0.228515625,impossible
+318,baking a cake with a rock.,impossible,6.34375,0.1201171875,0.26953125,impossible
+319,teaching math to a fish.,impossible,7.53125,0.0908203125,0.220703125,impossible
+320,wrapping a sandwich in a rainbow.,impossible,7.84375,0.09521484375,0.2314453125,impossible
+322,lifting a mountain with a feather.,impossible,6.59375,0.0869140625,0.234375,impossible
+330,building a castle using shadows.,impossible,8.5625,0.115234375,0.2275390625,impossible
+332,painting a wall using water.,impossible,7.28125,0.0732421875,0.2294921875,impossible
+348,playing guitar with a rock.,impossible,7.4375,0.0322265625,0.21875,impossible
+349,flying a kite using water.,impossible,7.71875,0.095703125,0.2578125,impossible
+350,catching a cloud in a jar.,impossible,6.0625,0.10791015625,0.234375,impossible
+351,writing a novel with spaghetti.,impossible,8.75,0.0830078125,0.234375,impossible
+353,cooking a meal with sunlight.,impossible,8.0,0.1220703125,0.2451171875,impossible
+354,driving a car through a book.,impossible,6.53125,0.09375,0.251953125,impossible
+356,painting a wall with water.,impossible,6.59375,0.10009765625,0.2333984375,impossible
+357,driving a car made of paper.,impossible,6.15625,0.11572265625,0.265625,impossible
+365,- baking a cake with ice.,impossible,8.5,0.04345703125,0.2314453125,impossible
+366,- painting a picture with water.,impossible,6.21875,0.08544921875,0.2294921875,impossible
+367,- driving a car using their voice.,impossible,6.625,0.10205078125,0.21875,impossible
+368,- heating a room with ice cubes.,impossible,7.09375,0.12109375,0.25390625,impossible
+372,writing a novel on a piece of cheese.,impossible,5.6875,0.0849609375,0.2451171875,impossible
+375,balancing a mountain on a pencil.,impossible,6.96875,0.12158203125,0.283203125,impossible
+378,catching a cloud in a net.,impossible,6.34375,0.10986328125,0.228515625,impossible
+386,growing flowers in a desert using ice.,impossible,6.90625,0.10888671875,0.263671875,impossible
+389,flying a kite underwater using a fish.,impossible,6.71875,0.0966796875,0.259765625,impossible
+390,painting a masterpiece with a raindrop.,impossible,6.15625,0.0693359375,0.2265625,impossible
+391,baking a cake using moonlight.,impossible,8.5,0.0849609375,0.22265625,impossible
+392,catching a cloud in a jar.,impossible,6.0625,0.10791015625,0.234375,impossible
+393,jumping over a rainbow without a ladder.,impossible,6.125,0.1103515625,0.251953125,impossible
+398,writing a novel with a balloon.,impossible,8.4375,0.1064453125,0.2373046875,impossible
+207,painting a wall using a shadow.,impossible,7.09375,0.06298828125,0.1962890625,impossible-inconceivable
+212,painting a portrait with a cloud.,impossible,7.09375,0.0966796875,0.19921875,impossible-inconceivable
+214,whispering secrets to a shadow.,impossible,6.59375,0.07373046875,0.1904296875,impossible-inconceivable
+216,writing a book with thin air.,impossible,7.0625,0.09521484375,0.158203125,impossible-inconceivable
+218,painting a wall with shadows.,impossible,7.34375,0.1259765625,0.1875,impossible-inconceivable
+221,fishing for stars in a teacup.,impossible,6.875,0.0810546875,0.1865234375,impossible-inconceivable
+223,sailing a boat on a frozen lake.,impossible,5.0625,0.1513671875,0.1865234375,impossible-inconceivable
+224,painting the sky with silence.,impossible,7.5,0.07861328125,0.1806640625,impossible-inconceivable
+225,molding a sculpture with shadows.,impossible,8.875,0.1259765625,0.2001953125,impossible-inconceivable
+226,slicing a steak with light.,impossible,7.46875,-0.002838134765625,0.1328125,impossible-inconceivable
+228,painting a portrait with silence.,impossible,8.5,0.080078125,0.173828125,impossible-inconceivable
+229,catching a raindrop with a dream.,impossible,5.625,0.0927734375,0.1962890625,impossible-inconceivable
+239,sailing a boat on a table.,impossible,6.375,0.123046875,0.158203125,impossible-inconceivable
+240,painting a picture with shadows.,impossible,6.96875,0.072265625,0.1728515625,impossible-inconceivable
+241,building a house from whispers.,impossible,8.5625,0.056396484375,0.173828125,impossible-inconceivable
+245,baking a cake using a traffic light.,impossible,6.65625,0.1103515625,0.2021484375,impossible-inconceivable
+254,writing a novel with a single breath.,impossible,6.0,0.091796875,0.1796875,impossible-inconceivable
+259,sailing a boat on a pond of light.,impossible,5.65625,0.05078125,0.1962890625,impossible-inconceivable
+264,catching a cloud in a glass jar.,impossible,5.65625,0.11572265625,0.1904296875,impossible-inconceivable
+269,baking a cake on a mountain.,impossible,6.03125,0.1162109375,0.181640625,impossible-inconceivable
+275,stacking clouds in a teacup.,impossible,6.84375,0.1123046875,0.1884765625,impossible-inconceivable
+276,whispering secrets to a mountain.,impossible,6.84375,0.033203125,0.1943359375,impossible-inconceivable
+278,weaving dreams into a sandwich.,impossible,7.5,0.076171875,0.1953125,impossible-inconceivable
+283,brewing coffee with ice.,impossible,6.1875,0.146484375,0.1962890625,impossible-inconceivable
+286,washing a car using shadows.,impossible,10.375,0.142578125,0.1962890625,impossible-inconceivable
+288,building a house with whispers.,impossible,8.5,0.041748046875,0.1630859375,impossible-inconceivable
+289,painting a mural using silence.,impossible,9.5625,0.0830078125,0.19921875,impossible-inconceivable
+290,reading a book by the sound of silence.,impossible,5.03125,0.1015625,0.169921875,impossible-inconceivable
+291,painting the sky with invisible colors.,impossible,6.5625,0.08154296875,0.2041015625,impossible-inconceivable
+302,writing a letter using a cloud.,impossible,6.9375,0.0673828125,0.173828125,impossible-inconceivable
+305,brushing teeth with a cloud.,impossible,6.625,0.06689453125,0.1953125,impossible-inconceivable
+307,painting a portrait with whispers.,impossible,9.375,0.057373046875,0.1640625,impossible-inconceivable
+308,slicing bread with a dream.,impossible,6.5625,0.061767578125,0.166015625,impossible-inconceivable
+310,painting a mural with whispers.,impossible,9.875,0.057373046875,0.1650390625,impossible-inconceivable
+311,building a bridge from shadows.,impossible,8.3125,0.07666015625,0.1845703125,impossible-inconceivable
+313,baking cookies with starlight.,impossible,10.375,0.07421875,0.181640625,impossible-inconceivable
+314,growing a garden from laughter.,impossible,8.25,0.08447265625,0.1513671875,impossible-inconceivable
+315,planting a tree in a computer.,impossible,6.59375,0.0751953125,0.166015625,impossible-inconceivable
+317,cleaning windows using a cloud.,impossible,8.0,0.031982421875,0.1708984375,impossible-inconceivable
+325,painting a portrait with a thunderstorm.,impossible,8.4375,0.1044921875,0.185546875,impossible-inconceivable
+326,baking cookies on a tree branch.,impossible,6.25,0.12255859375,0.15234375,impossible-inconceivable
+329,driving a car through a dream.,impossible,6.1875,0.08203125,0.1904296875,impossible-inconceivable
+342,reading a book using a mirror.,impossible,6.53125,0.13671875,0.181640625,impossible-inconceivable
+344,baking a cake using a blender.,impossible,5.875,0.1484375,0.18359375,impossible-inconceivable
+346,painting a wall with sunshine.,impossible,7.75,0.0986328125,0.1943359375,impossible-inconceivable
+364,listening to silence with a speaker.,impossible,6.46875,0.08447265625,0.17578125,impossible-inconceivable
+371,catching a rainbow with a fishing net.,impossible,5.1875,0.1259765625,0.140625,impossible-inconceivable
+383,writing a book using only whispers.,impossible,7.8125,0.06201171875,0.185546875,impossible-inconceivable
+394,fishing for stars in the ocean.,impossible,6.6875,0.091796875,0.2021484375,impossible-inconceivable
+395,painting a picture with a cloud.,impossible,6.53125,0.0908203125,0.201171875,impossible-inconceivable
+402,whispering secrets to a cactus.,inconceivable,6.875,0.0732421875,0.2060546875,impossible-inconceivable
+403,navigating traffic on a rainbow.,inconceivable,7.75,0.0274658203125,0.205078125,impossible-inconceivable
+404,freezing time with a blanket.,inconceivable,7.53125,0.111328125,0.21484375,impossible-inconceivable
+405,juggling dreams with a sandwich.,inconceivable,7.5625,0.09228515625,0.197265625,impossible-inconceivable
+408,riding a bicycle with a melody.,inconceivable,6.8125,0.0830078125,0.2021484375,impossible-inconceivable
+419,fishing for stars in a library.,inconceivable,7.8125,0.08447265625,0.2001953125,impossible-inconceivable
+423,playing chess with a hurricane.,inconceivable,7.34375,0.07421875,0.2236328125,impossible-inconceivable
+425,whispering a secret into a thunderstorm.,inconceivable,6.40625,0.0634765625,0.2060546875,impossible-inconceivable
+428,flying a kite made of laughter.,inconceivable,7.90625,0.06689453125,0.208984375,impossible-inconceivable
+429,cooking spaghetti in a jar of sunshine.,inconceivable,7.1875,0.10205078125,0.216796875,impossible-inconceivable
+432,weaving a sweater from shadows.,inconceivable,7.9375,0.0830078125,0.2001953125,impossible-inconceivable
+438,repairing a car using a lullaby.,inconceivable,6.53125,0.04833984375,0.197265625,impossible-inconceivable
+442,driving a car made of laughter.,inconceivable,7.6875,0.06103515625,0.2041015625,impossible-inconceivable
+443,singing a song to a mountain.,inconceivable,6.46875,0.078125,0.208984375,impossible-inconceivable
+453,whispering secrets to a cloud.,inconceivable,6.59375,0.0390625,0.2001953125,impossible-inconceivable
+456,weaving a blanket out of dreams.,inconceivable,5.15625,0.076171875,0.2001953125,impossible-inconceivable
+461,catching a breeze with a cupcake.,inconceivable,6.625,0.09130859375,0.203125,impossible-inconceivable
+466,painting a fence with imagination.,inconceivable,8.25,0.142578125,0.197265625,impossible-inconceivable
+472,flying a kite made of laughter.,inconceivable,7.90625,0.06689453125,0.208984375,impossible-inconceivable
+477,catching a shadow with a spoon.,inconceivable,6.3125,0.12451171875,0.2470703125,impossible-inconceivable
+485,stirring soup using sunlight.,inconceivable,9.3125,0.1376953125,0.248046875,impossible-inconceivable
+490,dancing a jig using a sandwich.,inconceivable,8.875,0.051513671875,0.228515625,impossible-inconceivable
+508,painting a dream on a broken clock.,inconceivable,6.5,0.06640625,0.21484375,impossible-inconceivable
+510,tapping a rhythm using a whisper.,inconceivable,7.5,0.08251953125,0.205078125,impossible-inconceivable
+521,whispering secrets to a river.,inconceivable,6.6875,0.06689453125,0.1982421875,impossible-inconceivable
+522,growing flowers from a shadow.,inconceivable,8.125,0.072265625,0.208984375,impossible-inconceivable
+524,counting stars with a spoon.,inconceivable,6.9375,0.12451171875,0.212890625,impossible-inconceivable
+529,traveling through time on a cloud.,inconceivable,6.21875,0.0986328125,0.2119140625,impossible-inconceivable
+530,dancing with a cloud of chocolate.,inconceivable,7.0,0.061767578125,0.22265625,impossible-inconceivable
+535,tuning a piano with a whisper.,inconceivable,7.96875,0.1171875,0.224609375,impossible-inconceivable
+537,baking a cake from sunlight.,inconceivable,8.3125,0.107421875,0.259765625,impossible-inconceivable
+540,swimming through a forest of dreams.,inconceivable,6.53125,0.0830078125,0.2060546875,impossible-inconceivable
+542,catching a butterfly made of shadows.,inconceivable,7.0,0.080078125,0.212890625,impossible-inconceivable
+543,writing a letter to a passing cloud.,inconceivable,6.53125,0.07373046875,0.1982421875,impossible-inconceivable
+553,building a ladder out of wishes.,inconceivable,7.375,0.06591796875,0.203125,impossible-inconceivable
+554,flying a kite with shadows.,inconceivable,7.8125,0.1513671875,0.21484375,impossible-inconceivable
+555,painting a melody with a cookie.,inconceivable,9.125,0.08349609375,0.2265625,impossible-inconceivable
+556,boiling a dream in a suitcase.,inconceivable,7.96875,0.09912109375,0.2021484375,impossible-inconceivable
+557,catching a star with a blanket.,inconceivable,6.15625,0.11669921875,0.2177734375,impossible-inconceivable
+558,slicing a cloud with a pencil.,inconceivable,5.8125,0.11376953125,0.21484375,impossible-inconceivable
+562,tuning a guitar using shadows.,inconceivable,10.6875,0.10107421875,0.205078125,impossible-inconceivable
+563,driving a car on a river of wishes.,inconceivable,6.40625,0.06591796875,0.205078125,impossible-inconceivable
+567,driving a car using a melody.,inconceivable,7.90625,0.10009765625,0.236328125,impossible-inconceivable
+571,baking a cake using the moon.,inconceivable,6.75,0.0849609375,0.240234375,impossible-inconceivable
+573,flying a kite using sunshine.,inconceivable,8.6875,0.12353515625,0.232421875,impossible-inconceivable
+580,jumping over clouds made of laughter.,inconceivable,7.71875,0.06787109375,0.197265625,impossible-inconceivable
+581,driving a spaceship inside a dream.,inconceivable,7.40625,0.10302734375,0.201171875,impossible-inconceivable
+591,baking a cake inside a shadow.,inconceivable,7.53125,0.11474609375,0.2041015625,impossible-inconceivable
+592,riding a bicycle made of silence.,inconceivable,7.1875,0.06640625,0.2001953125,impossible-inconceivable
+596,catching butterflies inside a pocket.,inconceivable,7.78125,0.07958984375,0.212890625,impossible-inconceivable
+407,baking bread out of whispers.,inconceivable,9.9375,0.058837890625,0.15625,inconceivable
+409,planting flowers using a secret.,inconceivable,8.6875,0.0284423828125,0.1201171875,inconceivable
+413,cooking a storm using a feeling.,inconceivable,9.375,0.009765625,0.11572265625,inconceivable
+417,cooking soup using a daydream.,inconceivable,8.75,0.047607421875,0.1337890625,inconceivable
+420,painting a picture using whispers.,inconceivable,9.4375,0.035400390625,0.154296875,inconceivable
+424,washing a car with a memory.,inconceivable,7.3125,0.029541015625,0.1298828125,inconceivable
+436,flying a kite using confusion.,inconceivable,9.5625,0.0308837890625,0.1318359375,inconceivable
+437,pouring coffee using a rainbow.,inconceivable,8.4375,0.0830078125,0.1435546875,inconceivable
+445,spinning a web using nostalgia.,inconceivable,9.875,0.0654296875,0.1484375,inconceivable
+447,baking a cake using time.,inconceivable,7.78125,0.029052734375,0.0849609375,inconceivable
+454,finding happiness inside a book.,inconceivable,7.6875,0.09619140625,0.1572265625,inconceivable
+458,growing a garden with laughter.,inconceivable,8.0,0.107421875,0.1533203125,inconceivable
+467,catching a cloud using excitement.,inconceivable,10.375,0.064453125,0.1357421875,inconceivable
+468,driving a car with a dream.,inconceivable,6.5625,0.05908203125,0.1376953125,inconceivable
+478,reading a book using silence.,inconceivable,8.125,0.1083984375,0.158203125,inconceivable
+482,hiking a mountain with curiosity.,inconceivable,8.875,0.1083984375,0.154296875,inconceivable
+484,dancing in the rain with time.,inconceivable,6.40625,0.0311279296875,0.11962890625,inconceivable
+488,painting a house with dreams.,inconceivable,7.875,0.064453125,0.1484375,inconceivable
+489,sailing a ship on whispers.,inconceivable,10.6875,0.048095703125,0.158203125,inconceivable
+491,wrapping a gift using a feeling.,inconceivable,8.1875,0.026123046875,0.107421875,inconceivable
+493,catching a fish using a friendship.,inconceivable,8.0625,-0.00396728515625,0.1201171875,inconceivable
+494,painting a fence using a melody.,inconceivable,8.5625,0.01422119140625,0.1357421875,inconceivable
+497,catching butterflies using time.,inconceivable,9.8125,0.0169677734375,0.0732421875,inconceivable
+498,squeezing oranges into a memory.,inconceivable,6.8125,0.05419921875,0.154296875,inconceivable
+500,tasting a rainbow while balancing a whisper.,inconceivable,9.0,0.004730224609375,0.1513671875,inconceivable
+501,painting a sunset with a question.,inconceivable,8.3125,0.0458984375,0.1171875,inconceivable
+502,boiling an ocean using a memory.,inconceivable,9.5625,-0.00262451171875,0.14453125,inconceivable
+511,flying a kite using a memory.,inconceivable,7.78125,-0.004638671875,0.11376953125,inconceivable
+512,painting a wall using a giggle.,inconceivable,8.6875,0.032470703125,0.12353515625,inconceivable
+513,boiling water using a frown.,inconceivable,9.375,0.0947265625,0.1416015625,inconceivable
+514,wrapping a gift using a dream.,inconceivable,7.375,0.03662109375,0.140625,inconceivable
+515,dancing with shadows using dreams.,inconceivable,9.375,0.0498046875,0.150390625,inconceivable
+517,juggling time with a pencil.,inconceivable,7.34375,0.10791015625,0.1494140625,inconceivable
+531,painting a fence using whispers.,inconceivable,10.375,0.0203857421875,0.1396484375,inconceivable
+534,catching a fish with a dream.,inconceivable,5.78125,0.095703125,0.1533203125,inconceivable
+536,sailing a boat on a memory.,inconceivable,7.5,0.0247802734375,0.1328125,inconceivable
+539,reading a book with a sigh.,inconceivable,6.25,0.109375,0.125,inconceivable
+548,sailing a boat on memories.,inconceivable,9.125,0.068359375,0.1396484375,inconceivable
+550,turning a page using laughter.,inconceivable,10.1875,0.0732421875,0.14453125,inconceivable
+564,growing a garden from echoes.,inconceivable,10.5625,0.0289306640625,0.10986328125,inconceivable
+568,watering plants using happiness.,inconceivable,9.625,0.07568359375,0.1455078125,inconceivable
+569,catching fish using a dream.,inconceivable,7.5,0.043212890625,0.1298828125,inconceivable
+572,tuning a guitar using a thought.,inconceivable,9.1875,0.005218505859375,0.142578125,inconceivable
+575,painting a fence using a whisper.,inconceivable,7.96875,0.0010223388671875,0.1533203125,inconceivable
+579,folding a map using a giggle.,inconceivable,9.5625,0.055419921875,0.1474609375,inconceivable
+583,juggling fruits while riding a thought.,inconceivable,8.4375,0.005523681640625,0.1201171875,inconceivable
+584,baking cookies from a melody.,inconceivable,9.4375,0.043701171875,0.1376953125,inconceivable
+590,jumping over a mountain using a thought.,inconceivable,7.375,0.007354736328125,0.15625,inconceivable
+595,dancing with a sandwich using a dream.,inconceivable,8.375,0.01416015625,0.11376953125,inconceivable

@@ -1,0 +1,31 @@
+,prompt,base_class,surprisal,improbable_impossible,impossible_inconceivable,class
+128,painting a mural using wind.,impossible,9.125,0.0283203125,0.21484375,impossible
+151,filling a bathtub with sunlight.,impossible,7.375,0.080078125,0.2333984375,impossible
+110,painting a wall with a beam of light.,impossible,5.25,0.10205078125,0.212890625,impossible
+158,navigating a river on a rainbow.,impossible,6.1875,0.059814453125,0.2138671875,impossible
+160,knitting a sweater from fog.,impossible,8.125,0.048828125,0.212890625,impossible
+105,boiling water using an ice cube.,impossible,6.375,0.103515625,0.248046875,impossible
+190,playing a guitar using raindrops.,impossible,7.28125,0.10302734375,0.2392578125,impossible
+194,measuring weight using a smell.,impossible,9.5,0.056640625,0.21875,impossible
+157,slicing a loaf of bread with water.,impossible,4.9375,0.095703125,0.2392578125,impossible
+161,carving a sculpture from a shadow.,impossible,6.40625,0.08740234375,0.2421875,impossible
+258,boiling water with a question.,inconceivable,7.53125,0.07568359375,0.11865234375,inconceivable
+246,mowing a lawn with sleep.,inconceivable,6.875,0.060546875,0.12158203125,inconceivable
+272,melting ice using history.,inconceivable,10.5625,0.042724609375,0.09228515625,inconceivable
+223,unrolling carpet on a thought.,inconceivable,8.875,0.037841796875,0.087890625,inconceivable
+287,chopping wood using an idea.,inconceivable,7.21875,0.07373046875,0.1162109375,inconceivable
+263,brewing coffee with a hum.,inconceivable,6.625,0.033447265625,0.126953125,inconceivable
+230,driving a car using a memory.,inconceivable,7.21875,0.003875732421875,0.12353515625,inconceivable
+253,flying a plane using sleep.,inconceivable,9.0,0.046142578125,0.11865234375,inconceivable
+243,folding a map using trust.,inconceivable,9.625,-0.000514984130859375,0.07373046875,inconceivable
+211,building a house on a question.,inconceivable,6.46875,0.049560546875,0.060791015625,inconceivable
+166,floating on clouds made of melody.,impossible,7.59375,0.053466796875,0.1806640625,impossible-inconceivable
+169,writing equations on a breeze.,impossible,9.3125,0.06298828125,0.11669921875,impossible-inconceivable
+174,stretching a sunset to cover the night.,impossible,6.28125,0.0615234375,0.181640625,impossible-inconceivable
+163,bridging two islands with emotion.,impossible,7.5625,0.072265625,0.1572265625,impossible-inconceivable
+231,boiling water with a breeze.,inconceivable,8.375,0.08740234375,0.2177734375,impossible-inconceivable
+227,building a house out of sunlight.,inconceivable,6.28125,0.08154296875,0.234375,impossible-inconceivable
+156,growing a tree from a whisper.,impossible,6.65625,0.0517578125,0.1796875,impossible-inconceivable
+297,harvesting apples using a rainbow.,inconceivable,7.75,0.04052734375,0.2138671875,impossible-inconceivable
+247,tuning a piano using empathy.,inconceivable,10.1875,0.11572265625,0.189453125,impossible-inconceivable
+217,tying shoelaces with sunlight.,inconceivable,6.375,0.1005859375,0.236328125,impossible-inconceivable

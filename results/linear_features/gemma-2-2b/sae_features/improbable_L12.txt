@@ -1,0 +1,9 @@
+improbable - Layer 12
+7/16384 are significant
+P-val: 9.628261887097349e-06 Description: technical terms and concepts related to programming or data structures
+P-val: 4.845093095446856e-06 Description: distinct pieces of punctuation and sentence endings
+P-val: 1.0701932372650017e-07 Description:  sentences or phrases with notable numerical or statistical information
+P-val: 1.1568503546453216e-06 Description: numerical data and references related to statistics and measurements
+P-val: 3.527460930696387e-11 Description: the presence of the article "a" in the context of significant statements
+P-val: 1.4307715462549329e-05 Description: references to crafting materials and methods
+P-val: 1.703645759917933e-06 Description: information related to immune system interactions and their implications in various medical contexts

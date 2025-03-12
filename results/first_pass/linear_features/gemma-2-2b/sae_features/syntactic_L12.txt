@@ -1,0 +1,41 @@
+syntactic - Layer 12
+39/16384 are significant
+P-val: 9.787521252150102e-05 Description: string literals and their associated values or properties in code
+P-val: 2.1837459044521123e-08 Description: terms and phrases related to data analysis, measurements, and specific methodologies in scientific or technical contexts
+P-val: 9.180223460915816e-05 Description: specific measurements and attributes related to physical objects or structures
+P-val: 0.00014623915190606628 Description: segments related to mathematical formulas or expressions
+P-val: 6.591694449141665e-05 Description: conjunctions and punctuation in lengthy complex sentences
+P-val: 0.0003266553907075688 Description: medical terminologies and gene-related expressions
+P-val: 4.131694388416576e-06 Description: specific legal terms and concepts related to policy and regulations
+P-val: 8.826296036020977e-09 Description: structured information related to medical standards and practices
+P-val: 1.196883027375299e-09 Description:  punctuation and common sentence connectors
+P-val: 1.3464621782627036e-05 Description:  references to data management processes and tools
+P-val: 1.747177624487684e-10 Description:  mentions of code elements and programming concepts
+P-val: 4.110945889507255e-06 Description: technical jargon related to scientific studies and methodologies
+P-val: 1.347906038693546e-05 Description: mathematical symbols and terms related to calculations
+P-val: 1.781541350068463e-08 Description: data points and numerical values related to statistical or computational outputs
+P-val: 2.5099469608538945e-08 Description: terms related to software licensing and legal disclaimers
+P-val: 1.9221059448783317e-08 Description: terms related to legal and medical contexts, particularly focusing on patient demographics and conditions
+P-val: 1.7789145210597487e-13 Description: numerical data and references related to statistics and measurements
+P-val: 8.183492060013366e-13 Description: technical jargon and code-related terminology
+P-val: 2.7943572738294682e-06 Description:  expressions related to mathematical notation and symbols
+P-val: 2.974663326151682e-05 Description: structural elements and functions within a system or framework
+P-val: 9.804667726686511e-05 Description:  symbols and operators used in programming or mathematical expressions
+P-val: 8.66108116572057e-07 Description:  technical terms and numeric values related to scientific or engineering contexts
+P-val: 5.850248595429452e-07 Description: technical or scientific terms related to various fields
+P-val: 4.0800682293074336e-05 Description:  references to specific entities or measurements in scientific or technical contexts
+P-val: 1.7758418550270335e-13 Description:  legal terms or phrases
+P-val: 3.563038639130248e-05 Description: medical and scientific terms related to genetics and physiological processes
+P-val: 0.0003233745612882382 Description: terms related to grammatical structure and verb forms in language
+P-val: 4.145573875993201e-06 Description: references to specific historical and geographical entities
+P-val: 1.7460820039741572e-10 Description:  references to examples or instances in a discussion
+P-val: 0.0003258330403069556 Description: references to medical conditions and their treatments
+P-val: 5.59052717927455e-09 Description: instances of structured information or descriptions of entities and their characteristics
+P-val: 1.2076076320015123e-08 Description: financial terms and industry-related jargon
+P-val: 0.0003266553907075688 Description: various forms of punctuation and special characters
+P-val: 5.530837960865798e-11 Description: technical terms and symbols related to complex systems or processes
+P-val: 0.0004893532626585275 Description: text segments discussing actions related to mental and physical health
+P-val: 1.8934412557255595e-06 Description: references to proteins and their interactions
+P-val: 0.00021792118340564174 Description: references to legal statutes and frameworks related to discrimination
+P-val: 0.00014538026616415104 Description: special characters and punctuation in the text
+P-val: 6.631686251874896e-05 Description: questions and statements regarding intentions, plans, or purposes

@@ -1,0 +1,28 @@
+inconceivable - Layer 12
+26/16384 are significant
+P-val: 1.7508289055782278e-08 Description: sections or headings related to procedure and historical background in documents
+P-val: 1.5954079967244982e-08 Description: terms and phrases related to data analysis, measurements, and specific methodologies in scientific or technical contexts
+P-val: 6.01289103193523e-05 Description: references to legal issues and procedural terminology
+P-val: 1.4591443162325375e-07 Description: specific measurements and attributes related to physical objects or structures
+P-val: 4.522365788959851e-05 Description: terms related to evidence and its effects in a scientific context
+P-val: 3.163642962585041e-05 Description: structured information related to medical standards and practices
+P-val: 4.933610114255243e-11 Description: phrases related to fairness and responsibility in contexts involving work or social interactions
+P-val: 1.779022654572449e-08 Description:  punctuation and common sentence connectors
+P-val: 8.223843029493428e-09 Description:  mentions of code elements and programming concepts
+P-val: 5.998824248795161e-07 Description: terms related to legal and medical contexts, particularly focusing on patient demographics and conditions
+P-val: 2.1157322258450823e-13 Description: numerical data and references related to statistics and measurements
+P-val: 4.4224575106059504e-05 Description:  punctuation and sentence structures
+P-val: 1.780911384160961e-08 Description: technical jargon and code-related terminology
+P-val: 4.14210046211633e-06 Description: terms related to serious mental illnesses and their implications for patient care
+P-val: 1.3933049438914732e-05 Description: gerunds and present participles
+P-val: 5.587107195473731e-09 Description:  legal terms or phrases
+P-val: 4.6408270462960276e-10 Description: terminology associated with evaluations or judgments in legal or mathematical contexts
+P-val: 2.852967102686744e-07 Description: expressions of fatigue and emotional distress
+P-val: 8.650185646450623e-07 Description: specific technical terms and specialized jargon in various fields such as medicine, science, and law
+P-val: 6.680758565160466e-10 Description: sentient beings, particularly those involved in creative or transformative actions
+P-val: 6.352042715481757e-05 Description: information related to immune system interactions and their implications in various medical contexts
+P-val: 2.7144037894176267e-07 Description: content related to authority and references
+P-val: 1.8237353024550658e-07 Description: technical terms and symbols related to complex systems or processes
+P-val: 5.832435371328401e-09 Description:  phrases related to actions, omissions, and conditions in various contexts, often emphasizing decision-making and the consequences of choices
+P-val: 9.098693107393172e-06 Description: concepts related to spiritual practices and diagnoses
+P-val: 5.686948072392143e-08 Description: technical terms related to data structures and programming concepts
