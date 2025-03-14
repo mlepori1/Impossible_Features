@@ -1,0 +1,601 @@
+prompt,base_class,surprisal,improbable_impossible,impossible_inconceivable
+cooking an egg on a car hood.,improbable,5.75,0.9443339960238568,0.8750975800156128
+catching fish with a butterfly net.,improbable,5.125,0.7216699801192843,0.3786104605776736
+typing a report using a calculator.,improbable,6.84375,0.7296222664015904,0.4941451990632318
+writing a book using a single sheet of paper.,improbable,4.5625,0.5765407554671969,0.5659640905542545
+painting a house with a toothbrush.,improbable,6.375,0.9284294234592444,0.8376268540202967
+sailing a boat using a bed sheet as a sail.,improbable,5.28125,1.0,0.9437939110070258
+building a skyscraper using bamboo.,improbable,8.125,0.8409542743538767,0.8688524590163934
+grooming a dog with a fork.,improbable,6.34375,0.8369781312127237,0.5846994535519126
+starting a campfire with a magnifying glass at night.,improbable,5.15625,0.7733598409542743,0.6284153005464481
+playing piano with drumsticks.,improbable,7.21875,0.7852882703777336,0.5472287275565965
+eating soup with chopsticks.,improbable,7.90625,0.7693836978131213,0.3973458235753317
+walking a tightrope in a storm.,improbable,5.15625,0.6182902584493042,0.6814988290398126
+planting a garden on a rooftop.,improbable,5.6875,0.7932405566600398,0.6377829820452772
+lighting a match underwater.,improbable,8.25,0.7017892644135189,0.843871975019516
+carving a turkey with a butter knife.,improbable,4.15625,0.7892644135188867,0.6128024980483997
+using a garden rake to comb hair.,improbable,5.875,0.610337972166998,0.7501951600312255
+charging a phone using static electricity.,improbable,6.3125,0.6938369781312127,0.5971896955503513
+writing a letter using invisible ink.,improbable,7.0625,0.7495029821073559,0.5878220140515222
+using a fan to dry clothes in the rain.,improbable,4.46875,0.6341948310139165,0.6346604215456675
+taking photos at night without a flash.,improbable,4.9375,0.6381709741550696,0.5909445745511319
+making ice cream using only the sun.,improbable,5.6875,0.6063618290258449,0.8813427010148321
+navigating a city using a pirate's map.,improbable,5.03125,0.5944333996023857,0.5878220140515222
+sewing clothes with fishing line.,improbable,8.25,0.952286282306163,0.7501951600312255
+powering a house with a hamster wheel.,improbable,5.84375,0.6779324055666004,0.862607338017174
+baking cookies on the sidewalk.,improbable,6.8125,0.7375745526838966,0.6440281030444965
+flying a kite indoors.,improbable,8.0625,0.7972166998011928,0.6690085870413739
+reheating food using a light bulb.,improbable,6.0625,0.8131212723658051,0.7876658860265418
+building a snowman in the desert.,improbable,6.0625,0.7335984095427436,0.5846994535519126
+climbing a mountain in sandals.,improbable,7.375,0.8250497017892644,0.7189695550351288
+brewing coffee in a teapot.,improbable,5.25,0.614314115308151,0.2880562060889929
+watering plants with a spoon.,improbable,6.625,0.8449304174950298,0.6565183450429352
+driving a car using only reverse gear.,improbable,5.6875,0.6978131212723658,0.6752537080405933
+washing dishes with leaf blower.,improbable,8.0625,0.9204771371769384,0.7626854020296643
+laundering clothes in a mud puddle.,improbable,6.09375,0.709741550695825,0.7189695550351288
+sculpting a statue with a penknife.,improbable,5.46875,0.7932405566600398,0.7439500390320063
+ironing clothes on a rock.,improbable,6.21875,0.8290258449304175,0.7189695550351288
+reading a novel by candlelight during the day.,improbable,5.375,0.6540755467196819,0.5753317720530835
+catching a bus using a pogo stick.,improbable,6.53125,0.8966202783300199,0.7814207650273224
+painting a wall with a squirt gun.,improbable,4.90625,0.8489065606361829,0.7377049180327869
+playing football on ice.,improbable,7.5625,0.8608349900596421,0.6128024980483997
+painting a mural with coffee.,improbable,7.5,0.6938369781312127,0.7314597970335676
+climbing a mountain with a pogo stick.,improbable,6.5625,0.7972166998011928,0.7314597970335676
+writing a novel using a typewriter made of ice.,improbable,5.625,0.5208747514910537,0.6939890710382514
+brewing tea using a magnifying glass.,improbable,6.0625,0.8210735586481114,0.550351288056206
+charging a phone with a lemon.,improbable,6.40625,0.5347912524850894,0.4129586260733802
+flying a kite using electric wire.,improbable,7.0,0.8170974155069582,0.7002341920374707
+building a raft from corks.,improbable,8.1875,0.8687872763419483,0.8688524590163934
+catching fish using a drone.,improbable,6.21875,0.9284294234592444,0.7689305230288837
+powering a car using potato batteries.,improbable,6.6875,0.8409542743538767,0.9000780640124902
+composing music using a typewriter.,improbable,5.8125,0.7972166998011928,0.7127244340359095
+heating a room with incandescent light bulbs.,improbable,5.46875,0.5904572564612326,0.5003903200624512
+riding a bicycle across a desert.,improbable,5.75,0.7375745526838966,0.6284153005464481
+drawing in the sand using a laser pointer.,improbable,5.3125,0.904572564612326,0.825136612021858
+creating a sculpture from soap bubbles.,improbable,7.0,0.8449304174950298,0.825136612021858
+recording a song in an elevator.,improbable,6.09375,0.6978131212723658,0.6565183450429352
+mixing paint with a spoon.,improbable,7.1875,0.8648111332007953,0.6814988290398126
+keeping a diary on a stone tablet.,improbable,6.03125,0.6898608349900597,0.5378610460577674
+growing vegetables on a rooftop.,improbable,6.0,0.8648111332007953,0.6502732240437158
+filming a movie using an antique camera.,improbable,5.4375,0.7852882703777336,0.6190476190476191
+preserving food in a tree hollow.,improbable,6.53125,0.8091451292246521,0.8188914910226386
+cultivating mushrooms in a suitcase.,improbable,6.90625,0.8727634194831014,0.7002341920374707
+sailing across a lake using a treadmill.,improbable,6.625,0.8011928429423459,0.775175644028103
+slicing bread with dental floss.,improbable,5.625,0.8886679920477137,0.7876658860265418
+making a clock out of seashells.,improbable,6.0,0.8767395626242545,0.8064012490241999
+singing karaoke in a storm drain.,improbable,8.1875,0.7852882703777336,0.8001561280249805
+hosting a concert on a riverbank.,improbable,5.6875,0.709741550695825,0.6409055425448869
+riding a horse through a department store.,improbable,5.9375,0.7495029821073559,0.8188914910226386
+lighting a fire with a bicycle tire.,improbable,5.625,0.8011928429423459,1.0
+drawing a map using a child's chalk.,improbable,5.6875,0.6341948310139165,0.6221701795472288
+digging a tunnel with a spoon.,improbable,5.21875,0.7892644135188867,0.8001561280249805
+weaving a blanket from plastic bags.,improbable,5.125,0.9284294234592444,0.9063231850117096
+navigating a forest using the stars.,improbable,5.34375,0.7137176938369781,0.6409055425448869
+washing clothes in a waterfall.,improbable,6.46875,0.8091451292246521,0.6440281030444965
+making a pie using only wild berries.,improbable,7.15625,0.7852882703777336,0.7002341920374707
+conducting an orchestra with palm fronds.,improbable,6.71875,0.7017892644135189,0.8064012490241999
+playing chess on a mountaintop.,improbable,6.0,0.7614314115308151,0.5971896955503513
+creating a garden on a barge.,improbable,6.625,0.8727634194831014,0.7689305230288837
+designing clothes with leaves.,improbable,8.1875,0.7415506958250497,0.6627634660421545
+baking bread using geothermal heat.,improbable,8.125,0.8210735586481114,0.8188914910226386
+charging a flashlight with solar power at night.,improbable,5.5,0.8131212723658051,0.6565183450429352
+painting a car with a toothbrush.,improbable,6.125,0.9602385685884692,0.8875878220140515
+mowing the lawn with scissors.,improbable,5.40625,0.7733598409542743,0.5878220140515222
+using a bicycle as a clothesline.,improbable,5.21875,0.705765407554672,0.8188914910226386
+cooling a room using a hand fan.,improbable,5.6875,0.7614314115308151,0.7127244340359095
+charging a phone with a potato.,improbable,6.53125,0.805168986083499,0.9250585480093676
+writing a novel on a napkin.,improbable,6.03125,0.6779324055666004,0.6252927400468384
+catching a fish with a shoe.,improbable,5.75,0.7892644135188867,0.8188914910226386
+walking a dog using a string.,improbable,6.875,0.658051689860835,0.6159250585480094
+heating a meal on a rock in the sun.,improbable,5.75,0.6182902584493042,0.7064793130366901
+storing groceries in a bathtub.,improbable,5.84375,0.8648111332007953,0.8126463700234192
+creating music using kitchen utensils.,improbable,8.5625,0.8608349900596421,0.8001561280249805
+planting a garden in a shoe box.,improbable,5.25,0.7614314115308151,0.7814207650273224
+building a sandcastle using a spoon.,improbable,5.84375,0.8091451292246521,0.7377049180327869
+opening a can with a rock.,improbable,5.40625,0.757455268389662,0.8563622170179547
+sowing seeds using a pencil.,improbable,6.375,0.757455268389662,0.6627634660421545
+training a cat to fetch a stick.,improbable,5.46875,0.8648111332007953,0.7064793130366901
+setting an alarm using a sundial.,improbable,6.09375,0.7773359840954275,0.6284153005464481
+keeping warm by wearing newspapers.,improbable,9.0,0.6978131212723658,0.8313817330210773
+wiping windows with a sock.,improbable,6.46875,0.7852882703777336,0.8188914910226386
+making a kite from a plastic bag.,improbable,5.1875,0.8608349900596421,0.8126463700234192
+hosting a party in a treehouse.,improbable,5.3125,0.7932405566600398,0.6814988290398126
+washing dishes with a sponge cake.,improbable,6.75,0.6779324055666004,0.4879000780640125
+playing soccer with a beach ball.,improbable,5.90625,0.7415506958250497,0.600312256049961
+navigating using the stars in the city.,improbable,5.40625,0.5606361829025845,0.4816549570647931
+using a magnifying glass to start a campfire.,improbable,4.71875,0.5685884691848907,0.7064793130366901
+keeping time with a candle.,improbable,7.25,0.5785288270377733,0.6814988290398126
+repairing a radiator with chewing gum.,improbable,6.84375,0.8091451292246521,0.775175644028103
+catching raindrops in a thimble.,improbable,5.65625,0.6739562624254473,0.7689305230288837
+powering a flashlight with a lemon.,improbable,6.4375,0.4771371769383697,0.912568306010929
+dusting shelves with a feather from a bird.,improbable,5.40625,0.489065606361829,0.6502732240437158
+listening to a seashell for weather predictions.,improbable,7.4375,0.6381709741550696,0.6752537080405933
+reading a map upside down for new paths.,improbable,7.125,0.5725646123260437,0.4941451990632318
+stuffing a pillow with autumn leaves.,improbable,6.125,0.6620278330019881,0.7564402810304449
+using a mirror to signal a rescue.,improbable,6.53125,0.558648111332008,0.6252927400468384
+stopping a leak with wax.,improbable,7.84375,0.6461232604373758,0.7252146760343482
+brewing tea by setting it under moonlight.,improbable,6.375,0.6063618290258449,0.6440281030444965
+polishing a table with an old shirt.,improbable,5.4375,0.8011928429423459,0.8064012490241999
+drawing with crayon shavings.,improbable,9.1875,0.757455268389662,0.5690866510538641
+harvesting honey by enticing bees with music.,improbable,6.5625,0.8011928429423459,0.8688524590163934
+deterring pests with a scarecrow made of straw hats.,improbable,5.40625,0.7375745526838966,0.600312256049961
+catching a fish using a fishing net in the desert.,improbable,4.46875,0.536779324055666,0.3130366900858704
+baking a cake using the heat of the sun.,improbable,4.46875,0.757455268389662,0.862607338017174
+ironing clothes using a book.,improbable,7.09375,0.7614314115308151,0.8001561280249805
+cooking a meal over a campfire inside a living room.,improbable,5.375,0.5984095427435387,0.3005464480874317
+writing a novel on a typewriter while scuba diving.,improbable,5.53125,0.6938369781312127,0.6440281030444965
+sleeping on a bed of roses.,improbable,5.21875,0.5029821073558648,0.5441061670569868
+painting a picture using tree leaves as brushes.,improbable,6.125,0.7495029821073559,0.5753317720530835
+building a house using only ice cream cones.,improbable,5.34375,0.6739562624254473,0.9500390320062452
+charging a phone using a lemon.,improbable,6.75,0.4194831013916501,0.4160811865729898
+drinking soup from a teacup while cliff diving.,improbable,6.53125,0.7017892644135189,0.6690085870413739
+sailing a paper boat across a lake.,improbable,5.8125,0.7773359840954275,0.7189695550351288
+climbing a mountain wearing roller skates.,improbable,6.65625,0.7654075546719682,0.775175644028103
+reading a book upside down on a roller coaster.,improbable,5.40625,0.7415506958250497,0.7252146760343482
+singing a lullaby to communicate with extraterrestrials.,improbable,5.5,0.7216699801192843,0.687743950039032
+eating spaghetti with a single chopstick.,improbable,6.59375,0.8369781312127237,0.8376268540202967
+playing chess on a sandy beach during a windstorm.,improbable,4.90625,0.5188866799204771,0.2693208430913349
+washing a car using a toothbrush.,improbable,6.71875,0.8011928429423459,0.7564402810304449
+planting a garden in a bathtub.,improbable,5.96875,0.8290258449304175,0.8126463700234192
+using a magnifying glass to tan under the moonlight.,improbable,6.21875,0.5407554671968191,0.5815768930523029
+taking a selfie on mars.,improbable,6.8125,0.6779324055666004,0.6502732240437158
+dusting a bookshelf with feather boas.,improbable,6.96875,0.6978131212723658,0.7314597970335676
+pouring cereal and milk into a shoe for breakfast.,improbable,6.03125,0.6660039761431411,0.7064793130366901
+conducting a symphony orchestra with a stick of celery.,improbable,5.84375,0.6302186878727635,0.8313817330210773
+flying a kite in a blizzard.,improbable,5.78125,0.7495029821073559,0.6939890710382514
+conducting a business meeting while skydiving.,improbable,5.71875,0.6858846918489065,0.6315378610460578
+dressing a cat in a three-piece suit.,improbable,5.125,0.7455268389662028,0.7127244340359095
+building a sandcastle on the ice.,improbable,5.9375,0.8131212723658051,0.7814207650273224
+writing a diary entry on a whiteboard with marker.,improbable,6.34375,0.4652087475149105,0.1818891491022638
+using a slice of pizza as a bookmark.,improbable,4.75,0.6023856858846919,0.7501951600312255
+pouring coffee into a cone and calling it iced coffee.,improbable,5.09375,0.5666003976143141,0.6565183450429352
+using a butter knife to sculpt a marble statue.,improbable,5.21875,0.6500994035785288,0.8313817330210773
+capturing a rainbow in a jar.,improbable,5.0625,0.7534791252485089,0.7814207650273224
+holding a picnic on the roof of a skyscraper.,improbable,4.71875,0.7256461232604374,0.7127244340359095
+watching a movie under the sea.,improbable,5.5625,0.6341948310139165,0.5472287275565965
+packing a suitcase with helium balloons for travel.,improbable,6.34375,0.7017892644135189,0.5160031225604996
+giving a bear a manicure.,improbable,7.46875,0.8449304174950298,0.7439500390320063
+riding a unicycle through a hurricane.,improbable,5.21875,0.7654075546719682,0.9313036690085872
+writing a love letter in the snow with a broom.,improbable,5.0625,0.6500994035785288,0.6409055425448869
+cooking spaghetti using only candle heat.,improbable,8.4375,0.8489065606361829,0.9188134270101485
+fishing for trout in a swimming pool.,improbable,5.5625,0.8290258449304175,0.7377049180327869
+catching a fish using a colander.,improbable,6.40625,0.8131212723658051,0.5909445745511319
+painting a portrait using toothpaste.,improbable,8.8125,0.8011928429423459,0.8376268540202967
+lighting a bonfire with a magnifying glass at night.,improbable,4.96875,0.6620278330019881,0.6159250585480094
+brewing coffee using a teapot.,improbable,6.34375,0.6699801192842942,0.3536299765807962
+ordering takeout from a five-star restaurant.,improbable,5.1875,0.5745526838966203,0.5534738485558157
+writing a novel using a typewriter in a moving car.,improbable,5.125,0.7415506958250497,0.6627634660421545
+playing tennis with a frying pan.,improbable,6.65625,0.8409542743538767,0.862607338017174
+hosting a dinner party on a canoe.,improbable,6.40625,0.8091451292246521,0.862607338017174
+fixing a flat tire with masking tape.,improbable,5.84375,0.9005964214711729,0.7252146760343482
+flying a kite indoors.,improbable,8.0625,0.7972166998011928,0.6690085870413739
+making a snowman in the desert.,improbable,5.78125,0.6858846918489065,0.4785323965651834
+reading a book on a roller coaster.,improbable,5.4375,0.5984095427435387,0.60967993754879
+getting a tan during a thunderstorm.,improbable,6.59375,0.6699801192842942,0.6690085870413739
+shaving with a sword.,improbable,6.28125,0.7972166998011928,0.7127244340359095
+jogging on a treadmill during an earthquake.,improbable,5.15625,0.7415506958250497,0.6034348165495707
+barbecuing in a hurricane.,improbable,5.625,0.8131212723658051,0.7939110070257611
+pulling an all-nighter in a library during a blackout.,improbable,3.734375,0.6779324055666004,0.6315378610460578
+baking cookies on a car dashboard.,improbable,6.625,0.7654075546719682,0.6065573770491803
+performing karaoke in a library.,improbable,8.0625,0.8846918489065606,0.7564402810304449
+navigating a river using a skateboard.,improbable,5.90625,0.805168986083499,0.8001561280249805
+conducting a meeting while skydiving.,improbable,6.96875,0.6302186878727635,0.6690085870413739
+taking a shower in formal attire.,improbable,7.0,0.805168986083499,0.6565183450429352
+carving a statue using a toothbrush.,improbable,6.3125,0.8489065606361829,0.8813427010148321
+charging a phone using a potato.,improbable,6.75,0.7773359840954275,0.9500390320062452
+walking a cat with a leash made of spaghetti.,improbable,5.625,0.7415506958250497,0.7127244340359095
+practicing yoga on a tightrope.,improbable,5.75,0.8648111332007953,0.7814207650273224
+training for a marathon in a swimming pool.,improbable,4.78125,0.7216699801192843,0.5472287275565965
+writing a letter with invisible ink.,improbable,6.1875,0.7495029821073559,0.5909445745511319
+playing chess underwater.,improbable,10.5625,0.7972166998011928,0.6690085870413739
+feeding a giraffe with a spoon.,improbable,6.40625,0.8846918489065606,0.8376268540202967
+knitting a sweater using dental floss.,improbable,6.53125,0.856858846918489,0.843871975019516
+sleeping under a bed.,improbable,7.5,0.6262425447316103,0.6565183450429352
+giving a speech from inside a closet.,improbable,5.75,0.7693836978131213,0.6690085870413739
+filling a swimming pool with popcorn.,improbable,7.375,0.558648111332008,0.6939890710382514
+making ice cubes on a barbecue grill.,improbable,5.84375,0.7892644135188867,0.600312256049961
+playing the piano with chopsticks.,improbable,6.28125,0.9204771371769384,0.7127244340359095
+using a lawnmower to trim a beard.,improbable,4.3125,0.7495029821073559,0.825136612021858
+ironing clothes with a loaded cannon.,improbable,7.59375,0.705765407554672,0.8188914910226386
+sketching a landscape during a tornado.,improbable,5.9375,0.7455268389662028,0.6627634660421545
+running a marathon backwards.,improbable,8.25,0.7256461232604374,0.7127244340359095
+writing a novel using a paintbrush.,impossible,6.0625,0.5725646123260437,0.6034348165495707
+traveling back in time using a pencil.,impossible,6.5,0.3499005964214712,0.5128805620608899
+flying to mars on a paper airplane.,impossible,6.1875,0.6182902584493042,0.7252146760343482
+breathing underwater without any equipment using a hat.,impossible,6.75,0.6461232604373758,0.7626854020296643
+building a house using a feather.,impossible,7.09375,0.3578528827037773,0.9250585480093676
+cooking dinner using ice cubes.,impossible,8.375,0.7614314115308151,0.6502732240437158
+lighting a room using a book.,impossible,6.75,0.558648111332008,0.7876658860265418
+growing a tree overnight using a whistle.,impossible,7.8125,0.6779324055666004,0.8750975800156128
+turning invisible by wearing a scarf.,impossible,7.78125,0.6023856858846919,0.6502732240437158
+speaking every language by eating a cookie.,impossible,7.375,0.3339960238568588,0.6565183450429352
+swimming through the air using flippers.,impossible,6.1875,0.610337972166998,0.7377049180327869
+walking through walls using a mirror.,impossible,7.0625,0.7335984095427436,0.843871975019516
+lifting a mountain with a spoon.,impossible,6.46875,0.5526838966202783,0.8126463700234192
+crossing the ocean on a bicycle.,impossible,5.3125,0.7693836978131213,0.7127244340359095
+catching a rainbow with a net.,impossible,5.59375,0.7534791252485089,0.6034348165495707
+holding a star in the palm of your hand.,impossible,4.1875,0.4115308151093439,0.531615925058548
+seeing into the future using a teddy bear.,impossible,5.875,0.6341948310139165,0.7814207650273224
+painting the sky using a stick.,impossible,6.96875,0.6779324055666004,0.7252146760343482
+harnessing lightning in a balloon.,impossible,6.8125,0.8091451292246521,0.843871975019516
+photographing dreams using a flashlight.,impossible,7.90625,0.7335984095427436,0.6814988290398126
+making gold by singing a song.,impossible,7.25,0.5785288270377733,0.6377829820452772
+creating energy from absolute silence.,impossible,8.9375,0.4333996023856858,0.5971896955503513
+stopping time with a command.,impossible,7.875,0.2405566600397614,0.2318501170960187
+drinking sunlight from a cup.,impossible,8.25,0.610337972166998,0.6690085870413739
+controlling the weather with a remote control.,impossible,5.03125,0.7176938369781312,0.7814207650273224
+sailing on sound waves.,impossible,9.125,0.5984095427435387,0.6690085870413739
+finding your way using an empty map.,impossible,6.1875,0.5984095427435387,0.5534738485558157
+jumping to the moon using a pogo stick.,impossible,5.3125,0.7415506958250497,0.7189695550351288
+changing your shape by blinking twice.,impossible,8.625,0.4870775347912525,0.5722092115534738
+communicating with animals using a rubber band.,impossible,6.25,0.8131212723658051,0.8875878220140515
+knitting a bridge using cotton candy.,impossible,8.125,0.5705765407554672,0.7564402810304449
+stretching to the height of a skyscraper with a yawn.,impossible,5.09375,0.4075546719681908,0.4410616705698673
+painting a sunset using only your thoughts.,impossible,7.5,0.4671968190854871,0.5815768930523029
+growing a garden overnight from a single grain of sand.,impossible,5.59375,0.4353876739562624,0.6939890710382514
+hearing colors and seeing sounds physically.,impossible,8.0,0.345924453280318,0.5659640905542545
+driving to the north pole in a kayak.,impossible,5.3125,0.7972166998011928,0.8001561280249805
+fusing two objects with a clap.,impossible,6.75,0.3777335984095427,0.5690866510538641
+extracting music notes from a flower.,impossible,6.1875,0.5705765407554672,0.6377829820452772
+holding a cloud in your hands without it disappearing.,impossible,5.90625,0.3578528827037773,0.5909445745511319
+creating a new planet using a small rock.,impossible,5.53125,0.4731610337972167,0.7564402810304449
+boiling water by staring at it.,impossible,6.78125,0.5268389662027833,0.7127244340359095
+turning lead into gold by squeezing it with bare hands.,impossible,6.15625,0.6819085487077535,0.7377049180327869
+lifting a car with a single strand of hair.,impossible,5.90625,0.5765407554671969,0.7377049180327869
+walking through a brick wall without any assistance.,impossible,6.15625,0.5825049701789264,0.6502732240437158
+stopping time by snapping your fingers.,impossible,7.28125,0.3956262425447316,0.5253708040593287
+creating a rainbow in a dark room.,impossible,5.78125,0.536779324055666,0.5253708040593287
+making a fire burn underwater without any aid.,impossible,7.375,0.6421471172962226,0.8064012490241999
+flying by flapping your arms like a bird.,impossible,5.875,0.5347912524850894,0.6565183450429352
+teleporting across the world by closing your eyes.,impossible,4.25,0.4314115308151093,0.6690085870413739
+freezing a river by breathing on it.,impossible,6.46875,0.6779324055666004,0.862607338017174
+growing a tree instantly by planting a single seed.,impossible,5.65625,0.5944333996023857,0.7189695550351288
+turning invisible by holding your breath.,impossible,7.28125,0.5387673956262425,0.6627634660421545
+changing the color of a cloud by shouting at it.,impossible,5.1875,0.441351888667992,0.6221701795472288
+transforming into any animal by wishing for it.,impossible,4.75,0.5904572564612326,0.6752537080405933
+calculating the exact position of every particle in the universe instantly.,impossible,4.25,0.4950298210735586,0.6440281030444965
+filling a swimming pool with a drop of water.,impossible,4.6875,0.5089463220675944,0.6440281030444965
+walking on the surface of the sun unharmed.,impossible,6.09375,0.5944333996023857,0.6377829820452772
+creating infinite energy by spinning in circles.,impossible,6.84375,0.5904572564612326,0.7189695550351288
+hearing a pin drop on the moon from earth.,impossible,5.125,0.4632206759443339,0.6128024980483997
+climbing a vertical glass wall using socks.,impossible,7.125,0.8449304174950298,0.9313036690085872
+writing a novel by thinking it into existence.,impossible,5.5,0.584493041749503,0.5035128805620609
+growing a full head of hair instantly by rubbing your scalp.,impossible,4.65625,0.4711729622266402,0.6814988290398126
+scaling a skyscraper using only a stick.,impossible,6.65625,0.7415506958250497,0.8750975800156128
+making a mirror reflect a different dimension.,impossible,7.03125,0.4512922465208747,0.6565183450429352
+breathing in space without any equipment.,impossible,6.875,0.614314115308151,0.7189695550351288
+creating a singe ripple in a perfectly still ocean with a whisper.,impossible,6.6875,0.2246520874751491,0.5191256830601093
+communicating telepathically with everyone on earth at once.,impossible,4.65625,0.5308151093439364,0.6565183450429352
+splitting a boulder using a single bead of sweat.,impossible,6.9375,0.4234592445328032,0.6315378610460578
+turning sand into diamonds by clapping your hands.,impossible,6.25,0.5069582504970179,0.7626854020296643
+sleeping for a year in one night.,impossible,5.625,0.558648111332008,0.5753317720530835
+painting the sky in any color with a paintbrush.,impossible,4.8125,0.5387673956262425,0.5160031225604996
+breathing life into a stone statue.,impossible,5.6875,0.614314115308151,0.7002341920374707
+growing a mountain out of a handful of dust.,impossible,5.34375,0.4214711729622266,0.6939890710382514
+stretching time to make a day last a year.,impossible,4.78125,0.3499005964214712,0.3942232630757221
+running faster than the speed of light.,impossible,4.84375,0.4353876739562624,0.5378610460577674
+holding a rainbow in your hand.,impossible,5.9375,0.4711729622266402,0.5284933645589384
+knocking down a steel wall with a paper airplane.,impossible,5.625,0.7335984095427436,0.7377049180327869
+creating a black hole using a wooden spoon.,impossible,5.3125,0.7375745526838966,0.825136612021858
+floating upwards by exhaling.,impossible,9.125,0.4572564612326044,0.5690866510538641
+making it rain by snapping your fingers.,impossible,6.28125,0.4910536779324055,0.5565964090554254
+walking through a solid brick wall as if it were air.,impossible,4.8125,0.5129224652087475,0.8001561280249805
+breathing underwater without any equipment.,impossible,6.90625,0.6978131212723658,0.7876658860265418
+traveling back in time to meet your ancestors.,impossible,4.65625,0.5387673956262425,0.60967993754879
+making a building float in mid-air without any support.,impossible,5.1875,0.558648111332008,0.7814207650273224
+lighting a fire that burns underwater with no fuel.,impossible,6.15625,0.4353876739562624,0.7876658860265418
+touching a black hole and coming back unharmed.,impossible,5.0,0.614314115308151,0.6346604215456675
+skipping a stone across the surface of the sun.,impossible,4.21875,0.5268389662027833,0.6346604215456675
+carrying a mountain in your backpack.,impossible,6.8125,0.5725646123260437,0.6814988290398126
+extracting gold from a handshake.,impossible,7.5,0.4055666003976143,0.531615925058548
+wearing a dress made of shadow.,impossible,6.96875,0.3916500994035785,0.6409055425448869
+making snowflakes appear from your breath.,impossible,8.125,0.6222664015904572,0.775175644028103
+growing a tree in the palm of your hand.,impossible,4.03125,0.4950298210735586,0.6939890710382514
+holding a rainbow in a jar.,impossible,6.625,0.6341948310139165,0.6252927400468384
+drawing blood from a stone without touching it.,impossible,6.15625,0.4115308151093439,0.5378610460577674
+listening to the sound of silence with headphones.,impossible,4.78125,0.7176938369781312,0.5003903200624512
+traveling faster than the speed of light on a bicycle.,impossible,4.4375,0.4910536779324055,0.4254488680718188
+walking on clouds as if they were solid ground.,impossible,4.9375,0.4314115308151093,0.5441061670569868
+tuning a radio to the frequency of thoughts.,impossible,6.78125,0.4473161033797216,0.6814988290398126
+rising from the ground on the wind of a whisper.,impossible,5.0625,0.3151093439363817,0.5097580015612803
+writing with ink made from starlight.,impossible,7.8125,0.5427435387673957,0.7377049180327869
+seeing colors that don't exist in the visible spectrum.,impossible,4.15625,0.5407554671968191,0.7189695550351288
+tasting the flavor of a dream.,impossible,5.875,0.441351888667992,0.4847775175644028
+sending a postcard to the moon with only a stamp.,impossible,5.03125,0.6341948310139165,0.7252146760343482
+turning gravity off with the flick of a switch.,impossible,5.6875,0.5208747514910537,0.5971896955503513
+constructing a bridge from yesterday to tomorrow.,impossible,5.21875,0.3976143141153082,0.3629976580796253
+bringing a shadow to life.,impossible,7.1875,0.4552683896620278,0.4879000780640125
+hatching a feather from an egg.,impossible,5.375,0.6262425447316103,0.6502732240437158
+sailing a boat on a river of lava unscathed.,impossible,5.59375,0.5666003976143141,0.7064793130366901
+baking an ice cake that never melts.,impossible,6.5,0.5288270377733598,0.7689305230288837
+using a mirror to enter a parallel universe.,impossible,4.9375,0.5069582504970179,0.7064793130366901
+planting a seed in a black hole and growing a galaxy.,impossible,4.8125,0.4433399602385686,0.7127244340359095
+riding a comet with reins made of light.,impossible,6.96875,0.4453280318091451,0.7189695550351288
+cooling the earth with the flap of a butterfly's wings.,impossible,4.5,0.4314115308151093,0.5878220140515222
+eating a cubic meter of air for lunch.,impossible,6.46875,0.5009940357852882,0.6565183450429352
+brewing a potion from the essence of happiness.,impossible,5.4375,0.584493041749503,0.6440281030444965
+sewing a garment from the fabric of time.,impossible,5.6875,0.4850894632206759,0.5441061670569868
+turning a whisper into a tangible object.,impossible,7.6875,0.4095427435387674,0.4597970335675254
+finding a universal truth in the bottom of a cup.,impossible,5.375,0.3270377733598409,0.522248243559719
+stretching a moment to last forever.,impossible,5.21875,0.4075546719681908,0.3598750975800156
+melting iron with a thought.,impossible,8.8125,0.3499005964214712,0.4067135050741608
+boiling water using moonlight.,impossible,10.125,0.5805168986083499,0.7501951600312255
+freezing ice with a breath.,impossible,7.65625,0.5188866799204771,0.7127244340359095
+lifting a building with a feather.,impossible,7.28125,0.6222664015904572,0.7814207650273224
+painting a wall with sunlight.,impossible,7.34375,0.588469184890656,0.5253708040593287
+cooking pasta using an ice cube.,impossible,6.84375,0.658051689860835,0.9000780640124902
+knitting a sweater with sand.,impossible,7.875,0.5427435387673957,0.5784543325526932
+charging a phone with a banana.,impossible,6.0625,0.8091451292246521,0.8376268540202967
+floating a ship with a whisper.,impossible,8.5625,0.3956262425447316,0.6440281030444965
+turning lead into gold with thought.,impossible,7.5625,0.3290258449304175,0.2224824355971897
+binding a book with smoke.,impossible,8.25,0.5805168986083499,0.6440281030444965
+writing in a notebook with water.,impossible,6.28125,0.5904572564612326,0.5097580015612803
+growing a tree in a second.,impossible,6.40625,0.3439363817097415,0.5878220140515222
+teleporting to mars with a sneeze.,impossible,6.1875,0.4751491053677932,0.6128024980483997
+drying clothes in the rain instantly.,impossible,6.90625,0.3956262425447316,0.4816549570647931
+building a skyscraper with air.,impossible,8.25,0.2405566600397614,0.7377049180327869
+reflecting sunlight with a shadow.,impossible,6.03125,0.4691848906560636,0.4691647150663544
+blowing up a balloon with silence.,impossible,7.6875,0.3737574552683896,0.4847775175644028
+reading a book with your eyes closed.,impossible,4.5625,0.6898608349900597,0.5753317720530835
+creating fire from ice.,impossible,8.1875,0.5566600397614314,0.687743950039032
+hammering a nail with a pillow.,impossible,6.03125,0.7335984095427436,0.8313817330210773
+powering a city with a single potato.,impossible,6.65625,0.5606361829025845,0.8688524590163934
+walking through walls with a key.,impossible,6.59375,0.658051689860835,0.7876658860265418
+turning plastic into diamonds with a smile.,impossible,6.90625,0.5228628230616302,0.5003903200624512
+composing music with silence.,impossible,7.03125,0.5666003976143141,0.5378610460577674
+slicing bread with a flower.,impossible,6.5625,0.7256461232604374,0.6690085870413739
+disappearing with a wink.,impossible,5.96875,0.3777335984095427,0.375487900078064
+rolling uphill effortlessly.,impossible,13.125,0.5228628230616302,0.4972677595628415
+catching a star with a net.,impossible,5.3125,0.6262425447316103,0.6814988290398126
+hearing colors with ears.,impossible,8.8125,0.5387673956262425,0.5378610460577674
+seeing sounds with eyes.,impossible,8.875,0.4731610337972167,0.5940671350507416
+creating shadows at night.,impossible,9.1875,0.6222664015904572,0.5128805620608899
+growing wings from dreams.,impossible,9.125,0.4254473161033797,0.462919594067135
+holding water with a sieve.,impossible,7.40625,0.6381709741550696,0.6440281030444965
+creating gold from mere dust.,impossible,9.125,0.4671968190854871,0.7252146760343482
+swimming across the ocean in a heartbeat.,impossible,5.8125,0.4552683896620278,0.4972677595628415
+breathing underwater with only air.,impossible,7.5625,0.5248508946322068,0.6502732240437158
+travelling time with a clock.,impossible,6.5625,0.3916500994035785,0.4035909445745511
+holding the sun in your hand.,impossible,5.34375,0.4254473161033797,0.6221701795472288
+turning darkness into light with a frown.,impossible,7.40625,0.3598409542743538,0.3255269320843091
+tasting a symphony with taste buds.,impossible,7.25,0.4572564612326044,0.4254488680718188
+walking through walls without any aid.,impossible,7.75,0.5666003976143141,0.7314597970335676
+breathing underwater without any equipment.,impossible,6.90625,0.6978131212723658,0.7876658860265418
+growing a full-size tree from a pebble overnight.,impossible,5.6875,0.6620278330019881,0.8376268540202967
+running at the speed of light without disintegrating.,impossible,4.75,0.3578528827037773,0.5472287275565965
+turning invisible by blinking.,impossible,10.125,0.4990059642147117,0.6221701795472288
+lifting a mountain with a pinky finger.,impossible,6.65625,0.4850894632206759,0.7127244340359095
+exploring the center of the earth barefoot.,impossible,6.46875,0.7852882703777336,0.7939110070257611
+time traveling with a spoon.,impossible,6.78125,0.5347912524850894,0.5909445745511319
+talking to plants and getting verbal replies.,impossible,7.21875,0.614314115308151,0.7814207650273224
+riding a cloud like a horse.,impossible,6.40625,0.5984095427435387,0.7689305230288837
+cooking a meal using moonbeams.,impossible,8.5,0.5864811133200796,0.7439500390320063
+writing a novel using smoke.,impossible,9.1875,0.1379224652087475,0.5253708040593287
+flying unaided by flapping your arms.,impossible,7.15625,0.489065606361829,0.6440281030444965
+traveling around the world in one second.,impossible,5.625,0.4135188866799205,0.4566744730679157
+growing a wingspan from eating kale.,impossible,7.28125,0.3618290258449304,0.5441061670569868
+catching a rainbow in a net.,impossible,6.375,0.6898608349900597,0.6034348165495707
+communicating through telepathy with a rock.,impossible,5.71875,0.5666003976143141,0.8313817330210773
+hearing the thoughts of inanimate objects.,impossible,6.75,0.5407554671968191,0.6502732240437158
+freezing water with a mere glance.,impossible,7.375,0.3896620278330019,0.5784543325526932
+playing a tune with feathers as if they were instruments.,impossible,5.71875,0.6898608349900597,0.7564402810304449
+harnessing electricity by whistling.,impossible,8.125,0.6302186878727635,0.8688524590163934
+painting a sunset using sound waves.,impossible,8.625,0.705765407554672,0.8001561280249805
+transforming into a different species at will.,impossible,4.34375,0.562624254473161,0.600312256049961
+planting dreams in the ground to grow them.,impossible,6.34375,0.393638170974155,0.4597970335675254
+sleeping on sunbeams without getting burned.,impossible,7.15625,0.4135188866799205,0.5878220140515222
+crossing the ocean by walking on bubbles.,impossible,6.375,0.6461232604373758,0.8064012490241999
+writing poetry in the sky using a breeze.,impossible,7.03125,0.345924453280318,0.5066354410616706
+kissing a raindrop and turning it into a gemstone.,impossible,4.3125,0.5785288270377733,0.775175644028103
+growing taller by jumping very high.,impossible,6.96875,0.5447316103379721,0.5909445745511319
+tuning into distant planets using seashells.,impossible,9.3125,0.658051689860835,0.8001561280249805
+melting steel beams with a song.,impossible,8.0625,0.6023856858846919,0.7189695550351288
+downloading knowledge into the mind through a touch.,impossible,6.9375,0.4234592445328032,0.6690085870413739
+packaging light into a box for later use.,impossible,6.53125,0.5685884691848907,0.5690866510538641
+seeing the future as clear as day in a coffee cup.,impossible,4.65625,0.614314115308151,0.6065573770491803
+building skyscrapers with dreams and fairy dust.,impossible,7.65625,0.5129224652087475,0.5441061670569868
+mixing sunlight and wind for a smoothie.,impossible,7.84375,0.6620278330019881,0.6690085870413739
+painting galaxies with a single hair strand.,impossible,7.78125,0.5944333996023857,0.7439500390320063
+breathing in colors and exhaling shapes.,impossible,6.1875,0.4632206759443339,0.5909445745511319
+drinking stars like lemonade.,impossible,11.0,0.4075546719681908,0.5378610460577674
+patching up the sky with constellations.,impossible,5.96875,0.4731610337972167,0.5534738485558157
+building a house with laughter.,inconceivable,8.0625,0.4512922465208747,0.4722872755659641
+cooking dinner using a whisper.,inconceivable,9.75,0.2475149105367793,0.4160811865729898
+flying to the moon with a sneeze.,inconceivable,6.53125,0.4652087475149105,0.6190476190476191
+navigating the ocean using a giggle.,inconceivable,7.8125,0.1903578528827037,0.4254488680718188
+painting a portrait with jealousy.,inconceivable,9.125,0.4493041749502982,0.3348946135831381
+reading a book using wind.,inconceivable,8.125,0.3717693836978131,0.5565964090554254
+driving a car with a shadow.,inconceivable,6.75,0.6063618290258449,0.4473067915690866
+planting a garden with music.,inconceivable,7.3125,0.6421471172962226,0.5909445745511319
+catching a train using a recipe.,inconceivable,7.15625,0.4811133200795228,0.4410616705698673
+writing an essay with silence.,inconceivable,8.0625,0.4751491053677932,0.3161592505854801
+shopping for shoes with temperature.,inconceivable,8.5625,0.4353876739562624,0.4410616705698673
+swimming in the pool using happiness.,inconceivable,8.5,0.3618290258449304,0.2146760343481654
+walking the dog with a memory.,inconceivable,6.8125,0.2813121272365805,0.3130366900858704
+solving a puzzle using a smell.,inconceivable,8.1875,0.5566600397614314,0.7252146760343482
+designing a dress with gravity.,inconceivable,7.4375,0.4055666003976143,0.4941451990632318
+singing a song using a cloud.,inconceivable,7.53125,0.3538767395626243,0.4847775175644028
+baking a cake with a sneeze.,inconceivable,7.96875,0.5825049701789264,0.5815768930523029
+sewing a dress using time.,inconceivable,8.25,0.2425447316103379,0.1194379391100702
+repairing a bicycle with a thought.,inconceivable,6.96875,0.4453280318091451,0.2396565183450429
+charging a phone using sadness.,inconceivable,10.0,0.4731610337972167,0.4816549570647931
+playing football with joy.,inconceivable,8.0625,0.6978131212723658,0.3817330210772833
+climbing a mountain using boredom.,inconceivable,9.6875,0.2345924453280318,0.3786104605776736
+brewing coffee with a question.,inconceivable,6.21875,0.3499005964214712,0.1756440281030445
+attending a meeting using color.,inconceivable,7.40625,0.4473161033797216,0.3286494925839188
+conducting an orchestra with a blink.,inconceivable,7.59375,0.3359840954274354,0.5753317720530835
+knitting a sweater using emotion.,inconceivable,8.1875,0.4433399602385686,0.4316939890710382
+painting a wall with history.,inconceivable,7.9375,0.4850894632206759,0.4441842310694769
+driving to work using a decision.,inconceivable,8.4375,0.1893638170974155,0.0312256049960968
+watching a movie using patience.,inconceivable,8.875,0.4850894632206759,0.3224043715846995
+brushing teeth with sound.,inconceivable,7.03125,0.5487077534791253,0.4067135050741608
+writing a letter with sunshine.,inconceivable,7.9375,0.5029821073558648,0.4597970335675254
+making a sandwich with laughter.,inconceivable,8.0,0.510934393638171,0.4879000780640125
+hosting a party using gravity.,inconceivable,8.8125,0.2823061630218688,0.2630757220921155
+cooking pasta with a gesture.,inconceivable,8.6875,0.610337972166998,0.4972677595628415
+feeding the cat using mystery.,inconceivable,10.1875,0.1090954274353876,0.2786885245901639
+exercising with a joke.,inconceivable,8.875,0.5049701789264414,0.3224043715846995
+organizing an event using fog.,inconceivable,7.4375,0.2007952286282306,0.2131147540983606
+finding an address using a tear.,inconceivable,8.5625,0.0889972664015904,0.4410616705698673
+charging a battery with anticipation.,inconceivable,8.9375,0.3896620278330019,0.3286494925839188
+fishing in a lake using a secret.,inconceivable,6.75,0.2166998011928429,0.2693208430913349
+lighting a fire using a shape.,inconceivable,7.34375,0.2147117296222664,0.4098360655737705
+painting a wall using an opinion.,inconceivable,7.59375,0.2012922465208747,0.1209992193598751
+digging a hole using an emotion.,inconceivable,7.21875,0.1217693836978131,0.3192818110850898
+cooking an egg using a melody.,inconceivable,8.625,0.2246520874751491,0.3567525370804059
+flying to the moon using a temperature.,inconceivable,7.375,0.08654324055666,0.2880562060889929
+building a house using laughter.,inconceivable,9.4375,0.4194831013916501,0.5690866510538641
+typing a document using regret.,inconceivable,10.1875,0.1461232604373757,0.1147540983606557
+sailing a boat using a color.,inconceivable,7.9375,0.1284791252485089,0.2943013270882123
+driving a car using a flavor.,inconceivable,8.125,0.0807149291749503,0.2943013270882123
+watering a plant using a sound.,inconceivable,7.625,0.0831340084493041,0.3567525370804059
+writing a letter using a memory.,inconceivable,6.9375,0.0833669855864811,0.2599531615925058
+catching a fish using an idea.,inconceivable,6.75,0.2514910536779324,0.2115534738485558
+sewing a dress using an aroma.,inconceivable,8.875,0.099279324055666,0.3036690085870414
+baking a cake using a whisper.,inconceivable,7.90625,0.0757641650099403,0.3442622950819672
+fixing a bike using a wish.,inconceivable,8.1875,0.033300198807157,0.0320062451209992
+climbing a mountain using a light.,inconceivable,7.21875,0.1036282306163021,0.4285714285714285
+feeding a cat using a promise.,inconceivable,8.5625,0.2733598409542743,0.2880562060889929
+planting a tree using a texture.,inconceivable,7.96875,0.3956262425447316,0.5409836065573771
+finding a book using a noise.,inconceivable,8.375,0.0044731610337972,0.1818891491022638
+singing a song using a temperature.,inconceivable,8.5,0.0758884194831013,0.3380171740827478
+cleaning a room using history.,inconceivable,8.5625,0.1431411530815109,0.0
+buying groceries using a feeling.,inconceivable,10.0,0.3021868787276341,0.4285714285714285
+drawing a picture using a scent.,inconceivable,7.71875,0.4373757455268389,0.6502732240437158
+closing a door using time.,inconceivable,7.9375,0.1704771371769383,0.209992193598751
+washing dishes using a perspective.,inconceivable,8.875,0.246520874751491,0.1693989071038251
+building a bridge using boredom.,inconceivable,8.625,0.341948310139165,0.4972677595628415
+reading a novel using a pattern.,inconceivable,6.84375,0.3737574552683896,0.2630757220921155
+riding a horse using excitement.,inconceivable,9.125,0.3618290258449304,0.2849336455893833
+tying shoelaces using a myth.,inconceivable,6.0,0.2117296222664016,0.2849336455893833
+swimming across a river using joy.,inconceivable,8.5,0.1784294234592445,0.3786104605776736
+catching a butterfly using a belief.,inconceivable,7.5625,0.1074801192842942,0.2911787665886026
+walking a dog using happiness.,inconceivable,9.375,0.4453280318091451,0.2505854800936768
+trapping a fly using dusk.,inconceivable,7.9375,0.1868787276341948,0.3411397345823575
+organizing a desk using a hope.,inconceivable,8.4375,0.036779324055666,0.063231850117096
+teaching a class using a texture.,inconceivable,8.0625,0.305168986083499,0.3442622950819672
+harvesting crops using sleep.,inconceivable,8.4375,0.3817097415506958,0.5253708040593287
+editing a video using honesty.,inconceivable,9.6875,0.305168986083499,0.0647931303669008
+constructing a skyscraper using curiosity.,inconceivable,8.8125,0.3638170974155069,0.4098360655737705
+boiling water using a conversation.,inconceivable,9.5,0.2455268389662027,0.1756440281030445
+framing a picture using gratitude.,inconceivable,8.4375,0.5188866799204771,0.4816549570647931
+boiling water using a whisper.,inconceivable,9.5625,0.1684890656063618,0.5628415300546448
+cooking dinner using a rainbow.,inconceivable,8.9375,0.2246520874751491,0.4691647150663544
+writing a novel using silence.,inconceivable,9.1875,0.5705765407554672,0.5597189695550351
+healing a wound using curiosity.,inconceivable,9.0,0.3558648111332008,0.4316939890710382
+painting a picture using a fragrance.,inconceivable,7.34375,0.3538767395626243,0.6159250585480094
+navigating a map using hunger.,inconceivable,7.78125,0.2922465208747515,0.5347384855581577
+charging a phone using a breeze.,inconceivable,7.21875,0.2892644135188866,0.375487900078064
+baking a cake using sadness.,inconceivable,9.4375,0.3280318091451292,0.4816549570647931
+steering a boat using happiness.,inconceivable,9.625,0.2982107355864811,0.3911007025761124
+cooling a room using a smile.,inconceivable,7.90625,0.4870775347912525,0.5441061670569868
+building a house using laughter.,inconceivable,9.4375,0.4194831013916501,0.5690866510538641
+warming your hands using wisdom.,inconceivable,8.75,0.3131212723658051,0.2880562060889929
+driving a car using a melody.,inconceivable,7.90625,0.588469184890656,0.7814207650273224
+washing clothes using a shadow.,inconceivable,9.625,0.320079522862823,0.4504293520686963
+explaining mathematics using colors.,inconceivable,7.9375,0.6660039761431411,0.4847775175644028
+freezing ice using a thought.,inconceivable,9.375,0.2147117296222664,0.2177985948477751
+taming a lion using a question.,inconceivable,6.5625,0.2972166998011928,0.3005464480874317
+speeding up time using a yawn.,inconceivable,7.28125,0.283300198807157,0.5128805620608899
+climbing a mountain using an echo.,inconceivable,7.125,0.4453280318091451,0.6252927400468384
+sewing a dress using daylight.,inconceivable,9.0,0.2246520874751491,0.4223263075722092
+fixing a clock using dreams.,inconceivable,9.1875,0.4254473161033797,0.4972677595628415
+opening a lock using an opinion.,inconceivable,7.65625,0.1056163021868787,0.189695550351288
+feeding a baby using wishes.,inconceivable,9.8125,0.3091451292246521,0.3286494925839188
+growing a plant using ambition.,inconceivable,8.9375,0.3091451292246521,0.2240437158469945
+painting a wall using courage.,inconceivable,8.5,0.4015904572564612,0.2943013270882123
+printing a document using friendship.,inconceivable,10.5625,0.1264910536779324,0.1053864168618267
+pouring a drink using kindness.,inconceivable,8.5625,0.5646123260437376,0.4285714285714285
+assembling furniture using hope.,inconceivable,11.5,0.2524850894632207,0.2724434035909446
+flying an airplane using imagination.,inconceivable,8.5,0.658051689860835,0.5409836065573771
+cleaning glasses using envy.,inconceivable,12.25,0.1898608349900596,0.2318501170960187
+holding a conversation using colors.,inconceivable,8.3125,0.4055666003976143,0.375487900078064
+making a bed using love.,inconceivable,8.0625,0.1898608349900596,0.4285714285714285
+building a bridge using peace.,inconceivable,8.0625,0.2584493041749503,0.4847775175644028
+energizing a crowd using quietness.,inconceivable,7.78125,0.3777335984095427,0.4285714285714285
+sharpening a pencil using a glance.,inconceivable,7.09375,0.4970178926441352,0.3973458235753317
+catching a fish using poetry.,inconceivable,8.0625,0.5526838966202783,0.4660421545667447
+writing a letter using sunshine.,inconceivable,8.8125,0.2147117296222664,0.384855581576893
+uploading a file using dreams.,inconceivable,6.8125,0.2157057654075546,0.1693989071038251
+sculpting a statue using laughter.,inconceivable,8.5625,0.4592445328031809,0.6284153005464481
+monitoring a heartbeat using a painting.,inconceivable,9.25,0.3976143141153082,0.6159250585480094
+driving to the moon in a bathtub.,inconceivable,6.03125,0.6222664015904572,0.7876658860265418
+writing a letter using footsteps.,inconceivable,9.1875,0.4950298210735586,0.4816549570647931
+knitting a sweater with laughter.,inconceivable,8.0,0.6182902584493042,0.4941451990632318
+charging a phone using a dream.,inconceivable,7.6875,0.3479125248508946,0.3255269320843091
+painting a portrait with whispers.,inconceivable,9.375,0.3499005964214712,0.4473067915690866
+building a house out of echoes.,inconceivable,7.75,0.3379721669980119,0.5784543325526932
+baking a cake from sunshine.,inconceivable,8.75,0.2962226640159046,0.3598750975800156
+catching fish with a shadow.,inconceivable,6.65625,0.5049701789264414,0.4785323965651834
+writing a book from silence.,inconceivable,8.25,0.5427435387673957,0.4098360655737705
+unlocking a door with a sneeze.,inconceivable,7.0625,0.5944333996023857,0.6690085870413739
+photographing the night with a smell.,inconceivable,7.53125,0.0666625248508946,0.4160811865729898
+growing a garden using math.,inconceivable,7.5625,0.6341948310139165,0.4285714285714285
+designing a bridge from ideas.,inconceivable,6.5625,0.4214711729622266,0.2661982825917252
+playing chess with the wind.,inconceivable,6.125,0.588469184890656,0.5940671350507416
+raising a child on tickles.,inconceivable,7.78125,0.4990059642147117,0.4785323965651834
+playing a symphony with stares.,inconceivable,10.1875,0.2624254473161034,0.3130366900858704
+repairing a car using a melody.,inconceivable,7.78125,0.2147117296222664,0.3598750975800156
+sewing a dress with giggles.,inconceivable,9.8125,0.5487077534791253,0.3973458235753317
+flying a kite with thoughts.,inconceivable,8.4375,0.3399602385685885,0.2568306010928962
+constructing a skyscraper with emotions.,inconceivable,8.125,0.4075546719681908,0.4691647150663544
+fishing for stars with a smile.,inconceivable,7.3125,0.4850894632206759,0.4035909445745511
+brewing coffee from wishes.,inconceivable,9.0625,0.283300198807157,0.3380171740827478
+navigating a ship with a doodle.,inconceivable,6.71875,0.558648111332008,0.4910226385636221
+cleaning a room using patience.,inconceivable,9.0,0.5725646123260437,0.3317720530835285
+planting a tree with hope.,inconceivable,6.71875,0.5805168986083499,0.4785323965651834
+taming a lion using poetry.,inconceivable,6.96875,0.6500994035785288,0.5347384855581577
+brewing tea from curiosity.,inconceivable,8.5625,0.441351888667992,0.2880562060889929
+ordering dinner with a hug.,inconceivable,8.25,0.5984095427435387,0.5690866510538641
+filming a movie with fog.,inconceivable,6.96875,0.6779324055666004,0.6502732240437158
+painting a sunset using patience.,inconceivable,10.25,0.5546719681908548,0.4566744730679157
+sculpting a statue with music.,inconceivable,6.75,0.6262425447316103,0.6814988290398126
+solving a puzzle with warmth.,inconceivable,8.875,0.4473161033797216,0.3817330210772833
+driving a car with a question.,inconceivable,6.71875,0.532803180914513,0.1912568306010929
+building a computer from laughter.,inconceivable,9.5,0.6023856858846919,0.5846994535519126
+diving into a book with silence.,inconceivable,7.375,0.4234592445328032,0.4098360655737705
+capturing time with a glance.,inconceivable,5.90625,0.4512922465208747,0.4223263075722092
+navigating the stars with a yawn.,inconceivable,7.09375,0.3320079522862823,0.4473067915690866
+weaving a tapestry with echoes.,inconceivable,7.0,0.3021868787276341,0.4722872755659641
+writing a song from colors.,inconceivable,8.3125,0.3518886679920477,0.3723653395784543
+planting an orchard with imagination.,inconceivable,8.9375,0.6023856858846919,0.4566744730679157
+baking cookies using a whisper.,inconceivable,9.125,0.1317097415506958,0.3536299765807962
+flying a kite using a melody.,inconceivable,8.0625,0.3737574552683896,0.5534738485558157
+driving a car using a compliment.,inconceivable,8.1875,0.3250497017892644,0.2443403590944574
+reading a book using a sneeze.,inconceivable,8.5,0.4671968190854871,0.4098360655737705
+painting a portrait using a giggle.,inconceivable,10.375,0.1908548707753479,0.366120218579235
+writing a letter using a sunrise.,inconceivable,8.5,0.1207753479125248,0.4410616705698673
+building a house using a thought.,inconceivable,7.5625,0.0034791252485089,0.2037470725995316
+brewing coffee using a dream.,inconceivable,7.34375,0.0318091451292246,0.2599531615925058
+planting a tree using a sigh.,inconceivable,8.5625,0.1709741550695825,0.297423887587822
+washing dishes using a shadow.,inconceivable,9.875,0.2733598409542743,0.4035909445745511
+riding a bicycle using a promise.,inconceivable,8.625,0.2117296222664016,0.2115534738485558
+singing a song using a feather.,inconceivable,7.6875,0.584493041749503,0.6565183450429352
+pouring milk using a blink.,inconceivable,9.75,0.1769383697813121,0.2318501170960187
+sewing a dress using a shout.,inconceivable,8.875,0.1309642147117296,0.3442622950819672
+catching a ball using a rumor.,inconceivable,8.5625,0.5149105367793241,0.5659640905542545
+setting the table using a scent.,inconceivable,7.34375,0.2504970178926441,0.4410616705698673
+lighting a candle using a glance.,inconceivable,7.625,0.4671968190854871,0.4192037470725995
+boiling water using a stare.,inconceivable,10.5625,0.2485089463220676,0.3598750975800156
+digging a hole using a wish.,inconceivable,7.40625,0.0,0.2599531615925058
+brushing teeth using a rainbow.,inconceivable,6.78125,0.4234592445328032,0.4566744730679157
+climbing a mountain using a question.,inconceivable,7.5625,0.3230616302186879,0.1085089773614363
+tying a shoelace using a laugh.,inconceivable,6.125,0.4174950298210735,0.4597970335675254
+fixing a clock using a breeze.,inconceivable,8.625,0.1500994035785288,0.4316939890710382
+unlocking a door using a whisper.,inconceivable,6.71875,0.3836978131212724,0.5347384855581577
+making a sandwich using a breeze.,inconceivable,7.75,0.3300198807157057,0.3036690085870414
+driving a train using a daydream.,inconceivable,7.0625,0.4095427435387674,0.4473067915690866
+opening a jar using a smile.,inconceivable,6.59375,0.5168986083499006,0.4473067915690866
+folding a napkin using a lullaby.,inconceivable,7.53125,0.4015904572564612,0.4847775175644028
+reading the news using a color.,inconceivable,7.78125,0.071756958250497,0.2053083528493364
+catching a butterfly using a memory.,inconceivable,7.875,0.0285785288270377,0.2849336455893833
+planting seeds using a melody.,inconceivable,9.125,0.3817097415506958,0.5441061670569868
+weaving a basket using a sneeze.,inconceivable,7.71875,0.180417495029821,0.4566744730679157
+repairing a bicycle using a sunset.,inconceivable,7.65625,0.1928429423459244,0.4566744730679157
+cooking pasta using a nod.,inconceivable,9.1875,0.1282306163021868,0.209992193598751
+hanging clothes using an echo.,inconceivable,9.0,0.1366799204771371,0.3879781420765027
+hunting for treasure using a smell.,inconceivable,9.125,0.4751491053677932,0.7189695550351288
+playing a piano using a hug.,inconceivable,7.6875,0.209741550695825,0.5409836065573771
+watering plants using a joke.,inconceivable,8.875,0.4333996023856858,0.384855581576893
+shopping for groceries using a wave.,inconceivable,7.75,0.1082256461232604,0.3817330210772833
+writing a poem using a tickle.,inconceivable,8.6875,0.1759443339960238,0.5035128805620609

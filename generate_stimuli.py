@@ -9,7 +9,7 @@ def generate(n, feature, description, sentences):
             {"role": "system", "content": "You are a helpful assistant."},
             {
                 "role": "user",
-                "content": f"Help me create a dataset of {feature} scenarios: {description}. Here are some examples:\n{sentences}\nPlease generate {str(n)} more examples for me. Examples should end with a period, should be separated only with a newline, and should not include any other characters."
+                "content": f"Help me create a dataset of {feature} scenarios: {description}. Here are some examples:\n{sentences}\nPlease generate {str(n)} more examples for me. Examples should end with a period and should be separated with a newline."
             }
         ]
     )
@@ -33,24 +33,24 @@ def get_examples(data, feature, n):
 
 if __name__=="__main__":
 
-    TOTAL_SAMPLES = 100
-    PER_BATCH = 25
+    TOTAL_SAMPLES = 200
+    PER_BATCH = 40
     TOTAL_BATCHES = int(TOTAL_SAMPLES/PER_BATCH)
 
     data = pd.read_csv("./data/stimuli_with_syntax.csv")
 
-    improb_file = open("./data/generated_improbable.txt", "w")
-    imposs_file = open("./data/generated_impossible.txt", "w")
-    inc_file = open("./data/generated_inconceivable.txt", "w")
+    improb_file = open("./data/experiment_3/generated_improbable.txt", "w")
+    imposs_file = open("./data/experiment_3/generated_impossible.txt", "w")
+    inc_file = open("./data/experiment_3/generated_inconceivable.txt", "w")
 
-    improb_desc = "scenarios that can happen in the real world, but are merely unlikely"
-    imposs_desc = "scenarios that violate the laws of physics"
-    inc_desc = "scenarios that cannot happen in any world, real or imaginary"
+    improb_desc = "scenarios that are possible in the real world, but are merely unlikely"
+    imposs_desc = "scenarios that one can imagine happening in some universe, but cannot happen in our world because they violate the laws of physics"
+    inc_desc = "scenarios that do not make sense due to some basic conceptual error"
 
     for _ in range(TOTAL_BATCHES):
-        improbable_examples = get_examples(data, "improbable", 10)
-        impossible_examples = get_examples(data, "impossible", 10)
-        nonsensical_examples = get_examples(data, "inconceivable", 10)
+        improbable_examples = get_examples(data, "improbable", 5)
+        impossible_examples = get_examples(data, "impossible", 5)
+        nonsensical_examples = get_examples(data, "inconceivable", 5)
 
         improbable_generations = generate(PER_BATCH, "improbable", improb_desc, improbable_examples)
         improb_file.write(improbable_generations + "\n")

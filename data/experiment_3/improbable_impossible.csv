@@ -1,0 +1,31 @@
+prompt,base_class,surprisal,improbable_impossible,impossible_inconceivable,improbable_impossible_controversial,improbable_impossible_improbable,improbable_impossible_impossible,class
+harnessing lightning in a balloon.,impossible,6.8125,0.8091451292246521,0.843871975019516,False,True,False,improbable_impossible_improbable
+driving to the north pole in a kayak.,impossible,5.3125,0.7972166998011928,0.8001561280249805,False,True,False,improbable_impossible_improbable
+giving a bear a manicure.,improbable,7.46875,0.8449304174950298,0.7439500390320063,False,True,False,improbable_impossible_improbable
+growing vegetables on a rooftop.,improbable,6.0,0.8648111332007953,0.6502732240437158,False,True,False,improbable_impossible_improbable
+eating spaghetti with a single chopstick.,improbable,6.59375,0.8369781312127237,0.8376268540202967,False,True,False,improbable_impossible_improbable
+riding a unicycle through a hurricane.,improbable,5.21875,0.7654075546719682,0.9313036690085872,False,True,False,improbable_impossible_improbable
+carving a statue using a toothbrush.,improbable,6.3125,0.8489065606361829,0.8813427010148321,False,True,False,improbable_impossible_improbable
+sowing seeds using a pencil.,improbable,6.375,0.757455268389662,0.6627634660421545,False,True,False,improbable_impossible_improbable
+wiping windows with a sock.,improbable,6.46875,0.7852882703777336,0.8188914910226386,False,True,False,improbable_impossible_improbable
+making a clock out of seashells.,improbable,6.0,0.8767395626242545,0.8064012490241999,False,True,False,improbable_impossible_improbable
+playing chess on a sandy beach during a windstorm.,improbable,4.90625,0.5188866799204771,0.2693208430913349,False,False,True,improbable_impossible_impossible
+growing a full head of hair instantly by rubbing your scalp.,impossible,4.65625,0.4711729622266402,0.6814988290398126,False,False,True,improbable_impossible_impossible
+turning darkness into light with a frown.,impossible,7.40625,0.3598409542743538,0.3255269320843091,False,False,True,improbable_impossible_impossible
+making a mirror reflect a different dimension.,impossible,7.03125,0.4512922465208747,0.6565183450429352,False,False,True,improbable_impossible_impossible
+hearing colors and seeing sounds physically.,impossible,8.0,0.345924453280318,0.5659640905542545,False,False,True,improbable_impossible_impossible
+growing a garden overnight from a single grain of sand.,impossible,5.59375,0.4353876739562624,0.6939890710382514,False,False,True,improbable_impossible_impossible
+holding a cloud in your hands without it disappearing.,impossible,5.90625,0.3578528827037773,0.5909445745511319,False,False,True,improbable_impossible_impossible
+running faster than the speed of light.,impossible,4.84375,0.4353876739562624,0.5378610460577674,False,False,True,improbable_impossible_impossible
+holding the sun in your hand.,impossible,5.34375,0.4254473161033797,0.6221701795472288,False,False,True,improbable_impossible_impossible
+tasting a symphony with taste buds.,impossible,7.25,0.4572564612326044,0.4254488680718188,False,False,True,improbable_impossible_impossible
+breathing underwater without any equipment using a hat.,impossible,6.75,0.6461232604373758,0.7626854020296643,True,False,False,improbable_impossible_controversial
+cooking pasta using an ice cube.,impossible,6.84375,0.658051689860835,0.9000780640124902,True,False,False,improbable_impossible_controversial
+tuning into distant planets using seashells.,impossible,9.3125,0.658051689860835,0.8001561280249805,True,False,False,improbable_impossible_controversial
+holding water with a sieve.,impossible,7.40625,0.6381709741550696,0.6440281030444965,True,False,False,improbable_impossible_controversial
+writing a love letter in the snow with a broom.,improbable,5.0625,0.6500994035785288,0.6409055425448869,True,False,False,improbable_impossible_controversial
+taking photos at night without a flash.,improbable,4.9375,0.6381709741550696,0.5909445745511319,True,False,False,improbable_impossible_controversial
+crossing the ocean by walking on bubbles.,impossible,6.375,0.6461232604373758,0.8064012490241999,True,False,False,improbable_impossible_controversial
+walking through walls with a key.,impossible,6.59375,0.658051689860835,0.7876658860265418,True,False,False,improbable_impossible_controversial
+making a fire burn underwater without any aid.,impossible,7.375,0.6421471172962226,0.8064012490241999,True,False,False,improbable_impossible_controversial
+using a butter knife to sculpt a marble statue.,improbable,5.21875,0.6500994035785288,0.8313817330210773,True,False,False,improbable_impossible_controversial

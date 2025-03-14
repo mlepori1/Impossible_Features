@@ -1,0 +1,31 @@
+prompt,base_class,surprisal,improbable_impossible,impossible_inconceivable,impossible_inconceivable_controversial,impossible_inconceivable_impossible,impossible_inconceivable_inconceivable,class
+communicating through telepathy with a rock.,impossible,5.71875,0.5666003976143141,0.8313817330210773,False,True,False,impossible_inconceivable_impossible
+boiling water using moonlight.,impossible,10.125,0.5805168986083499,0.7501951600312255,False,True,False,impossible_inconceivable_impossible
+creating infinite energy by spinning in circles.,impossible,6.84375,0.5904572564612326,0.7189695550351288,False,True,False,impossible_inconceivable_impossible
+riding a cloud like a horse.,impossible,6.40625,0.5984095427435387,0.7689305230288837,False,True,False,impossible_inconceivable_impossible
+breathing underwater without any equipment using a hat.,impossible,6.75,0.6461232604373758,0.7626854020296643,False,True,False,impossible_inconceivable_impossible
+baking an ice cake that never melts.,impossible,6.5,0.5288270377733598,0.7689305230288837,False,True,False,impossible_inconceivable_impossible
+communicating with animals using a rubber band.,impossible,6.25,0.8131212723658051,0.8875878220140515,False,True,False,impossible_inconceivable_impossible
+creating a black hole using a wooden spoon.,impossible,5.3125,0.7375745526838966,0.825136612021858,False,True,False,impossible_inconceivable_impossible
+charging a phone with a banana.,impossible,6.0625,0.8091451292246521,0.8376268540202967,False,True,False,impossible_inconceivable_impossible
+powering a city with a single potato.,impossible,6.65625,0.5606361829025845,0.8688524590163934,False,True,False,impossible_inconceivable_impossible
+photographing the night with a smell.,inconceivable,7.53125,0.0666625248508946,0.4160811865729898,False,False,True,impossible_inconceivable_inconceivable
+fishing for stars with a smile.,inconceivable,7.3125,0.4850894632206759,0.4035909445745511,False,False,True,impossible_inconceivable_inconceivable
+energizing a crowd using quietness.,inconceivable,7.78125,0.3777335984095427,0.4285714285714285,False,False,True,impossible_inconceivable_inconceivable
+breathing in colors and exhaling shapes.,impossible,6.1875,0.4632206759443339,0.5909445745511319,False,False,True,impossible_inconceivable_inconceivable
+knitting a sweater with laughter.,inconceivable,8.0,0.6182902584493042,0.4941451990632318,False,False,True,impossible_inconceivable_inconceivable
+melting iron with a thought.,impossible,8.8125,0.3499005964214712,0.4067135050741608,False,False,True,impossible_inconceivable_inconceivable
+driving a car with a shadow.,inconceivable,6.75,0.6063618290258449,0.4473067915690866,False,False,True,impossible_inconceivable_inconceivable
+cooking pasta using a nod.,inconceivable,9.1875,0.1282306163021868,0.209992193598751,False,False,True,impossible_inconceivable_inconceivable
+stretching time to make a day last a year.,impossible,4.78125,0.3499005964214712,0.3942232630757221,False,False,True,impossible_inconceivable_inconceivable
+feeding the cat using mystery.,inconceivable,10.1875,0.1090954274353876,0.2786885245901639,False,False,True,impossible_inconceivable_inconceivable
+turning invisible by holding your breath.,impossible,7.28125,0.5387673956262425,0.6627634660421545,True,False,False,impossible_inconceivable_controversial
+catching a star with a net.,impossible,5.3125,0.6262425447316103,0.6814988290398126,True,False,False,impossible_inconceivable_controversial
+growing a tree in the palm of your hand.,impossible,4.03125,0.4950298210735586,0.6939890710382514,True,False,False,impossible_inconceivable_controversial
+growing a mountain out of a handful of dust.,impossible,5.34375,0.4214711729622266,0.6939890710382514,True,False,False,impossible_inconceivable_controversial
+creating fire from ice.,impossible,8.1875,0.5566600397614314,0.687743950039032,True,False,False,impossible_inconceivable_controversial
+growing a garden overnight from a single grain of sand.,impossible,5.59375,0.4353876739562624,0.6939890710382514,True,False,False,impossible_inconceivable_controversial
+teleporting across the world by closing your eyes.,impossible,4.25,0.4314115308151093,0.6690085870413739,True,False,False,impossible_inconceivable_controversial
+photographing dreams using a flashlight.,impossible,7.90625,0.7335984095427436,0.6814988290398126,True,False,False,impossible_inconceivable_controversial
+unlocking a door with a sneeze.,inconceivable,7.0625,0.5944333996023857,0.6690085870413739,True,False,False,impossible_inconceivable_controversial
+sailing on sound waves.,impossible,9.125,0.5984095427435387,0.6690085870413739,True,False,False,impossible_inconceivable_controversial
