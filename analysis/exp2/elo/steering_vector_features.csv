@@ -1,0 +1,781 @@
+,stimuli,layer,improbable_impossible_projection,impossible_inconceivable_projection
+0,filling a bucket with buildings_impossible,0,-0.07568359375,-0.031982421875
+1,filling a bucket with buildings_impossible,1,-0.12158203125,-0.4140625
+2,filling a bucket with buildings_impossible,2,-0.057373046875,-0.375
+3,filling a bucket with buildings_impossible,3,0.421875,-0.72265625
+4,filling a bucket with buildings_impossible,4,-0.28515625,-2.4375
+5,filling a bucket with buildings_impossible,5,1.0078125,-0.26171875
+6,filling a bucket with buildings_impossible,6,-0.73828125,-2.6875
+7,filling a bucket with buildings_impossible,7,-0.1328125,-7.09375
+8,filling a bucket with buildings_impossible,8,-0.296875,-7.78125
+9,filling a bucket with buildings_impossible,9,0.2197265625,-5.4375
+10,filling a bucket with buildings_impossible,10,1.9453125,-9.125
+11,filling a bucket with buildings_impossible,11,2.65625,-11.75
+12,filling a bucket with buildings_impossible,12,1.859375,-10.25
+13,filling a bucket with buildings_impossible,13,4.21875,-13.5625
+14,filling a bucket with buildings_impossible,14,4.71875,-12.9375
+15,filling a bucket with buildings_impossible,15,2.328125,-19.125
+16,filling a bucket with buildings_impossible,16,3.0625,-16.375
+17,filling a bucket with buildings_impossible,17,-0.314453125,-16.125
+18,filling a bucket with buildings_impossible,18,-0.25390625,-18.125
+19,filling a bucket with buildings_impossible,19,-1.4453125,-14.6875
+20,filling a bucket with buildings_impossible,20,0.2001953125,-13.3125
+21,filling a bucket with buildings_impossible,21,2.953125,-11.6875
+22,filling a bucket with buildings_impossible,22,3.203125,-13.375
+23,filling a bucket with buildings_impossible,23,5.125,-13.0
+24,filling a bucket with buildings_impossible,24,6.1875,-10.75
+25,filling a bucket with buildings_impossible,25,7.40625,14.0
+26,drying laundry using a fan_improbable,0,-0.0595703125,-0.1279296875
+27,drying laundry using a fan_improbable,1,-0.1640625,-0.490234375
+28,drying laundry using a fan_improbable,2,-0.1123046875,-0.435546875
+29,drying laundry using a fan_improbable,3,0.0206298828125,-1.2265625
+30,drying laundry using a fan_improbable,4,-0.671875,-2.75
+31,drying laundry using a fan_improbable,5,0.35546875,-1.21875
+32,drying laundry using a fan_improbable,6,-1.484375,-4.0625
+33,drying laundry using a fan_improbable,7,-1.46875,-8.8125
+34,drying laundry using a fan_improbable,8,-2.296875,-9.875
+35,drying laundry using a fan_improbable,9,-2.65625,-8.3125
+36,drying laundry using a fan_improbable,10,-1.59375,-12.3125
+37,drying laundry using a fan_improbable,11,-3.140625,-16.875
+38,drying laundry using a fan_improbable,12,-4.84375,-15.1875
+39,drying laundry using a fan_improbable,13,-3.28125,-18.125
+40,drying laundry using a fan_improbable,14,-3.125,-17.25
+41,drying laundry using a fan_improbable,15,-7.4375,-25.375
+42,drying laundry using a fan_improbable,16,-6.78125,-21.625
+43,drying laundry using a fan_improbable,17,-9.875,-20.375
+44,drying laundry using a fan_improbable,18,-10.875,-21.25
+45,drying laundry using a fan_improbable,19,-11.625,-18.375
+46,drying laundry using a fan_improbable,20,-10.8125,-17.25
+47,drying laundry using a fan_improbable,21,-8.3125,-15.9375
+48,drying laundry using a fan_improbable,22,-8.0,-17.5
+49,drying laundry using a fan_improbable,23,-7.21875,-17.625
+50,drying laundry using a fan_improbable,24,-6.6875,-14.375
+51,drying laundry using a fan_improbable,25,-6.34375,6.875
+52,unlocking a door using a marshmallow_impossible,0,-0.05810546875,-0.11083984375
+53,unlocking a door using a marshmallow_impossible,1,-0.140625,-0.470703125
+54,unlocking a door using a marshmallow_impossible,2,-0.08056640625,-0.419921875
+55,unlocking a door using a marshmallow_impossible,3,0.78125,-0.8671875
+56,unlocking a door using a marshmallow_impossible,4,0.00335693359375,-2.125
+57,unlocking a door using a marshmallow_impossible,5,1.578125,0.03369140625
+58,unlocking a door using a marshmallow_impossible,6,-0.2890625,-3.078125
+59,unlocking a door using a marshmallow_impossible,7,0.03271484375,-8.0
+60,unlocking a door using a marshmallow_impossible,8,-0.3671875,-9.25
+61,unlocking a door using a marshmallow_impossible,9,0.625,-7.34375
+62,unlocking a door using a marshmallow_impossible,10,2.28125,-11.0
+63,unlocking a door using a marshmallow_impossible,11,3.90625,-14.3125
+64,unlocking a door using a marshmallow_impossible,12,2.015625,-13.5
+65,unlocking a door using a marshmallow_impossible,13,4.15625,-17.75
+66,unlocking a door using a marshmallow_impossible,14,4.90625,-17.375
+67,unlocking a door using a marshmallow_impossible,15,1.703125,-25.25
+68,unlocking a door using a marshmallow_impossible,16,2.1875,-23.0
+69,unlocking a door using a marshmallow_impossible,17,-0.64453125,-22.0
+70,unlocking a door using a marshmallow_impossible,18,0.203125,-24.625
+71,unlocking a door using a marshmallow_impossible,19,-0.6328125,-21.375
+72,unlocking a door using a marshmallow_impossible,20,0.9375,-20.125
+73,unlocking a door using a marshmallow_impossible,21,3.78125,-19.0
+74,unlocking a door using a marshmallow_impossible,22,4.125,-20.875
+75,unlocking a door using a marshmallow_impossible,23,5.84375,-20.875
+76,unlocking a door using a marshmallow_impossible,24,6.6875,-19.75
+77,unlocking a door using a marshmallow_impossible,25,8.9375,0.9765625
+78,building a bridge out of plastic_improbable,0,-0.041259765625,-0.1376953125
+79,building a bridge out of plastic_improbable,1,-0.1591796875,-0.34765625
+80,building a bridge out of plastic_improbable,2,-0.0908203125,-0.333984375
+81,building a bridge out of plastic_improbable,3,0.427734375,-1.046875
+82,building a bridge out of plastic_improbable,4,-0.490234375,-2.6875
+83,building a bridge out of plastic_improbable,5,0.69921875,-0.99609375
+84,building a bridge out of plastic_improbable,6,-1.109375,-3.734375
+85,building a bridge out of plastic_improbable,7,-0.8203125,-8.5625
+86,building a bridge out of plastic_improbable,8,-0.99609375,-9.375
+87,building a bridge out of plastic_improbable,9,-0.8359375,-7.90625
+88,building a bridge out of plastic_improbable,10,0.41796875,-11.875
+89,building a bridge out of plastic_improbable,11,-0.2412109375,-15.6875
+90,building a bridge out of plastic_improbable,12,-1.6640625,-14.0625
+91,building a bridge out of plastic_improbable,13,0.69921875,-17.125
+92,building a bridge out of plastic_improbable,14,1.5,-16.0
+93,building a bridge out of plastic_improbable,15,-0.90234375,-22.125
+94,building a bridge out of plastic_improbable,16,0.2353515625,-19.5
+95,building a bridge out of plastic_improbable,17,-2.90625,-18.5
+96,building a bridge out of plastic_improbable,18,-1.8125,-20.0
+97,building a bridge out of plastic_improbable,19,-2.25,-16.25
+98,building a bridge out of plastic_improbable,20,-0.53125,-14.8125
+99,building a bridge out of plastic_improbable,21,2.46875,-13.25
+100,building a bridge out of plastic_improbable,22,2.703125,-15.1875
+101,building a bridge out of plastic_improbable,23,4.53125,-14.6875
+102,building a bridge out of plastic_improbable,24,5.125,-13.3125
+103,building a bridge out of plastic_improbable,25,5.625,8.875
+104,cooking dinner out of the moon_impossible,0,-0.04248046875,-0.062255859375
+105,cooking dinner out of the moon_impossible,1,-0.125,-0.275390625
+106,cooking dinner out of the moon_impossible,2,-0.049072265625,-0.2265625
+107,cooking dinner out of the moon_impossible,3,0.640625,-0.326171875
+108,cooking dinner out of the moon_impossible,4,-0.1845703125,-2.09375
+109,cooking dinner out of the moon_impossible,5,1.28125,0.2265625
+110,cooking dinner out of the moon_impossible,6,-0.53125,-2.71875
+111,cooking dinner out of the moon_impossible,7,0.326171875,-7.15625
+112,cooking dinner out of the moon_impossible,8,0.419921875,-7.40625
+113,cooking dinner out of the moon_impossible,9,1.0859375,-5.53125
+114,cooking dinner out of the moon_impossible,10,2.609375,-9.25
+115,cooking dinner out of the moon_impossible,11,2.78125,-12.375
+116,cooking dinner out of the moon_impossible,12,1.8671875,-10.375
+117,cooking dinner out of the moon_impossible,13,4.875,-13.6875
+118,cooking dinner out of the moon_impossible,14,5.03125,-13.1875
+119,cooking dinner out of the moon_impossible,15,2.359375,-18.75
+120,cooking dinner out of the moon_impossible,16,3.25,-16.625
+121,cooking dinner out of the moon_impossible,17,0.330078125,-15.3125
+122,cooking dinner out of the moon_impossible,18,0.93359375,-17.25
+123,cooking dinner out of the moon_impossible,19,0.271484375,-13.75
+124,cooking dinner out of the moon_impossible,20,2.203125,-12.4375
+125,cooking dinner out of the moon_impossible,21,4.96875,-11.125
+126,cooking dinner out of the moon_impossible,22,5.28125,-12.9375
+127,cooking dinner out of the moon_impossible,23,7.46875,-12.5625
+128,cooking dinner out of the moon_impossible,24,8.8125,-10.375
+129,cooking dinner out of the moon_impossible,25,12.375,12.9375
+130,writing an equation on a scream_inconceivable,0,-0.06201171875,0.0390625
+131,writing an equation on a scream_inconceivable,1,-0.115234375,-0.10107421875
+132,writing an equation on a scream_inconceivable,2,-0.0159912109375,-0.1328125
+133,writing an equation on a scream_inconceivable,3,0.7734375,0.302734375
+134,writing an equation on a scream_inconceivable,4,-0.034423828125,-1.1015625
+135,writing an equation on a scream_inconceivable,5,1.7890625,2.046875
+136,writing an equation on a scream_inconceivable,6,-0.0177001953125,-0.98046875
+137,writing an equation on a scream_inconceivable,7,0.482421875,-5.125
+138,writing an equation on a scream_inconceivable,8,0.349609375,-5.0
+139,writing an equation on a scream_inconceivable,9,0.77734375,-3.09375
+140,writing an equation on a scream_inconceivable,10,2.0,-6.375
+141,writing an equation on a scream_inconceivable,11,2.78125,-8.875
+142,writing an equation on a scream_inconceivable,12,1.578125,-6.8125
+143,writing an equation on a scream_inconceivable,13,4.59375,-9.125
+144,writing an equation on a scream_inconceivable,14,4.96875,-9.0
+145,writing an equation on a scream_inconceivable,15,2.546875,-13.875
+146,writing an equation on a scream_inconceivable,16,2.90625,-11.3125
+147,writing an equation on a scream_inconceivable,17,-0.212890625,-10.25
+148,writing an equation on a scream_inconceivable,18,0.400390625,-12.1875
+149,writing an equation on a scream_inconceivable,19,-0.1494140625,-8.25
+150,writing an equation on a scream_inconceivable,20,1.640625,-6.625
+151,writing an equation on a scream_inconceivable,21,4.5,-4.25
+152,writing an equation on a scream_inconceivable,22,5.28125,-4.25
+153,writing an equation on a scream_inconceivable,23,7.34375,-2.859375
+154,writing an equation on a scream_inconceivable,24,8.8125,2.1875
+155,writing an equation on a scream_inconceivable,25,12.375,32.5
+156,shaving [POSS] beard using a belief_inconceivable,0,-0.0625,0.05712890625
+157,shaving [POSS] beard using a belief_inconceivable,1,-0.115234375,0.01434326171875
+158,shaving [POSS] beard using a belief_inconceivable,2,-0.033447265625,0.0966796875
+159,shaving [POSS] beard using a belief_inconceivable,3,0.95703125,1.7890625
+160,shaving [POSS] beard using a belief_inconceivable,4,0.26171875,1.0546875
+161,shaving [POSS] beard using a belief_inconceivable,5,2.34375,4.65625
+162,shaving [POSS] beard using a belief_inconceivable,6,0.66015625,2.03125
+163,shaving [POSS] beard using a belief_inconceivable,7,0.71484375,-1.6953125
+164,shaving [POSS] beard using a belief_inconceivable,8,0.451171875,-1.234375
+165,shaving [POSS] beard using a belief_inconceivable,9,1.3515625,0.75
+166,shaving [POSS] beard using a belief_inconceivable,10,2.765625,-2.921875
+167,shaving [POSS] beard using a belief_inconceivable,11,5.15625,-4.40625
+168,shaving [POSS] beard using a belief_inconceivable,12,3.578125,-2.890625
+169,shaving [POSS] beard using a belief_inconceivable,13,5.625,-5.03125
+170,shaving [POSS] beard using a belief_inconceivable,14,5.9375,-5.53125
+171,shaving [POSS] beard using a belief_inconceivable,15,3.125,-10.875
+172,shaving [POSS] beard using a belief_inconceivable,16,3.3125,-9.3125
+173,shaving [POSS] beard using a belief_inconceivable,17,0.2099609375,-9.9375
+174,shaving [POSS] beard using a belief_inconceivable,18,1.4296875,-13.75
+175,shaving [POSS] beard using a belief_inconceivable,19,-0.0791015625,-10.75
+176,shaving [POSS] beard using a belief_inconceivable,20,1.375,-9.1875
+177,shaving [POSS] beard using a belief_inconceivable,21,3.8125,-7.5
+178,shaving [POSS] beard using a belief_inconceivable,22,3.390625,-9.0625
+179,shaving [POSS] beard using a belief_inconceivable,23,4.84375,-9.25
+180,shaving [POSS] beard using a belief_inconceivable,24,4.90625,-8.6875
+181,shaving [POSS] beard using a belief_inconceivable,25,4.4375,13.9375
+182,cutting cardboard using a snore_inconceivable,0,-0.048095703125,-0.15234375
+183,cutting cardboard using a snore_inconceivable,1,-0.1572265625,-0.447265625
+184,cutting cardboard using a snore_inconceivable,2,-0.09130859375,-0.4609375
+185,cutting cardboard using a snore_inconceivable,3,0.58984375,0.0186767578125
+186,cutting cardboard using a snore_inconceivable,4,-0.142578125,-1.2578125
+187,cutting cardboard using a snore_inconceivable,5,1.328125,0.9765625
+188,cutting cardboard using a snore_inconceivable,6,-0.4296875,-2.0
+189,cutting cardboard using a snore_inconceivable,7,0.1552734375,-5.78125
+190,cutting cardboard using a snore_inconceivable,8,-0.19140625,-5.78125
+191,cutting cardboard using a snore_inconceivable,9,0.384765625,-3.046875
+192,cutting cardboard using a snore_inconceivable,10,2.109375,-5.71875
+193,cutting cardboard using a snore_inconceivable,11,4.09375,-7.84375
+194,cutting cardboard using a snore_inconceivable,12,2.4375,-5.8125
+195,cutting cardboard using a snore_inconceivable,13,5.375,-8.125
+196,cutting cardboard using a snore_inconceivable,14,5.375,-7.84375
+197,cutting cardboard using a snore_inconceivable,15,2.84375,-12.75
+198,cutting cardboard using a snore_inconceivable,16,2.65625,-11.375
+199,cutting cardboard using a snore_inconceivable,17,-0.66796875,-10.25
+200,cutting cardboard using a snore_inconceivable,18,-1.1015625,-12.3125
+201,cutting cardboard using a snore_inconceivable,19,-1.1640625,-8.8125
+202,cutting cardboard using a snore_inconceivable,20,0.1669921875,-7.75
+203,cutting cardboard using a snore_inconceivable,21,2.921875,-6.75
+204,cutting cardboard using a snore_inconceivable,22,3.375,-7.40625
+205,cutting cardboard using a snore_inconceivable,23,5.25,-6.6875
+206,cutting cardboard using a snore_inconceivable,24,6.8125,-1.8671875
+207,cutting cardboard using a snore_inconceivable,25,11.3125,26.375
+208,baking a cake inside a sigh_inconceivable,0,-0.07373046875,0.04638671875
+209,baking a cake inside a sigh_inconceivable,1,-0.126953125,-0.203125
+210,baking a cake inside a sigh_inconceivable,2,-0.025146484375,-0.043212890625
+211,baking a cake inside a sigh_inconceivable,3,0.66796875,0.55859375
+212,baking a cake inside a sigh_inconceivable,4,0.002471923828125,-0.310546875
+213,baking a cake inside a sigh_inconceivable,5,1.6015625,2.4375
+214,baking a cake inside a sigh_inconceivable,6,-0.234375,-0.83984375
+215,baking a cake inside a sigh_inconceivable,7,0.3046875,-5.375
+216,baking a cake inside a sigh_inconceivable,8,0.41015625,-5.25
+217,baking a cake inside a sigh_inconceivable,9,1.5,-2.765625
+218,baking a cake inside a sigh_inconceivable,10,3.09375,-5.9375
+219,baking a cake inside a sigh_inconceivable,11,5.625,-7.9375
+220,baking a cake inside a sigh_inconceivable,12,4.8125,-6.1875
+221,baking a cake inside a sigh_inconceivable,13,8.25,-8.875
+222,baking a cake inside a sigh_inconceivable,14,8.4375,-8.5625
+223,baking a cake inside a sigh_inconceivable,15,5.34375,-15.4375
+224,baking a cake inside a sigh_inconceivable,16,5.40625,-13.875
+225,baking a cake inside a sigh_inconceivable,17,1.875,-13.1875
+226,baking a cake inside a sigh_inconceivable,18,2.609375,-16.5
+227,baking a cake inside a sigh_inconceivable,19,1.09375,-12.875
+228,baking a cake inside a sigh_inconceivable,20,2.625,-12.1875
+229,baking a cake inside a sigh_inconceivable,21,5.875,-10.5625
+230,baking a cake inside a sigh_inconceivable,22,6.125,-11.8125
+231,baking a cake inside a sigh_inconceivable,23,8.1875,-11.25
+232,baking a cake inside a sigh_inconceivable,24,9.6875,-7.8125
+233,baking a cake inside a sigh_inconceivable,25,14.375,18.875
+234,hanging a painting using a handshake_inconceivable,0,-0.078125,-0.01806640625
+235,hanging a painting using a handshake_inconceivable,1,-0.1484375,-0.33984375
+236,hanging a painting using a handshake_inconceivable,2,-0.0859375,-0.40234375
+237,hanging a painting using a handshake_inconceivable,3,0.36328125,-0.34765625
+238,hanging a painting using a handshake_inconceivable,4,-0.458984375,-2.078125
+239,hanging a painting using a handshake_inconceivable,5,0.71875,-0.18359375
+240,hanging a painting using a handshake_inconceivable,6,-1.0859375,-3.203125
+241,hanging a painting using a handshake_inconceivable,7,-0.578125,-7.5625
+242,hanging a painting using a handshake_inconceivable,8,-1.296875,-8.4375
+243,hanging a painting using a handshake_inconceivable,9,-1.0625,-6.25
+244,hanging a painting using a handshake_inconceivable,10,0.357421875,-9.6875
+245,hanging a painting using a handshake_inconceivable,11,0.890625,-13.0
+246,hanging a painting using a handshake_inconceivable,12,-0.43359375,-11.875
+247,hanging a painting using a handshake_inconceivable,13,2.390625,-14.375
+248,hanging a painting using a handshake_inconceivable,14,2.328125,-13.8125
+249,hanging a painting using a handshake_inconceivable,15,-1.5625,-21.5
+250,hanging a painting using a handshake_inconceivable,16,-0.80078125,-18.625
+251,hanging a painting using a handshake_inconceivable,17,-3.765625,-17.875
+252,hanging a painting using a handshake_inconceivable,18,-3.375,-20.25
+253,hanging a painting using a handshake_inconceivable,19,-4.21875,-17.25
+254,hanging a painting using a handshake_inconceivable,20,-2.8125,-16.125
+255,hanging a painting using a handshake_inconceivable,21,0.059814453125,-14.3125
+256,hanging a painting using a handshake_inconceivable,22,0.07958984375,-15.625
+257,hanging a painting using a handshake_inconceivable,23,1.6015625,-15.75
+258,hanging a painting using a handshake_inconceivable,24,2.515625,-13.0
+259,hanging a painting using a handshake_inconceivable,25,3.546875,13.375
+260,cleaning a spill using a country_inconceivable,0,-0.0537109375,-0.024658203125
+261,cleaning a spill using a country_inconceivable,1,-0.12158203125,-0.388671875
+262,cleaning a spill using a country_inconceivable,2,-0.0439453125,-0.375
+263,cleaning a spill using a country_inconceivable,3,1.171875,1.2734375
+264,cleaning a spill using a country_inconceivable,4,0.50390625,0.75390625
+265,cleaning a spill using a country_inconceivable,5,2.671875,4.53125
+266,cleaning a spill using a country_inconceivable,6,0.76171875,2.390625
+267,cleaning a spill using a country_inconceivable,7,1.015625,-1.375
+268,cleaning a spill using a country_inconceivable,8,0.53515625,-1.546875
+269,cleaning a spill using a country_inconceivable,9,1.0078125,-0.046142578125
+270,cleaning a spill using a country_inconceivable,10,2.578125,-3.359375
+271,cleaning a spill using a country_inconceivable,11,4.9375,-5.25
+272,cleaning a spill using a country_inconceivable,12,3.28125,-3.171875
+273,cleaning a spill using a country_inconceivable,13,6.5625,-5.375
+274,cleaning a spill using a country_inconceivable,14,7.03125,-4.78125
+275,cleaning a spill using a country_inconceivable,15,4.90625,-8.375
+276,cleaning a spill using a country_inconceivable,16,5.375,-4.65625
+277,cleaning a spill using a country_inconceivable,17,1.90625,-3.984375
+278,cleaning a spill using a country_inconceivable,18,1.7890625,-7.625
+279,cleaning a spill using a country_inconceivable,19,1.0078125,-4.25
+280,cleaning a spill using a country_inconceivable,20,2.4375,-3.5625
+281,cleaning a spill using a country_inconceivable,21,5.40625,-2.03125
+282,cleaning a spill using a country_inconceivable,22,5.65625,-3.25
+283,cleaning a spill using a country_inconceivable,23,7.53125,-3.109375
+284,cleaning a spill using a country_inconceivable,24,8.625,0.578125
+285,cleaning a spill using a country_inconceivable,25,12.125,27.25
+286,crafting a bowl out of smoke_impossible,0,-0.05126953125,-0.07470703125
+287,crafting a bowl out of smoke_impossible,1,-0.150390625,-0.388671875
+288,crafting a bowl out of smoke_impossible,2,-0.087890625,-0.388671875
+289,crafting a bowl out of smoke_impossible,3,0.57421875,-0.76171875
+290,crafting a bowl out of smoke_impossible,4,-0.185546875,-2.46875
+291,crafting a bowl out of smoke_impossible,5,1.171875,-0.3046875
+292,crafting a bowl out of smoke_impossible,6,-0.65234375,-3.125
+293,crafting a bowl out of smoke_impossible,7,0.0751953125,-7.375
+294,crafting a bowl out of smoke_impossible,8,0.06884765625,-8.0625
+295,crafting a bowl out of smoke_impossible,9,0.8125,-5.9375
+296,crafting a bowl out of smoke_impossible,10,2.359375,-9.625
+297,crafting a bowl out of smoke_impossible,11,4.15625,-12.0
+298,crafting a bowl out of smoke_impossible,12,3.46875,-10.4375
+299,crafting a bowl out of smoke_impossible,13,7.0,-13.3125
+300,crafting a bowl out of smoke_impossible,14,7.3125,-12.6875
+301,crafting a bowl out of smoke_impossible,15,4.75,-18.875
+302,crafting a bowl out of smoke_impossible,16,5.78125,-17.25
+303,crafting a bowl out of smoke_impossible,17,2.546875,-16.25
+304,crafting a bowl out of smoke_impossible,18,3.296875,-19.0
+305,crafting a bowl out of smoke_impossible,19,1.7890625,-15.9375
+306,crafting a bowl out of smoke_impossible,20,3.515625,-14.6875
+307,crafting a bowl out of smoke_impossible,21,6.46875,-13.375
+308,crafting a bowl out of smoke_impossible,22,6.90625,-15.375
+309,crafting a bowl out of smoke_impossible,23,9.0,-14.9375
+310,crafting a bowl out of smoke_impossible,24,10.3125,-14.0
+311,crafting a bowl out of smoke_impossible,25,13.875,9.0625
+312,cooling a room using a taste_inconceivable,0,-0.05322265625,-0.0194091796875
+313,cooling a room using a taste_inconceivable,1,-0.062255859375,-0.515625
+314,cooling a room using a taste_inconceivable,2,0.043212890625,-0.58203125
+315,cooling a room using a taste_inconceivable,3,1.046875,1.5078125
+316,cooling a room using a taste_inconceivable,4,0.5,0.57421875
+317,cooling a room using a taste_inconceivable,5,2.453125,4.09375
+318,cooling a room using a taste_inconceivable,6,0.6484375,1.546875
+319,cooling a room using a taste_inconceivable,7,0.921875,-2.3125
+320,cooling a room using a taste_inconceivable,8,0.6953125,-2.171875
+321,cooling a room using a taste_inconceivable,9,1.3203125,-0.0361328125
+322,cooling a room using a taste_inconceivable,10,3.359375,-2.359375
+323,cooling a room using a taste_inconceivable,11,6.09375,-4.5
+324,cooling a room using a taste_inconceivable,12,4.5,-2.953125
+325,cooling a room using a taste_inconceivable,13,7.6875,-5.15625
+326,cooling a room using a taste_inconceivable,14,7.71875,-5.71875
+327,cooling a room using a taste_inconceivable,15,5.5,-10.1875
+328,cooling a room using a taste_inconceivable,16,5.09375,-8.6875
+329,cooling a room using a taste_inconceivable,17,1.4921875,-7.1875
+330,cooling a room using a taste_inconceivable,18,1.390625,-9.875
+331,cooling a room using a taste_inconceivable,19,1.0859375,-5.84375
+332,cooling a room using a taste_inconceivable,20,2.171875,-4.78125
+333,cooling a room using a taste_inconceivable,21,4.90625,-3.203125
+334,cooling a room using a taste_inconceivable,22,5.46875,-4.34375
+335,cooling a room using a taste_inconceivable,23,7.375,-3.71875
+336,cooling a room using a taste_inconceivable,24,8.625,0.7265625
+337,cooling a room using a taste_inconceivable,25,13.6875,26.625
+338,digging a hole using dirt_impossible,0,-0.028076171875,-0.15625
+339,digging a hole using dirt_impossible,1,-0.138671875,-0.455078125
+340,digging a hole using dirt_impossible,2,-0.07958984375,-0.37109375
+341,digging a hole using dirt_impossible,3,0.77734375,-0.55078125
+342,digging a hole using dirt_impossible,4,-0.2265625,-2.46875
+343,digging a hole using dirt_impossible,5,0.71875,-1.21875
+344,digging a hole using dirt_impossible,6,-1.0859375,-3.796875
+345,digging a hole using dirt_impossible,7,-0.96484375,-8.4375
+346,digging a hole using dirt_impossible,8,-1.71875,-9.75
+347,digging a hole using dirt_impossible,9,-1.53125,-7.6875
+348,digging a hole using dirt_impossible,10,0.0079345703125,-11.125
+349,digging a hole using dirt_impossible,11,0.041015625,-13.9375
+350,digging a hole using dirt_impossible,12,-1.3125,-12.6875
+351,digging a hole using dirt_impossible,13,0.7578125,-14.6875
+352,digging a hole using dirt_impossible,14,1.34375,-14.0625
+353,digging a hole using dirt_impossible,15,-2.28125,-20.75
+354,digging a hole using dirt_impossible,16,-1.8671875,-18.5
+355,digging a hole using dirt_impossible,17,-4.1875,-16.875
+356,digging a hole using dirt_impossible,18,-3.296875,-19.625
+357,digging a hole using dirt_impossible,19,-4.125,-16.5
+358,digging a hole using dirt_impossible,20,-2.625,-15.3125
+359,digging a hole using dirt_impossible,21,0.291015625,-14.0625
+360,digging a hole using dirt_impossible,22,0.201171875,-15.6875
+361,digging a hole using dirt_impossible,23,2.078125,-15.5
+362,digging a hole using dirt_impossible,24,2.515625,-15.0625
+363,digging a hole using dirt_impossible,25,1.78125,6.40625
+364,taking a vacation to the sun_impossible,0,-0.02978515625,-0.047119140625
+365,taking a vacation to the sun_impossible,1,-0.10888671875,-0.2119140625
+366,taking a vacation to the sun_impossible,2,-0.0257568359375,-0.1708984375
+367,taking a vacation to the sun_impossible,3,0.51953125,-0.5703125
+368,taking a vacation to the sun_impossible,4,-0.275390625,-1.796875
+369,taking a vacation to the sun_impossible,5,0.82421875,-0.039306640625
+370,taking a vacation to the sun_impossible,6,-1.0859375,-2.671875
+371,taking a vacation to the sun_impossible,7,-0.390625,-5.96875
+372,taking a vacation to the sun_impossible,8,-0.38671875,-6.21875
+373,taking a vacation to the sun_impossible,9,0.28125,-4.375
+374,taking a vacation to the sun_impossible,10,1.3515625,-8.125
+375,taking a vacation to the sun_impossible,11,1.0625,-11.375
+376,taking a vacation to the sun_impossible,12,-0.251953125,-9.8125
+377,taking a vacation to the sun_impossible,13,2.859375,-12.0
+378,taking a vacation to the sun_impossible,14,3.375,-11.625
+379,taking a vacation to the sun_impossible,15,0.44140625,-17.5
+380,taking a vacation to the sun_impossible,16,1.7421875,-15.1875
+381,taking a vacation to the sun_impossible,17,-0.3203125,-14.375
+382,taking a vacation to the sun_impossible,18,1.015625,-17.375
+383,taking a vacation to the sun_impossible,19,-0.443359375,-14.5
+384,taking a vacation to the sun_impossible,20,1.5546875,-13.4375
+385,taking a vacation to the sun_impossible,21,4.65625,-11.1875
+386,taking a vacation to the sun_impossible,22,5.0,-12.6875
+387,taking a vacation to the sun_impossible,23,7.09375,-12.75
+388,taking a vacation to the sun_impossible,24,8.0625,-11.8125
+389,taking a vacation to the sun_impossible,25,10.25,8.5
+390,eating soup using a bucket_improbable,0,-0.06103515625,-0.1416015625
+391,eating soup using a bucket_improbable,1,-0.1513671875,-0.435546875
+392,eating soup using a bucket_improbable,2,-0.087890625,-0.361328125
+393,eating soup using a bucket_improbable,3,0.1728515625,-1.125
+394,eating soup using a bucket_improbable,4,-0.55859375,-2.5625
+395,eating soup using a bucket_improbable,5,0.5703125,-0.9609375
+396,eating soup using a bucket_improbable,6,-1.1015625,-3.640625
+397,eating soup using a bucket_improbable,7,-0.85546875,-8.375
+398,eating soup using a bucket_improbable,8,-1.625,-9.3125
+399,eating soup using a bucket_improbable,9,-1.3671875,-7.46875
+400,eating soup using a bucket_improbable,10,-0.3125,-11.625
+401,eating soup using a bucket_improbable,11,-1.203125,-15.625
+402,eating soup using a bucket_improbable,12,-2.96875,-14.25
+403,eating soup using a bucket_improbable,13,-1.015625,-18.25
+404,eating soup using a bucket_improbable,14,-0.53515625,-17.625
+405,eating soup using a bucket_improbable,15,-5.21875,-25.625
+406,eating soup using a bucket_improbable,16,-4.53125,-22.25
+407,eating soup using a bucket_improbable,17,-7.78125,-21.875
+408,eating soup using a bucket_improbable,18,-7.84375,-23.75
+409,eating soup using a bucket_improbable,19,-8.4375,-20.75
+410,eating soup using a bucket_improbable,20,-7.1875,-19.625
+411,eating soup using a bucket_improbable,21,-4.3125,-18.125
+412,eating soup using a bucket_improbable,22,-4.4375,-20.375
+413,eating soup using a bucket_improbable,23,-3.4375,-20.625
+414,eating soup using a bucket_improbable,24,-3.03125,-19.125
+415,eating soup using a bucket_improbable,25,-3.890625,-0.46484375
+416,lighting a candle using yogurt_impossible,0,-0.054443359375,-0.1484375
+417,lighting a candle using yogurt_impossible,1,-0.1435546875,-0.3671875
+418,lighting a candle using yogurt_impossible,2,-0.0771484375,-0.3359375
+419,lighting a candle using yogurt_impossible,3,0.474609375,-1.125
+420,lighting a candle using yogurt_impossible,4,-0.2099609375,-2.59375
+421,lighting a candle using yogurt_impossible,5,1.171875,-0.427734375
+422,lighting a candle using yogurt_impossible,6,-0.609375,-3.125
+423,lighting a candle using yogurt_impossible,7,-0.0263671875,-8.125
+424,lighting a candle using yogurt_impossible,8,-0.3046875,-9.0625
+425,lighting a candle using yogurt_impossible,9,-0.004150390625,-7.46875
+426,lighting a candle using yogurt_impossible,10,1.3359375,-11.4375
+427,lighting a candle using yogurt_impossible,11,1.6640625,-15.25
+428,lighting a candle using yogurt_impossible,12,0.1083984375,-13.3125
+429,lighting a candle using yogurt_impossible,13,3.1875,-17.125
+430,lighting a candle using yogurt_impossible,14,3.296875,-16.875
+431,lighting a candle using yogurt_impossible,15,0.0947265625,-24.25
+432,lighting a candle using yogurt_impossible,16,0.95703125,-21.625
+433,lighting a candle using yogurt_impossible,17,-1.984375,-20.0
+434,lighting a candle using yogurt_impossible,18,-0.87890625,-22.5
+435,lighting a candle using yogurt_impossible,19,-1.828125,-19.125
+436,lighting a candle using yogurt_impossible,20,-0.376953125,-18.375
+437,lighting a candle using yogurt_impossible,21,2.578125,-17.0
+438,lighting a candle using yogurt_impossible,22,2.9375,-19.375
+439,lighting a candle using yogurt_impossible,23,4.875,-19.125
+440,lighting a candle using yogurt_impossible,24,5.46875,-18.25
+441,lighting a candle using yogurt_impossible,25,8.5,0.97265625
+442,polishing jewelry using a chainsaw_impossible,0,-0.06640625,-0.16015625
+443,polishing jewelry using a chainsaw_impossible,1,-0.1513671875,-0.54296875
+444,polishing jewelry using a chainsaw_impossible,2,-0.09326171875,-0.6328125
+445,polishing jewelry using a chainsaw_impossible,3,-0.01513671875,-1.4921875
+446,polishing jewelry using a chainsaw_impossible,4,-0.84375,-3.234375
+447,polishing jewelry using a chainsaw_impossible,5,-0.11767578125,-2.046875
+448,polishing jewelry using a chainsaw_impossible,6,-1.9140625,-4.71875
+449,polishing jewelry using a chainsaw_impossible,7,-1.8359375,-9.5625
+450,polishing jewelry using a chainsaw_impossible,8,-2.5625,-10.625
+451,polishing jewelry using a chainsaw_impossible,9,-2.828125,-8.75
+452,polishing jewelry using a chainsaw_impossible,10,-2.015625,-12.5
+453,polishing jewelry using a chainsaw_impossible,11,-2.328125,-16.5
+454,polishing jewelry using a chainsaw_impossible,12,-3.65625,-14.8125
+455,polishing jewelry using a chainsaw_impossible,13,-0.58984375,-18.875
+456,polishing jewelry using a chainsaw_impossible,14,-0.3203125,-18.25
+457,polishing jewelry using a chainsaw_impossible,15,-3.4375,-26.375
+458,polishing jewelry using a chainsaw_impossible,16,-2.890625,-23.25
+459,polishing jewelry using a chainsaw_impossible,17,-5.125,-22.375
+460,polishing jewelry using a chainsaw_impossible,18,-4.71875,-24.375
+461,polishing jewelry using a chainsaw_impossible,19,-5.0,-21.5
+462,polishing jewelry using a chainsaw_impossible,20,-3.453125,-20.625
+463,polishing jewelry using a chainsaw_impossible,21,-0.78515625,-19.5
+464,polishing jewelry using a chainsaw_impossible,22,-0.4921875,-21.375
+465,polishing jewelry using a chainsaw_impossible,23,1.0,-21.625
+466,polishing jewelry using a chainsaw_impossible,24,1.984375,-19.625
+467,polishing jewelry using a chainsaw_impossible,25,3.34375,-1.921875
+468,squishing a blueberry using [POSS] nose_improbable,0,-0.054443359375,-0.06591796875
+469,squishing a blueberry using [POSS] nose_improbable,1,-0.1171875,-0.439453125
+470,squishing a blueberry using [POSS] nose_improbable,2,-0.05029296875,-0.3515625
+471,squishing a blueberry using [POSS] nose_improbable,3,0.33203125,-0.7578125
+472,squishing a blueberry using [POSS] nose_improbable,4,-0.423828125,-2.328125
+473,squishing a blueberry using [POSS] nose_improbable,5,0.8515625,-0.4921875
+474,squishing a blueberry using [POSS] nose_improbable,6,-1.0703125,-3.296875
+475,squishing a blueberry using [POSS] nose_improbable,7,-0.90234375,-8.25
+476,squishing a blueberry using [POSS] nose_improbable,8,-1.578125,-9.4375
+477,squishing a blueberry using [POSS] nose_improbable,9,-1.4609375,-7.46875
+478,squishing a blueberry using [POSS] nose_improbable,10,-0.248046875,-11.4375
+479,squishing a blueberry using [POSS] nose_improbable,11,-0.9453125,-15.0
+480,squishing a blueberry using [POSS] nose_improbable,12,-2.1875,-13.875
+481,squishing a blueberry using [POSS] nose_improbable,13,0.12109375,-16.625
+482,squishing a blueberry using [POSS] nose_improbable,14,0.74609375,-15.5625
+483,squishing a blueberry using [POSS] nose_improbable,15,-2.703125,-23.5
+484,squishing a blueberry using [POSS] nose_improbable,16,-1.4140625,-21.0
+485,squishing a blueberry using [POSS] nose_improbable,17,-3.5,-19.5
+486,squishing a blueberry using [POSS] nose_improbable,18,-2.28125,-22.25
+487,squishing a blueberry using [POSS] nose_improbable,19,-3.328125,-19.5
+488,squishing a blueberry using [POSS] nose_improbable,20,-1.2578125,-18.5
+489,squishing a blueberry using [POSS] nose_improbable,21,1.9609375,-17.25
+490,squishing a blueberry using [POSS] nose_improbable,22,2.015625,-19.625
+491,squishing a blueberry using [POSS] nose_improbable,23,3.890625,-19.5
+492,squishing a blueberry using [POSS] nose_improbable,24,4.84375,-17.625
+493,squishing a blueberry using [POSS] nose_improbable,25,6.71875,2.703125
+494,painting a wall using a whisper_inconceivable,0,-0.0634765625,-0.0174560546875
+495,painting a wall using a whisper_inconceivable,1,-0.14453125,-0.29296875
+496,painting a wall using a whisper_inconceivable,2,-0.0546875,-0.255859375
+497,painting a wall using a whisper_inconceivable,3,0.92578125,0.5078125
+498,painting a wall using a whisper_inconceivable,4,0.201171875,-0.73828125
+499,painting a wall using a whisper_inconceivable,5,2.171875,2.234375
+500,painting a wall using a whisper_inconceivable,6,0.4609375,-0.8203125
+501,painting a wall using a whisper_inconceivable,7,0.89453125,-5.25
+502,painting a wall using a whisper_inconceivable,8,0.94921875,-5.0
+503,painting a wall using a whisper_inconceivable,9,2.203125,-2.453125
+504,painting a wall using a whisper_inconceivable,10,3.890625,-5.53125
+505,painting a wall using a whisper_inconceivable,11,6.9375,-7.15625
+506,painting a wall using a whisper_inconceivable,12,5.9375,-5.53125
+507,painting a wall using a whisper_inconceivable,13,8.5625,-8.1875
+508,painting a wall using a whisper_inconceivable,14,8.9375,-7.5625
+509,painting a wall using a whisper_inconceivable,15,5.65625,-13.6875
+510,painting a wall using a whisper_inconceivable,16,5.75,-10.125
+511,painting a wall using a whisper_inconceivable,17,1.5859375,-9.6875
+512,painting a wall using a whisper_inconceivable,18,1.015625,-12.5625
+513,painting a wall using a whisper_inconceivable,19,-0.310546875,-9.4375
+514,painting a wall using a whisper_inconceivable,20,0.75,-8.25
+515,painting a wall using a whisper_inconceivable,21,3.546875,-6.4375
+516,painting a wall using a whisper_inconceivable,22,3.984375,-7.4375
+517,painting a wall using a whisper_inconceivable,23,5.8125,-6.875
+518,painting a wall using a whisper_inconceivable,24,7.4375,-1.9140625
+519,painting a wall using a whisper_inconceivable,25,11.1875,29.25
+520,catching a fish in a puddle_improbable,0,-0.06640625,-0.08251953125
+521,catching a fish in a puddle_improbable,1,-0.1337890625,-0.447265625
+522,catching a fish in a puddle_improbable,2,-0.068359375,-0.40234375
+523,catching a fish in a puddle_improbable,3,0.30078125,-1.0625
+524,catching a fish in a puddle_improbable,4,-0.5625,-2.8125
+525,catching a fish in a puddle_improbable,5,0.1025390625,-1.9296875
+526,catching a fish in a puddle_improbable,6,-1.6640625,-4.65625
+527,catching a fish in a puddle_improbable,7,-1.40625,-8.9375
+528,catching a fish in a puddle_improbable,8,-2.171875,-9.875
+529,catching a fish in a puddle_improbable,9,-2.0625,-8.0
+530,catching a fish in a puddle_improbable,10,-1.5078125,-11.5625
+531,catching a fish in a puddle_improbable,11,-3.484375,-15.4375
+532,catching a fish in a puddle_improbable,12,-4.9375,-13.9375
+533,catching a fish in a puddle_improbable,13,-2.515625,-16.75
+534,catching a fish in a puddle_improbable,14,-2.40625,-16.125
+535,catching a fish in a puddle_improbable,15,-6.53125,-24.125
+536,catching a fish in a puddle_improbable,16,-5.8125,-20.875
+537,catching a fish in a puddle_improbable,17,-9.0,-19.625
+538,catching a fish in a puddle_improbable,18,-9.75,-21.125
+539,catching a fish in a puddle_improbable,19,-10.1875,-18.25
+540,catching a fish in a puddle_improbable,20,-8.9375,-16.875
+541,catching a fish in a puddle_improbable,21,-6.09375,-15.25
+542,catching a fish in a puddle_improbable,22,-5.75,-16.75
+543,catching a fish in a puddle_improbable,23,-4.78125,-16.125
+544,catching a fish in a puddle_improbable,24,-3.71875,-14.25
+545,catching a fish in a puddle_improbable,25,-2.5,9.0625
+546,packing a suit inside a pocket_improbable,0,-0.06396484375,-0.0810546875
+547,packing a suit inside a pocket_improbable,1,-0.125,-0.44140625
+548,packing a suit inside a pocket_improbable,2,-0.058349609375,-0.458984375
+549,packing a suit inside a pocket_improbable,3,-0.0498046875,-1.3984375
+550,packing a suit inside a pocket_improbable,4,-0.796875,-3.078125
+551,packing a suit inside a pocket_improbable,5,-0.1484375,-1.9921875
+552,packing a suit inside a pocket_improbable,6,-1.6796875,-4.125
+553,packing a suit inside a pocket_improbable,7,-1.2265625,-8.4375
+554,packing a suit inside a pocket_improbable,8,-1.8984375,-9.375
+555,packing a suit inside a pocket_improbable,9,-1.9140625,-7.8125
+556,packing a suit inside a pocket_improbable,10,-0.61328125,-11.625
+557,packing a suit inside a pocket_improbable,11,-1.7578125,-15.4375
+558,packing a suit inside a pocket_improbable,12,-3.0,-14.375
+559,packing a suit inside a pocket_improbable,13,-0.66796875,-17.375
+560,packing a suit inside a pocket_improbable,14,0.08251953125,-16.0
+561,packing a suit inside a pocket_improbable,15,-3.25,-23.875
+562,packing a suit inside a pocket_improbable,16,-2.109375,-20.75
+563,packing a suit inside a pocket_improbable,17,-4.75,-19.625
+564,packing a suit inside a pocket_improbable,18,-3.546875,-22.125
+565,packing a suit inside a pocket_improbable,19,-4.4375,-18.875
+566,packing a suit inside a pocket_improbable,20,-2.828125,-17.375
+567,packing a suit inside a pocket_improbable,21,-0.2314453125,-15.875
+568,packing a suit inside a pocket_improbable,22,-0.3125,-17.625
+569,packing a suit inside a pocket_improbable,23,1.4140625,-17.5
+570,packing a suit inside a pocket_improbable,24,1.828125,-16.5
+571,packing a suit inside a pocket_improbable,25,1.4609375,7.96875
+572,sewing a shirt using a toothpick_improbable,0,-0.08447265625,-0.1259765625
+573,sewing a shirt using a toothpick_improbable,1,-0.1806640625,-0.6328125
+574,sewing a shirt using a toothpick_improbable,2,-0.1376953125,-0.6640625
+575,sewing a shirt using a toothpick_improbable,3,-0.037353515625,-1.640625
+576,sewing a shirt using a toothpick_improbable,4,-0.8125,-3.234375
+577,sewing a shirt using a toothpick_improbable,5,0.10986328125,-1.796875
+578,sewing a shirt using a toothpick_improbable,6,-1.5390625,-4.625
+579,sewing a shirt using a toothpick_improbable,7,-1.5234375,-9.1875
+580,sewing a shirt using a toothpick_improbable,8,-2.21875,-9.75
+581,sewing a shirt using a toothpick_improbable,9,-1.9921875,-7.8125
+582,sewing a shirt using a toothpick_improbable,10,-0.66796875,-11.5625
+583,sewing a shirt using a toothpick_improbable,11,0.283203125,-14.875
+584,sewing a shirt using a toothpick_improbable,12,-1.3046875,-13.125
+585,sewing a shirt using a toothpick_improbable,13,1.953125,-17.0
+586,sewing a shirt using a toothpick_improbable,14,2.171875,-16.375
+587,sewing a shirt using a toothpick_improbable,15,-1.3359375,-23.625
+588,sewing a shirt using a toothpick_improbable,16,-0.65625,-20.75
+589,sewing a shirt using a toothpick_improbable,17,-3.5625,-19.625
+590,sewing a shirt using a toothpick_improbable,18,-2.765625,-22.125
+591,sewing a shirt using a toothpick_improbable,19,-3.53125,-19.0
+592,sewing a shirt using a toothpick_improbable,20,-2.15625,-18.0
+593,sewing a shirt using a toothpick_improbable,21,0.5703125,-16.75
+594,sewing a shirt using a toothpick_improbable,22,0.4375,-18.75
+595,sewing a shirt using a toothpick_improbable,23,2.078125,-18.875
+596,sewing a shirt using a toothpick_improbable,24,2.59375,-17.375
+597,sewing a shirt using a toothpick_improbable,25,3.1875,4.40625
+598,carrying groceries inside a backpack_improbable,0,-0.07763671875,-0.1240234375
+599,carrying groceries inside a backpack_improbable,1,-0.1474609375,-0.474609375
+600,carrying groceries inside a backpack_improbable,2,-0.08203125,-0.439453125
+601,carrying groceries inside a backpack_improbable,3,-0.0037994384765625,-1.2890625
+602,carrying groceries inside a backpack_improbable,4,-0.8984375,-2.890625
+603,carrying groceries inside a backpack_improbable,5,-0.3515625,-2.3125
+604,carrying groceries inside a backpack_improbable,6,-1.9453125,-4.4375
+605,carrying groceries inside a backpack_improbable,7,-2.125,-8.5
+606,carrying groceries inside a backpack_improbable,8,-3.171875,-9.4375
+607,carrying groceries inside a backpack_improbable,9,-3.65625,-8.0
+608,carrying groceries inside a backpack_improbable,10,-2.90625,-11.5
+609,carrying groceries inside a backpack_improbable,11,-5.75,-15.9375
+610,carrying groceries inside a backpack_improbable,12,-7.40625,-14.25
+611,carrying groceries inside a backpack_improbable,13,-5.53125,-16.5
+612,carrying groceries inside a backpack_improbable,14,-5.875,-15.5625
+613,carrying groceries inside a backpack_improbable,15,-10.3125,-22.375
+614,carrying groceries inside a backpack_improbable,16,-9.8125,-19.5
+615,carrying groceries inside a backpack_improbable,17,-12.4375,-18.625
+616,carrying groceries inside a backpack_improbable,18,-13.375,-20.25
+617,carrying groceries inside a backpack_improbable,19,-13.6875,-18.25
+618,carrying groceries inside a backpack_improbable,20,-12.6875,-17.125
+619,carrying groceries inside a backpack_improbable,21,-10.5,-15.6875
+620,carrying groceries inside a backpack_improbable,22,-10.75,-17.375
+621,carrying groceries inside a backpack_improbable,23,-10.3125,-17.375
+622,carrying groceries inside a backpack_improbable,24,-10.125,-15.375
+623,carrying groceries inside a backpack_improbable,25,-11.625,6.5625
+624,drinking a cup full of minutes_inconceivable,0,-0.06640625,0.044921875
+625,drinking a cup full of minutes_inconceivable,1,-0.123046875,-0.169921875
+626,drinking a cup full of minutes_inconceivable,2,-0.056884765625,-0.14453125
+627,drinking a cup full of minutes_inconceivable,3,0.3984375,0.0986328125
+628,drinking a cup full of minutes_inconceivable,4,-0.2578125,-0.90625
+629,drinking a cup full of minutes_inconceivable,5,1.5,2.75
+630,drinking a cup full of minutes_inconceivable,6,-0.423828125,0.37890625
+631,drinking a cup full of minutes_inconceivable,7,0.248046875,-2.796875
+632,drinking a cup full of minutes_inconceivable,8,0.236328125,-2.625
+633,drinking a cup full of minutes_inconceivable,9,0.79296875,-0.7265625
+634,drinking a cup full of minutes_inconceivable,10,1.9921875,-4.21875
+635,drinking a cup full of minutes_inconceivable,11,3.5625,-6.09375
+636,drinking a cup full of minutes_inconceivable,12,2.03125,-5.0625
+637,drinking a cup full of minutes_inconceivable,13,4.375,-7.9375
+638,drinking a cup full of minutes_inconceivable,14,4.3125,-8.0625
+639,drinking a cup full of minutes_inconceivable,15,2.46875,-11.5
+640,drinking a cup full of minutes_inconceivable,16,3.28125,-11.4375
+641,drinking a cup full of minutes_inconceivable,17,0.79296875,-10.375
+642,drinking a cup full of minutes_inconceivable,18,1.8359375,-13.4375
+643,drinking a cup full of minutes_inconceivable,19,0.8125,-10.0
+644,drinking a cup full of minutes_inconceivable,20,2.4375,-8.625
+645,drinking a cup full of minutes_inconceivable,21,5.375,-7.25
+646,drinking a cup full of minutes_inconceivable,22,5.1875,-8.875
+647,drinking a cup full of minutes_inconceivable,23,7.1875,-8.1875
+648,drinking a cup full of minutes_inconceivable,24,7.59375,-7.0
+649,drinking a cup full of minutes_inconceivable,25,9.1875,16.875
+650,shattering a window using confetti_impossible,0,-0.054443359375,-0.11767578125
+651,shattering a window using confetti_impossible,1,-0.11474609375,-0.279296875
+652,shattering a window using confetti_impossible,2,-0.0281982421875,-0.244140625
+653,shattering a window using confetti_impossible,3,0.5859375,-0.609375
+654,shattering a window using confetti_impossible,4,-0.2138671875,-2.5625
+655,shattering a window using confetti_impossible,5,0.8359375,-1.046875
+656,shattering a window using confetti_impossible,6,-1.2578125,-3.953125
+657,shattering a window using confetti_impossible,7,-0.87890625,-8.8125
+658,shattering a window using confetti_impossible,8,-1.28125,-9.8125
+659,shattering a window using confetti_impossible,9,-1.203125,-8.0625
+660,shattering a window using confetti_impossible,10,0.10009765625,-11.9375
+661,shattering a window using confetti_impossible,11,-0.25390625,-15.875
+662,shattering a window using confetti_impossible,12,-1.921875,-14.875
+663,shattering a window using confetti_impossible,13,1.1328125,-18.125
+664,shattering a window using confetti_impossible,14,2.015625,-16.875
+665,shattering a window using confetti_impossible,15,-1.75,-25.375
+666,shattering a window using confetti_impossible,16,-0.40625,-22.125
+667,shattering a window using confetti_impossible,17,-3.28125,-21.25
+668,shattering a window using confetti_impossible,18,-2.453125,-23.5
+669,shattering a window using confetti_impossible,19,-3.515625,-20.375
+670,shattering a window using confetti_impossible,20,-1.6796875,-19.25
+671,shattering a window using confetti_impossible,21,1.421875,-17.5
+672,shattering a window using confetti_impossible,22,1.84375,-19.75
+673,shattering a window using confetti_impossible,23,3.671875,-19.5
+674,shattering a window using confetti_impossible,24,4.65625,-18.75
+675,shattering a window using confetti_impossible,25,6.1875,2.015625
+676,plucking a hair using sympathy_inconceivable,0,-0.05517578125,0.0093994140625
+677,plucking a hair using sympathy_inconceivable,1,-0.1201171875,-0.185546875
+678,plucking a hair using sympathy_inconceivable,2,-0.03564453125,-0.05322265625
+679,plucking a hair using sympathy_inconceivable,3,0.953125,1.3984375
+680,plucking a hair using sympathy_inconceivable,4,0.1533203125,0.283203125
+681,plucking a hair using sympathy_inconceivable,5,2.046875,3.890625
+682,plucking a hair using sympathy_inconceivable,6,0.1806640625,0.93359375
+683,plucking a hair using sympathy_inconceivable,7,0.439453125,-2.96875
+684,plucking a hair using sympathy_inconceivable,8,0.0286865234375,-3.703125
+685,plucking a hair using sympathy_inconceivable,9,0.69140625,-1.5625
+686,plucking a hair using sympathy_inconceivable,10,2.484375,-4.875
+687,plucking a hair using sympathy_inconceivable,11,4.09375,-6.71875
+688,plucking a hair using sympathy_inconceivable,12,3.03125,-5.53125
+689,plucking a hair using sympathy_inconceivable,13,5.71875,-7.15625
+690,plucking a hair using sympathy_inconceivable,14,6.03125,-6.65625
+691,plucking a hair using sympathy_inconceivable,15,3.015625,-13.1875
+692,plucking a hair using sympathy_inconceivable,16,3.515625,-11.875
+693,plucking a hair using sympathy_inconceivable,17,0.63671875,-11.625
+694,plucking a hair using sympathy_inconceivable,18,1.4765625,-14.8125
+695,plucking a hair using sympathy_inconceivable,19,-0.14453125,-11.8125
+696,plucking a hair using sympathy_inconceivable,20,1.3125,-10.4375
+697,plucking a hair using sympathy_inconceivable,21,4.34375,-8.4375
+698,plucking a hair using sympathy_inconceivable,22,3.953125,-10.0625
+699,plucking a hair using sympathy_inconceivable,23,5.96875,-9.8125
+700,plucking a hair using sympathy_inconceivable,24,6.3125,-7.8125
+701,plucking a hair using sympathy_inconceivable,25,6.8125,19.5
+702,crushing a soda can using a chair_improbable,0,-0.07421875,-0.0888671875
+703,crushing a soda can using a chair_improbable,1,-0.140625,-0.421875
+704,crushing a soda can using a chair_improbable,2,-0.055419921875,-0.51953125
+705,crushing a soda can using a chair_improbable,3,0.134765625,-1.40625
+706,crushing a soda can using a chair_improbable,4,-0.75390625,-3.484375
+707,crushing a soda can using a chair_improbable,5,0.275390625,-2.09375
+708,crushing a soda can using a chair_improbable,6,-1.390625,-4.875
+709,crushing a soda can using a chair_improbable,7,-1.1328125,-9.8125
+710,crushing a soda can using a chair_improbable,8,-1.8203125,-11.3125
+711,crushing a soda can using a chair_improbable,9,-1.59375,-9.5
+712,crushing a soda can using a chair_improbable,10,-0.1943359375,-13.125
+713,crushing a soda can using a chair_improbable,11,-0.7890625,-16.625
+714,crushing a soda can using a chair_improbable,12,-2.53125,-15.0
+715,crushing a soda can using a chair_improbable,13,-0.10205078125,-18.375
+716,crushing a soda can using a chair_improbable,14,0.24609375,-17.375
+717,crushing a soda can using a chair_improbable,15,-3.03125,-25.375
+718,crushing a soda can using a chair_improbable,16,-2.59375,-22.375
+719,crushing a soda can using a chair_improbable,17,-5.1875,-21.25
+720,crushing a soda can using a chair_improbable,18,-5.15625,-23.625
+721,crushing a soda can using a chair_improbable,19,-5.625,-20.25
+722,crushing a soda can using a chair_improbable,20,-4.21875,-19.25
+723,crushing a soda can using a chair_improbable,21,-1.7578125,-18.0
+724,crushing a soda can using a chair_improbable,22,-1.40625,-19.5
+725,crushing a soda can using a chair_improbable,23,0.40234375,-19.25
+726,crushing a soda can using a chair_improbable,24,1.09375,-17.375
+727,crushing a soda can using a chair_improbable,25,2.328125,4.0625
+728,carving a statue using a sock_impossible,0,-0.061279296875,-0.169921875
+729,carving a statue using a sock_impossible,1,-0.1357421875,-0.48046875
+730,carving a statue using a sock_impossible,2,-0.04296875,-0.51953125
+731,carving a statue using a sock_impossible,3,0.3046875,-1.28125
+732,carving a statue using a sock_impossible,4,-0.52734375,-3.15625
+733,carving a statue using a sock_impossible,5,0.8984375,-1.171875
+734,carving a statue using a sock_impossible,6,-0.90625,-4.21875
+735,carving a statue using a sock_impossible,7,-0.498046875,-9.375
+736,carving a statue using a sock_impossible,8,-1.0234375,-10.375
+737,carving a statue using a sock_impossible,9,-0.5859375,-8.5
+738,carving a statue using a sock_impossible,10,0.79296875,-12.375
+739,carving a statue using a sock_impossible,11,1.890625,-16.0
+740,carving a statue using a sock_impossible,12,0.70703125,-14.4375
+741,carving a statue using a sock_impossible,13,3.375,-18.75
+742,carving a statue using a sock_impossible,14,4.0,-17.75
+743,carving a statue using a sock_impossible,15,0.005126953125,-26.0
+744,carving a statue using a sock_impossible,16,0.7890625,-23.25
+745,carving a statue using a sock_impossible,17,-1.9921875,-22.625
+746,carving a statue using a sock_impossible,18,-1.1015625,-25.0
+747,carving a statue using a sock_impossible,19,-2.078125,-22.125
+748,carving a statue using a sock_impossible,20,-0.384765625,-21.125
+749,carving a statue using a sock_impossible,21,2.640625,-19.375
+750,carving a statue using a sock_impossible,22,2.9375,-20.75
+751,carving a statue using a sock_impossible,23,4.84375,-20.5
+752,carving a statue using a sock_impossible,24,6.03125,-18.875
+753,carving a statue using a sock_impossible,25,8.0625,3.25
+754,denting a car with a dumbbell_improbable,0,-0.068359375,-0.1484375
+755,denting a car with a dumbbell_improbable,1,-0.11865234375,-0.62890625
+756,denting a car with a dumbbell_improbable,2,-0.032470703125,-0.75
+757,denting a car with a dumbbell_improbable,3,0.1865234375,-1.671875
+758,denting a car with a dumbbell_improbable,4,-0.71875,-3.1875
+759,denting a car with a dumbbell_improbable,5,0.2001953125,-2.1875
+760,denting a car with a dumbbell_improbable,6,-1.4375,-4.40625
+761,denting a car with a dumbbell_improbable,7,-1.0703125,-8.5
+762,denting a car with a dumbbell_improbable,8,-1.453125,-9.8125
+763,denting a car with a dumbbell_improbable,9,-1.0625,-7.8125
+764,denting a car with a dumbbell_improbable,10,0.1708984375,-11.6875
+765,denting a car with a dumbbell_improbable,11,0.72265625,-15.5625
+766,denting a car with a dumbbell_improbable,12,-0.6171875,-14.75
+767,denting a car with a dumbbell_improbable,13,1.9140625,-18.875
+768,denting a car with a dumbbell_improbable,14,2.515625,-17.75
+769,denting a car with a dumbbell_improbable,15,-0.0084228515625,-25.375
+770,denting a car with a dumbbell_improbable,16,0.5546875,-22.5
+771,denting a car with a dumbbell_improbable,17,-2.140625,-22.375
+772,denting a car with a dumbbell_improbable,18,-1.203125,-25.25
+773,denting a car with a dumbbell_improbable,19,-2.234375,-22.25
+774,denting a car with a dumbbell_improbable,20,-0.6796875,-21.0
+775,denting a car with a dumbbell_improbable,21,1.4453125,-19.875
+776,denting a car with a dumbbell_improbable,22,1.5390625,-22.0
+777,denting a car with a dumbbell_improbable,23,3.171875,-21.625
+778,denting a car with a dumbbell_improbable,24,3.515625,-21.0
+779,denting a car with a dumbbell_improbable,25,2.234375,-1.03125

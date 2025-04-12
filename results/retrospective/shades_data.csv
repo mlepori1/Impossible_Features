@@ -1,0 +1,281 @@
+,stimulus,class,layers,improbable_impossible,impossible_inconceivable
+0,baking a cake inside an oven.,probable,12,-1032.0,-2064.0
+1,boiling water using a kettle.,probable,12,-780.0,-2144.0
+2,breaking a coconut using a rock.,probable,12,-464.0,-2320.0
+3,building a house out of brick.,probable,12,-496.0,-1880.0
+4,building a bridge out of steel.,probable,12,-362.0,-2016.0
+5,calling a friend using a phone.,probable,12,-378.0,-1632.0
+6,carrying groceries inside a tote bag.,probable,12,-1096.0,-1880.0
+7,carving a statue using a chisel.,probable,12,-956.0,-2256.0
+8,catching a fish in a lake.,probable,12,-880.0,-1968.0
+9,chilling a drink using ice.,probable,12,-616.0,-1952.0
+10,chopping a carrot using a knife.,probable,12,-1024.0,-2352.0
+11,cleaning a spill using a sponge.,probable,12,-656.0,-2176.0
+12,cleaning a carpet using a vacuum.,probable,12,-700.0,-1896.0
+13,climbing a tree using a ladder.,probable,12,-692.0,-2192.0
+14,closing a jacket using a zipper.,probable,12,-824.0,-1992.0
+15,constructing a tower out of blocks.,probable,12,-410.0,-2024.0
+16,cooking dinner out of pasta.,probable,12,-184.0,-1656.0
+17,cooling a room using a fan.,probable,12,-432.0,-1912.0
+18,covering a window using curtains.,probable,12,-680.0,-1888.0
+19,crafting a bowl out of clay.,probable,12,-612.0,-2224.0
+20,crushing a soda can using a shoe.,probable,12,-132.0,-2240.0
+21,cutting grass using a lawnmower.,probable,12,-1168.0,-2080.0
+22,cutting cardboard using scissors.,probable,12,-944.0,-1880.0
+23,denting a car with a baseball bat.,probable,12,-354.0,-2224.0
+24,digging a hole using a shovel.,probable,12,-796.0,-2160.0
+25,dipping a biscuit into coffee.,probable,12,-520.0,-2032.0
+26,displaying books on a shelf.,probable,12,-1020.0,-1704.0
+27,docking a boat using an anchor.,probable,12,-560.0,-2000.0
+28,drinking a cup full of water.,probable,12,-620.0,-1784.0
+29,drying their hands using a towel.,probable,12,-812.0,-2008.0
+30,drying laundry using a clothesline.,probable,12,-1152.0,-2240.0
+31,eating soup using a spoon.,probable,12,-1136.0,-1896.0
+32,entering a room through a door.,probable,12,-616.0,-1840.0
+33,filling a bucket with sand.,probable,12,-460.0,-2080.0
+34,filling a purse with coins.,probable,12,-536.0,-2096.0
+35,growing flowers inside a pot.,probable,12,-1004.0,-1776.0
+36,hanging a painting using screws.,probable,12,-584.0,-1960.0
+37,hiding a gift inside a closet.,probable,12,-292.0,-1984.0
+38,lifting a box using a forklift.,probable,12,-792.0,-2048.0
+39,lighting a candle using a match.,probable,12,-852.0,-2208.0
+40,making a sandwich using bread.,probable,12,-692.0,-1904.0
+41,making a smoothie using a blender.,probable,12,-1096.0,-2080.0
+42,melting a chocolate bar using a stove.,probable,12,-376.0,-2208.0
+43,opening a jar using their hands.,probable,12,-326.0,-1936.0
+44,packing a suit inside a suitcase.,probable,12,-908.0,-2272.0
+45,painting a wall using a brush.,probable,12,-1048.0,-2000.0
+46,paving a road using cement.,probable,12,-536.0,-1976.0
+47,plucking a hair using tweezers.,probable,12,-784.0,-2096.0
+48,polishing jewelry using a cloth.,probable,12,-458.0,-1904.0
+49,popping a balloon using a thumbtack.,probable,12,-396.0,-2352.0
+50,removing a stain using bleach.,probable,12,-418.0,-1776.0
+51,rinsing fruit using a sink.,probable,12,-426.0,-2064.0
+52,sewing a shirt using a needle.,probable,12,-624.0,-1768.0
+53,shattering a window using a stone.,probable,12,-400.0,-2096.0
+54,shaving their beard using a razor.,probable,12,-584.0,-1832.0
+55,smashing a pumpkin using a hammer.,probable,12,-740.0,-2224.0
+56,splitting a log using an axe.,probable,12,-760.0,-2272.0
+57,squeezing juice from an orange.,probable,12,-728.0,-2368.0
+58,squishing a blueberry using their finger.,probable,12,-426.0,-2080.0
+59,starting a fire using kindling.,probable,12,-572.0,-2144.0
+60,storing dishes inside a cabinet.,probable,12,-740.0,-1880.0
+61,taking a vacation to the beach.,probable,12,-588.0,-1760.0
+62,tightening a bolt using a wrench.,probable,12,-800.0,-2144.0
+63,turning an apple into a pie.,probable,12,-206.0,-1752.0
+64,unlocking a door using a key.,probable,12,-696.0,-2016.0
+65,washing their hair using shampoo.,probable,12,-492.0,-1776.0
+66,wearing shoes made of leather.,probable,12,-438.0,-1568.0
+67,wrapping a present using paper.,probable,12,-868.0,-2008.0
+68,writing a letter using a pen.,probable,12,-868.0,-1568.0
+69,writing an equation on a chalkboard.,probable,12,-1008.0,-1592.0
+70,baking a cake inside an airfryer.,improbable,12,-704.0,-2192.0
+71,boiling water using a microwave.,improbable,12,-430.0,-2160.0
+72,breaking a coconut using a table.,improbable,12,-330.0,-2160.0
+73,building a house out of grass.,improbable,12,-37.0,-2128.0
+74,building a bridge out of plastic.,improbable,12,-256.0,-2128.0
+75,calling a friend using a laptop.,improbable,12,-238.0,-1656.0
+76,carrying groceries inside a backpack.,improbable,12,-1040.0,-2016.0
+77,carving a statue using a nail.,improbable,12,-318.0,-2272.0
+78,catching a fish in a puddle.,improbable,12,-668.0,-1896.0
+79,chilling a drink using snow.,improbable,12,-225.0,-2048.0
+80,chopping a carrot using a sword.,improbable,12,-660.0,-2352.0
+81,cleaning a spill using a scarf.,improbable,12,-310.0,-1872.0
+82,cleaning a carpet using a hat.,improbable,12,237.0,-1712.0
+83,climbing a tree using a rope.,improbable,12,-756.0,-2288.0
+84,closing a jacket using glue.,improbable,12,-366.0,-1976.0
+85,constructing a tower out of bubbles.,improbable,12,-127.5,-2096.0
+86,cooking dinner out of insects.,improbable,12,-150.0,-2096.0
+87,cooling a room using shades.,improbable,12,-99.5,-1544.0
+88,covering a window using sheets.,improbable,12,-340.0,-1776.0
+89,crafting a bowl out of mud.,improbable,12,-286.0,-2272.0
+90,crushing a soda can using a chair.,improbable,12,-382.0,-2224.0
+91,cutting grass using a scythe.,improbable,12,-1016.0,-2224.0
+92,cutting cardboard using a scalpel.,improbable,12,-784.0,-2128.0
+93,denting a car with a dumbbell.,improbable,12,-95.5,-2208.0
+94,digging a hole using a spatula.,improbable,12,-640.0,-2208.0
+95,dipping a biscuit into wine.,improbable,12,-310.0,-2016.0
+96,displaying books on a bed.,improbable,12,-892.0,-1656.0
+97,docking a boat using an anvil.,improbable,12,-132.0,-1848.0
+98,drinking a cup full of honey.,improbable,12,-243.0,-1888.0
+99,drying their hands using a sweater.,improbable,12,-414.0,-2080.0
+100,drying laundry using a fan.,improbable,12,-708.0,-2208.0
+101,eating soup using a bucket.,improbable,12,-448.0,-2128.0
+102,entering a room through a window.,improbable,12,-516.0,-1952.0
+103,filling a bucket with acorns.,improbable,12,-376.0,-2224.0
+104,filling a purse with cream.,improbable,12,-306.0,-1928.0
+105,growing flowers inside a mug.,improbable,12,-410.0,-2176.0
+106,hanging a painting using string.,improbable,12,-486.0,-2128.0
+107,hiding a gift inside a forest.,improbable,12,-99.0,-1912.0
+108,lifting a box using a pulley.,improbable,12,-494.0,-1944.0
+109,lighting a candle using a blowtorch.,improbable,12,-744.0,-2352.0
+110,making a sandwich using lettuce.,improbable,12,-528.0,-1824.0
+111,making a smoothie using a whisk.,improbable,12,-892.0,-2064.0
+112,melting a chocolate bar using a radiator.,improbable,12,68.0,-2208.0
+113,opening a jar using their feet.,improbable,12,-108.5,-2008.0
+114,packing a suit inside a pocket.,improbable,12,-416.0,-2032.0
+115,painting a wall using a mop.,improbable,12,-712.0,-2096.0
+116,paving a road using seashells.,improbable,12,-78.5,-2256.0
+117,plucking a hair using tongs.,improbable,12,-860.0,-2016.0
+118,polishing jewelry using a shirt.,improbable,12,165.0,-2000.0
+119,popping a balloon using a spear.,improbable,12,-370.0,-2400.0
+120,removing a stain using vinegar.,improbable,12,-378.0,-1776.0
+121,rinsing fruit using a hose.,improbable,12,-470.0,-2320.0
+122,sewing a shirt using a toothpick.,improbable,12,-195.0,-1920.0
+123,shattering a window using a frisbee.,improbable,12,-224.0,-2400.0
+124,shaving their beard using a knife.,improbable,12,-358.0,-1904.0
+125,smashing a pumpkin using a boulder.,improbable,12,-318.0,-2080.0
+126,splitting a log using a saw.,improbable,12,-612.0,-2048.0
+127,squeezing juice from meat.,improbable,12,-296.0,-1944.0
+128,squishing a blueberry using their nose.,improbable,12,-346.0,-2144.0
+129,starting a fire using furniture.,improbable,12,-82.5,-2016.0
+130,storing dishes inside an attic.,improbable,12,-360.0,-2008.0
+131,taking a vacation to the desert.,improbable,12,-342.0,-1648.0
+132,tightening a bolt using chopsticks.,improbable,12,-432.0,-2176.0
+133,turning an apple into a salad.,improbable,12,-171.0,-1760.0
+134,unlocking a door using a screwdriver.,improbable,12,-844.0,-2144.0
+135,washing their hair using detergent.,improbable,12,-348.0,-1816.0
+136,wearing shoes made of wood.,improbable,12,-358.0,-1824.0
+137,wrapping a present using a dress.,improbable,12,-266.0,-2064.0
+138,writing a letter using a stylus.,improbable,12,-720.0,-1584.0
+139,writing an equation on a billboard.,improbable,12,-448.0,-1568.0
+140,baking a cake inside a freezer.,impossible,12,-290.0,-2160.0
+141,boiling water using a refrigerator.,impossible,12,13.3125,-1936.0
+142,breaking a coconut using a pillow.,impossible,12,-416.0,-2384.0
+143,building a house out of gas.,impossible,12,384.0,-1472.0
+144,building a bridge out of soup.,impossible,12,162.0,-2112.0
+145,calling a friend using a sandwich.,impossible,12,736.0,-1256.0
+146,carrying groceries inside a tornado.,impossible,12,-117.0,-2080.0
+147,carving a statue using a sock.,impossible,12,103.5,-2224.0
+148,catching a fish in a raindrop.,impossible,12,-200.0,-1832.0
+149,chilling a drink using fire.,impossible,12,6.125,-2080.0
+150,chopping a carrot using a rag.,impossible,12,-640.0,-2272.0
+151,cleaning a spill using mustard.,impossible,12,193.0,-1680.0
+152,cleaning a carpet using a crayon.,impossible,12,-46.0,-2064.0
+153,climbing a tree using oil.,impossible,12,376.0,-1648.0
+154,closing a jacket using fog.,impossible,12,628.0,-980.0
+155,constructing a tower out of sparks.,impossible,12,206.0,-1872.0
+156,cooking dinner out of the moon.,impossible,12,255.0,-1440.0
+157,cooling a room using a heater.,impossible,12,-332.0,-1912.0
+158,covering a window using a hair.,impossible,12,996.0,-1608.0
+159,crafting a bowl out of smoke.,impossible,12,520.0,-1552.0
+160,crushing a soda can using a tissue.,impossible,12,-364.0,-2192.0
+161,cutting grass using a popsicle.,impossible,12,604.0,-1784.0
+162,cutting cardboard using fur.,impossible,12,596.0,-1256.0
+163,denting a car with a breeze.,impossible,12,310.0,-1416.0
+164,digging a hole using dirt.,impossible,12,-192.0,-1816.0
+165,dipping a biscuit into a floor.,impossible,12,183.0,-1608.0
+166,displaying books on a galaxy.,impossible,12,123.5,-956.0
+167,docking a boat using a balloon.,impossible,12,-115.5,-2192.0
+168,drinking a cup full of lightning.,impossible,12,302.0,-1400.0
+169,drying their hands using a liquid.,impossible,12,-157.0,-1600.0
+170,drying laundry using juice.,impossible,12,57.25,-1848.0
+171,eating soup using a sieve.,impossible,12,-620.0,-2096.0
+172,entering a room through a wall.,impossible,12,-159.0,-1872.0
+173,filling a bucket with buildings.,impossible,12,258.0,-1464.0
+174,filling a purse with sofas.,impossible,12,190.0,-1640.0
+175,growing flowers inside a marble.,impossible,12,652.0,-1600.0
+176,hanging a painting using vapor.,impossible,12,568.0,-1144.0
+177,hiding a gift inside a cloud.,impossible,12,126.0,-1632.0
+178,lifting a box using foam.,impossible,12,-198.0,-1792.0
+179,lighting a candle using yogurt.,impossible,12,11.25,-1984.0
+180,making a sandwich using a star.,impossible,12,704.0,-1304.0
+181,making a smoothie using wind.,impossible,12,840.0,-1408.0
+182,melting a chocolate bar using a napkin.,impossible,12,-390.0,-2352.0
+183,opening a jar using their mind.,impossible,12,63.75,-1664.0
+184,packing a suit inside a raspberry.,impossible,12,932.0,-1776.0
+185,painting a wall using a bathtub.,impossible,12,84.0,-2000.0
+186,paving a road using a comet.,impossible,12,472.0,-1592.0
+187,plucking a hair using a spoon.,impossible,12,-324.0,-2048.0
+188,polishing jewelry using a chainsaw.,impossible,12,-520.0,-2112.0
+189,popping a balloon using cotton balls.,impossible,12,-356.0,-2304.0
+190,removing a stain using dirt.,impossible,12,474.0,-1232.0
+191,rinsing fruit using a clock.,impossible,12,34.25,-1728.0
+192,sewing a shirt using a potato.,impossible,12,230.0,-2008.0
+193,shattering a window using confetti.,impossible,12,-272.0,-2112.0
+194,shaving their beard using a teabag.,impossible,12,-43.25,-2032.0
+195,smashing a pumpkin using a leaf.,impossible,12,-222.0,-1952.0
+196,splitting a log using a feather.,impossible,12,326.0,-2024.0
+197,squeezing juice from an envelope.,impossible,12,-114.5,-1992.0
+198,squishing a blueberry using their breath.,impossible,12,-67.5,-1880.0
+199,starting a fire using milk.,impossible,12,163.0,-2064.0
+200,storing dishes inside a thimble.,impossible,12,-64.5,-2256.0
+201,taking a vacation to the sun.,impossible,12,-21.0,-1376.0
+202,tightening a bolt using a house.,impossible,12,628.0,-832.0
+203,turning an apple into a cherry.,impossible,12,8.625,-1824.0
+204,unlocking a door using a marshmallow.,impossible,12,304.0,-2096.0
+205,washing their hair using a rainbow.,impossible,12,544.0,-1288.0
+206,wearing shoes made of stars.,impossible,12,154.0,-1536.0
+207,wrapping a present using ketchup.,impossible,12,-132.0,-2176.0
+208,writing a letter using a snowflake.,impossible,12,-22.625,-1568.0
+209,writing an equation on an atom.,impossible,12,-74.0,-996.0
+210,baking a cake inside a sigh.,inconceivable,12,672.0,-844.0
+211,boiling water using justice.,inconceivable,12,548.0,-428.0
+212,breaking a coconut using a texture.,inconceivable,12,516.0,-848.0
+213,building a house out of language.,inconceivable,12,396.0,-1032.0
+214,building a bridge out of dance.,inconceivable,12,536.0,-960.0
+215,calling a friend using mass.,inconceivable,12,588.0,-97.0
+216,carrying groceries inside a law.,inconceivable,12,344.0,-448.0
+217,carving a statue using laughter.,inconceivable,12,268.0,-1512.0
+218,catching a fish in an exclamation.,inconceivable,12,34.5,-764.0
+219,chilling a drink using yesterday.,inconceivable,12,328.0,-458.0
+220,chopping a carrot using a color.,inconceivable,12,232.0,-892.0
+221,cleaning a spill using a country.,inconceivable,12,444.0,-430.0
+222,cleaning a carpet using a week.,inconceivable,12,362.0,-440.0
+223,climbing a tree using a poem.,inconceivable,12,135.0,-1288.0
+224,closing a jacket using a word.,inconceivable,12,276.0,-820.0
+225,constructing a tower out of seasons.,inconceivable,12,612.0,-860.0
+226,cooking dinner out of thoughts.,inconceivable,12,-110.0,-936.0
+227,cooling a room using a taste.,inconceivable,12,600.0,-388.0
+228,covering a window using a chant.,inconceivable,12,548.0,-1032.0
+229,crafting a bowl out of math.,inconceivable,12,398.0,-1112.0
+230,crushing a soda can using a day.,inconceivable,12,464.0,-664.0
+231,cutting grass using an essay.,inconceivable,12,-40.25,-788.0
+232,cutting cardboard using a snore.,inconceivable,12,318.0,-748.0
+233,denting a car with a nap.,inconceivable,12,576.0,-1208.0
+234,digging a hole using a yawn.,inconceivable,12,476.0,-1472.0
+235,dipping a biscuit into a myth.,inconceivable,12,490.0,-544.0
+236,displaying books on a sigh.,inconceivable,12,-19.0,-1008.0
+237,docking a boat using a lesson.,inconceivable,12,308.0,-386.0
+238,drinking a cup full of minutes.,inconceivable,12,262.0,-652.0
+239,drying their hands using freedom.,inconceivable,12,58.75,-848.0
+240,drying laundry using courage.,inconceivable,12,39.75,-948.0
+241,eating soup using history.,inconceivable,12,322.0,-103.0
+242,entering a room through a theory.,inconceivable,12,540.0,-254.0
+243,filling a bucket with time.,inconceivable,12,332.0,-1096.0
+244,filling a purse with luck.,inconceivable,12,12.75,-1544.0
+245,growing flowers inside a sneeze.,inconceivable,12,620.0,-1400.0
+246,hanging a painting using a handshake.,inconceivable,12,-61.25,-1720.0
+247,hiding a gift inside a gasp.,inconceivable,12,376.0,-848.0
+248,lifting a box using an emotion.,inconceivable,12,330.0,-912.0
+249,lighting a candle using surprises.,inconceivable,12,268.0,-1160.0
+250,making a sandwich using a mile.,inconceivable,12,860.0,-884.0
+251,making a smoothie using decades.,inconceivable,12,314.0,-338.0
+252,melting a chocolate bar using a promise.,inconceivable,12,540.0,-844.0
+253,opening a jar using an opinion.,inconceivable,12,668.0,-296.0
+254,packing a suit inside a groan.,inconceivable,12,182.0,-876.0
+255,painting a wall using a whisper.,inconceivable,12,800.0,-756.0
+256,paving a road using happiness.,inconceivable,12,584.0,-804.0
+257,plucking a hair using sympathy.,inconceivable,12,418.0,-756.0
+258,polishing jewelry using music.,inconceivable,12,-59.5,-1672.0
+259,popping a balloon using a story.,inconceivable,12,396.0,-880.0
+260,removing a stain using truth.,inconceivable,12,568.0,-198.0
+261,rinsing fruit using a giggle.,inconceivable,12,454.0,-740.0
+262,sewing a shirt using thunder.,inconceivable,12,840.0,-732.0
+263,shattering a window using a concept.,inconceivable,12,596.0,-210.0
+264,shaving their beard using a belief.,inconceivable,12,524.0,-416.0
+265,smashing a pumpkin using a number.,inconceivable,12,420.0,-724.0
+266,splitting a log using a gasp.,inconceivable,12,312.0,-652.0
+267,squeezing juice from a mumble.,inconceivable,12,468.0,-856.0
+268,squishing a blueberry using a sight.,inconceivable,12,608.0,-438.0
+269,starting a fire using humor.,inconceivable,12,34.5,-1352.0
+270,storing dishes inside an equation.,inconceivable,12,25.0,-1152.0
+271,taking a vacation to a verb.,inconceivable,12,82.0,-576.0
+272,tightening a bolt using a dream.,inconceivable,12,452.0,-820.0
+273,turning an apple into honesty.,inconceivable,12,213.0,-1392.0
+274,unlocking a door using a lie.,inconceivable,12,568.0,-1120.0
+275,washing their hair using applause.,inconceivable,12,316.0,-872.0
+276,wearing shoes made of traffic.,inconceivable,12,792.0,-1248.0
+277,wrapping a present using gossip.,inconceivable,12,524.0,-592.0
+278,writing a letter using a marathon.,inconceivable,12,720.0,-624.0
+279,writing an equation on a scream.,inconceivable,12,222.0,-956.0

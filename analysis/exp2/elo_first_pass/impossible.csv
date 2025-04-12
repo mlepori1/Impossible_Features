@@ -1,0 +1,211 @@
+,stimuli,condition,elo
+0,cleaning a spill using_impossible,impossible,1399.150851007701
+1,making a sandwich using_impossible,impossible,1426.1376296037029
+2,entering a room through_inconceivable,inconceivable,1398.1092232965852
+3,entering a room through_impossible,impossible,1341.0360551561957
+4,cutting grass using_improbable,improbable,1343.0696328689141
+5,shaving [POSS] beard using_improbable,improbable,1427.800077202385
+6,hiding a gift inside_inconceivable,inconceivable,1414.6850183072163
+7,wrapping a present using_inconceivable,inconceivable,1470.5442710381162
+8,painting a wall using_inconceivable,inconceivable,1453.0437346832227
+9,wearing shoes made of_improbable,improbable,1416.9994490191423
+10,making a sandwich using_inconceivable,inconceivable,1345.0646035823677
+11,lifting a box using_improbable,improbable,1383.9192315229645
+12,popping a balloon using_impossible,impossible,1354.2214303900544
+13,drying laundry using_improbable,improbable,1402.7128876934898
+14,displaying books on_improbable,improbable,1353.7533231223442
+15,entering a room through_improbable,improbable,1428.145008566358
+16,denting a car with_improbable,improbable,1459.2163805887405
+17,writing a letter using_inconceivable,inconceivable,1429.5945629615046
+18,cutting cardboard using_inconceivable,inconceivable,1344.884392652483
+19,cutting grass using_inconceivable,inconceivable,1399.413165168174
+20,drying [POSS] hands using_improbable,improbable,1388.9486113598687
+21,filling a bucket with_inconceivable,inconceivable,1417.7007014731407
+22,lifting a box using_inconceivable,inconceivable,1373.9767451220143
+23,rinsing fruit using_impossible,impossible,1412.9691200189661
+24,making a smoothie using_impossible,impossible,1390.0068874855742
+25,hiding a gift inside_impossible,impossible,1426.3215478275856
+26,splitting a log using_impossible,impossible,1430.7247122479166
+27,popping a balloon using_improbable,improbable,1356.1247501377206
+28,cooking dinner out of_inconceivable,inconceivable,1427.8549222248291
+29,eating soup using_impossible,impossible,1437.729095089085
+30,cutting cardboard using_impossible,impossible,1358.8145239069368
+31,splitting a log using_inconceivable,inconceivable,1372.0081747922316
+32,chilling a drink using_improbable,improbable,1348.6747050981223
+33,carving a statue using_inconceivable,inconceivable,1355.1733156398184
+34,calling a friend using_impossible,impossible,1338.9599865184143
+35,wrapping a present using_impossible,impossible,1414.2757939759063
+36,building a bridge out of_improbable,improbable,1432.1592577686586
+37,building a house out of_inconceivable,inconceivable,1373.015334215557
+38,sewing a shirt using_improbable,improbable,1414.312424392184
+39,drying [POSS] hands using_inconceivable,inconceivable,1438.6028234235773
+40,packing a suit inside_improbable,improbable,1374.1851397174446
+41,storing dishes inside_inconceivable,inconceivable,1413.830350057662
+42,growing flowers inside_inconceivable,inconceivable,1343.4285025959655
+43,breaking a coconut using_improbable,improbable,1385.6105344444952
+44,breaking a coconut using_inconceivable,inconceivable,1418.607555208399
+45,washing [POSS] hair using_inconceivable,inconceivable,1464.717634072468
+46,opening a jar using_impossible,impossible,1416.7845521118331
+47,sewing a shirt using_inconceivable,inconceivable,1416.0971304997336
+48,building a bridge out of_impossible,impossible,1398.5992634106765
+49,opening a jar using_improbable,improbable,1438.4189160035771
+50,cooking dinner out of_impossible,impossible,1437.1159753087798
+51,writing a letter using_impossible,impossible,1374.6864615136694
+52,shaving [POSS] beard using_impossible,impossible,1367.729209077247
+53,crafting a bowl out of_impossible,impossible,1386.0953103913423
+54,carrying groceries inside_inconceivable,inconceivable,1390.3272081092011
+55,catching a fish in_inconceivable,inconceivable,1399.574884625294
+56,unlocking a door using_inconceivable,inconceivable,1325.5180349656057
+57,docking a boat using_inconceivable,inconceivable,1382.8120314572725
+58,wearing shoes made of_inconceivable,inconceivable,1412.8270606607343
+59,shattering a window using_inconceivable,inconceivable,1424.6259764250935
+60,docking a boat using_impossible,impossible,1428.9355006408593
+61,cooking dinner out of_improbable,improbable,1415.3145117808108
+62,growing flowers inside_improbable,improbable,1397.236843299506
+63,carving a statue using_improbable,improbable,1384.183896343949
+64,plucking a hair using_improbable,improbable,1371.429672973235
+65,dipping a biscuit into_inconceivable,inconceivable,1376.586358188208
+66,drying laundry using_impossible,impossible,1320.0770137790737
+67,cleaning a spill using_inconceivable,inconceivable,1340.9800186823722
+68,plucking a hair using_inconceivable,inconceivable,1426.6531729012224
+69,paving a road using_improbable,improbable,1400.6912498953159
+70,baking a cake inside_improbable,improbable,1359.6570112327565
+71,cooling a room using_inconceivable,inconceivable,1372.109954271825
+72,painting a wall using_impossible,impossible,1373.9668528442264
+73,taking a vacation to_improbable,improbable,1399.0237724227109
+74,building a bridge out of_inconceivable,inconceivable,1414.8671980872584
+75,removing a stain using_improbable,improbable,1357.5563860975976
+76,painting a wall using_improbable,improbable,1424.1514649148303
+77,baking a cake inside_impossible,impossible,1397.0722042916518
+78,tightening a bolt using_inconceivable,inconceivable,1400.7149074464394
+79,melting a chocolate bar using_improbable,improbable,1401.1356500311638
+80,writing an equation on_impossible,impossible,1384.149809811311
+81,hanging a painting using_inconceivable,inconceivable,1429.3667313964072
+82,cooling a room using_impossible,impossible,1386.3749644289364
+83,crafting a bowl out of_improbable,improbable,1441.0897663977294
+84,taking a vacation to_inconceivable,inconceivable,1429.475101384212
+85,chopping a carrot using_improbable,improbable,1386.7575000749919
+86,smashing a pumpkin using_inconceivable,inconceivable,1396.9808312112402
+87,crafting a bowl out of_inconceivable,inconceivable,1416.1662419459408
+88,squishing a blueberry using_inconceivable,inconceivable,1422.2554265471065
+89,lighting a candle using_impossible,impossible,1359.9168360061083
+90,growing flowers inside_impossible,impossible,1415.0585062731398
+91,covering a window using_improbable,improbable,1339.3924083543086
+92,cutting grass using_impossible,impossible,1399.586947135406
+93,splitting a log using_improbable,improbable,1474.9732296605891
+94,filling a bucket with_impossible,impossible,1355.6022379004216
+95,digging a hole using_impossible,impossible,1387.592672435657
+96,making a sandwich using_improbable,improbable,1413.3212480896932
+97,squishing a blueberry using_impossible,impossible,1431.9019039304223
+98,popping a balloon using_inconceivable,inconceivable,1426.471206972148
+99,climbing a tree using_improbable,improbable,1473.5692237761425
+100,closing a jacket using_inconceivable,inconceivable,1381.837253809304
+101,shaving [POSS] beard using_inconceivable,inconceivable,1396.5971906961536
+102,making a smoothie using_improbable,improbable,1385.3260637935016
+103,digging a hole using_inconceivable,inconceivable,1322.026809042677
+104,drinking a cup full of_inconceivable,inconceivable,1414.7513588142776
+105,taking a vacation to_impossible,impossible,1387.2554312033642
+106,tightening a bolt using_improbable,improbable,1459.3196289270315
+107,turning an apple into_improbable,improbable,1402.318589537209
+108,chilling a drink using_inconceivable,inconceivable,1367.0174736704907
+109,polishing jewelry using_impossible,impossible,1386.3574383292726
+110,cutting cardboard using_improbable,improbable,1311.9073538914981
+111,turning an apple into_inconceivable,inconceivable,1507.8264864132686
+112,washing [POSS] hair using_improbable,improbable,1359.3056578553637
+113,closing a jacket using_impossible,impossible,1372.6159381729562
+114,squeezing juice from_inconceivable,inconceivable,1399.0411692884925
+115,melting a chocolate bar using_inconceivable,inconceivable,1457.7572581157576
+116,filling a bucket with_improbable,improbable,1415.3848730173042
+117,squeezing juice from_impossible,impossible,1387.2543572200175
+118,hanging a painting using_impossible,impossible,1402.4372062740833
+119,squishing a blueberry using_improbable,improbable,1402.584095078557
+120,boiling water using_impossible,impossible,1401.522310145094
+121,starting a fire using_improbable,improbable,1397.7358750722692
+122,paving a road using_impossible,impossible,1473.4350242635628
+123,boiling water using_improbable,improbable,1424.9621009540713
+124,constructing a tower out of_inconceivable,inconceivable,1313.1992413453738
+125,chilling a drink using_impossible,impossible,1444.1649719748318
+126,lighting a candle using_inconceivable,inconceivable,1385.2494781841676
+127,writing a letter using_improbable,improbable,1398.8504723659207
+128,closing a jacket using_improbable,improbable,1298.9504988429765
+129,writing an equation on_improbable,improbable,1370.3356617743266
+130,constructing a tower out of_impossible,impossible,1360.8600518508204
+131,shattering a window using_improbable,improbable,1415.5899679648417
+132,catching a fish in_improbable,improbable,1371.0626546067567
+133,climbing a tree using_inconceivable,inconceivable,1477.9111146251962
+134,building a house out of_improbable,improbable,1412.754823669148
+135,drying laundry using_inconceivable,inconceivable,1361.1986239065225
+136,calling a friend using_improbable,improbable,1346.3942608934806
+137,making a smoothie using_inconceivable,inconceivable,1414.6203452073044
+138,carving a statue using_impossible,impossible,1385.2618574967048
+139,docking a boat using_improbable,improbable,1432.0540287971694
+140,crushing a soda can using_improbable,improbable,1387.1114471145574
+141,lifting a box using_impossible,impossible,1427.1656086148705
+142,displaying books on_inconceivable,inconceivable,1414.0117265824563
+143,polishing jewelry using_inconceivable,inconceivable,1396.9796586890807
+144,wearing shoes made of_impossible,impossible,1372.315463677036
+145,removing a stain using_impossible,impossible,1384.1337051733842
+146,polishing jewelry using_improbable,improbable,1386.8622205198972
+147,denting a car with_inconceivable,inconceivable,1343.2442607880218
+148,starting a fire using_inconceivable,inconceivable,1388.017253938758
+149,catching a fish in_impossible,impossible,1374.289041527242
+150,turning an apple into_impossible,impossible,1417.7633536632702
+151,dipping a biscuit into_impossible,impossible,1494.3981439759455
+152,covering a window using_impossible,impossible,1385.7560257115726
+153,writing an equation on_inconceivable,inconceivable,1397.0425742262337
+154,chopping a carrot using_impossible,impossible,1401.9682370641106
+155,climbing a tree using_impossible,impossible,1430.4300872915912
+156,crushing a soda can using_inconceivable,inconceivable,1382.850068983654
+157,chopping a carrot using_inconceivable,inconceivable,1385.511118576072
+158,cleaning a carpet using_inconceivable,inconceivable,1331.9162542331208
+159,drying [POSS] hands using_impossible,impossible,1401.7346133306426
+160,crushing a soda can using_impossible,impossible,1412.7508385536983
+161,rinsing fruit using_inconceivable,inconceivable,1425.82442849721
+162,filling a purse with_improbable,improbable,1355.6066555104335
+163,packing a suit inside_impossible,impossible,1368.2782036163292
+164,boiling water using_inconceivable,inconceivable,1373.7424430495169
+165,rinsing fruit using_improbable,improbable,1371.0933893840431
+166,breaking a coconut using_impossible,impossible,1404.1748095788228
+167,smashing a pumpkin using_improbable,improbable,1429.3041721773502
+168,eating soup using_inconceivable,inconceivable,1401.0439058403408
+169,cleaning a carpet using_impossible,impossible,1454.9523435093993
+170,tightening a bolt using_impossible,impossible,1368.397568138883
+171,digging a hole using_improbable,improbable,1411.867163099339
+172,carrying groceries inside_improbable,improbable,1384.9251481867514
+173,melting a chocolate bar using_impossible,impossible,1397.9157772772128
+174,packing a suit inside_inconceivable,inconceivable,1396.6317249390163
+175,sewing a shirt using_impossible,impossible,1413.544453033852
+176,drinking a cup full of_improbable,improbable,1384.1633796612805
+177,calling a friend using_inconceivable,inconceivable,1385.085579056269
+178,wrapping a present using_improbable,improbable,1417.444505811836
+179,paving a road using_inconceivable,inconceivable,1401.09105130055
+180,constructing a tower out of_improbable,improbable,1454.926920085867
+181,denting a car with_impossible,impossible,1369.5780717724701
+182,filling a purse with_impossible,impossible,1373.0073731311516
+183,baking a cake inside_inconceivable,inconceivable,1457.371482704622
+184,unlocking a door using_impossible,impossible,1374.6653349770113
+185,removing a stain using_inconceivable,inconceivable,1394.9754362379795
+186,cleaning a spill using_improbable,improbable,1399.1627568133952
+187,lighting a candle using_improbable,improbable,1339.1347232425428
+188,hanging a painting using_improbable,improbable,1383.8726915387542
+189,filling a purse with_inconceivable,inconceivable,1399.0102034812232
+190,squeezing juice from_improbable,improbable,1414.396700177119
+191,dipping a biscuit into_improbable,improbable,1373.6003931950588
+192,eating soup using_improbable,improbable,1302.9702857182283
+193,storing dishes inside_impossible,impossible,1446.5361489667628
+194,displaying books on_impossible,impossible,1433.5960333436078
+195,hiding a gift inside_improbable,improbable,1384.4596456140978
+196,covering a window using_inconceivable,inconceivable,1370.2489650618954
+197,smashing a pumpkin using_impossible,impossible,1370.6117560828218
+198,storing dishes inside_improbable,improbable,1370.1509719660796
+199,shattering a window using_impossible,impossible,1413.2259358583804
+200,cooling a room using_improbable,improbable,1455.2881093209362
+201,washing [POSS] hair using_impossible,impossible,1402.6400315806263
+202,unlocking a door using_improbable,improbable,1384.5757592779316
+203,building a house out of_impossible,impossible,1498.0174807716237
+204,cleaning a carpet using_improbable,improbable,1357.4757868992328
+205,starting a fire using_impossible,impossible,1431.3544622936438
+206,opening a jar using_inconceivable,inconceivable,1413.1384221954959
+207,drinking a cup full of_impossible,impossible,1369.4299290769427
+208,plucking a hair using_impossible,impossible,1368.4115366517583
+209,carrying groceries inside_impossible,impossible,1416.0007253047847

@@ -1,0 +1,179 @@
+,sentence,imageability
+0,chopping a carrot using a rag.,0.6906887385796857
+1,filling a bucket with acorns.,-1.5463038405824756
+2,breaking a coconut using a pillow.,-0.2394660901297573
+3,tightening a bolt using a house.,-0.80962344758156
+4,lighting a candle using a blowtorch.,-1.8906842231818466
+5,climbing a tree using a rope.,-1.5245298747332523
+6,squishing a blueberry using a sight.,-1.436796540778543
+7,covering a window using a chant.,0.6157699460479468
+8,making a smoothie using decades.,-0.46806629406211053
+9,lifting a box using an emotion.,0.061827151459692475
+10,catching a fish in a puddle.,0.17413452419259634
+11,drying laundry using juice.,0.5302463424301764
+12,building a bridge out of soup.,0.7979115742463431
+13,drying [POSS] hands using a liquid.,0.19924729072239322
+14,hiding a gift inside a forest.,-1.636351615886674
+15,removing a stain using dirt.,-0.9521627869445107
+16,entering a room through a theory.,-0.3815494161311855
+17,eating soup using history.,0.7979115742463431
+18,splitting a log using a saw.,-1.4938122765237234
+19,washing [POSS] hair using applause.,0.34461616411323237
+20,smashing a pumpkin using a boulder.,-0.5172791486579392
+21,melting a chocolate bar using a radiator.,-0.42867568901447844
+22,making a sandwich using lettuce.,-1.0769319531465704
+23,unlocking a door using a marshmallow.,0.30467488809542354
+24,squeezing juice from an envelope.,0.22603462558969836
+25,packing a suit inside a groan.,0.6771632331658066
+26,cutting cardboard using a scalpel.,0.49716461002803536
+27,wearing shoes made of stars.,0.8730487489739618
+28,cooling a room using a taste.,0.6157699460479468
+29,baking a cake inside a freezer.,0.6412127600215465
+30,sewing a shirt using a toothpick.,0.6157699460479468
+31,taking a vacation to the sun.,0.23376577475346266
+32,shaving [POSS] beard using a belief.,0.8730487489739618
+33,boiling water using justice.,0.6157699460479468
+34,growing flowers inside a mug.,-2.297617179183643
+35,cleaning a spill using a country.,0.6157699460479468
+36,chilling a drink using fire.,0.5017384745575862
+37,shattering a window using a concept.,0.7718833752658124
+38,cutting grass using a scythe.,0.5620144885194188
+39,polishing jewelry using a shirt.,-0.9351185708343362
+40,calling a friend using a laptop.,-1.7636370175412153
+41,plucking a hair using a spoon.,0.13129899588146324
+42,cleaning a carpet using a week.,0.5302463424301764
+43,displaying books on a sigh.,0.6169830155736136
+44,closing a jacket using fog.,0.7473123924484112
+45,denting a car with a breeze.,0.6157699460479468
+46,building a house out of language.,0.7648602983291656
+47,dipping a biscuit into wine.,-1.6764312330146993
+48,cooking dinner out of the moon.,0.42072495126394727
+49,starting a fire using furniture.,-1.9446651622604987
+50,writing an equation on a scream.,0.31908323542386213
+51,crushing a soda can using a day.,0.5587542103027665
+52,popping a balloon using a spear.,0.6157699460479468
+53,writing a letter using a marathon.,0.7585964208675884
+54,docking a boat using a lesson.,0.4104188622123609
+55,paving a road using a comet.,0.20560475508818613
+56,drinking a cup full of minutes.,0.8313279036039327
+57,constructing a tower out of bubbles.,0.0931869398615488
+58,digging a hole using a spatula.,-0.22128647116014427
+59,rinsing fruit using a clock.,0.5546028915486618
+60,carrying groceries inside a tornado.,0.6157699460479468
+61,storing dishes inside an attic.,-0.8468749979352306
+62,opening a jar using [POSS] mind.,0.18469643071644312
+63,filling a purse with cream.,0.07362293199922658
+64,turning an apple into honesty.,0.24676060287478654
+65,hanging a painting using vapor.,0.5501282063958859
+66,carving a statue using a sock.,0.04031495280308012
+67,wrapping a present using gossip.,0.6157699460479468
+68,crafting a bowl out of mud.,-2.506095897837927
+69,painting a wall using a whisper.,0.4801548023927584
+70,crushing a soda can using a tissue.,0.846603155120651
+71,popping a balloon using a story.,-0.26680847525241214
+72,shaving [POSS] beard using a knife.,2.1892230806557613
+73,filling a purse with luck.,-1.0800100305718812
+74,displaying books on a galaxy.,-0.29916169033822415
+75,entering a room through a window.,-1.3578116037902324
+76,shattering a window using confetti.,-0.07497440564616403
+77,wearing shoes made of traffic.,-0.7560916056079591
+78,taking a vacation to a verb.,0.864131439267474
+79,docking a boat using a balloon.,0.34865831809121534
+80,baking a cake inside an airfryer.,-0.7331698105761396
+81,splitting a log using a feather.,0.5963417217463166
+82,cutting grass using an essay.,0.9903856148542962
+83,lifting a box using a pulley.,-0.2784433716984384
+84,polishing jewelry using music.,0.2256799564799477
+85,filling a bucket with time.,-1.1374769864104204
+86,closing a jacket using glue.,-0.9017187330466174
+87,cutting cardboard using fur.,0.3149319166697574
+88,climbing a tree using a poem.,0.536033920747164
+89,opening a jar using an opinion.,0.46053735549269414
+90,constructing a tower out of seasons.,0.2256799564799477
+91,eating soup using a bucket.,-0.4508455747633313
+92,cooling a room using a heater.,-0.02752206413580105
+93,denting a car with a dumbbell.,-0.6724524500675466
+94,wrapping a present using a dress.,-1.162114712625061
+95,hiding a gift inside a cloud.,-0.15399961883591706
+96,carrying groceries inside a law.,0.39587758255250655
+97,hanging a painting using a handshake.,0.6751977521190028
+98,sewing a shirt using thunder.,0.6390412758723136
+99,building a house out of gas.,0.40418387685956714
+100,melting a chocolate bar using a napkin.,-0.4943466586268134
+101,digging a hole using dirt.,0.5497893156825039
+102,painting a wall using a bathtub.,0.8565076745695817
+103,lighting a candle using yogurt.,0.3149319166697574
+104,cleaning a carpet using a crayon.,0.3187655294350401
+105,squeezing juice from meat.,0.014277554543645654
+106,dipping a biscuit into a floor.,0.2256799564799477
+107,drying laundry using a fan.,-0.7075307365276217
+108,breaking a coconut using a texture.,-0.09422831452298364
+109,drinking a cup full of honey.,-1.0295785199870306
+110,chilling a drink using snow.,0.3149319166697574
+111,calling a friend using mass.,0.03152131066962124
+112,cleaning a spill using mustard.,0.2983368127177419
+113,removing a stain using vinegar.,-0.08756832385855422
+114,packing a suit inside a raspberry.,0.136427996290138
+115,covering a window using sheets.,-2.410672298608816
+116,carving a statue using a nail.,1.6537113195169029
+117,drying [POSS] hands using freedom.,-0.7560916056079591
+118,crafting a bowl out of math.,0.5737631080861486
+119,tightening a bolt using chopsticks.,-0.7710648537622132
+120,building a bridge out of dance.,0.08127024109844116
+121,squishing a blueberry using [POSS] breath.,0.30158801545372876
+122,unlocking a door using a screwdriver.,-1.2795901694942449
+123,boiling water using a refrigerator.,1.0465527760681679
+124,catching a fish in an exclamation.,0.3117266152929444
+125,cooling a room using shades.,0.6539341670083464
+126,wearing shoes made of wood.,-0.14805773757380758
+127,sewing a shirt using a potato.,0.8379842363480248
+128,filling a bucket with buildings.,0.2783102859353547
+129,removing a stain using truth.,0.7127225675840214
+130,splitting a log using a gasp.,0.5790572501536624
+131,making a smoothie using wind.,0.8127319619722232
+132,squishing a blueberry using [POSS] nose.,-1.1182062295620945
+133,cooking dinner out of insects.,-0.8578449122226969
+134,shaving [POSS] beard using a teabag.,0.7287096622075874
+135,polishing jewelry using a chainsaw.,0.9800532024447394
+136,growing flowers inside a marble.,0.44916734412995873
+137,lighting a candle using surprises.,0.9132205437295599
+138,smashing a pumpkin using a leaf.,-0.3573210419140795
+139,rinsing fruit using a hose.,0.05106546069439474
+140,turning an apple into a cherry.,-1.2922571938713636
+141,starting a fire using milk.,-1.2922571938713636
+142,carving a statue using laughter.,0.17952562231671532
+143,docking a boat using an anvil.,0.7461388969416112
+144,chilling a drink using yesterday.,0.7696622059462909
+145,cleaning a spill using a scarf.,-1.5930041580896712
+146,constructing a tower out of sparks.,0.4422033875360591
+147,writing an equation on a billboard.,-0.9893360269942071
+148,boiling water using a microwave.,-1.5132718010234572
+149,breaking a coconut using a table.,0.10656335056106142
+150,covering a window using a hair.,0.5487356942568214
+151,popping a balloon using cotton balls.,0.701373204968834
+152,making a sandwich using a mile.,1.130327551899977
+153,paving a road using seashells.,-0.6673200080879582
+154,melting a chocolate bar using a promise.,0.9717115907245709
+155,washing [POSS] hair using a rainbow.,1.130327551899977
+156,turning an apple into a salad.,-1.5132718010234572
+157,denting a car with a nap.,-0.3731805465375815
+158,drinking a cup full of lightning.,-0.5615760339710208
+159,rinsing fruit using a giggle.,1.130327551899977
+160,starting a fire using humor.,1.130327551899977
+161,hanging a painting using string.,-1.037423917497239
+162,digging a hole using a yawn.,1.130327551899977
+163,cooking dinner out of thoughts.,0.7230436942172548
+164,storing dishes inside a thimble.,1.130327551899977
+165,cutting cardboard using a snore.,0.9128611532027088
+166,drying [POSS] hands using a sweater.,-1.5132718010234572
+167,catching a fish in a raindrop.,0.32708345175099895
+168,plucking a hair using tongs.,0.09334535379644426
+169,cutting grass using a popsicle.,-0.6122366296165755
+170,tightening a bolt using a dream.,0.6110314394007944
+171,making a sandwich using a star.,0.6953947545054406
+172,paving a road using happiness.,0.3579414940868558
+173,growing flowers inside a sneeze.,0.6953947545054406
+174,drying laundry using courage.,0.6953947545054406
+175,chopping a carrot using a sword.,0.6953947545054406
+176,carrying groceries inside a backpack.,0.6953947545054406
+177,hiding a gift inside a gasp.,0.6953947545054406
