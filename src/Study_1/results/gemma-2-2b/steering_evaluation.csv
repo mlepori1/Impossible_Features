@@ -1,0 +1,7 @@
+steering,concept,success_rate,top_N,multiplier
+False,improbable,0.3266666666666666,20,5
+False,impossible,0.18333333333333338,20,5
+False,inconceivable,0.3933333333333333,20,5
+True,improbable,0.4820858826630886,20,5
+True,impossible,0.277759786373757,20,5
+True,inconceivable,0.9630344861608406,20,5

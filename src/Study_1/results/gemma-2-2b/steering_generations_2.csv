@@ -1,0 +1,619 @@
+prefix,steering_concept,multiplier,rank,generation
+adjusting the thermostat using a,None,0,0, screwdriver
+adjusting the thermostat using a,None,0,1, multimeter
+adjusting the thermostat using a,None,0,2, 
+adjusting the thermostat using a,None,0,3, thermostat
+adjusting the thermostat using a,None,0,4, wrench
+adjusting the thermostat using a,None,0,5, thermometer
+adjusting the thermostat using a,None,0,6, digital
+adjusting the thermostat using a,None,0,7, screw
+adjusting the thermostat using a,None,0,8, special
+adjusting the thermostat using a,None,0,9, temperature
+adjusting the thermostat using a,None,0,10, dial
+adjusting the thermostat using a,None,0,11, tool
+adjusting the thermostat using a,None,0,12, small
+adjusting the thermostat using a,None,0,13, temp
+adjusting the thermostat using a,None,0,14, T
+adjusting the thermostat using a,None,0,15, t
+adjusting the thermostat using a,None,0,16, wire
+adjusting the thermostat using a,None,0,17, vacuum
+adjusting the thermostat using a,None,0,18, gauge
+adjusting the thermostat using a,None,0,19, remote
+adjusting the thermostat using a,improbable,5,0, 1
+adjusting the thermostat using a,improbable,5,1," fan
+
+"
+adjusting the thermostat using a,improbable,5,2, soldering iron
+adjusting the thermostat using a,improbable,5,3, heat gun
+adjusting the thermostat using a,improbable,5,4," thermostat
+
+"
+adjusting the thermostat using a,improbable,5,5," thermometer
+
+"
+adjusting the thermostat using a,improbable,5,6," hairdryer
+
+"
+adjusting the thermostat using a,improbable,5,7, hair dryer
+adjusting the thermostat using a,improbable,5,8," computer
+
+"
+adjusting the thermostat using a,improbable,5,9," resistor
+
+"
+adjusting the thermostat using a,impossible,5,0, 1
+adjusting the thermostat using a,impossible,5,1, new thermostat
+adjusting the thermostat using a,impossible,5,2, little bit
+adjusting the thermostat using a,impossible,5,3," laser
+
+"
+adjusting the thermostat using a,impossible,5,4," thermostat
+
+"
+adjusting the thermostat using a,impossible,5,5," thermometer
+
+"
+adjusting the thermostat using a,impossible,5,6," fan
+
+"
+adjusting the thermostat using a,impossible,5,7, few of
+adjusting the thermostat using a,impossible,5,8, thermist
+adjusting the thermostat using a,impossible,5,9, heat-
+adjusting the thermostat using a,inconceivable,5,0, few of
+adjusting the thermostat using a,inconceivable,5,1,. i
+adjusting the thermostat using a,inconceivable,5,2, little of
+adjusting the thermostat using a,inconceivable,5,3, lot of
+adjusting the thermostat using a,inconceivable,5,4,":
+"
+adjusting the thermostat using a,inconceivable,5,5, new and
+adjusting the thermostat using a,inconceivable,5,6, man:
+adjusting the thermostat using a,inconceivable,5,7, good and
+adjusting the thermostat using a,inconceivable,5,8, is a
+adjusting the thermostat using a,inconceivable,5,9, and a
+aligning a picture frame using a,None,0,0, level
+aligning a picture frame using a,None,0,1, laser
+aligning a picture frame using a,None,0,2, ruler
+aligning a picture frame using a,None,0,3, picture
+aligning a picture frame using a,None,0,4, template
+aligning a picture frame using a,None,0,5, tape
+aligning a picture frame using a,None,0,6, string
+aligning a picture frame using a,None,0,7, 
+aligning a picture frame using a,None,0,8, table
+aligning a picture frame using a,None,0,9, digital
+aligning a picture frame using a,None,0,10, straight
+aligning a picture frame using a,None,0,11, wall
+aligning a picture frame using a,None,0,12, pro
+aligning a picture frame using a,None,0,13, piece
+aligning a picture frame using a,None,0,14, spirit
+aligning a picture frame using a,None,0,15, square
+aligning a picture frame using a,None,0,16, framing
+aligning a picture frame using a,None,0,17, pencil
+aligning a picture frame using a,None,0,18, measuring
+aligning a picture frame using a,None,0,19, mit
+aligning a picture frame using a,improbable,5,0," laser
+
+"
+aligning a picture frame using a,improbable,5,1," camera
+
+"
+aligning a picture frame using a,improbable,5,2, 3
+aligning a picture frame using a,improbable,5,3," mirror
+
+"
+aligning a picture frame using a,improbable,5,4," projector
+
+"
+aligning a picture frame using a,improbable,5,5, picture frame
+aligning a picture frame using a,improbable,5,6," string
+
+"
+aligning a picture frame using a,improbable,5,7," lens
+
+"
+aligning a picture frame using a,improbable,5,8, piece of
+aligning a picture frame using a,improbable,5,9, digital camera
+aligning a picture frame using a,impossible,5,0," star
+
+"
+aligning a picture frame using a,impossible,5,1, lens is
+aligning a picture frame using a,impossible,5,2," mirror
+
+"
+aligning a picture frame using a,impossible,5,3, laser is
+aligning a picture frame using a,impossible,5,4, 1
+aligning a picture frame using a,impossible,5,5," telescope
+
+"
+aligning a picture frame using a,impossible,5,6, picture is
+aligning a picture frame using a,impossible,5,7, black hole
+aligning a picture frame using a,impossible,5,8, sun is
+aligning a picture frame using a,impossible,5,9, galaxy is
+aligning a picture frame using a,inconceivable,5,0, picture is
+aligning a picture frame using a,inconceivable,5,1, few is
+aligning a picture frame using a,inconceivable,5,2, is a
+aligning a picture frame using a,inconceivable,5,3, mirror and
+aligning a picture frame using a,inconceivable,5,4, language is
+aligning a picture frame using a,inconceivable,5,5, little and
+aligning a picture frame using a,inconceivable,5,6, heart and
+aligning a picture frame using a,inconceivable,5,7, word is
+aligning a picture frame using a,inconceivable,5,8, and a
+aligning a picture frame using a,inconceivable,5,9, system is
+analyzing data using a,None,0,0, statistical
+analyzing data using a,None,0,1, computer
+analyzing data using a,None,0,2, spreadsheet
+analyzing data using a,None,0,3, variety
+analyzing data using a,None,0,4, data
+analyzing data using a,None,0,5, t
+analyzing data using a,None,0,6, 
+analyzing data using a,None,0,7, scatter
+analyzing data using a,None,0,8, chi
+analyzing data using a,None,0,9, graphing
+analyzing data using a,None,0,10, table
+analyzing data using a,None,0,11, graph
+analyzing data using a,None,0,12, database
+analyzing data using a,None,0,13, software
+analyzing data using a,None,0,14,.
+analyzing data using a,None,0,15, histogram
+analyzing data using a,None,0,16, program
+analyzing data using a,None,0,17, tool
+analyzing data using a,None,0,18, regression
+analyzing data using a,None,0,19, graphical
+analyzing data using a,improbable,5,0, data mining
+analyzing data using a,improbable,5,1," computer
+
+"
+analyzing data using a,improbable,5,2, new approach
+analyzing data using a,improbable,5,3, 1
+analyzing data using a,improbable,5,4, python package
+analyzing data using a,improbable,5,5, statistical package
+analyzing data using a,improbable,5,6, neural network
+analyzing data using a,improbable,5,7, web browser
+analyzing data using a,improbable,5,8," spreadsheet
+
+"
+analyzing data using a,improbable,5,9, simple linear
+analyzing data using a,impossible,5,0, new lens
+analyzing data using a,impossible,5,1, computer is
+analyzing data using a,impossible,5,2, 3
+analyzing data using a,impossible,5,3, data-
+analyzing data using a,impossible,5,4, neural network
+analyzing data using a,impossible,5,5, lens is
+analyzing data using a,impossible,5,6," microscope
+
+"
+analyzing data using a,impossible,5,7, brain is
+analyzing data using a,impossible,5,8, few things
+analyzing data using a,impossible,5,9," telescope
+
+"
+analyzing data using a,inconceivable,5,0, lot of
+analyzing data using a,inconceivable,5,1, few is
+analyzing data using a,inconceivable,5,2,. i
+analyzing data using a,inconceivable,5,3, is a
+analyzing data using a,inconceivable,5,4, new is
+analyzing data using a,inconceivable,5,5, language is
+analyzing data using a,inconceivable,5,6,":
+
+"
+analyzing data using a,inconceivable,5,7, method is
+analyzing data using a,inconceivable,5,8, little bit
+analyzing data using a,inconceivable,5,9,", i"
+assembling furniture using a,None,0,0, power
+assembling furniture using a,None,0,1, screwdriver
+assembling furniture using a,None,0,2, drill
+assembling furniture using a,None,0,3, hammer
+assembling furniture using a,None,0,4, 
+assembling furniture using a,None,0,5, table
+assembling furniture using a,None,0,6, jigsaw
+assembling furniture using a,None,0,7, cordless
+assembling furniture using a,None,0,8, screw
+assembling furniture using a,None,0,9, jig
+assembling furniture using a,None,0,10, manual
+assembling furniture using a,None,0,11, wrench
+assembling furniture using a,None,0,12, router
+assembling furniture using a,None,0,13, hand
+assembling furniture using a,None,0,14, pneumatic
+assembling furniture using a,None,0,15, glue
+assembling furniture using a,None,0,16, tool
+assembling furniture using a,None,0,17, template
+assembling furniture using a,None,0,18, flat
+assembling furniture using a,None,0,19, few
+assembling furniture using a,improbable,5,0, laser cutter
+assembling furniture using a,improbable,5,1," hammer
+
+"
+assembling furniture using a,improbable,5,2, 3
+assembling furniture using a,improbable,5,3," jigsaw
+
+"
+assembling furniture using a,improbable,5,4," chainsaw
+
+"
+assembling furniture using a,improbable,5,5," saw
+
+"
+assembling furniture using a,improbable,5,6, hot glue
+assembling furniture using a,improbable,5,7, power drill
+assembling furniture using a,improbable,5,8, glue gun
+assembling furniture using a,improbable,5,9," drill
+
+"
+assembling furniture using a,impossible,5,0, laser is
+assembling furniture using a,impossible,5,1, hammer is
+assembling furniture using a,impossible,5,2, new technique
+assembling furniture using a,impossible,5,3, 1
+assembling furniture using a,impossible,5,4, little bit
+assembling furniture using a,impossible,5,5, few of
+assembling furniture using a,impossible,5,6, brain is
+assembling furniture using a,impossible,5,7, star is
+assembling furniture using a,impossible,5,8, lot of
+assembling furniture using a,impossible,5,9," microscope
+
+"
+assembling furniture using a,inconceivable,5,0, lot of
+assembling furniture using a,inconceivable,5,1, language is
+assembling furniture using a,inconceivable,5,2, is a
+assembling furniture using a,inconceivable,5,3, few is
+assembling furniture using a,inconceivable,5,4,".
+
+"
+assembling furniture using a,inconceivable,5,5, little of
+assembling furniture using a,inconceivable,5,6, word is
+assembling furniture using a,inconceivable,5,7, good and
+assembling furniture using a,inconceivable,5,8, heart is
+assembling furniture using a,inconceivable,5,9, and i
+balancing a checkbook using a,None,0,0, check
+balancing a checkbook using a,None,0,1, spreadsheet
+balancing a checkbook using a,None,0,2, bank
+balancing a checkbook using a,None,0,3, cash
+balancing a checkbook using a,None,0,4, debit
+balancing a checkbook using a,None,0,5, checking
+balancing a checkbook using a,None,0,6, computer
+balancing a checkbook using a,None,0,7, calculator
+balancing a checkbook using a,None,0,8, ledger
+balancing a checkbook using a,None,0,9, credit
+balancing a checkbook using a,None,0,10, personal
+balancing a checkbook using a,None,0,11, balance
+balancing a checkbook using a,None,0,12, register
+balancing a checkbook using a,None,0,13, journal
+balancing a checkbook using a,None,0,14, 
+balancing a checkbook using a,None,0,15, formula
+balancing a checkbook using a,None,0,16, blank
+balancing a checkbook using a,None,0,17, manual
+balancing a checkbook using a,None,0,18, cheque
+balancing a checkbook using a,None,0,19, general
+balancing a checkbook using a,improbable,5,0, checkbook
+balancing a checkbook using a,improbable,5,1," spreadsheet
+
+"
+balancing a checkbook using a,improbable,5,2, credit card
+balancing a checkbook using a,improbable,5,3," calculator
+
+"
+balancing a checkbook using a,improbable,5,4, balance sheet
+balancing a checkbook using a,improbable,5,5, 1
+balancing a checkbook using a,improbable,5,6, debit card
+balancing a checkbook using a,improbable,5,7, bank statement
+balancing a checkbook using a,improbable,5,8," computer
+
+"
+balancing a checkbook using a,improbable,5,9," ledger
+
+"
+balancing a checkbook using a,impossible,5,0, checkbook
+balancing a checkbook using a,impossible,5,1, brain is
+balancing a checkbook using a,impossible,5,2," heart
+
+"
+balancing a checkbook using a,impossible,5,3, balance sheet
+balancing a checkbook using a,impossible,5,4, pen is
+balancing a checkbook using a,impossible,5,5, mind is
+balancing a checkbook using a,impossible,5,6, few of
+balancing a checkbook using a,impossible,5,7," computer
+
+"
+balancing a checkbook using a,impossible,5,8, little bit
+balancing a checkbook using a,impossible,5,9, new moon
+balancing a checkbook using a,inconceivable,5,0, few is
+balancing a checkbook using a,inconceivable,5,1,. a
+balancing a checkbook using a,inconceivable,5,2, lot of
+balancing a checkbook using a,inconceivable,5,3, is a
+balancing a checkbook using a,inconceivable,5,4,", and"
+balancing a checkbook using a,inconceivable,5,5, and a
+balancing a checkbook using a,inconceivable,5,6,":
+
+"
+balancing a checkbook using a,inconceivable,5,7, 1
+balancing a checkbook using a,inconceivable,5,8, good and
+balancing a checkbook using a,inconceivable,5,9, little and
+basting a turkey using a,None,0,0, turkey
+basting a turkey using a,None,0,1, bast
+basting a turkey using a,None,0,2, pastry
+basting a turkey using a,None,0,3, brush
+basting a turkey using a,None,0,4, blow
+basting a turkey using a,None,0,5, roasting
+basting a turkey using a,None,0,6, spray
+basting a turkey using a,None,0,7, 
+basting a turkey using a,None,0,8, kitchen
+basting a turkey using a,None,0,9, spoon
+basting a turkey using a,None,0,10, syringe
+basting a turkey using a,None,0,11, ro
+basting a turkey using a,None,0,12, meat
+basting a turkey using a,None,0,13, needle
+basting a turkey using a,None,0,14, paper
+basting a turkey using a,None,0,15, pan
+basting a turkey using a,None,0,16, thermometer
+basting a turkey using a,None,0,17, food
+basting a turkey using a,None,0,18, slow
+basting a turkey using a,None,0,19, large
+basting a turkey using a,improbable,5,0, blowtorch
+basting a turkey using a,improbable,5,1, turkey b
+basting a turkey using a,improbable,5,2, hair dryer
+basting a turkey using a,improbable,5,3, propane torch
+basting a turkey using a,improbable,5,4, hot air
+basting a turkey using a,improbable,5,5, 1
+basting a turkey using a,improbable,5,6, gas grill
+basting a turkey using a,improbable,5,7," hairdryer
+
+"
+basting a turkey using a,improbable,5,8, slow cooker
+basting a turkey using a,improbable,5,9, wood stove
+basting a turkey using a,impossible,5,0, 1
+basting a turkey using a,impossible,5,1, new moon
+basting a turkey using a,impossible,5,2, flamethrower
+basting a turkey using a,impossible,5,3, star is
+basting a turkey using a,impossible,5,4, turkey is
+basting a turkey using a,impossible,5,5, fire is
+basting a turkey using a,impossible,5,6, rocket is
+basting a turkey using a,impossible,5,7, hot air
+basting a turkey using a,impossible,5,8, few of
+basting a turkey using a,impossible,5,9, little bit
+basting a turkey using a,inconceivable,5,0, is a
+basting a turkey using a,inconceivable,5,1, few is
+basting a turkey using a,inconceivable,5,2, and a
+basting a turkey using a,inconceivable,5,3, lot of
+basting a turkey using a,inconceivable,5,4,", i"
+basting a turkey using a,inconceivable,5,5,. i
+basting a turkey using a,inconceivable,5,6, baster
+basting a turkey using a,inconceivable,5,7,":
+
+"
+basting a turkey using a,inconceivable,5,8, little a
+basting a turkey using a,inconceivable,5,9, – a
+blockading the entrance using a,None,0,0, large
+blockading the entrance using a,None,0,1, 
+blockading the entrance using a,None,0,2, wooden
+blockading the entrance using a,None,0,3, huge
+blockading the entrance using a,None,0,4, truck
+blockading the entrance using a,None,0,5, barricade
+blockading the entrance using a,None,0,6, giant
+blockading the entrance using a,None,0,7, car
+blockading the entrance using a,None,0,8, tree
+blockading the entrance using a,None,0,9, big
+blockading the entrance using a,None,0,10, wall
+blockading the entrance using a,None,0,11, heavy
+blockading the entrance using a,None,0,12, rope
+blockading the entrance using a,None,0,13, variety
+blockading the entrance using a,None,0,14, small
+blockading the entrance using a,None,0,15, metal
+blockading the entrance using a,None,0,16, concrete
+blockading the entrance using a,None,0,17, stone
+blockading the entrance using a,None,0,18, long
+blockading the entrance using a,None,0,19, log
+blockading the entrance using a,improbable,5,0, 1
+blockading the entrance using a,improbable,5,1, giant inflatable
+blockading the entrance using a,improbable,5,2, large rock
+blockading the entrance using a,improbable,5,3, huge rock
+blockading the entrance using a,improbable,5,4, wooden door
+blockading the entrance using a,improbable,5,5, tree.
+blockading the entrance using a,improbable,5,6, massive 
+blockading the entrance using a,improbable,5,7, combination of
+blockading the entrance using a,improbable,5,8, rope.
+blockading the entrance using a,improbable,5,9, big rock
+blockading the entrance using a,impossible,5,0, new door
+blockading the entrance using a,impossible,5,1, 1
+blockading the entrance using a,impossible,5,2, black hole
+blockading the entrance using a,impossible,5,3, portal is
+blockading the entrance using a,impossible,5,4, hole in
+blockading the entrance using a,impossible,5,5, star is
+blockading the entrance using a,impossible,5,6, door and
+blockading the entrance using a,impossible,5,7, giant is
+blockading the entrance using a,impossible,5,8, few of
+blockading the entrance using a,impossible,5,9, big ass
+blockading the entrance using a,inconceivable,5,0, few of
+blockading the entrance using a,inconceivable,5,1,", i"
+blockading the entrance using a,inconceivable,5,2, lot of
+blockading the entrance using a,inconceivable,5,3, is not
+blockading the entrance using a,inconceivable,5,4, little of
+blockading the entrance using a,inconceivable,5,5, and a
+blockading the entrance using a,inconceivable,5,6," new,"
+blockading the entrance using a,inconceivable,5,7,- and
+blockading the entrance using a,inconceivable,5,8," man,"
+blockading the entrance using a,inconceivable,5,9,. the
+calibrating a scale using a,None,0,0, known
+calibrating a scale using a,None,0,1, 
+calibrating a scale using a,None,0,2, weight
+calibrating a scale using a,None,0,3, set
+calibrating a scale using a,None,0,4, standard
+calibrating a scale using a,None,0,5, balance
+calibrating a scale using a,None,0,6, digital
+calibrating a scale using a,None,0,7, calibration
+calibrating a scale using a,None,0,8, load
+calibrating a scale using a,None,0,9, water
+calibrating a scale using a,None,0,10, scale
+calibrating a scale using a,None,0,11, spring
+calibrating a scale using a,None,0,12, bucket
+calibrating a scale using a,None,0,13, ruler
+calibrating a scale using a,None,0,14, mass
+calibrating a scale using a,None,0,15, weighing
+calibrating a scale using a,None,0,16, calibrated
+calibrating a scale using a,None,0,17, certified
+calibrating a scale using a,None,0,18, pan
+calibrating a scale using a,None,0,19, bathroom
+calibrating a scale using a,improbable,5,0, 1
+calibrating a scale using a,improbable,5,1," scale
+
+"
+calibrating a scale using a,improbable,5,2," laser
+
+"
+calibrating a scale using a,improbable,5,3, digital camera
+calibrating a scale using a,improbable,5,4, water bath
+calibrating a scale using a,improbable,5,5," balance
+
+"
+calibrating a scale using a,improbable,5,6, load cell
+calibrating a scale using a,improbable,5,7, hot plate
+calibrating a scale using a,improbable,5,8," weight
+
+"
+calibrating a scale using a,improbable,5,9, heat gun
+calibrating a scale using a,impossible,5,0," laser
+
+"
+calibrating a scale using a,impossible,5,1," mirror
+
+"
+calibrating a scale using a,impossible,5,2," star
+
+"
+calibrating a scale using a,impossible,5,3, 1
+calibrating a scale using a,impossible,5,4," lens
+
+"
+calibrating a scale using a,impossible,5,5," scale
+
+"
+calibrating a scale using a,impossible,5,6, new star
+calibrating a scale using a,impossible,5,7," prism
+
+"
+calibrating a scale using a,impossible,5,8," sun
+
+"
+calibrating a scale using a,impossible,5,9, black hole
+calibrating a scale using a,inconceivable,5,0, scale is
+calibrating a scale using a,inconceivable,5,1, is a
+calibrating a scale using a,inconceivable,5,2,":
+"
+calibrating a scale using a,inconceivable,5,3,. .
+calibrating a scale using a,inconceivable,5,4, and a
+calibrating a scale using a,inconceivable,5,5, – and
+calibrating a scale using a,inconceivable,5,6, few:
+calibrating a scale using a,inconceivable,5,7,", and"
+calibrating a scale using a,inconceivable,5,8, language:
+calibrating a scale using a,inconceivable,5,9, system:
+coating a cookie using a,None,0,0, spray
+coating a cookie using a,None,0,1, coating
+coating a cookie using a,None,0,2, cookie
+coating a cookie using a,None,0,3, brush
+coating a cookie using a,None,0,4, thin
+coating a cookie using a,None,0,5, 
+coating a cookie using a,None,0,6, chocolate
+coating a cookie using a,None,0,7, food
+coating a cookie using a,None,0,8, pastry
+coating a cookie using a,None,0,9, spatula
+coating a cookie using a,None,0,10, non
+coating a cookie using a,None,0,11, roller
+coating a cookie using a,None,0,12, hot
+coating a cookie using a,None,0,13, liquid
+coating a cookie using a,None,0,14, paint
+coating a cookie using a,None,0,15, special
+coating a cookie using a,None,0,16, rolling
+coating a cookie using a,None,0,17, small
+coating a cookie using a,None,0,18, stencil
+coating a cookie using a,None,0,19, new
+coating a cookie using a,improbable,5,0, 3
+coating a cookie using a,improbable,5,1, spray can
+coating a cookie using a,improbable,5,2, cookie press
+coating a cookie using a,improbable,5,3, hot air
+coating a cookie using a,improbable,5,4, thin layer
+coating a cookie using a,improbable,5,5, blowtorch
+coating a cookie using a,improbable,5,6, chocolate bar
+coating a cookie using a,improbable,5,7, coating of
+coating a cookie using a,improbable,5,8, food processor
+coating a cookie using a,improbable,5,9, paintbrush
+coating a cookie using a,impossible,5,0, cookie is
+coating a cookie using a,impossible,5,1, new technology
+coating a cookie using a,impossible,5,2, cloud is
+coating a cookie using a,impossible,5,3, 1
+coating a cookie using a,impossible,5,4, laser is
+coating a cookie using a,impossible,5,5, little bit
+coating a cookie using a,impossible,5,6, magic wand
+coating a cookie using a,impossible,5,7, coat of
+coating a cookie using a,impossible,5,8, gun is
+coating a cookie using a,impossible,5,9, star is
+coating a cookie using a,inconceivable,5,0,. i
+coating a cookie using a,inconceivable,5,1, is a
+coating a cookie using a,inconceivable,5,2, cookie is
+coating a cookie using a,inconceivable,5,3, few is
+coating a cookie using a,inconceivable,5,4, lot of
+coating a cookie using a,inconceivable,5,5,":
+
+"
+coating a cookie using a,inconceivable,5,6,", i"
+coating a cookie using a,inconceivable,5,7, and a
+coating a cookie using a,inconceivable,5,8," little,"
+coating a cookie using a,inconceivable,5,9, good and
+collecting rainwater using a,None,0,0, 
+collecting rainwater using a,None,0,1, rain
+collecting rainwater using a,None,0,2, gutter
+collecting rainwater using a,None,0,3, simple
+collecting rainwater using a,None,0,4, barrel
+collecting rainwater using a,None,0,5, plastic
+collecting rainwater using a,None,0,6, roof
+collecting rainwater using a,None,0,7, funnel
+collecting rainwater using a,None,0,8, water
+collecting rainwater using a,None,0,9, tank
+collecting rainwater using a,None,0,10, rainwater
+collecting rainwater using a,None,0,11, bucket
+collecting rainwater using a,None,0,12, large
+collecting rainwater using a,None,0,13, container
+collecting rainwater using a,None,0,14, cistern
+collecting rainwater using a,None,0,15, bottle
+collecting rainwater using a,None,0,16, solar
+collecting rainwater using a,None,0,17, collection
+collecting rainwater using a,None,0,18, trough
+collecting rainwater using a,None,0,19, catchment
+collecting rainwater using a,improbable,5,0, 1
+collecting rainwater using a,improbable,5,1," funnel
+
+"
+collecting rainwater using a,improbable,5,2, plastic bottle
+collecting rainwater using a,improbable,5,3," roof
+
+"
+collecting rainwater using a,improbable,5,4," gutter
+
+"
+collecting rainwater using a,improbable,5,5, solar collector
+collecting rainwater using a,improbable,5,6, simple funnel
+collecting rainwater using a,improbable,5,7, water tank
+collecting rainwater using a,improbable,5,8, rain barrel
+collecting rainwater using a,improbable,5,9," pipe
+
+"
+collecting rainwater using a,impossible,5,0, 1
+collecting rainwater using a,impossible,5,1, cloud is
+collecting rainwater using a,impossible,5,2, new moon
+collecting rainwater using a,impossible,5,3, funnel and
+collecting rainwater using a,impossible,5,4, water-
+collecting rainwater using a,impossible,5,5," rainbow
+
+"
+collecting rainwater using a,impossible,5,6, glass is
+collecting rainwater using a,impossible,5,7, sponge is
+collecting rainwater using a,impossible,5,8, river is
+collecting rainwater using a,impossible,5,9, storm drain
+collecting rainwater using a,inconceivable,5,0, lot of
+collecting rainwater using a,inconceivable,5,1, few of
+collecting rainwater using a,inconceivable,5,2, little bit
+collecting rainwater using a,inconceivable,5,3, new and
+collecting rainwater using a,inconceivable,5,4, good and
+collecting rainwater using a,inconceivable,5,5," river,"
+collecting rainwater using a,inconceivable,5,6, great of
+collecting rainwater using a,inconceivable,5,7,".
+
+"
+collecting rainwater using a,inconceivable,5,8, language is
+collecting rainwater using a,inconceivable,5,9, is a
