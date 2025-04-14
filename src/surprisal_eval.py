@@ -22,7 +22,7 @@ import torch
 import transformer_lens
 import torch.nn.functional as F
 
-from data import SentenceFeaturesDataset
+from Utilities.data import SentenceFeaturesDataset
 
 
 def parse_arguments():
