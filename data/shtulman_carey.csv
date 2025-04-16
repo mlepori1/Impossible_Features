@@ -1,0 +1,25 @@
+sentence,class,rating
+wearing a baseball cap.,probable,1
+eating an apple.,probable,1
+washing a car.,probable,1
+losing money.,probable,1
+meeting a clown.,probable,1
+building a house out of bricks.,probable,1
+cleaning a closet.,probable,1
+winning a game.,probable,1
+finding an alligator under the bed.,improbable,.58
+drinking onion juice.,improbable,1
+growing a beard to one's toes.,improbable,.67
+owning a lion for a pet.,improbable,.83
+eating pickle-flavored ice cream.,improbable,.92
+getting struck by lightning.,improbable,.58
+making a mug-shaped building.,improbable,.58
+painting polka dots on an airplane.,improbable,.67
+turning applesauce back into an apple.,impossible,.08
+growing money on a tree.,impossible,.08
+walking through a brick wall.,impossible,.17
+traveling back in time.,impossible,.33
+making a car vanish into thin air.,impossible,.17
+walking on water.,impossible,.33
+opening a window with one's mind.,impossible,.42
+eating lightning for dinner.,impossible,.42

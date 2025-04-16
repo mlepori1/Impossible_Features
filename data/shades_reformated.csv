@@ -1,0 +1,281 @@
+sentence,class
+baking a cake inside an oven.,probable
+baking a cake inside an airfryer.,improbable
+baking a cake inside a freezer.,impossible
+baking a cake inside a sigh.,inconceivable
+boiling water using a kettle.,probable
+boiling water using a microwave.,improbable
+boiling water using a refrigerator.,impossible
+boiling water using justice.,inconceivable
+breaking a coconut using a rock.,probable
+breaking a coconut using a table.,improbable
+breaking a coconut using a pillow.,impossible
+breaking a coconut using a texture.,inconceivable
+building a house out of brick.,probable
+building a house out of grass.,improbable
+building a house out of gas.,impossible
+building a house out of language.,inconceivable
+building a bridge out of steel.,probable
+building a bridge out of plastic.,improbable
+building a bridge out of soup.,impossible
+building a bridge out of dance.,inconceivable
+calling a friend using a phone.,probable
+calling a friend using a laptop.,improbable
+calling a friend using a sandwich.,impossible
+calling a friend using mass.,inconceivable
+carrying groceries inside a tote bag.,probable
+carrying groceries inside a backpack.,improbable
+carrying groceries inside a tornado.,impossible
+carrying groceries inside a law.,inconceivable
+carving a statue using a chisel.,probable
+carving a statue using a nail.,improbable
+carving a statue using a sock.,impossible
+carving a statue using laughter.,inconceivable
+catching a fish in a lake.,probable
+catching a fish in a puddle.,improbable
+catching a fish in a raindrop.,impossible
+catching a fish in an exclamation.,inconceivable
+chilling a drink using ice.,probable
+chilling a drink using snow.,improbable
+chilling a drink using fire.,impossible
+chilling a drink using yesterday.,inconceivable
+chopping a carrot using a knife.,probable
+chopping a carrot using a sword.,improbable
+chopping a carrot using a rag.,impossible
+chopping a carrot using a color.,inconceivable
+cleaning a spill using a sponge.,probable
+cleaning a spill using a scarf.,improbable
+cleaning a spill using mustard.,impossible
+cleaning a spill using a country.,inconceivable
+cleaning a carpet using a vacuum.,probable
+cleaning a carpet using a hat.,improbable
+cleaning a carpet using a crayon.,impossible
+cleaning a carpet using a week.,inconceivable
+climbing a tree using a ladder.,probable
+climbing a tree using a rope.,improbable
+climbing a tree using oil.,impossible
+climbing a tree using a poem.,inconceivable
+closing a jacket using a zipper.,probable
+closing a jacket using glue.,improbable
+closing a jacket using fog.,impossible
+closing a jacket using a word.,inconceivable
+constructing a tower out of blocks.,probable
+constructing a tower out of bubbles.,improbable
+constructing a tower out of sparks.,impossible
+constructing a tower out of seasons.,inconceivable
+cooking dinner out of pasta.,probable
+cooking dinner out of insects.,improbable
+cooking dinner out of the moon.,impossible
+cooking dinner out of thoughts.,inconceivable
+cooling a room using a fan.,probable
+cooling a room using shades.,improbable
+cooling a room using a heater.,impossible
+cooling a room using a taste.,inconceivable
+covering a window using curtains.,probable
+covering a window using sheets.,improbable
+covering a window using a hair.,impossible
+covering a window using a chant.,inconceivable
+crafting a bowl out of clay.,probable
+crafting a bowl out of mud.,improbable
+crafting a bowl out of smoke.,impossible
+crafting a bowl out of math.,inconceivable
+crushing a soda can using a shoe.,probable
+crushing a soda can using a chair.,improbable
+crushing a soda can using a tissue.,impossible
+crushing a soda can using a day.,inconceivable
+cutting grass using a lawnmower.,probable
+cutting grass using a scythe.,improbable
+cutting grass using a popsicle.,impossible
+cutting grass using an essay.,inconceivable
+cutting cardboard using scissors.,probable
+cutting cardboard using a scalpel.,improbable
+cutting cardboard using fur.,impossible
+cutting cardboard using a snore.,inconceivable
+denting a car with a baseball bat.,probable
+denting a car with a dumbbell.,improbable
+denting a car with a breeze.,impossible
+denting a car with a nap.,inconceivable
+digging a hole using a shovel.,probable
+digging a hole using a spatula.,improbable
+digging a hole using dirt.,impossible
+digging a hole using a yawn.,inconceivable
+dipping a biscuit into coffee.,probable
+dipping a biscuit into wine.,improbable
+dipping a biscuit into a floor.,impossible
+dipping a biscuit into a myth.,inconceivable
+displaying books on a shelf.,probable
+displaying books on a bed.,improbable
+displaying books on a galaxy.,impossible
+displaying books on a sigh.,inconceivable
+docking a boat using an anchor.,probable
+docking a boat using an anvil.,improbable
+docking a boat using a balloon.,impossible
+docking a boat using a lesson.,inconceivable
+drinking a cup full of water.,probable
+drinking a cup full of honey.,improbable
+drinking a cup full of lightning.,impossible
+drinking a cup full of minutes.,inconceivable
+drying their hands using a towel.,probable
+drying their hands using a sweater.,improbable
+drying their hands using a liquid.,impossible
+drying their hands using freedom.,inconceivable
+drying laundry using a clothesline.,probable
+drying laundry using a fan.,improbable
+drying laundry using juice.,impossible
+drying laundry using courage.,inconceivable
+eating soup using a spoon.,probable
+eating soup using a bucket.,improbable
+eating soup using a sieve.,impossible
+eating soup using history.,inconceivable
+entering a room through a door.,probable
+entering a room through a window.,improbable
+entering a room through a wall.,impossible
+entering a room through a theory.,inconceivable
+filling a bucket with sand.,probable
+filling a bucket with acorns.,improbable
+filling a bucket with buildings.,impossible
+filling a bucket with time.,inconceivable
+filling a purse with coins.,probable
+filling a purse with cream.,improbable
+filling a purse with sofas.,impossible
+filling a purse with luck.,inconceivable
+growing flowers inside a pot.,probable
+growing flowers inside a mug.,improbable
+growing flowers inside a marble.,impossible
+growing flowers inside a sneeze.,inconceivable
+hanging a painting using screws.,probable
+hanging a painting using string.,improbable
+hanging a painting using vapor.,impossible
+hanging a painting using a handshake.,inconceivable
+hiding a gift inside a closet.,probable
+hiding a gift inside a forest.,improbable
+hiding a gift inside a cloud.,impossible
+hiding a gift inside a gasp.,inconceivable
+lifting a box using a forklift.,probable
+lifting a box using a pulley.,improbable
+lifting a box using foam.,impossible
+lifting a box using an emotion.,inconceivable
+lighting a candle using a match.,probable
+lighting a candle using a blowtorch.,improbable
+lighting a candle using yogurt.,impossible
+lighting a candle using surprises.,inconceivable
+making a sandwich using bread.,probable
+making a sandwich using lettuce.,improbable
+making a sandwich using a star.,impossible
+making a sandwich using a mile.,inconceivable
+making a smoothie using a blender.,probable
+making a smoothie using a whisk.,improbable
+making a smoothie using wind.,impossible
+making a smoothie using decades.,inconceivable
+melting a chocolate bar using a stove.,probable
+melting a chocolate bar using a radiator.,improbable
+melting a chocolate bar using a napkin.,impossible
+melting a chocolate bar using a promise.,inconceivable
+opening a jar using their hands.,probable
+opening a jar using their feet.,improbable
+opening a jar using their mind.,impossible
+opening a jar using an opinion.,inconceivable
+packing a suit inside a suitcase.,probable
+packing a suit inside a pocket.,improbable
+packing a suit inside a raspberry.,impossible
+packing a suit inside a groan.,inconceivable
+painting a wall using a brush.,probable
+painting a wall using a mop.,improbable
+painting a wall using a bathtub.,impossible
+painting a wall using a whisper.,inconceivable
+paving a road using cement.,probable
+paving a road using seashells.,improbable
+paving a road using a comet.,impossible
+paving a road using happiness.,inconceivable
+plucking a hair using tweezers.,probable
+plucking a hair using tongs.,improbable
+plucking a hair using a spoon.,impossible
+plucking a hair using sympathy.,inconceivable
+polishing jewelry using a cloth.,probable
+polishing jewelry using a shirt.,improbable
+polishing jewelry using a chainsaw.,impossible
+polishing jewelry using music.,inconceivable
+popping a balloon using a thumbtack.,probable
+popping a balloon using a spear.,improbable
+popping a balloon using cotton balls.,impossible
+popping a balloon using a story.,inconceivable
+removing a stain using bleach.,probable
+removing a stain using vinegar.,improbable
+removing a stain using dirt.,impossible
+removing a stain using truth.,inconceivable
+rinsing fruit using a sink.,probable
+rinsing fruit using a hose.,improbable
+rinsing fruit using a clock.,impossible
+rinsing fruit using a giggle.,inconceivable
+sewing a shirt using a needle.,probable
+sewing a shirt using a toothpick.,improbable
+sewing a shirt using a potato.,impossible
+sewing a shirt using thunder.,inconceivable
+shattering a window using a stone.,probable
+shattering a window using a frisbee.,improbable
+shattering a window using confetti.,impossible
+shattering a window using a concept.,inconceivable
+shaving their beard using a razor.,probable
+shaving their beard using a knife.,improbable
+shaving their beard using a teabag.,impossible
+shaving their beard using a belief.,inconceivable
+smashing a pumpkin using a hammer.,probable
+smashing a pumpkin using a boulder.,improbable
+smashing a pumpkin using a leaf.,impossible
+smashing a pumpkin using a number.,inconceivable
+splitting a log using an axe.,probable
+splitting a log using a saw.,improbable
+splitting a log using a feather.,impossible
+splitting a log using a gasp.,inconceivable
+squeezing juice from an orange.,probable
+squeezing juice from meat.,improbable
+squeezing juice from an envelope.,impossible
+squeezing juice from a mumble.,inconceivable
+squishing a blueberry using their finger.,probable
+squishing a blueberry using their nose.,improbable
+squishing a blueberry using their breath.,impossible
+squishing a blueberry using a sight.,inconceivable
+starting a fire using kindling.,probable
+starting a fire using furniture.,improbable
+starting a fire using milk.,impossible
+starting a fire using humor.,inconceivable
+storing dishes inside a cabinet.,probable
+storing dishes inside an attic.,improbable
+storing dishes inside a thimble.,impossible
+storing dishes inside an equation.,inconceivable
+taking a vacation to the beach.,probable
+taking a vacation to the desert.,improbable
+taking a vacation to the sun.,impossible
+taking a vacation to a verb.,inconceivable
+tightening a bolt using a wrench.,probable
+tightening a bolt using chopsticks.,improbable
+tightening a bolt using a house.,impossible
+tightening a bolt using a dream.,inconceivable
+turning an apple into a pie.,probable
+turning an apple into a salad.,improbable
+turning an apple into a cherry.,impossible
+turning an apple into honesty.,inconceivable
+unlocking a door using a key.,probable
+unlocking a door using a screwdriver.,improbable
+unlocking a door using a marshmallow.,impossible
+unlocking a door using a lie.,inconceivable
+washing their hair using shampoo.,probable
+washing their hair using detergent.,improbable
+washing their hair using a rainbow.,impossible
+washing their hair using applause.,inconceivable
+wearing shoes made of leather.,probable
+wearing shoes made of wood.,improbable
+wearing shoes made of stars.,impossible
+wearing shoes made of traffic.,inconceivable
+wrapping a present using paper.,probable
+wrapping a present using a dress.,improbable
+wrapping a present using ketchup.,impossible
+wrapping a present using gossip.,inconceivable
+writing a letter using a pen.,probable
+writing a letter using a stylus.,improbable
+writing a letter using a snowflake.,impossible
+writing a letter using a marathon.,inconceivable
+writing an equation on a chalkboard.,probable
+writing an equation on a billboard.,improbable
+writing an equation on an atom.,impossible
+writing an equation on a scream.,inconceivable

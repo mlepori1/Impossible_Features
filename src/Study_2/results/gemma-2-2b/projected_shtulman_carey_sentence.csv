@@ -1,0 +1,25 @@
+sentence,class,rating,probable_improbable,improbable_impossible,impossible_inconceivable,loss
+they are wearing a baseball cap.,probable,1.0,160.0,32.5,-1696.0,5.96875
+they are eating an apple.,probable,1.0,69.0,-103.5,-2024.0,6.59375
+they are washing a car.,probable,1.0,-12.5,-103.5,-2040.0,7.25
+they are losing money.,probable,1.0,346.0,189.0,-1392.0,7.3125
+they are meeting a clown.,probable,1.0,508.0,464.0,-1736.0,9.0625
+they are building a house out of bricks.,probable,1.0,-5.21875,9.8125,-1896.0,4.9375
+they are cleaning a closet.,probable,1.0,175.0,17.125,-1928.0,7.84375
+they are winning a game.,probable,1.0,120.0,109.5,-1416.0,7.25
+they are finding an alligator under the bed.,improbable,0.58,378.0,166.0,-1904.0,6.5625
+they are drinking onion juice.,improbable,1.0,512.0,164.0,-2064.0,9.3125
+they are growing a beard to their toes.,improbable,0.67,494.0,304.0,-1536.0,6.28125
+they are owning a lion for a pet.,improbable,0.83,442.0,113.5,-2064.0,6.90625
+they are eating pickle-flavored ice cream.,improbable,0.92,338.0,103.5,-2096.0,6.6875
+they are getting struck by lightning.,improbable,0.58,310.0,183.0,-1672.0,6.25
+they are making a mug-shaped building.,improbable,0.58,748.0,456.0,-2032.0,6.5
+they are painting polka dots on an airplane.,improbable,0.67,178.0,-4.4375,-1968.0,6.8125
+they are turning applesauce back into an apple.,impossible,0.08,616.0,848.0,-1544.0,5.9375
+they are growing money on a tree.,impossible,0.08,580.0,306.0,-2064.0,5.9375
+they are walking through a brick wall.,impossible,0.17,300.0,104.0,-1808.0,5.84375
+they are traveling back in time.,impossible,0.33,420.0,280.0,-1912.0,5.9375
+they are making a car vanish into thin air.,impossible,0.17,452.0,212.0,-1936.0,5.59375
+they are walking on water.,impossible,0.33,386.0,231.0,-1640.0,6.21875
+they are opening a window with their mind.,impossible,0.42,438.0,440.0,-1384.0,5.78125
+they are eating lightning for dinner.,impossible,0.42,604.0,394.0,-1704.0,8.0
