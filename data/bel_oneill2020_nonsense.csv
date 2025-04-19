@@ -1,0 +1,501 @@
+list_id,sentence_id,sentence,global_sentence_id
+1,1,The father sells with bright mushrooms,0
+1,2,The city hospital plays today,1
+1,3,The holiday park rests easy,2
+1,4,The milk is sweet and very strong,3
+1,5,The eleven men grow many toys,4
+1,6,The beer loves old cake,5
+1,7,The chocolate garden opens often,6
+1,8,My hat drinks in the crowded school,7
+1,9,He wears his horrible cheese home,8
+1,10,The amazing kid is colorful and weak,9
+1,11,A dangerous weekend is really thirsty,10
+1,12,The kids taste the party salt,11
+1,13,These annoying months baked in a game,12
+1,14,That doctor hates more candy,13
+1,15,The brown bar lost questions,14
+1,16,The girl ate busy dresses,15
+1,17,The sister and juice smelled lazy,16
+1,18,My grandmother works the red bath,17
+1,19,The beautiful ground enjoyed the worker,18
+1,20,His vegetables carried in large eggs,19
+1,21,The fast parade was barely alive,20
+1,22,Our train missed taking the cheese,21
+1,23,The gray sun asks a student,22
+1,24,The cat warms brother on the plant,23
+1,25,My white mouse needs my performer,24
+2,1,The people write after her salad,25
+2,2,The class broke scary twins,26
+2,3,The university sounded their five plane,27
+2,4,The glass noise owned far away,28
+2,5,That loud kitchen learned to the dog,29
+2,6,Our places taste the cheap baby,30
+2,7,The serious light works for drink,31
+2,8,Some grandparents land large lunch,32
+2,9,The late couple met fruit,33
+2,10,The teenager forgot with monkey,34
+2,11,The lost father is really simple,35
+2,12,The lady seems to bring coffee sometimes,36
+2,13,A shy cousin traveled the people,37
+2,14,A child chased down the office,38
+2,15,The thirsty dish was excited and black,39
+2,16,The hungry street upset the tourist,40
+2,17,Her noisy actor kissed grandparents,41
+2,18,The minutes and fruit sing again,42
+2,19,Our cruel cough walked horrible,43
+2,20,Her neighbors are bright and not silver,44
+2,21,The ten professors will avoid in dinner,45
+2,22,The private students were fresh young,46
+2,23,The woman was weird in many problems,47
+2,24,My players live  in the favorite car,48
+2,25,The bears eat brown performer,49
+3,1,The teenagers took hungry snacks,50
+3,2,My queen burned songs for the mouse,51
+3,3,The short horse explored brightly,52
+3,4,A theater planned foreign baseball,53
+3,5,The red lunch made the family,54
+3,6,A king and chef played the band,55
+3,7,The many jobs eat wonderful,56
+3,8,The blue business broke clothes,57
+3,9,The evening and tree ate the window,58
+3,10,The dark puppy is new and orange,59
+3,11,A christmas nurse is quite strong,60
+3,12,The useful grandpa sells in the field,61
+3,13,The cats scared fire in my path,62
+3,14,The popular rabbit was late this party,63
+3,15,The army created big nights,64
+3,16,A fresh sky jumped high,65
+3,17,A bird roasts the full concert,66
+3,18,An excited bicycle loves breaks,67
+3,19,The rain works in the opera restaurant,68
+3,20,The glass waiter chases the mother,69
+3,21,Her pork won wild wine,70
+3,22,The store means visitors in the park,71
+3,23,The computer sings nervous children,72
+3,24,The cheap bear went down that battle,73
+3,25,This tourist looks expensive morning,74
+4,1,The window eats in wild grass,75
+4,2,The fear found his twelve children,76
+4,3,The homemade night worked first,77
+4,4,That daughter lives for the cold home,78
+4,5,The weekend is expensive and not sad,79
+4,6,The terrible actor hugs my customer,80
+4,7,A rude girlfriend grew in the newspaper,81
+4,8,The six parents grow wine,82
+4,9,The musician failed gray trees,83
+4,10,His stupid guest was poor and juicy,84
+4,11,The student and apartment brings the bird,85
+4,12,The hot horse is too worried,86
+4,13,The food knows the wonderful husband,87
+4,14,An attractive worm drinks by the chef,88
+4,15,The welcome baseball eats perfectly smart,89
+4,16,My meal upset dark plant,90
+4,17,The kitchen adult enjoyed outside,91
+4,18,The family cooks every cake,92
+4,19,The hard tea ran many days,93
+4,20,The lazy father cut rice,94
+4,21,A wife comes sweet apples,95
+4,22,The tomato garbage only was beer,96
+4,23,The songs sleep the test and joke,97
+4,24,The talented animals were hiding grandmother,98
+4,25,The round president smelled the forest,99
+5,1,Our boy smelled around the cookies,100
+5,2,The salty nephew seemed bad,101
+5,3,Her chef works happy night,102
+5,4,The busy coffee burned early,103
+5,5,The english dentist ruled the baby,104
+5,6,The country cousin answers to my bed,105
+5,7,The professor went hungry and long,106
+5,8,The new student walked everyone,107
+5,9,The popular fish is often simple,108
+5,10,A breakfast sings in the afternoon alone,109
+5,11,The yellow question is delicious and dirty,110
+5,12,A full neighbor swam in songs,111
+5,13,The tired daughter was very tiny,112
+5,14,The lake made the hot fly,113
+5,15,Her important farmer has sick candy,114
+5,16,Our day asked short questions,115
+5,17,The sweet sleep ended marriage,116
+5,18,The assignment sets the many jobs,117
+5,19,The tea starts from the football forest,118
+5,20,A late cat bothered the house,119
+5,21,The queen enjoys slowly in the mouse,120
+5,22,The mother prepares school at the kitchen,121
+5,23,Their sandwich bakes game tomorrow,122
+5,24,The man chased corn in club,123
+5,25,My girl ran every sun,124
+6,1,This teenager and boat climbed great,125
+6,2,The sky damaged easy wind,126
+6,3,The math plants slept mean,127
+6,4,The spicy bus swims trees,128
+6,5,The old adults dance the baseball,129
+6,6,The man baked the many stars,130
+6,7,That cat was tropical and always red,131
+6,8,The night carrots ran vacation,132
+6,9,The cute aunt was my cold puppy,133
+6,10,The favorite dish is heavy and different,134
+6,11,The office took strange writer,135
+6,12,The hot pictures were usually tiny,136
+6,13,The beautiful tree plays on the award,137
+6,14,She felt the grandparents across the oven,138
+6,15,An animal lit comfortable sports,139
+6,16,The talented restaurant received in the pig,140
+6,17,The girl flew the kind street,141
+6,18,The black beaches are fat to look,142
+6,19,The strangers play on the blueberry water,143
+6,20,The pie helps down a wine,144
+6,21,The warm teams finish the floor,145
+6,22,The instruments drove to lifted in field,146
+6,23,The crowded musician sells the test,147
+6,24,The home learned the quiet box,148
+6,25,Her school scared sunshine in baby,149
+7,1,The driver earned from the egg,150
+7,2,Her calm child ran chef,151
+7,3,Her living singer sleeps clean,152
+7,4,The drums appreciated the great morning,153
+7,5,The brave boyfriend made the dog,154
+7,6,A peaceful year is exciting to visit,155
+7,7,An actor is thoughtful and very last,156
+7,8,The funny pets cost noodles,157
+7,9,His book tastes lazy butter,158
+7,10,The foreign dancing was black and fresh,159
+7,11,The water sent interesting fans,160
+7,12,This proud sweater was always read,161
+7,13,The starving tv smelled on their people,162
+7,14,The clear money was cooked with news,163
+7,15,That group is for room every novel,164
+7,16,A community ate strong stories,165
+7,17,The stranger cheered the man and fighter,166
+7,18,The sad professor enjoyed a sauce,167
+7,19,The dollars sit in a church dancer,168
+7,20,The boring parents have ten flowers,169
+7,21,The crowd and meat tell the country,170
+7,22,The large food inspired yesterday,171
+7,23,The team looked kind in the meal,172
+7,24,The love joined the fried neighbor,173
+7,25,The beaches need word often,174
+8,1,A man shined around the game,175
+8,2,The crowded june was never beautiful,176
+8,3,The steamed door looks private,177
+8,4,The song tasted scared couples,178
+8,5,The blue juice loses my fight,179
+8,6,Her night was near the new brother,180
+8,7,The entire dog bought soup,181
+8,8,The chicken won our wooden workers,182
+8,9,The birthday toy had our old prize,183
+8,10,The pretty lady is hard and dangerous,184
+8,11,The duck key was strange in need,185
+8,12,They entertain two deep cars,186
+8,13,A kind cabbage serves to the morning,187
+8,14,The house explanation is often dark,188
+8,15,A simple beach is the youngest sister,189
+8,16,The friends close sad tv,190
+8,17,They found the grape school brightly,191
+8,18,My grandfather sings every apartment,192
+8,19,That terrible maid watches gift,193
+8,20,His floor was serious and really happy,194
+8,21,The ocean spilled quickly on education,195
+8,22,The restaurant sleeps the three holidays,196
+8,23,The best girl lost the sun,197
+8,24,Its hope practices until late pet,198
+8,25,The closest team ate better,199
+9,1,The friend destroyed about colorful houses,200
+9,2,The best bus is softly small,201
+9,3,Her adult studied early rain,202
+9,4,His chinese plants tell lazy,203
+9,5,The black uncle called her crowd,204
+9,6,She danced a very lonely car,205
+9,7,Their sad potatoes attract vacation,206
+9,8,The tiny customers fired for the hours,207
+9,9,The cheap worker is bad but rich,208
+9,10,Her waiter tasted yesterday on his animal,209
+9,11,The song loves in relaxing boy,210
+9,12,The bear played some dangerous drinks,211
+9,13,The girlfriend owns the audience and boss,212
+9,14,A far hat bought children,213
+9,15,The big son drove many stories,214
+9,16,The lady cried the famous class,215
+9,17,The trip traveled some room,216
+9,18,The youngest dance seemed scary,217
+9,19,The interesting food is straight well,218
+9,20,The fruit learned five writers,219
+9,21,The cute professor was city and summer,220
+9,22,The performer watched pretty talented,221
+9,23,The lawyer enjoyed usually together,222
+9,24,That earth child went spoiled,223
+9,25,She hates the science fast and always,224
+10,1,The big stranger interested his instructor,225
+10,2,The courses offer thirsty fish,226
+10,3,The best pasta drank noisy,227
+10,4,The grandma sells delicious colleges,228
+10,5,Her bird and girl read the bear,229
+10,6,The last grandpa attracts the eggs,230
+10,7,The campers seemed empty and soft,231
+10,8,The three brushes shared newspaper,232
+10,9,The rude student swims the young friend,233
+10,10,My white exam was christmas and lonely,234
+10,11,The final chef was scared too bad,235
+10,12,The sisters played thin market,236
+10,13,The tired station cooks for her clothes,237
+10,14,The painter cut milk every day,238
+10,15,The boring grandmother lays unhappy,239
+10,16,The mean room cried boyfriend,240
+10,17,The kids visited the angry attention,241
+10,18,The class took art food,242
+10,19,These books felt with my tiny son,243
+10,20,The boiled group used in the cat,244
+10,21,Her mother smells quickly to the teacher,245
+10,22,The many travelers gave onion,246
+10,23,My bags helped the lake early,247
+10,24,The nice show is never troubled,248
+10,25,The child arrived museum at her duck,249
+11,1,The windows learned in brown secretary,250
+11,2,The meal planned twenty kids,251
+11,3,That cool room drinks here,252
+11,4,A dangerous bird was really orange,253
+11,5,The two gloves had their english horse,254
+11,6,The chicken movie climbed the son,255
+11,7,The grocery person needs farm,256
+11,8,The cake bit in the better soup,257
+11,9,The difficult juice was the birthday test,258
+11,10,The tasty night was three and dark,259
+11,11,The troubled grade is sent easily,260
+11,12,A radio feels professor loudly,261
+11,13,The small tea sells over an apartment,262
+11,14,Our homework buys more sky,263
+11,15,Our rabbit started sick customers,264
+11,16,A comfortable boyfriend covered the cousins,265
+11,17,The snake played the unfair wedding,266
+11,18,They hate green minutes on the card,267
+11,19,The math store was always relaxing,268
+11,20,The sister and cloud screamed their mother,269
+11,21,The meeting lives late on the fence,270
+11,22,The white money gave kitten,271
+11,23,His snowman stole spanish daily,272
+11,24,The little girlfriend starts in that music,273
+11,25,The park did fast black food,274
+12,1,A wind came down the gifts,275
+12,2,The school bag had the dry brother,276
+12,3,The nice goat dried great,277
+12,4,This dinner failed the city story,278
+12,5,The terrible customer rolled every mother,279
+12,6,The potatoes took cute carrots,280
+12,7,The many children received kitchen,281
+12,8,Her doctor and airplane picks ball,282
+12,9,The happy streets helped quietly,283
+12,10,The bedroom leaves chewed the sister,284
+12,11,A large hair was honest and upset,285
+12,12,My youngest farmer was always curly,286
+12,13,Her loving flowers laugh in a map,287
+12,14,The year loves for those strong rats,288
+12,15,The girl tastes sick son,289
+12,16,The busy stain waits business,290
+12,17,They washed and bought my loud hill,291
+12,18,The rug grows the fat patient,292
+12,19,The pretty sky is angry and expensive,293
+12,20,The yellow plants cooled in the shopper,294
+12,21,Her roads boiled quickly at the picture,295
+12,22,She ran the international uncle the carrots,296
+12,23,The chef shows dark bunny,297
+12,24,The answer flew in the blue animals,298
+12,25,The air eats things through the shoes,299
+13,1,Another pasta made around a date,300
+13,2,Her vegetables practiced high garbage,301
+13,3,Their fun truth listens first,302
+13,4,The night ended the train friend,303
+13,5,Her person looked favorite and bad,304
+13,6,The underground clothes fly the party,305
+13,7,Their pants watched boss with the door,306
+13,8,The friendly children boiled campus,307
+13,9,The ruined and sad meal is difficult,308
+13,10,Her hot music is three and wooden,309
+13,11,The voice attracts on the romantic key,310
+13,12,A metal pepper was usually sports,311
+13,13,The station tells to terrible hours,312
+13,14,This green girl visited at noise,313
+13,15,A dog lasted old movies,314
+13,16,Our classical flies were lonely,315
+13,17,The flags love the lost team,316
+13,18,The tennis machine was brown and unhappy,317
+13,19,The family assigned for the loud chair,318
+13,20,Those students opened dirty and many,319
+13,21,The show needs early today,320
+13,22,A white project sounds the pets,321
+13,23,The artist walked in good boyfriend,322
+13,24,The kitten sat stores and water,323
+13,25,The museums sell proud salt,324
+14,1,The chicken studies above the jokes,325
+14,2,They wrote cake in the green police,326
+14,3,The club rabbits look fried,327
+14,4,Her dog serves me the peaceful grandparents,328
+14,5,The healthy street is foreign sisters,329
+14,6,The home dreamed in the clean clothing,330
+14,7,The four parents baked boss,331
+14,8,The person stopped slow daughter,332
+14,9,A new thin door is youngest,333
+14,10,My small life was fish and little,334
+14,11,The family chased birthday novel,335
+14,12,The happy store is suddenly long,336
+14,13,The couple bought book and student,337
+14,14,The sad tree ate from my man,338
+14,15,The author played quiet girl,339
+14,16,A lonely house had angry yesterday,340
+14,17,A room watched the tired restaurant,341
+14,18,The twin visitors trust at the lady,342
+14,19,The large sports sold monkey,343
+14,20,Their problems and dinner hung the drinks,344
+14,21,That child lives her members today,345
+14,22,A helpful movie expected the plants,346
+14,23,The picture tells the many cousin,347
+14,24,The horrible computer was busy and tall,348
+14,25,The market swings really of the driver,349
+15,1,The week fell during their actor,350
+15,2,The birthday dessert shines the soup,351
+15,3,The salty mouse carried warm,352
+15,4,They gave the italian theater and project,353
+15,5,A football lunch chased the shirt,354
+15,6,The kids roasted four fans,355
+15,7,The fast help likes aunt,356
+15,8,That lawyer ended small dogs,357
+15,9,The stressful clothes are the french bar,358
+15,10,The nice table is vegetable and giant,359
+15,11,The food celebrated on the cheap pan,360
+15,12,The favorite husband was really farm,361
+15,13,The little break buys off the gifts,362
+15,14,A brown homework was smoked in boy,363
+15,15,The old ball was soft and popular,364
+15,16,Their child sang green waitress,365
+15,17,The town watched her pregnant bags,366
+15,18,The angry chocolate completed at the kitten,367
+15,19,Those holes visited loudly in a family,368
+15,20,The tired holiday looked in woman,369
+15,21,That forest needs restaurant today,370
+15,22,The healthy time loved vacation,371
+15,23,They dig six games on the sun,372
+15,24,The unhappy meat was long daily,373
+15,25,The teacher went dirty friends,374
+16,1,The picture received for yellow ocean,375
+16,2,Our priest screamed tropical business,376
+16,3,The useful lunch destroyed friendly,377
+16,4,The many room ate around the aunt,378
+16,5,The quiet waiter came the team,379
+16,6,The peppers cheered world perfectly,380
+16,7,The religious weather grew artist,381
+16,8,The rats seemed the ten cousins,382
+16,9,The four songs are sick plates,383
+16,10,He took very in the ugly god,384
+16,11,The beautiful patient was colorful and stormy,385
+16,12,The toy forest was quickly bad,386
+16,13,The small home loves in my fish,387
+16,14,The cars worked hot class,388
+16,15,A calm pie needs for flowers,389
+16,16,The news believes still bananas,390
+16,17,The math son bakes suddenly,391
+16,18,The big children were excited and glass,392
+16,19,The dish traveled clean money,393
+16,20,The catholic kitchen broke many sisters,394
+16,21,Her support has warm and weekly talking,395
+16,22,The gardener looked always crowded,396
+16,23,The little trees had cherry couple,397
+16,24,Their performer sang adults loudly,398
+16,25,The sweet monkey wants glasses,399
+17,1,The hat heard across the vegetables,400
+17,2,The class fell dedicated garden,401
+17,3,The hot hole speaks more,402
+17,4,The supermarket gave ugly stage,403
+17,5,The talented salad sat the couple,404
+17,6,The chicken president is broken and different,405
+17,7,The ten nurses came up the movie,406
+17,8,The lazy mountain reads languages,407
+17,9,A divorced pink speech was huge,408
+17,10,The fat friends were difficult and funny,409
+17,11,The sandwich drew the two schools,410
+17,12,The sweet group is very slow,411
+17,13,A strange father seemed with the cheese,412
+17,14,The lesson saw at the many patients,413
+17,15,The picture grew blue music,414
+17,16,The television table tasted tomorrow,415
+17,17,She warmed english popular books,416
+17,18,The cars help foreign actor,417
+17,19,The artist hiked in the deep daughter,418
+17,20,The gifts and company found that pool,419
+17,21,The smart bread opens the pig,420
+17,22,The tasty teachers need in woman,421
+17,23,The young sun is completely green,422
+17,24,The short goat buys show,423
+17,25,The mouse walked too baked,424
+18,1,The only arm is loud and far,425
+18,2,The waiters lasted two keys,426
+18,3,The italian meal asks right,427
+18,4,My lightning traveled on our thirty clubs,428
+18,5,Our english meat assigns many cats,429
+18,6,The help practices broken corn,430
+18,7,The pink leg was always old,431
+18,8,The great lady saves band,432
+18,9,Our faithful apple and breakfast were happy,433
+18,10,The box ended the crowded farmer,434
+18,11,The many books never joined doctor,435
+18,12,The orange city wrote in the game,436
+18,13,A warm daughter won for dessert,437
+18,14,A player made kind butcher,438
+18,15,The far shirt fell garage,439
+18,16,The homework served the amazing author,440
+18,17,Her small floor cut the noise,441
+18,18,The visitor disappeared for the busy professor,442
+18,19,The rain was best and too curious,443
+18,20,The perfect soccer phone is the buttons,444
+18,21,The coffee weeks tasted award,445
+18,22,The lives drink in sick milk,446
+18,23,The expensive husband gives the market,447
+18,24,The hotel sells to the wood advice,448
+18,25,A hardworking cake had no spicy neighbor,449
+19,1,The interesting cup was small and friendly,450
+19,2,The sea eats their artist,451
+19,3,The plastic bird listened first,452
+19,4,The gift flew every shy bed,453
+19,5,The quiet boat made peacefully,454
+19,6,The gold question hugs our game,455
+19,7,A business fit well for the french,456
+19,8,The jazz children tell carrots,457
+19,9,The tall pet and apple are new,458
+19,10,The fun couple were cheap and bored,459
+19,11,Her stories work pretty puppy,460
+19,12,The expensive student is too dry,461
+19,13,The great phone went down the chairs,462
+19,14,The same family lost to finger,463
+19,15,My day looked red nurses,464
+19,16,The daily confusing ring is not hungry,465
+19,17,My jeans walked the office neighbors,466
+19,18,The blue rabbit sang twins,467
+19,19,Their singer rang on the difficult grandfather,468
+19,20,The rice and everyone paid light,469
+19,21,A song slept away the woman,470
+19,22,That wooden brother received hard,471
+19,23,The baby studies over the river,472
+19,24,The plate joined the music often,473
+19,25,The newspaper sounded beans and italian,474
+20,1,My dentist broke about the children,475
+20,2,That forest knows the red goals,476
+20,3,The five grandparents bought the music,477
+20,4,A left pig was big and shy,478
+20,5,The rich artist hurt fall,479
+20,6,Our aunt drew the war soon,480
+20,7,The little people raised new ball,481
+20,8,The soccer hand was long and crazy,482
+20,9,The toys celebrated scared rabbit,483
+20,10,The soft color is too fun,484
+20,11,The thirsty day chooses in the worker,485
+20,12,The hole speaks his oldest guest,486
+20,13,My grapes are yellow and quite difficult,487
+20,14,The teacher pleased lake in the mouse,488
+20,15,The water cut through the helpful news,489
+20,16,The leaves end tools together,490
+20,17,He plays the speech with the holiday,491
+20,18,The last player drank everyone,492
+20,19,The deep paper stayed quietly,493
+20,20,My uncle kicked horrible rules,494
+20,21,The boring knife upset their steak,495
+20,22,His mean daughter cleaned on families,496
+20,23,The tasty team will change easily,497
+20,24,A funny house runs with the movie,498
+20,25,The cold nanny scored the questions,499

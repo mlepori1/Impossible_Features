@@ -1,0 +1,51 @@
+ItemNum,PlausScore,ImplausScore,ScoreDiff,PlausSentence,ImplausSentence,SynonymPair,NumSyn
+284,6.916666666666667,1.0454545454545454,5.871212121212121,The uncle hung the ornament.,The ornament hung the uncle.,,
+312,6.863636363636363,1.0,5.863636363636363,The groundskeeper changed the light bulb.,The light bulb changed the groundskeeper.,,
+310,6.863636363636363,1.0,5.863636363636363,The bookseller calculated the profit.,The profit calculated the bookseller.,,
+83,7.0,1.1363636363636365,5.863636363636363,The congressman delivered the speech.,The speech delivered the congressman.,38.0,Version1
+60,7.0,1.16,5.84,The teacher bought the laptop.,The laptop bought the teacher.,28.0,Version1
+303,6.954545454545454,1.25,5.704545454545454,The poker player won the game.,The game won the poker player.,,
+59,6.909090909090909,1.2083333333333333,5.700757575757576,The man drank the soda.,The soda drank the man.,,
+62,6.909090909090909,1.2173913043478262,5.691699604743083,The lady cooked the supper.,The supper cooked the lady.,29.0,Version1
+295,6.714285714285714,1.0434782608695652,5.670807453416149,The confectioner sprinkled the sugar.,The sugar sprinkled the confectioner.,,
+300,6.7727272727272725,1.1363636363636365,5.636363636363636,The schoolgirl borrowed the key.,The key borrowed the schoolgirl.,,
+36,6.9,1.2727272727272727,5.627272727272728,The tourist exited the bus.,The bus exited the tourist.,18.0,Version1
+16,6.863636363636363,1.24,5.623636363636363,The secretary organized the desk.,The desk organized the secretary.,8.0,Version1
+287,6.888888888888889,1.2727272727272727,5.616161616161617,The potter molded the clay.,The clay molded the potter.,,
+64,6.64,1.0416666666666667,5.598333333333333,The traveler lost the souvenir.,The souvenir lost the traveler.,30.0,Version1
+86,6.590909090909091,1.0,5.590909090909091,The constable examined the property.,The property examined the constable.,39.0,Version2
+57,6.76,1.1818181818181819,5.578181818181818,The carnivore ate the steak.,The steak ate the carnivore.,27.0,Version1
+15,6.88,1.3181818181818181,5.5618181818181816,The handyman repaired the faucet.,The faucet repaired the handyman.,7.0,Version2
+290,6.76,1.2,5.56,The groupie attended the concert.,The concert attended the groupie.,,
+48,6.916666666666667,1.3636363636363635,5.553030303030304,The servant wiped the sink.,The sink wiped the servant.,23.0,Version1
+294,6.545454545454546,1.0,5.545454545454546,The seamstress ironed the shirt.,The shirt ironed the seamstress.,,
+305,6.956521739130435,1.4166666666666667,5.539855072463768,The winemaker uncorked the bottle.,The bottle uncorked the winemaker.,,
+21,6.7727272727272725,1.25,5.5227272727272725,The cook grilled the octopus.,The octopus grilled the cook.,10.0,Version2
+32,7.0,1.48,5.52,The author finished the novel.,The novel finished the author.,16.0,Version1
+14,6.791666666666667,1.2727272727272727,5.5189393939393945,The repairman fixed the tap.,The tap fixed the repairman.,7.0,Version1
+291,6.791666666666667,1.2727272727272727,5.5189393939393945,The hacker memorized the password.,The password memorized the hacker.,,
+27,6.826086956521739,1.3478260869565217,5.478260869565218,The soldier raised the banner.,The banner raised the soldier.,13.0,Version2
+18,6.851851851851852,1.380952380952381,5.470899470899472,The pilot steered the airplane.,The airplane steered the pilot.,9.0,Version1
+31,6.708333333333333,1.24,5.468333333333333,The announcer mispronounced the word.,The word mispronounced the announcer.,15.0,Version2
+280,6.545454545454546,1.0869565217391304,5.458498023715416,The boyfriend basted the turkey.,The turkey basted the boyfriend.,,
+63,6.916666666666667,1.4583333333333333,5.458333333333334,The woman prepared the dinner.,The dinner prepared the woman.,29.0,Version2
+9,6.818181818181818,1.391304347826087,5.426877470355731,The mortician arranged the burial.,The burial arranged the mortician.,4.0,Version2
+71,6.7727272727272725,1.3478260869565217,5.424901185770751,The villager cultivated the crop.,The crop cultivated the villager.,32.0,Version2
+5,6.703703703703703,1.2916666666666667,5.412037037037036,The prostitute squandered the cash.,The cash squandered the prostitute.,3.0,Version1
+40,6.863636363636363,1.4545454545454546,5.409090909090908,The scientist discovered the cure.,The cure discovered the scientist.,20.0,Version1
+26,6.68,1.2727272727272727,5.407272727272727,The serviceman hoisted the flag.,The flag hoisted the serviceman.,13.0,Version1
+75,6.565217391304348,1.16,5.4052173913043475,The bookkeeper created the graph.,The graph created the bookkeeper.,34.0,Version2
+61,6.72,1.3181818181818181,5.401818181818181,The instructor purchased the computer.,The computer purchased the instructor.,28.0,Version2
+73,6.4,1.0,5.4,The advisor edited the paper.,The paper edited the advisor.,33.0,Version2
+52,6.814814814814815,1.4285714285714286,5.386243386243386,The patient swallowed the medicine.,The medicine swallowed the patient.,24.0,Version2
+285,6.625,1.24,5.385,The attendant pressed the button.,The button pressed the attendant.,,
+325,6.777777777777778,1.4090909090909092,5.3686868686868685,The archaeologist canceled the trip.,The trip canceled the archaeologist.,,
+12,6.818181818181818,1.45,5.368181818181818,The troublemaker crashed the car.,The car crashed the troublemaker.,6.0,Version1
+316,6.363636363636363,1.0,5.363636363636363,The house sitter watered the plant.,The plant watered the house sitter.,,
+321,6.44,1.0909090909090908,5.34909090909091,The crackhead smoked the pipe.,The pipe smoked the crackhead.,,
+296,6.64,1.2916666666666667,5.348333333333333,The voter sealed the envelope.,The envelope sealed the voter.,,
+33,6.954545454545454,1.6521739130434783,5.302371541501976,The writer completed the book.,The book completed the writer.,16.0,Version2
+292,6.478260869565218,1.1851851851851851,5.293075684380033,The marine packed the bag.,The bag packed the marine.,,
+87,6.791666666666667,1.5,5.291666666666667,The celebrity signed the photograph.,The photograph signed the celebrity.,40.0,Version1
+17,6.590909090909091,1.3043478260869565,5.286561264822135,The receptionist tidied the table.,The table tidied the receptionist.,8.0,Version2
+53,6.833333333333333,1.56,5.273333333333333,The hoarder hid the stash.,The stash hid the hoarder.,25.0,Version1
