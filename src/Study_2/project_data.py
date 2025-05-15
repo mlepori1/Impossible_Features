@@ -13,6 +13,7 @@ import pickle as pkl
 
 import pandas as pd
 import numpy as np
+from sklearn.decomposition import PCA
 
 import torch
 import transformer_lens
@@ -57,11 +58,18 @@ def parse_arguments():
         help="Location of pickled diff vectors",
     )
 
+    parser.add_argument(
+        "--pca",
+        default="./Study_1/results/gemma-2-2b/pca.pkl",
+        type=str,
+        help="Location of pickled PCA",
+    )
+
     args = parser.parse_args()
     return args
 
 
-def project_vectors(model, dataset, diff_vectors, layer):
+def project_vectors(model, dataset, diff_vectors, pca, random_vectors, layer):
     """Projects sentence pairs along diff vectors and assesses
     accuracy
     """
@@ -69,6 +77,12 @@ def project_vectors(model, dataset, diff_vectors, layer):
         "probable_improbable": [],
         "improbable_impossible": [],
         "impossible_inconceivable": [],
+        "pca_0": [],
+        "pca_1": [],
+        "pca_2": [],
+        "random_0": [],
+        "random_1": [],
+        "random_2": [],
     }
 
     for _, row in tqdm(
@@ -80,11 +94,21 @@ def project_vectors(model, dataset, diff_vectors, layer):
         _, cache_0 = model.run_with_cache(tok)
         state = cache_0[utils.get_act_name("resid_post", layer)].cpu()[0, -1]
 
-        # Get the correct diff vector
+        # Get the diff vector and project
         for vector in VECTORS:
             diff_vector = diff_vectors[vector]
             projection = torch.dot(state, diff_vector).item()
             results[vector].append(projection)
+        
+        # Project state on to pca vectors
+        pca_projs = pca.transform(state.float().numpy().reshape(1, -1))
+        for pca_idx, proj in enumerate(pca_projs[0]):
+            results[f"pca_{pca_idx}"].append(proj)
+
+        # Project state on random vectors
+        for rand_idx, rand_vector in enumerate(random_vectors):
+            projection = torch.dot(state, rand_vector).item()
+            results[f"random_{rand_idx}"].append(projection)
 
     return results
 
@@ -128,8 +152,14 @@ if __name__ == "__main__":
     layer = int(args.diff_vectors.split("_")[-1][:-4])  # Layer is in filename
     diff_vectors = pkl.load(open(args.diff_vectors, "rb"))
 
+    ### Load PCA Transformation
+    pca = pkl.load(open(args.pca, "rb"))
+
+    ### Load up 3 random vectors
+    random_vectors = torch.randn(3, model.cfg.d_model, generator=torch.Generator().manual_seed(19)).bfloat16()
+
     ### Run Diff Vector Projections
-    projections = project_vectors(model, dataset, diff_vectors, layer)
+    projections = project_vectors(model, dataset, diff_vectors, pca, random_vectors, layer)
 
     ### Get losses
     losses = get_loss(model, dataset)
@@ -137,6 +167,10 @@ if __name__ == "__main__":
     # Save off results
     for vector in VECTORS:
         dataset[vector] = projections[vector]
+
+    for control_proj in ["pca_0", "pca_1", "pca_2", "random_0", "random_1", "random_2"]:
+        dataset[control_proj] = projections[control_proj]
+
     dataset["loss"] = losses
 
     dataname = args.dataset.split("/")[-1]

@@ -1,13 +1,13 @@
 method,features,accuracy
-Difference Vector,probable_improbable,0.9285714285714286
+Difference Vector,probable_improbable,1.0
 Difference Vector,probable_impossible,1.0
 Difference Vector,probable_inconceivable,1.0
-Difference Vector,improbable_impossible,0.7857142857142857
+Difference Vector,improbable_impossible,0.7142857142857143
 Difference Vector,improbable_inconceivable,1.0
 Difference Vector,impossible_inconceivable,0.9285714285714286
-Probability,probable_improbable,1.0
+Probability,probable_improbable,0.9285714285714286
 Probability,probable_impossible,1.0
 Probability,probable_inconceivable,1.0
-Probability,improbable_impossible,0.7857142857142857
-Probability,improbable_inconceivable,0.9285714285714286
+Probability,improbable_impossible,0.6428571428571429
+Probability,improbable_inconceivable,1.0
 Probability,impossible_inconceivable,0.6428571428571429

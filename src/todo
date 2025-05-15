@@ -1,0 +1,17 @@
+[] Rerun all analyses using complete, grammatical sentences
+[] Select steering vectors for individual concepts, rather than average over concepts
+    [] No longer care about geometry between each concept, study 3 takes care of this
+[] See if the vectors obtained by shades can also classify sherlock, shtulman, federenko animacy (impossible/inconceivable), 
+    bel-oneill nonsense (impossible/inconceivable), michaelov (probable/improbable vs impossible/inconceivable), 
+    pyl (probable vs. impossible/inconceivable), ryskin (probable vs. impossible/inconceivable), Warren (probable, impossible, inconceivable)
+[] Stronger: Does a GMM trained on shades data classify the other datasets?
+    [] If so, then there exist vector representations of these classes
+    [] This would be cool! But we actually KNOW that not all improbable things
+    are equally improbable, not all probable things are equally probable,
+    not all impossible things are equally impossible, and not all inconceivable things
+    are equally inconceivable. 
+    
+    Response times or confusability might be a function of the stimulus set, and the boundaries between these concepts 
+    are likely to shift for stimulus sets that vary in the manner in which they create stimuli that fit this modal concept
+[] 
+[]

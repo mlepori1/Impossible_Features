@@ -53,7 +53,7 @@ def parse_arguments():
 
     parser.add_argument(
         "--diff_vectors",
-        default="./Study_1/results/gemma-2-2b/diff_vectors_layer_11.pkl",
+        default="./Study_1/results/gemma-2-2b/diff_vectors_layer_16.pkl",
         type=str,
         help="Location of pickled diff vectors",
     )

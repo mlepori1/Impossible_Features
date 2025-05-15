@@ -1,0 +1,281 @@
+sentence,class,probable_improbable,improbable_impossible,impossible_inconceivable,pca_0,pca_1,pca_2,random_0,random_1,random_2,loss
+baking a cake inside an oven.,probable,-728.0,-840.0,-2352.0,-581.81177,34.904594,-5.9500904,-118.0,115.0,124.5,5.65625
+baking a cake inside an airfryer.,improbable,241.0,-494.0,-2352.0,-576.11865,31.147835,0.81206703,-5.65625,95.5,188.0,5.09375
+baking a cake inside a freezer.,impossible,334.0,-151.0,-2352.0,-577.73254,35.254055,-3.9659176,-46.25,167.0,131.0,6.15625
+baking a cake inside a sigh.,inconceivable,628.0,776.0,-1080.0,-574.7423,37.77872,-5.911274,-12.9375,169.0,96.0,8.0
+boiling water using a kettle.,probable,-298.0,-552.0,-2416.0,-572.2393,37.896492,-5.7571306,-114.0,280.0,148.0,6.75
+boiling water using a microwave.,improbable,242.0,-206.0,-2496.0,-565.9999,37.580532,-3.6587772,-54.5,223.0,88.5,6.75
+boiling water using a refrigerator.,impossible,416.0,222.0,-2320.0,-564.9324,36.9026,-9.0656395,-46.5,185.0,99.5,7.65625
+boiling water using justice.,inconceivable,568.0,728.0,-596.0,-579.7628,39.640213,-7.7688484,-83.0,193.0,56.0,12.0625
+breaking a coconut using a rock.,probable,256.0,-193.0,-2592.0,-561.32135,35.32215,-1.8550987,-121.0,272.0,108.0,6.59375
+breaking a coconut using a table.,improbable,362.0,-85.5,-2400.0,-563.5768,34.893456,-2.045167,-168.0,190.0,143.0,7.21875
+breaking a coconut using a pillow.,impossible,470.0,-167.0,-2592.0,-563.26636,35.164005,-1.1569271,-133.0,206.0,92.0,7.5625
+breaking a coconut using a texture.,inconceivable,648.0,764.0,-1024.0,-571.3986,35.77833,-0.5932312,-55.0,120.0,124.0,8.875
+building a house out of brick.,probable,-88.0,-358.0,-2024.0,-582.3396,37.45978,-5.2321253,-106.5,231.0,99.5,5.25
+building a house out of grass.,improbable,688.0,110.5,-2304.0,-568.8053,36.48823,-1.1211243,-51.5,166.0,94.0,5.5625
+building a house out of gas.,impossible,728.0,572.0,-1688.0,-571.72986,39.58618,-6.3270054,-50.25,149.0,110.5,6.09375
+building a house out of language.,inconceivable,628.0,492.0,-1080.0,-578.58386,38.72413,-3.379694,-4.125,123.0,64.5,6.1875
+building a bridge out of steel.,probable,138.0,-178.0,-2256.0,-569.5032,36.18189,-4.7816906,-136.0,140.0,101.0,5.53125
+building a bridge out of plastic.,improbable,478.0,-40.75,-2320.0,-566.00037,35.813446,-0.85531235,-112.0,120.0,101.5,5.5
+building a bridge out of soup.,impossible,752.0,316.0,-2272.0,-566.3561,36.276665,-4.1363487,-104.0,154.0,68.5,6.46875
+building a bridge out of dance.,inconceivable,692.0,636.0,-1024.0,-574.44836,38.83776,-1.16259,-13.1875,134.0,-9.75,6.5625
+calling a friend using a phone.,probable,-137.0,-119.0,-1776.0,-571.4746,39.16405,-1.5184298,-68.0,236.0,20.0,6.4375
+calling a friend using a laptop.,improbable,370.0,-40.75,-1872.0,-573.54315,38.334778,0.6449795,-78.0,182.0,41.0,7.03125
+calling a friend using a sandwich.,impossible,768.0,880.0,-1416.0,-564.5321,39.190758,-3.9655285,14.125,215.0,47.5,8.625
+calling a friend using mass.,inconceivable,396.0,812.0,-300.0,-586.40216,35.494095,-8.41901,-76.5,120.5,272.0,8.9375
+carrying groceries inside a tote bag.,probable,-608.0,-916.0,-2160.0,-589.6261,33.040516,-10.056889,-65.0,107.0,84.0,7.0625
+carrying groceries inside a backpack.,improbable,-426.0,-820.0,-2256.0,-584.6683,34.571037,-10.176822,-49.75,94.5,63.5,8.0
+carrying groceries inside a tornado.,impossible,494.0,54.75,-2240.0,-566.4318,35.941616,-10.386109,-97.5,85.0,53.25,8.8125
+carrying groceries inside a law.,inconceivable,338.0,588.0,-640.0,-567.2316,36.87571,-11.507559,-59.0,201.0,186.0,9.8125
+carving a statue using a chisel.,probable,-458.0,-720.0,-2448.0,-570.6327,33.418518,-4.5752354,-159.0,171.0,82.5,5.28125
+carving a statue using a nail.,improbable,288.0,-120.5,-2496.0,-566.924,35.916485,-2.6470003,-63.75,253.0,100.0,6.21875
+carving a statue using a sock.,impossible,756.0,276.0,-2416.0,-564.6801,35.795086,-0.26909542,-46.75,212.0,84.0,7.125
+carving a statue using laughter.,inconceivable,576.0,298.0,-1616.0,-579.31506,36.38372,-6.1398067,-54.0,194.0,83.0,8.1875
+catching a fish in a lake.,probable,-524.0,-684.0,-2192.0,-580.95056,37.598255,-6.1211367,-72.5,169.0,82.5,4.90625
+catching a fish in a puddle.,improbable,-192.0,-472.0,-2096.0,-585.987,37.314445,-6.7122135,-70.5,205.0,78.0,5.25
+catching a fish in a raindrop.,impossible,167.0,-59.5,-2080.0,-578.93933,38.124786,-8.139,-86.5,182.0,42.0,4.78125
+catching a fish in an exclamation.,inconceivable,194.0,180.0,-964.0,-578.8452,35.383972,-7.25914,-63.5,251.0,-49.5,7.40625
+chilling a drink using ice.,probable,-243.0,-420.0,-2144.0,-578.0969,37.16595,-4.6537914,-84.0,155.0,23.75,6.0
+chilling a drink using snow.,improbable,440.0,18.0,-2240.0,-572.1184,37.265327,-3.0318365,-77.5,122.5,103.0,6.90625
+chilling a drink using fire.,impossible,564.0,216.0,-2272.0,-565.98065,39.633266,-3.2010193,-75.0,260.0,116.5,7.25
+chilling a drink using yesterday.,inconceivable,428.0,616.0,-752.0,-576.96826,35.704437,-5.468442,-2.84375,284.0,-21.375,7.90625
+chopping a carrot using a knife.,probable,-516.0,-800.0,-2608.0,-568.068,33.62618,-2.6436834,-29.625,178.0,24.625,5.3125
+chopping a carrot using a sword.,improbable,3.34375,-470.0,-2512.0,-573.1794,35.671173,-3.8656273,-37.0,218.0,44.5,6.125
+chopping a carrot using a rag.,impossible,-128.0,-426.0,-2544.0,-567.9975,36.102734,-4.492878,-18.625,223.0,88.5,7.3125
+chopping a carrot using a color.,inconceivable,192.0,420.0,-1152.0,-580.023,35.932404,-3.3680058,-7.75,117.5,161.0,7.09375
+cleaning a spill using a sponge.,probable,-142.0,-394.0,-2432.0,-563.8289,35.46464,-6.8955812,-115.5,104.5,156.0,7.0625
+cleaning a spill using a scarf.,improbable,304.0,-74.5,-2192.0,-566.17566,35.65802,-5.8736725,-85.0,135.0,67.0,8.8125
+cleaning a spill using mustard.,impossible,680.0,476.0,-2032.0,-560.64417,38.391422,-3.270091,-50.75,272.0,103.5,10.125
+cleaning a spill using a country.,inconceivable,350.0,700.0,-740.0,-568.7077,37.504997,-4.708539,-45.0,227.0,158.0,9.8125
+cleaning a carpet using a vacuum.,probable,-274.0,-502.0,-2192.0,-575.948,35.95106,-2.2282896,-61.75,222.0,65.0,6.28125
+cleaning a carpet using a hat.,improbable,780.0,470.0,-1992.0,-561.6194,40.32294,0.31650734,9.25,234.0,82.5,7.78125
+cleaning a carpet using a crayon.,impossible,552.0,116.5,-2288.0,-572.4226,37.613075,-4.004155,-31.875,206.0,82.5,8.625
+cleaning a carpet using a week.,inconceivable,336.0,520.0,-660.0,-582.5607,36.89352,-5.2982225,-23.875,254.0,-2.0,8.625
+climbing a tree using a ladder.,probable,-282.0,-528.0,-2384.0,-571.8053,36.57322,-7.6862183,-154.0,156.0,61.75,6.0
+climbing a tree using a rope.,improbable,-187.0,-556.0,-2560.0,-568.3477,36.39633,-7.0651855,-154.0,162.0,66.0,5.75
+climbing a tree using oil.,impossible,740.0,572.0,-1808.0,-569.8767,40.681305,-6.4154043,-43.5,165.0,158.0,8.5625
+climbing a tree using a poem.,inconceivable,736.0,352.0,-1592.0,-564.3796,40.757023,-0.6754608,-119.0,188.0,74.0,7.6875
+closing a jacket using a zipper.,probable,-190.0,-592.0,-2272.0,-577.43164,36.8945,0.045503616,-66.0,160.0,117.5,6.8125
+closing a jacket using glue.,improbable,536.0,-138.0,-2176.0,-573.43396,39.689777,3.1733017,-55.25,190.0,109.5,8.4375
+closing a jacket using fog.,impossible,788.0,948.0,-1264.0,-561.99603,42.940804,-2.0490122,-52.25,194.0,91.5,10.1875
+closing a jacket using a word.,inconceivable,560.0,532.0,-1080.0,-569.59875,42.91382,2.1375484,-37.25,256.0,85.5,8.5
+constructing a tower out of blocks.,probable,54.5,-201.0,-2256.0,-564.25006,36.353706,-2.184723,-59.0,157.0,82.5,4.75
+constructing a tower out of bubbles.,improbable,482.0,34.0,-2304.0,-563.2724,36.474686,-0.84597206,-49.5,151.0,78.0,5.625
+constructing a tower out of sparks.,impossible,676.0,368.0,-1968.0,-569.36005,37.082367,-5.2839813,-29.625,131.0,81.0,6.3125
+constructing a tower out of seasons.,inconceivable,756.0,804.0,-1104.0,-571.25385,38.1335,-2.3414602,-52.5,148.0,14.0,6.65625
+cooking dinner out of pasta.,probable,288.0,-25.0,-1840.0,-578.6425,37.737762,-3.35258,25.375,251.0,37.75,8.0
+cooking dinner out of insects.,improbable,648.0,65.0,-2240.0,-562.57,36.05981,-3.3916492,-35.25,150.0,28.375,8.6875
+cooking dinner out of the moon.,impossible,600.0,382.0,-1704.0,-575.7686,38.26449,-5.5651846,61.75,171.0,8.9375,7.71875
+cooking dinner out of thoughts.,inconceivable,113.5,45.0,-1112.0,-577.26556,38.07768,-10.969303,40.25,160.0,-20.375,9.1875
+cooling a room using a fan.,probable,92.0,-243.0,-2320.0,-566.0025,37.92181,-1.3660517,-125.0,163.0,141.0,5.5625
+cooling a room using shades.,improbable,632.0,113.0,-1880.0,-572.7757,38.629757,1.6148796,-94.0,171.0,166.0,8.25
+cooling a room using a heater.,impossible,72.5,-153.0,-2240.0,-567.5128,39.2356,-3.9660625,-104.5,196.0,159.0,6.0625
+cooling a room using a taste.,inconceivable,484.0,816.0,-596.0,-575.2806,38.537136,-5.1754656,-25.25,165.0,128.0,8.3125
+covering a window using curtains.,probable,-16.25,-476.0,-2208.0,-574.4849,36.100864,0.12931061,-73.5,161.0,63.0,7.125
+covering a window using sheets.,improbable,412.0,-75.5,-2032.0,-571.9007,36.56238,-0.025191307,-86.0,164.0,88.5,7.71875
+covering a window using a hair.,impossible,888.0,1272.0,-1848.0,-541.30597,40.476273,-4.1298704,-13.375,292.0,89.5,7.96875
+covering a window using a chant.,inconceivable,716.0,772.0,-1232.0,-562.9956,42.986393,-7.9792743,-103.0,192.0,106.5,8.9375
+crafting a bowl out of clay.,probable,23.5,-396.0,-2336.0,-568.5859,36.89561,-1.9710836,-72.5,230.0,51.25,6.5
+crafting a bowl out of mud.,improbable,362.0,-105.5,-2384.0,-569.36005,37.33482,-4.0904007,-23.0,239.0,26.875,7.25
+crafting a bowl out of smoke.,impossible,712.0,600.0,-1736.0,-569.4682,40.496487,-5.319889,-24.5,211.0,112.0,7.53125
+crafting a bowl out of math.,inconceivable,784.0,544.0,-1368.0,-571.8175,38.920345,-1.9117174,-51.25,122.5,41.5,8.1875
+crushing a soda can using a shoe.,probable,700.0,149.0,-2544.0,-557.61633,34.951954,0.3081913,-117.0,199.0,100.0,5.21875
+crushing a soda can using a chair.,improbable,450.0,-128.0,-2560.0,-563.339,34.45676,-0.63976574,-136.0,178.0,137.0,5.4375
+crushing a soda can using a tissue.,impossible,255.0,-115.0,-2592.0,-564.41406,33.64938,-3.001708,-85.0,200.0,107.5,5.65625
+crushing a soda can using a day.,inconceivable,532.0,700.0,-972.0,-566.0278,36.426792,-4.6827393,-92.0,244.0,60.0,6.375
+cutting grass using a lawnmower.,probable,-572.0,-916.0,-2304.0,-579.2969,33.19726,-2.0469065,-73.5,126.0,108.0,4.875
+cutting grass using a scythe.,improbable,-203.0,-760.0,-2352.0,-578.5869,35.267376,-2.2906713,-63.0,111.0,74.0,6.875
+cutting grass using a popsicle.,impossible,700.0,844.0,-2144.0,-548.7146,40.533417,-2.3790178,-30.75,232.0,159.0,8.125
+cutting grass using an essay.,inconceivable,442.0,193.0,-916.0,-587.1868,35.30551,-0.923563,-3.8125,78.5,66.0,8.375
+cutting cardboard using scissors.,probable,-348.0,-716.0,-2096.0,-585.8075,33.830696,-6.6458263,-86.5,98.0,99.0,8.5625
+cutting cardboard using a scalpel.,improbable,56.25,-528.0,-2384.0,-574.6466,35.458233,-3.3391876,-132.0,119.5,173.0,6.53125
+cutting cardboard using fur.,impossible,876.0,916.0,-1632.0,-557.75616,42.00438,-0.7337475,54.25,202.0,90.0,11.1875
+cutting cardboard using a snore.,inconceivable,524.0,552.0,-1056.0,-574.5493,38.43618,-7.0137672,-31.875,133.0,94.0,8.4375
+denting a car with a baseball bat.,probable,249.0,-157.0,-2304.0,-566.02277,36.120758,-16.55723,-136.0,205.0,96.0,4.65625
+denting a car with a dumbbell.,improbable,584.0,105.5,-2368.0,-563.0742,38.171837,-12.237642,-96.5,223.0,59.5,5.75
+denting a car with a breeze.,impossible,368.0,414.0,-1424.0,-578.18097,35.525833,-15.772047,-143.0,99.0,131.0,6.78125
+denting a car with a nap.,inconceivable,600.0,844.0,-1272.0,-564.1768,40.196262,-12.79244,-55.0,197.0,77.5,7.53125
+digging a hole using a shovel.,probable,-368.0,-580.0,-2288.0,-575.3913,35.7362,-7.7343016,-97.5,186.0,89.0,4.90625
+digging a hole using a spatula.,improbable,-47.0,-442.0,-2224.0,-577.77313,36.499153,-11.757055,-62.5,105.0,182.0,5.8125
+digging a hole using dirt.,impossible,-9.8125,-1.234375,-2080.0,-568.2187,37.008423,-3.3935223,42.25,199.0,58.75,6.4375
+digging a hole using a yawn.,inconceivable,612.0,636.0,-1512.0,-570.5971,38.427242,-10.529044,33.5,141.0,131.0,7.9375
+dipping a biscuit into coffee.,probable,32.5,-354.0,-2320.0,-575.432,36.421597,-8.373709,21.375,286.0,-45.5,5.90625
+dipping a biscuit into wine.,improbable,268.0,-145.0,-2272.0,-570.92,37.145588,-6.9931717,27.25,266.0,-61.75,6.34375
+dipping a biscuit into a floor.,impossible,376.0,322.0,-1856.0,-572.263,38.57167,-11.52235,15.3125,185.0,87.5,7.09375
+dipping a biscuit into a myth.,inconceivable,466.0,572.0,-780.0,-580.6547,39.716694,-7.7597265,61.25,163.0,-15.125,7.59375
+displaying books on a shelf.,probable,-628.0,-816.0,-1832.0,-588.30334,33.227516,-8.887658,-78.5,65.0,72.0,6.0625
+displaying books on a bed.,improbable,-350.0,-696.0,-1816.0,-588.2684,34.478195,-6.364978,-98.0,55.5,37.0,7.15625
+displaying books on a galaxy.,impossible,205.0,338.0,-1280.0,-579.7903,36.719532,-4.4156,-40.75,154.0,71.0,8.125
+displaying books on a sigh.,inconceivable,87.0,120.0,-1216.0,-580.7615,37.020473,-5.82841,-117.0,116.0,37.25,8.75
+docking a boat using an anchor.,probable,66.5,-318.0,-2272.0,-567.55896,38.395683,2.717104,-121.5,176.0,125.5,5.25
+docking a boat using an anvil.,improbable,612.0,96.0,-2064.0,-571.8231,39.9104,3.1548424,-114.0,183.0,146.0,6.625
+docking a boat using a balloon.,impossible,728.0,115.5,-2480.0,-562.3441,39.118694,2.8432465,-88.0,188.0,117.0,5.875
+docking a boat using a lesson.,inconceivable,504.0,508.0,-540.0,-585.5934,39.732716,0.38744926,-20.375,141.0,13.5,7.125
+drinking a cup full of water.,probable,-262.0,-390.0,-1992.0,-579.63684,35.950424,-11.269251,-12.8125,118.0,178.0,5.5625
+drinking a cup full of honey.,improbable,99.5,-100.0,-1960.0,-579.53656,35.732998,-12.469526,-18.25,143.0,117.0,6.0625
+drinking a cup full of lightning.,impossible,462.0,426.0,-1496.0,-578.6706,36.372814,-14.992701,52.75,102.5,91.5,7.4375
+drinking a cup full of minutes.,inconceivable,348.0,428.0,-732.0,-586.5744,35.40593,-12.776722,-8.5625,129.0,58.75,7.75
+drying their hands using a towel.,probable,-362.0,-564.0,-2160.0,-574.0144,33.00377,-11.563194,-40.5,105.0,119.0,5.8125
+drying their hands using a sweater.,improbable,276.0,-115.0,-2240.0,-569.92896,35.071136,-13.0360985,-4.46875,136.0,169.0,7.21875
+drying their hands using a liquid.,impossible,28.0,62.25,-1824.0,-571.1629,36.33424,-8.678686,1.4453125,199.0,142.0,6.9375
+drying their hands using freedom.,inconceivable,152.0,249.0,-952.0,-583.4766,36.426884,-13.808964,-60.75,119.5,88.5,9.4375
+drying laundry using a clothesline.,probable,-572.0,-940.0,-2576.0,-571.2775,33.06725,-3.767517,-161.0,68.5,94.0,5.84375
+drying laundry using a fan.,improbable,69.5,-484.0,-2576.0,-563.7314,36.682995,-4.301242,-105.0,100.5,175.0,7.21875
+drying laundry using juice.,impossible,688.0,300.0,-2176.0,-563.29626,39.42933,-0.26194,-21.25,229.0,172.0,10.875
+drying laundry using courage.,inconceivable,406.0,178.0,-1096.0,-586.21844,38.242348,-9.483496,-71.0,107.0,18.375,12.1875
+eating soup using a spoon.,probable,-528.0,-872.0,-2096.0,-589.8084,33.99958,-9.148463,-106.0,102.0,77.5,7.28125
+eating soup using a bucket.,improbable,350.0,-187.0,-2320.0,-569.78375,37.46334,-6.85161,-109.5,134.0,134.0,8.875
+eating soup using a sieve.,impossible,86.5,-406.0,-2240.0,-577.0235,37.63333,-10.538423,-104.5,118.5,132.0,8.4375
+eating soup using history.,inconceivable,484.0,564.0,-416.0,-579.35284,38.20405,-2.3563547,-111.0,216.0,29.5,12.0625
+entering a room through a door.,probable,-346.0,-398.0,-1936.0,-579.50775,37.483505,-7.0465546,-85.0,280.0,77.0,5.21875
+entering a room through a window.,improbable,-2.390625,-320.0,-2080.0,-579.17194,37.88993,-9.599726,-60.0,223.0,65.0,5.3125
+entering a room through a wall.,impossible,268.0,22.0,-2040.0,-576.67236,39.370567,-7.154969,12.4375,253.0,70.5,5.5625
+entering a room through a theory.,inconceivable,478.0,740.0,-418.0,-582.72144,39.664265,-7.940624,-15.4375,171.0,100.0,7.78125
+filling a bucket with sand.,probable,-57.75,-260.0,-2352.0,-572.0912,39.672413,-6.5546007,-55.5,272.0,90.0,6.03125
+filling a bucket with acorns.,improbable,212.0,-194.0,-2320.0,-574.9898,38.755344,-6.150379,-48.5,190.0,133.0,7.78125
+filling a bucket with buildings.,impossible,448.0,352.0,-1592.0,-577.2864,38.958664,-6.3159046,-41.5,72.5,88.5,8.6875
+filling a bucket with time.,inconceivable,444.0,386.0,-1176.0,-578.7368,40.94752,-4.1277027,29.0,276.0,13.5625,7.25
+filling a purse with coins.,probable,-127.5,-362.0,-2240.0,-575.2259,39.82729,-10.61112,-77.0,184.0,35.0,7.5
+filling a purse with cream.,improbable,62.75,-144.0,-1976.0,-581.46844,39.9691,-11.393802,6.96875,253.0,57.0,8.5625
+filling a purse with sofas.,impossible,556.0,380.0,-1768.0,-571.23315,39.3936,-11.354025,-53.5,137.0,6.03125,10.5625
+filling a purse with luck.,inconceivable,326.0,114.5,-1640.0,-576.4381,40.596554,-8.747608,-52.0,188.0,3.84375,8.875
+growing flowers inside a pot.,probable,-596.0,-880.0,-2008.0,-589.0187,32.17133,-5.8763733,-91.5,163.0,127.5,6.75
+growing flowers inside a mug.,improbable,380.0,-223.0,-2384.0,-572.5511,35.134308,1.1072044,-63.0,134.0,130.0,7.625
+growing flowers inside a marble.,impossible,736.0,876.0,-1808.0,-560.3221,35.873573,-3.4928417,-120.5,244.0,172.0,9.0625
+growing flowers inside a sneeze.,inconceivable,648.0,816.0,-1696.0,-563.6196,38.823723,-8.409744,2.609375,182.0,174.0,9.8125
+hanging a painting using screws.,probable,194.0,-356.0,-2208.0,-571.4362,36.43475,1.620203,-69.5,209.0,67.0,7.34375
+hanging a painting using string.,improbable,219.0,-260.0,-2384.0,-564.6276,38.826057,1.5742683,-93.5,236.0,114.0,7.46875
+hanging a painting using vapor.,impossible,772.0,824.0,-1456.0,-562.07745,39.161217,-1.2390041,-19.125,228.0,83.5,9.375
+hanging a painting using a handshake.,inconceivable,528.0,132.0,-1904.0,-571.33295,39.59508,-2.755887,-92.0,223.0,36.5,8.375
+hiding a gift inside a closet.,probable,232.0,-148.0,-2008.0,-576.453,36.92109,-6.7728148,-56.5,102.5,-20.25,6.78125
+hiding a gift inside a forest.,improbable,448.0,76.0,-1992.0,-567.02454,36.571083,-2.7152157,-17.0,130.0,57.5,7.4375
+hiding a gift inside a cloud.,impossible,494.0,278.0,-1776.0,-575.46454,36.597908,-6.1499653,-6.1875,109.5,22.25,6.90625
+hiding a gift inside a gasp.,inconceivable,490.0,504.0,-944.0,-577.6613,37.412415,-8.800719,63.5,155.0,93.5,8.375
+lifting a box using a forklift.,probable,-316.0,-656.0,-2496.0,-568.2081,33.923264,-1.4609413,-90.5,227.0,58.25,6.0625
+lifting a box using a pulley.,improbable,17.875,-298.0,-2288.0,-566.54724,35.5746,-1.9694471,-35.5,201.0,45.75,5.65625
+lifting a box using foam.,impossible,492.0,44.75,-2096.0,-568.86334,37.93824,2.3533287,-0.9296875,156.0,84.0,8.375
+lifting a box using an emotion.,inconceivable,446.0,474.0,-1120.0,-574.58276,40.244576,-3.0611343,-70.0,227.0,110.0,7.71875
+lighting a candle using a match.,probable,-376.0,-576.0,-2464.0,-574.0769,34.45843,-7.335664,-68.0,255.0,78.0,5.71875
+lighting a candle using a blowtorch.,improbable,8.1875,-506.0,-2512.0,-572.6572,34.264263,-9.476778,-79.0,266.0,116.5,5.46875
+lighting a candle using yogurt.,impossible,696.0,240.0,-2272.0,-565.5133,35.931202,-1.9461393,-72.0,264.0,171.0,9.0
+lighting a candle using surprises.,inconceivable,536.0,468.0,-1256.0,-573.5367,39.976326,-9.503529,-74.5,222.0,43.5,10.5625
+making a sandwich using bread.,probable,-444.0,-452.0,-2128.0,-575.405,33.055386,-3.957386,-101.0,220.0,38.25,6.46875
+making a sandwich using lettuce.,improbable,-245.0,-290.0,-2032.0,-579.56683,32.907257,-7.7235155,-20.0,187.0,65.0,7.03125
+making a sandwich using a star.,impossible,760.0,1080.0,-1624.0,-542.76215,39.096813,0.10995674,-129.0,207.0,180.0,6.90625
+making a sandwich using a mile.,inconceivable,676.0,1088.0,-1176.0,-555.1356,38.136856,-6.2334194,-88.5,220.0,131.0,7.4375
+making a smoothie using a blender.,probable,-608.0,-880.0,-2304.0,-576.21704,32.707985,-2.9330988,-108.0,88.5,85.0,5.59375
+making a smoothie using a whisk.,improbable,-318.0,-640.0,-2320.0,-572.83,34.397854,-5.7196712,-100.0,128.0,108.5,6.65625
+making a smoothie using wind.,impossible,968.0,1144.0,-1736.0,-538.8082,40.493183,4.042057,-112.5,139.0,258.0,9.375
+making a smoothie using decades.,inconceivable,358.0,588.0,-532.0,-567.5644,36.136,-5.895217,-145.0,328.0,79.0,10.625
+melting a chocolate bar using a stove.,probable,216.0,-118.5,-2592.0,-558.9165,35.54806,1.5113392,-30.25,234.0,196.0,5.9375
+melting a chocolate bar using a radiator.,improbable,796.0,276.0,-2464.0,-558.70416,34.934666,-0.79041004,-71.0,188.0,168.0,6.40625
+melting a chocolate bar using a napkin.,impossible,374.0,-177.0,-2576.0,-569.0968,34.165676,-1.1361647,-44.25,209.0,141.0,6.9375
+melting a chocolate bar using a promise.,inconceivable,720.0,760.0,-884.0,-575.9732,35.776054,-3.5720167,-34.0,193.0,105.5,7.65625
+opening a jar using their hands.,probable,116.0,-176.0,-2032.0,-572.6878,34.833027,-15.549361,-147.0,171.0,80.5,6.4375
+opening a jar using their feet.,improbable,460.0,46.5,-2064.0,-569.94293,36.855324,-17.865425,-109.0,135.0,89.0,6.5625
+opening a jar using their mind.,impossible,408.0,174.0,-1736.0,-573.623,38.445145,-14.67856,-30.25,194.0,78.5,7.0625
+opening a jar using an opinion.,inconceivable,668.0,896.0,-440.0,-575.06525,41.681538,0.7296829,0.43359375,207.0,55.5,7.78125
+packing a suit inside a suitcase.,probable,-266.0,-708.0,-2432.0,-581.3705,35.96394,-5.7457695,-59.75,163.0,-2.46875,6.46875
+packing a suit inside a pocket.,improbable,119.5,-245.0,-2160.0,-577.3018,38.455925,-8.39003,-6.90625,256.0,16.875,7.40625
+packing a suit inside a raspberry.,impossible,928.0,1200.0,-1848.0,-548.736,36.887066,-8.732038,-64.0,224.0,112.0,9.5625
+packing a suit inside a groan.,inconceivable,233.0,322.0,-932.0,-576.04065,39.76035,-14.752373,-33.5,166.0,43.0,9.625
+painting a wall using a brush.,probable,-640.0,-864.0,-2256.0,-582.6636,35.42887,-4.387163,-104.5,149.0,76.0,5.53125
+painting a wall using a mop.,improbable,-57.0,-498.0,-2400.0,-574.9807,36.32202,-2.2296095,-46.25,161.0,55.25,6.5
+painting a wall using a bathtub.,impossible,596.0,266.0,-2304.0,-566.97107,38.15494,-2.5995798,-14.0,212.0,25.75,6.53125
+painting a wall using a whisper.,inconceivable,688.0,960.0,-992.0,-570.7736,39.410282,-5.99946,26.5,220.0,51.25,7.84375
+paving a road using cement.,probable,-164.0,-310.0,-2176.0,-571.75476,36.14253,-5.57819,-99.0,202.0,126.0,6.09375
+paving a road using seashells.,improbable,544.0,33.5,-2400.0,-567.86066,34.578243,-6.775134,-84.0,205.0,155.0,6.4375
+paving a road using a comet.,impossible,644.0,652.0,-1864.0,-561.32806,40.324543,-10.015272,-81.0,196.0,176.0,6.3125
+paving a road using happiness.,inconceivable,596.0,712.0,-864.0,-574.6126,39.669983,-8.9382305,-78.5,213.0,101.5,7.75
+plucking a hair using tweezers.,probable,-276.0,-540.0,-2272.0,-576.6662,32.252937,-8.14836,-15.6875,148.0,22.25,6.71875
+plucking a hair using tongs.,improbable,-264.0,-584.0,-2192.0,-579.6614,33.960472,-9.012094,-6.6875,179.0,38.5,7.53125
+plucking a hair using a spoon.,impossible,251.0,-150.0,-2192.0,-578.9093,34.575863,-9.886441,11.8125,168.0,50.25,6.40625
+plucking a hair using sympathy.,inconceivable,422.0,560.0,-908.0,-576.56085,37.614975,-14.588661,-20.75,172.0,99.5,9.875
+polishing jewelry using a cloth.,probable,182.0,-253.0,-2160.0,-569.2171,37.302906,-0.64414215,-47.25,193.0,150.0,6.4375
+polishing jewelry using a shirt.,improbable,876.0,456.0,-2288.0,-551.0502,39.769424,1.8773098,4.6875,177.0,115.0,7.75
+polishing jewelry using a chainsaw.,impossible,484.0,-340.0,-2400.0,-573.51794,35.117012,0.27713585,-98.0,142.0,108.0,7.34375
+polishing jewelry using music.,inconceivable,704.0,105.5,-1792.0,-575.0422,37.608448,1.7643833,-108.5,197.0,145.0,8.25
+popping a balloon using a thumbtack.,probable,314.0,-163.0,-2704.0,-562.668,35.471977,-2.9670563,-119.0,258.0,131.0,5.4375
+popping a balloon using a spear.,improbable,454.0,-149.0,-2528.0,-569.4904,36.645496,-1.8675022,-83.5,221.0,88.5,6.09375
+popping a balloon using cotton balls.,impossible,474.0,-99.0,-2528.0,-566.9517,35.319576,0.023422241,-76.5,217.0,122.5,6.4375
+popping a balloon using a story.,inconceivable,688.0,632.0,-1064.0,-566.24023,38.498665,2.9189281,-92.5,207.0,46.75,6.8125
+removing a stain using bleach.,probable,302.0,-175.0,-2032.0,-572.2748,35.29471,2.02849,-86.0,165.0,156.0,7.625
+removing a stain using vinegar.,improbable,368.0,-138.0,-2064.0,-571.7324,33.852177,2.5416393,-108.5,155.0,189.0,7.625
+removing a stain using dirt.,impossible,592.0,684.0,-1520.0,-565.9603,38.882957,-0.20848083,-40.25,228.0,107.5,9.1875
+removing a stain using truth.,inconceivable,532.0,780.0,-432.0,-581.6589,36.902542,-3.472968,-50.0,247.0,8.3125,10.375
+rinsing fruit using a sink.,probable,52.0,-189.0,-2160.0,-561.57275,39.062885,-15.414461,-169.0,113.0,189.0,7.34375
+rinsing fruit using a hose.,improbable,308.0,-237.0,-2464.0,-563.47815,38.64524,-8.894641,-99.5,90.5,212.0,7.03125
+rinsing fruit using a clock.,impossible,438.0,209.0,-1984.0,-560.62775,44.096817,-10.50642,-176.0,190.0,103.5,8.4375
+rinsing fruit using a giggle.,inconceivable,440.0,616.0,-844.0,-573.4763,39.976986,-15.294762,-75.0,179.0,167.0,9.6875
+sewing a shirt using a needle.,probable,-62.25,-358.0,-2112.0,-569.31665,37.34075,0.28336716,-62.5,194.0,190.0,6.71875
+sewing a shirt using a toothpick.,improbable,620.0,35.25,-2288.0,-563.59357,36.97653,1.1113758,-76.5,168.0,210.0,7.96875
+sewing a shirt using a potato.,impossible,924.0,470.0,-2272.0,-557.26,35.538925,3.0024967,-98.0,157.0,209.0,7.46875
+sewing a shirt using thunder.,inconceivable,828.0,1104.0,-1008.0,-563.05994,39.21537,-2.7843008,17.25,152.0,106.0,9.75
+shattering a window using a stone.,probable,178.0,-157.0,-2304.0,-570.4445,35.23441,-9.29704,-118.0,229.0,97.0,5.5625
+shattering a window using a frisbee.,improbable,656.0,-24.75,-2624.0,-561.95776,36.100155,-3.3978672,-149.0,164.0,101.5,5.5
+shattering a window using confetti.,impossible,408.0,-35.75,-2224.0,-575.47675,36.36775,-9.995005,-93.5,185.0,99.0,7.65625
+shattering a window using a concept.,inconceivable,528.0,816.0,-418.0,-577.6406,37.106075,-3.1914167,-76.5,114.0,55.25,6.90625
+shaving their beard using a razor.,probable,-185.0,-362.0,-2064.0,-571.27893,32.486217,-9.798355,-41.0,213.0,87.5,5.3125
+shaving their beard using a knife.,improbable,169.0,-159.0,-2064.0,-572.91394,34.024445,-9.513184,-36.5,180.0,101.5,5.6875
+shaving their beard using a teabag.,impossible,540.0,190.0,-2208.0,-564.1846,34.920044,-10.156727,-5.1875,192.0,124.5,6.0625
+shaving their beard using a belief.,inconceivable,442.0,736.0,-620.0,-567.66864,34.44665,-8.888434,-19.5,243.0,59.5,7.625
+smashing a pumpkin using a hammer.,probable,-55.75,-510.0,-2464.0,-568.0494,34.42455,-1.5207472,-105.0,160.0,109.5,5.25
+smashing a pumpkin using a boulder.,improbable,284.0,-110.0,-2320.0,-569.69507,34.52603,-3.4118052,-61.5,196.0,115.0,6.0
+smashing a pumpkin using a leaf.,impossible,322.0,22.125,-2224.0,-568.9531,35.467014,-4.189883,-43.0,212.0,106.5,6.1875
+smashing a pumpkin using a number.,inconceivable,442.0,724.0,-1032.0,-562.7872,37.54961,-3.5403814,-64.5,256.0,165.0,6.84375
+splitting a log using an axe.,probable,-11.75,-536.0,-2464.0,-569.5871,36.282036,1.7557201,-97.0,216.0,56.0,6.25
+splitting a log using a saw.,improbable,99.0,-386.0,-2352.0,-565.98596,39.57961,5.570875,-44.75,188.0,39.0,6.28125
+splitting a log using a feather.,impossible,804.0,616.0,-2336.0,-550.0926,41.054893,1.0866718,-22.0,240.0,129.0,7.84375
+splitting a log using a gasp.,inconceivable,498.0,520.0,-996.0,-583.29565,37.37337,-3.9779444,-23.0,250.0,35.5,8.625
+squeezing juice from an orange.,probable,-366.0,-498.0,-2416.0,-572.1743,35.95064,-7.263792,-133.0,253.0,26.875,4.46875
+squeezing juice from meat.,improbable,198.0,-114.0,-2128.0,-574.0534,41.391644,-5.704914,-53.75,282.0,3.46875,6.40625
+squeezing juice from an envelope.,impossible,242.0,26.625,-2112.0,-577.81213,37.529545,-10.725399,-63.0,218.0,51.5,5.78125
+squeezing juice from a mumble.,inconceivable,450.0,580.0,-1056.0,-579.79285,38.77777,-9.307167,90.5,202.0,18.875,5.75
+squishing a blueberry using their finger.,probable,127.5,-191.0,-2288.0,-567.00305,34.06502,-7.1404343,-19.0,215.0,12.0,7.125
+squishing a blueberry using their nose.,improbable,280.0,-148.0,-2256.0,-567.13525,33.569984,-10.048887,-15.8125,130.0,87.5,7.125
+squishing a blueberry using their breath.,impossible,414.0,104.0,-2040.0,-569.1725,34.324516,-9.666576,31.75,199.0,46.0,7.59375
+squishing a blueberry using a sight.,inconceivable,532.0,744.0,-620.0,-585.0962,36.88405,-6.127967,-16.875,111.0,110.5,8.3125
+starting a fire using kindling.,probable,50.25,-324.0,-2272.0,-573.6311,37.133118,-1.4216576,-141.0,161.0,99.5,5.71875
+starting a fire using furniture.,improbable,764.0,158.0,-2176.0,-567.80164,36.235107,1.888422,-192.0,236.0,85.0,8.3125
+starting a fire using milk.,impossible,940.0,416.0,-2368.0,-558.929,34.121174,4.0526314,-171.0,171.0,100.5,7.34375
+starting a fire using humor.,inconceivable,628.0,160.0,-1464.0,-584.00366,38.93267,-1.3805733,-97.5,216.0,27.625,7.75
+storing dishes inside a cabinet.,probable,-228.0,-592.0,-1976.0,-586.4695,35.377808,-5.5743084,-77.0,133.0,92.0,6.0625
+storing dishes inside an attic.,improbable,340.0,-228.0,-2176.0,-574.72754,36.98977,-5.604622,-69.5,125.0,54.5,7.25
+storing dishes inside a thimble.,impossible,474.0,85.0,-2400.0,-568.7605,37.884384,-8.533173,-64.0,169.0,55.75,6.71875
+storing dishes inside an equation.,inconceivable,456.0,191.0,-1384.0,-578.63,41.3531,-3.7271528,-24.875,128.0,36.0,7.96875
+taking a vacation to the beach.,probable,-234.0,-380.0,-1976.0,-574.0636,35.17682,-4.703348,-70.0,211.0,11.1875,5.0
+taking a vacation to the desert.,improbable,146.0,-155.0,-1784.0,-580.28235,34.35886,-4.79558,-6.96875,228.0,44.5,5.34375
+taking a vacation to the sun.,impossible,256.0,153.0,-1528.0,-578.96735,36.509537,-2.3854275,98.5,179.0,2.203125,5.5
+taking a vacation to a verb.,inconceivable,237.0,196.0,-864.0,-582.1407,40.72067,-4.1896753,-58.25,344.0,16.5,7.75
+tightening a bolt using a wrench.,probable,-382.0,-560.0,-2464.0,-566.8074,36.821728,-4.322283,-114.0,196.0,87.5,5.34375
+tightening a bolt using chopsticks.,improbable,348.0,-228.0,-2400.0,-572.3481,35.588642,-6.2516966,-99.5,218.0,135.0,7.8125
+tightening a bolt using a house.,impossible,450.0,844.0,-1096.0,-561.4956,38.89193,-5.3549004,-110.5,235.0,162.0,7.59375
+tightening a bolt using a dream.,inconceivable,684.0,668.0,-964.0,-568.875,40.10038,-2.0876694,94.0,164.0,80.0,7.4375
+turning an apple into a pie.,probable,25.625,-104.0,-1976.0,-573.02563,39.494778,-7.541996,-159.0,252.0,40.25,5.75
+turning an apple into a salad.,improbable,270.0,-56.25,-1976.0,-576.8686,38.945114,-7.4636745,-68.0,232.0,11.875,6.34375
+turning an apple into a cherry.,impossible,362.0,174.0,-1968.0,-572.57025,40.78532,-9.619671,-51.0,198.0,60.5,5.9375
+turning an apple into honesty.,inconceivable,528.0,338.0,-1504.0,-573.563,40.970108,-8.516643,-16.875,244.0,20.75,8.6875
+unlocking a door using a key.,probable,-410.0,-492.0,-2272.0,-568.3114,38.29013,-4.168605,-171.0,185.0,121.5,4.78125
+unlocking a door using a screwdriver.,improbable,-145.0,-596.0,-2464.0,-573.1,35.905563,-4.6813116,-173.0,157.0,130.0,4.875
+unlocking a door using a marshmallow.,impossible,824.0,592.0,-2192.0,-559.6166,35.303093,-2.2878876,-62.25,196.0,167.0,6.75
+unlocking a door using a lie.,inconceivable,676.0,792.0,-1304.0,-559.1614,41.88868,-4.8131237,-45.5,150.0,96.0,6.1875
+washing their hair using shampoo.,probable,-241.0,-250.0,-1984.0,-568.9188,34.196796,-8.921685,-53.0,278.0,120.5,6.90625
+washing their hair using detergent.,improbable,-34.25,-82.5,-2064.0,-565.4641,35.724464,-10.787928,-68.0,276.0,144.0,7.78125
+washing their hair using a rainbow.,impossible,512.0,716.0,-1376.0,-566.9684,37.931355,-11.8338,-96.5,152.0,192.0,8.125
+washing their hair using applause.,inconceivable,414.0,504.0,-976.0,-573.6008,39.66274,-16.498947,-99.5,196.0,225.0,10.125
+wearing shoes made of leather.,probable,-12.6875,-209.0,-1856.0,-581.25366,34.45557,-7.5227833,16.0,201.0,183.0,6.375
+wearing shoes made of wood.,improbable,274.0,-156.0,-2048.0,-582.4629,34.438526,-7.916663,11.125,127.0,127.0,6.40625
+wearing shoes made of stars.,impossible,532.0,280.0,-1728.0,-578.3472,36.600655,-8.331529,22.375,80.5,64.5,7.78125
+wearing shoes made of traffic.,inconceivable,852.0,1004.0,-1448.0,-560.89984,38.079117,-6.3688555,-56.0,164.0,154.0,9.625
+wrapping a present using paper.,probable,-418.0,-620.0,-2192.0,-578.8395,35.51231,-2.6335573,-121.5,118.5,43.75,6.84375
+wrapping a present using a dress.,improbable,450.0,-11.125,-2240.0,-568.7454,37.3154,-1.4924908,-71.5,185.0,74.0,7.0625
+wrapping a present using ketchup.,impossible,548.0,65.0,-2400.0,-568.4896,36.905422,-2.9090033,-85.0,221.0,94.0,9.625
+wrapping a present using gossip.,inconceivable,664.0,816.0,-792.0,-575.5272,38.167557,-4.3631487,-51.5,237.0,46.5,9.6875
+writing a letter using a pen.,probable,-532.0,-672.0,-1960.0,-580.94366,34.345127,-4.051448,-96.0,102.5,152.0,5.78125
+writing a letter using a stylus.,improbable,-24.125,-502.0,-1904.0,-582.8391,35.50489,-3.175518,-24.625,120.5,159.0,6.5625
+writing a letter using a snowflake.,impossible,474.0,211.0,-1792.0,-571.635,35.22828,-0.5948067,-36.5,142.0,144.0,8.0
+writing a letter using a marathon.,inconceivable,656.0,928.0,-836.0,-565.57776,37.480206,-2.302082,-73.0,187.0,116.0,8.3125
+writing an equation on a chalkboard.,probable,-892.0,-904.0,-2080.0,-580.51575,33.569103,-10.36282,-130.0,120.0,78.0,6.15625
+writing an equation on a billboard.,improbable,62.25,-256.0,-1896.0,-575.1306,39.30086,-5.540436,-63.0,243.0,57.75,7.15625
+writing an equation on an atom.,impossible,235.0,164.0,-1424.0,-573.07556,37.9454,-0.5237522,-133.0,193.0,56.25,6.96875
+writing an equation on a scream.,inconceivable,488.0,392.0,-1248.0,-574.3277,40.403156,-4.5650196,40.75,217.0,54.25,8.125

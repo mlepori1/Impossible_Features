@@ -22,16 +22,16 @@ class SentenceFeaturesDataset(Dataset):
             self.base.append(base)
 
             self.probable.append(
-                base + " " + row["probable"].replace("[POSS]", "their") + "."
+                "They are " + base + " " + row["probable"].replace("[POSS]", "their") + "."
             )
             self.improbable.append(
-                base + " " + row["improbable"].replace("[POSS]", "their") + "."
+                "They are " + base + " " + row["improbable"].replace("[POSS]", "their") + "."
             )
             self.impossible.append(
-                base + " " + row["impossible"].replace("[POSS]", "their") + "."
+                "They are " + base + " " + row["impossible"].replace("[POSS]", "their") + "."
             )
             self.inconceivable.append(
-                base + " " + row["inconceivable"].replace("[POSS]", "their") + "."
+                "They are " + base + " " + row["inconceivable"].replace("[POSS]", "their") + "."
             )
 
 
