@@ -1,0 +1,46 @@
+Vector,Feature,Pearson r
+probable_improbable,5-Gram Log-Prob,-0.5107471998136268
+probable_improbable,GPT2-XL Log-Prob,-0.5460163474331678
+probable_improbable,PCFG Log-Prob,-0.4620985678082276
+probable_improbable,Arousal,-0.3685883806468208
+probable_improbable,Conversational,-0.5237949328079958
+probable_improbable,Sense,-0.6178632589103081
+probable_improbable,Gram.,-0.5931437429778208
+probable_improbable,Frequency,-0.5970826273069662
+probable_improbable,Imageability,-0.5544221721545455
+probable_improbable,Others Thoughts,-0.3891744145675452
+probable_improbable,Physical,-0.35369112117597523
+probable_improbable,Places,-0.3727629498814621
+probable_improbable,Valence,-0.26270009730133004
+improbable_impossible,5-Gram Log-Prob,-0.21517093312352212
+improbable_impossible,GPT2-XL Log-Prob,-0.37359734515829573
+improbable_impossible,PCFG Log-Prob,-0.16554489403065148
+improbable_impossible,Arousal,-0.08961050916092564
+improbable_impossible,Conversational,-0.3007011857595836
+improbable_impossible,Sense,-0.3900035639932736
+improbable_impossible,Gram.,-0.3727270702426553
+improbable_impossible,Frequency,-0.3491935549162021
+improbable_impossible,Imageability,-0.47130723336754177
+improbable_impossible,Others Thoughts,-0.19680345110536154
+improbable_impossible,Physical,-0.39553403831386885
+improbable_impossible,Places,-0.291005460119405
+improbable_impossible,Valence,-0.1512151340334058
+impossible_inconceivable,5-Gram Log-Prob,0.021113042142680536
+impossible_inconceivable,GPT2-XL Log-Prob,-0.07287009111492267
+impossible_inconceivable,PCFG Log-Prob,0.13007528152199163
+impossible_inconceivable,Arousal,0.027541097984325174
+impossible_inconceivable,Conversational,0.011122343199602798
+impossible_inconceivable,Sense,-0.12473060842618738
+impossible_inconceivable,Gram.,-0.14027895433325122
+impossible_inconceivable,Frequency,-0.034480368948720856
+impossible_inconceivable,Imageability,-0.48209976386502135
+impossible_inconceivable,Others Thoughts,0.17354434229007143
+impossible_inconceivable,Physical,-0.6638155512878365
+impossible_inconceivable,Places,-0.5038653629010327
+impossible_inconceivable,Valence,-0.08242471278678937
+probable_improbable,Subjective Event Likelihood,-0.46836796084535454
+improbable_impossible,Subjective Event Likelihood,-0.5416369200758696
+impossible_inconceivable,Subjective Event Likelihood,-0.4399901955294259
+probable_improbable,Ranked Inconceivability,-0.0437284781913561
+improbable_impossible,Ranked Inconceivability,0.22456201586883717
+impossible_inconceivable,Ranked Inconceivability,-0.08242206920522528

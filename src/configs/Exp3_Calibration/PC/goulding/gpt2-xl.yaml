@@ -1,0 +1,5 @@
+dataset_path: goulding/adults.csv
+dtype: bfloat16
+model: openai-community/gpt2-xl
+representation_type: PC
+results_path: ../results/openai-community/gpt2-xl/Calibration

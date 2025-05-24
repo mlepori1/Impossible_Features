@@ -1,0 +1,281 @@
+sentence,label,probable,improbable,impossible,inconceivable
+Someone baked a cake inside a freezer.,impossible,0.0,0.05555555555555555,0.8333333333333334,0.1111111111111111
+Someone baked a cake inside an airfryer.,improbable,0.425,0.525,0.05,0.0
+Someone baked a cake inside a sigh.,inconceivable,0.0,0.0,0.0,1.0
+Someone baked a cake inside an oven.,probable,1.0,0.0,0.0,0.0
+Someone chopped a carrot using a rag.,impossible,0.0,0.1282051282051282,0.8205128205128205,0.05128205128205128
+Someone chopped a carrot using a sword.,improbable,0.1935483870967742,0.8064516129032258,0.0,0.0
+Someone chopped a carrot using a color.,inconceivable,0.0,0.0,0.13953488372093023,0.8604651162790697
+Someone chopped a carrot using a knife.,probable,1.0,0.0,0.0,0.0
+Someone cleaned a spill using mustard.,impossible,0.023255813953488372,0.20930232558139536,0.6046511627906976,0.16279069767441862
+Someone cleaned a spill using a scarf.,improbable,0.2777777777777778,0.6944444444444444,0.027777777777777776,0.0
+Someone cleaned a spill using a country.,inconceivable,0.0,0.0,0.07142857142857142,0.9285714285714286
+Someone cleaned a spill using a sponge.,probable,0.9523809523809523,0.047619047619047616,0.0,0.0
+Someone cleaned a carpet using a crayon.,impossible,0.023809523809523808,0.23809523809523808,0.6190476190476191,0.11904761904761904
+Someone cleaned a carpet using a hat.,improbable,0.0,0.5121951219512195,0.3902439024390244,0.0975609756097561
+Someone cleaned a carpet using a week.,inconceivable,0.0,0.0,0.034482758620689655,0.9655172413793104
+Someone cleaned a carpet using a vacuum.,probable,1.0,0.0,0.0,0.0
+Someone climbed a tree using oil.,impossible,0.0,0.18,0.54,0.28
+Someone climbed a tree using a rope.,improbable,0.9333333333333333,0.03333333333333333,0.0,0.03333333333333333
+Someone climbed a tree using a poem.,inconceivable,0.0,0.0,0.02564102564102564,0.9743589743589743
+Someone climbed a tree using a ladder.,probable,0.9666666666666667,0.03333333333333333,0.0,0.0
+Someone closed a jacket using fog.,impossible,0.0,0.0,0.3111111111111111,0.6888888888888889
+Someone closed a jacket using glue.,improbable,0.058823529411764705,0.8235294117647058,0.058823529411764705,0.058823529411764705
+Someone closed a jacket using a word.,inconceivable,0.0,0.0,0.16129032258064516,0.8387096774193549
+Someone closed a jacket using a zipper.,probable,0.9743589743589743,0.0,0.0,0.02564102564102564
+Someone constructed a tower out of sparks.,impossible,0.0,0.02564102564102564,0.48717948717948717,0.48717948717948717
+Someone constructed a tower out of bubbles.,improbable,0.05,0.275,0.6,0.075
+Someone constructed a tower out of seasons.,inconceivable,0.0,0.029411764705882353,0.11764705882352941,0.8529411764705882
+Someone constructed a tower out of blocks.,probable,1.0,0.0,0.0,0.0
+Someone cooked dinner out of the moon.,impossible,0.0,0.0,0.1891891891891892,0.8108108108108109
+Someone cooked dinner out of insects.,improbable,0.21212121212121213,0.7878787878787878,0.0,0.0
+Someone cooked dinner out of thoughts.,inconceivable,0.0,0.02702702702702703,0.24324324324324326,0.7297297297297297
+Someone cooked dinner out of pasta.,probable,0.7619047619047619,0.0,0.07142857142857142,0.16666666666666666
+Someone cooled a room using a heater.,impossible,0.075,0.125,0.75,0.05
+Someone cooled a room using shades.,improbable,0.8387096774193549,0.06451612903225806,0.06451612903225806,0.03225806451612903
+Someone cooled a room using a taste.,inconceivable,0.0,0.0,0.05405405405405406,0.9459459459459459
+Someone cooled a room using a fan.,probable,0.975609756097561,0.0,0.024390243902439025,0.0
+Someone covered a window using a hair.,impossible,0.0,0.37142857142857144,0.4857142857142857,0.14285714285714285
+Someone covered a window using sheets.,improbable,0.7777777777777778,0.2222222222222222,0.0,0.0
+Someone covered a window using a chant.,inconceivable,0.0,0.029411764705882353,0.17647058823529413,0.7941176470588235
+Someone covered a window using curtains.,probable,1.0,0.0,0.0,0.0
+Someone crafted a bowl out of smoke.,impossible,0.0,0.06060606060606061,0.6666666666666666,0.2727272727272727
+Someone crafted a bowl out of mud.,improbable,0.4358974358974359,0.46153846153846156,0.10256410256410256,0.0
+Someone crafted a bowl out of math.,inconceivable,0.0,0.0,0.1794871794871795,0.8205128205128205
+Someone crafted a bowl out of clay.,probable,0.9736842105263158,0.0,0.02631578947368421,0.0
+Someone boiled water using a refrigerator.,impossible,0.0,0.0,0.8936170212765957,0.10638297872340426
+Someone boiled water using a microwave.,improbable,0.9615384615384616,0.038461538461538464,0.0,0.0
+Someone boiled water using justice.,inconceivable,0.0,0.0,0.06976744186046512,0.9302325581395349
+Someone boiled water using a kettle.,probable,1.0,0.0,0.0,0.0
+Someone crushed a soda can using a tissue.,impossible,0.0,0.2,0.7428571428571429,0.05714285714285714
+Someone crushed a soda can using a chair.,improbable,0.4634146341463415,0.5365853658536586,0.0,0.0
+Someone crushed a soda can using a day.,inconceivable,0.0,0.0,0.07317073170731707,0.926829268292683
+Someone crushed a soda can using a shoe.,probable,0.8125,0.15625,0.03125,0.0
+Someone cut grass using a popsicle.,impossible,0.0,0.15625,0.59375,0.25
+Someone cut grass using a scythe.,improbable,0.47368421052631576,0.47368421052631576,0.0,0.05263157894736842
+Someone cut grass using an essay.,inconceivable,0.0,0.05714285714285714,0.2857142857142857,0.6571428571428571
+Someone cut grass using a lawnmower.,probable,0.9772727272727273,0.022727272727272728,0.0,0.0
+Someone cut cardboard using fur.,impossible,0.0,0.13333333333333333,0.7333333333333333,0.13333333333333333
+Someone cut cardboard using a scalpel.,improbable,0.41379310344827586,0.5517241379310345,0.034482758620689655,0.0
+Someone cut cardboard using a snore.,inconceivable,0.0,0.0,0.20454545454545456,0.7954545454545454
+Someone cut cardboard using scissors.,probable,0.9565217391304348,0.021739130434782608,0.021739130434782608,0.0
+Someone dented a car with a breeze.,impossible,0.0,0.07692307692307693,0.6153846153846154,0.3076923076923077
+Someone dented a car with a dumbbell.,improbable,0.7105263157894737,0.2631578947368421,0.02631578947368421,0.0
+Someone dented a car with a nap.,inconceivable,0.0,0.018867924528301886,0.1320754716981132,0.8490566037735849
+Someone dented a car with a baseball bat.,probable,0.96875,0.0,0.03125,0.0
+Someone dug a hole using dirt.,impossible,0.07894736842105263,0.07894736842105263,0.5526315789473685,0.2894736842105263
+Someone dug a hole using a spatula.,improbable,0.05714285714285714,0.9428571428571428,0.0,0.0
+Someone dug a hole using a yawn.,inconceivable,0.0,0.0,0.25,0.75
+Someone dug a hole using a shovel.,probable,1.0,0.0,0.0,0.0
+Someone dipped a biscuit into a floor.,impossible,0.09302325581395349,0.06976744186046512,0.3488372093023256,0.4883720930232558
+Someone dipped a biscuit into wine.,improbable,0.32432432432432434,0.6756756756756757,0.0,0.0
+Someone dipped a biscuit into a myth.,inconceivable,0.027777777777777776,0.0,0.1388888888888889,0.8333333333333334
+Someone dipped a biscuit into coffee.,probable,0.8484848484848485,0.12121212121212122,0.030303030303030304,0.0
+Someone displayed books on a galaxy.,impossible,0.06896551724137931,0.0,0.20689655172413793,0.7241379310344828
+Someone displayed books on a bed.,improbable,0.5833333333333334,0.3888888888888889,0.027777777777777776,0.0
+Someone displayed books on a sigh.,inconceivable,0.0,0.02127659574468085,0.0851063829787234,0.8936170212765957
+Someone displayed books on a shelf.,probable,1.0,0.0,0.0,0.0
+Someone docked a boat using a balloon.,impossible,0.0,0.17073170731707318,0.5609756097560976,0.2682926829268293
+Someone docked a boat using an anvil.,improbable,0.07142857142857142,0.6428571428571429,0.17857142857142858,0.10714285714285714
+Someone docked a boat using a lesson.,inconceivable,0.05405405405405406,0.02702702702702703,0.08108108108108109,0.8378378378378378
+Someone docked a boat using an anchor.,probable,0.9069767441860465,0.09302325581395349,0.0,0.0
+Someone drank a cup full of lightning.,impossible,0.0,0.0,0.5365853658536586,0.4634146341463415
+Someone drank a cup full of honey.,improbable,0.03125,0.96875,0.0,0.0
+Someone drank a cup full of minutes.,inconceivable,0.0,0.03125,0.125,0.84375
+Someone drank a cup full of water.,probable,1.0,0.0,0.0,0.0
+Someone dried their hands using a liquid.,impossible,0.0,0.05,0.875,0.075
+Someone dried their hands using a sweater.,improbable,0.3076923076923077,0.6410256410256411,0.0,0.05128205128205128
+Someone dried their hands using freedom.,inconceivable,0.0,0.02857142857142857,0.11428571428571428,0.8571428571428571
+Someone dried their hands using a towel.,probable,1.0,0.0,0.0,0.0
+Someone broke a coconut using a pillow.,impossible,0.0,0.2972972972972973,0.7027027027027027,0.0
+Someone broke a coconut using a table.,improbable,0.08333333333333333,0.8888888888888888,0.027777777777777776,0.0
+Someone broke a coconut using a texture.,inconceivable,0.0,0.0,0.1590909090909091,0.8409090909090909
+Someone broke a coconut using a rock.,probable,0.75,0.25,0.0,0.0
+Someone dried laundry using juice.,impossible,0.0,0.046511627906976744,0.6976744186046512,0.2558139534883721
+Someone dried laundry using a fan.,improbable,0.525,0.475,0.0,0.0
+Someone dried laundry using courage.,inconceivable,0.0,0.04,0.16,0.8
+Someone dried laundry using a clothesline.,probable,0.9512195121951219,0.0,0.024390243902439025,0.024390243902439025
+Someone ate soup using a sieve.,impossible,0.027777777777777776,0.5277777777777778,0.4166666666666667,0.027777777777777776
+Someone ate soup using a bucket.,improbable,0.0,0.8947368421052632,0.05263157894736842,0.05263157894736842
+Someone ate soup using history.,inconceivable,0.0,0.0,0.029411764705882353,0.9705882352941176
+Someone ate soup using a spoon.,probable,1.0,0.0,0.0,0.0
+Someone entered a room through a wall.,impossible,0.0,0.3611111111111111,0.5555555555555556,0.08333333333333333
+Someone entered a room through a window.,improbable,0.5882352941176471,0.38235294117647056,0.0,0.029411764705882353
+Someone entered a room through a theory.,inconceivable,0.0,0.023809523809523808,0.047619047619047616,0.9285714285714286
+Someone entered a room through a door.,probable,0.972972972972973,0.0,0.0,0.02702702702702703
+Someone filled a bucket with buildings.,impossible,0.03571428571428571,0.07142857142857142,0.7857142857142857,0.10714285714285714
+Someone filled a bucket with acorns.,improbable,0.9090909090909091,0.09090909090909091,0.0,0.0
+Someone filled a bucket with time.,inconceivable,0.0,0.0,0.4358974358974359,0.5641025641025641
+Someone filled a bucket with sand.,probable,1.0,0.0,0.0,0.0
+Someone filled a purse with sofas.,impossible,0.0,0.027777777777777776,0.8333333333333334,0.1388888888888889
+Someone filled a purse with cream.,improbable,0.06451612903225806,0.9032258064516129,0.0,0.03225806451612903
+Someone filled a purse with luck.,inconceivable,0.0,0.023809523809523808,0.35714285714285715,0.6190476190476191
+Someone filled a purse with coins.,probable,1.0,0.0,0.0,0.0
+Someone grew flowers inside a marble.,impossible,0.0,0.20588235294117646,0.6470588235294118,0.14705882352941177
+Someone grew flowers inside a mug.,improbable,0.3611111111111111,0.6388888888888888,0.0,0.0
+Someone grew flowers inside a sneeze.,inconceivable,0.0,0.0,0.09302325581395349,0.9069767441860465
+Someone grew flowers inside a pot.,probable,1.0,0.0,0.0,0.0
+Someone hung a painting using vapor.,impossible,0.0,0.04081632653061224,0.3673469387755102,0.5918367346938775
+Someone hung a painting using string.,improbable,0.7096774193548387,0.2903225806451613,0.0,0.0
+Someone hung a painting using a handshake.,inconceivable,0.027777777777777776,0.0,0.2222222222222222,0.75
+Someone hung a painting using screws.,probable,0.8484848484848485,0.15151515151515152,0.0,0.0
+Someone hid a gift inside a cloud.,impossible,0.0,0.14285714285714285,0.6571428571428571,0.2
+Someone hid a gift inside a forest.,improbable,0.24324324324324326,0.7297297297297297,0.0,0.02702702702702703
+Someone hid a gift inside a gasp.,inconceivable,0.0,0.0,0.14285714285714285,0.8571428571428571
+Someone hid a gift inside a closet.,probable,1.0,0.0,0.0,0.0
+Someone lifted a box using foam.,impossible,0.0,0.7837837837837838,0.1891891891891892,0.02702702702702703
+Someone lifted a box using a pulley.,improbable,0.9428571428571428,0.05714285714285714,0.0,0.0
+Someone lifted a box using an emotion.,inconceivable,0.0,0.0,0.37209302325581395,0.627906976744186
+Someone lifted a box using a forklift.,probable,0.8823529411764706,0.11764705882352941,0.0,0.0
+Someone lit a candle using yogurt.,impossible,0.0,0.034482758620689655,0.6896551724137931,0.27586206896551724
+Someone lit a candle using a blowtorch.,improbable,0.2702702702702703,0.7297297297297297,0.0,0.0
+Someone lit a candle using surprises.,inconceivable,0.0,0.0,0.21739130434782608,0.782608695652174
+Someone lit a candle using a match.,probable,0.972972972972973,0.0,0.02702702702702703,0.0
+Someone built a house out of gas.,impossible,0.0,0.0,0.6666666666666666,0.3333333333333333
+Someone built a house out of grass.,improbable,0.0,0.6521739130434783,0.34782608695652173,0.0
+Someone built a house out of language.,inconceivable,0.0,0.02702702702702703,0.13513513513513514,0.8378378378378378
+Someone built a house out of brick.,probable,0.9722222222222222,0.0,0.027777777777777776,0.0
+Someone made a sandwich using a star.,impossible,0.0,0.0,0.42105263157894735,0.5789473684210527
+Someone made a sandwich using lettuce.,improbable,0.9210526315789473,0.07894736842105263,0.0,0.0
+Someone made a sandwich using a mile.,inconceivable,0.0,0.0,0.02702702702702703,0.972972972972973
+Someone made a sandwich using bread.,probable,0.9722222222222222,0.027777777777777776,0.0,0.0
+Someone made a smoothie using wind.,impossible,0.0,0.11904761904761904,0.6190476190476191,0.2619047619047619
+Someone made a smoothie using a whisk.,improbable,0.22857142857142856,0.7714285714285715,0.0,0.0
+Someone made a smoothie using decades.,inconceivable,0.0,0.0,0.09375,0.90625
+Someone made a smoothie using a blender.,probable,1.0,0.0,0.0,0.0
+Someone melted a chocolate bar using a napkin.,impossible,0.0,0.2647058823529412,0.7058823529411765,0.029411764705882353
+Someone melted a chocolate bar using a radiator.,improbable,0.275,0.675,0.05,0.0
+Someone melted a chocolate bar using a promise.,inconceivable,0.0,0.0,0.225,0.775
+Someone melted a chocolate bar using a stove.,probable,0.8857142857142857,0.11428571428571428,0.0,0.0
+Someone opened a jar using their mind.,impossible,0.0,0.0,0.9166666666666666,0.08333333333333333
+Someone opened a jar using their feet.,improbable,0.0851063829787234,0.8723404255319149,0.0425531914893617,0.0
+Someone opened a jar using an opinion.,inconceivable,0.0,0.0,0.37037037037037035,0.6296296296296297
+Someone opened a jar using their hands.,probable,0.9743589743589743,0.0,0.02564102564102564,0.0
+Someone packed a suit inside a raspberry.,impossible,0.0,0.0,0.7037037037037037,0.2962962962962963
+Someone packed a suit inside a pocket.,improbable,0.0,0.3409090909090909,0.5909090909090909,0.06818181818181818
+Someone packed a suit inside a groan.,inconceivable,0.0,0.0,0.07894736842105263,0.9210526315789473
+Someone packed a suit inside a suitcase.,probable,0.925,0.025,0.05,0.0
+Someone painted a wall using a bathtub.,impossible,0.0,0.05405405405405406,0.4864864864864865,0.4594594594594595
+Someone painted a wall using a mop.,improbable,0.0,1.0,0.0,0.0
+Someone painted a wall using a whisper.,inconceivable,0.0,0.0,0.1724137931034483,0.8275862068965517
+Someone painted a wall using a brush.,probable,1.0,0.0,0.0,0.0
+Someone paved a road using a comet.,impossible,0.0,0.0,0.5882352941176471,0.4117647058823529
+Someone paved a road using seashells.,improbable,0.034482758620689655,0.7586206896551724,0.1724137931034483,0.034482758620689655
+Someone paved a road using happiness.,inconceivable,0.0,0.0,0.20408163265306123,0.7959183673469388
+Someone paved a road using cement.,probable,0.8918918918918919,0.10810810810810811,0.0,0.0
+Someone plucked a hair using a spoon.,impossible,0.0,0.3333333333333333,0.5833333333333334,0.08333333333333333
+Someone plucked a hair using tongs.,improbable,0.1724137931034483,0.8275862068965517,0.0,0.0
+Someone plucked a hair using sympathy.,inconceivable,0.0,0.0,0.125,0.875
+Someone plucked a hair using tweezers.,probable,0.96875,0.03125,0.0,0.0
+Someone polished jewelry using a chainsaw.,impossible,0.0,0.16216216216216217,0.8378378378378378,0.0
+Someone polished jewelry using a shirt.,improbable,0.3333333333333333,0.6388888888888888,0.0,0.027777777777777776
+Someone polished jewelry using music.,inconceivable,0.0,0.0,0.3548387096774194,0.6451612903225806
+Someone polished jewelry using a cloth.,probable,1.0,0.0,0.0,0.0
+Someone popped a balloon using cotton balls.,impossible,0.02631578947368421,0.2631578947368421,0.7105263157894737,0.0
+Someone popped a balloon using a spear.,improbable,0.35294117647058826,0.6176470588235294,0.029411764705882353,0.0
+Someone popped a balloon using a story.,inconceivable,0.0,0.0,0.21428571428571427,0.7857142857142857
+Someone popped a balloon using a thumbtack.,probable,1.0,0.0,0.0,0.0
+Someone built a bridge out of soup.,impossible,0.0,0.04878048780487805,0.6829268292682927,0.2682926829268293
+Someone built a bridge out of plastic.,improbable,0.08108108108108109,0.8378378378378378,0.08108108108108109,0.0
+Someone built a bridge out of dance.,inconceivable,0.0,0.02564102564102564,0.10256410256410256,0.8717948717948718
+Someone built a bridge out of steel.,probable,1.0,0.0,0.0,0.0
+Someone removed a stain using dirt.,impossible,0.0,0.28888888888888886,0.6444444444444445,0.06666666666666667
+Someone removed a stain using vinegar.,improbable,0.8709677419354839,0.06451612903225806,0.06451612903225806,0.0
+Someone removed a stain using truth.,inconceivable,0.0,0.0,0.26666666666666666,0.7333333333333333
+Someone removed a stain using bleach.,probable,0.9302325581395349,0.06976744186046512,0.0,0.0
+Someone rinsed fruit using a clock.,impossible,0.0,0.025,0.5,0.475
+Someone rinsed fruit using a hose.,improbable,0.4888888888888889,0.4666666666666667,0.0,0.044444444444444446
+Someone rinsed fruit using a giggle.,inconceivable,0.0,0.03125,0.1875,0.78125
+Someone rinsed fruit using a sink.,probable,1.0,0.0,0.0,0.0
+Someone sewed a shirt using a potato.,impossible,0.0,0.05555555555555555,0.7222222222222222,0.2222222222222222
+Someone sewed a shirt using a toothpick.,improbable,0.03225806451612903,0.5483870967741935,0.3225806451612903,0.0967741935483871
+Someone sewed a shirt using thunder.,inconceivable,0.0,0.0,0.22727272727272727,0.7727272727272727
+Someone sewed a shirt using a needle.,probable,0.9736842105263158,0.02631578947368421,0.0,0.0
+Someone shattered a window using confetti.,impossible,0.0,0.19444444444444445,0.7222222222222222,0.08333333333333333
+Someone shattered a window using a frisbee.,improbable,0.5,0.5,0.0,0.0
+Someone shattered a window using a concept.,inconceivable,0.0,0.0,0.42857142857142855,0.5714285714285714
+Someone shattered a window using a stone.,probable,1.0,0.0,0.0,0.0
+Someone shaved their beard using a teabag.,impossible,0.0,0.0625,0.75,0.1875
+Someone shaved their beard using a knife.,improbable,0.05,0.9,0.05,0.0
+Someone shaved their beard using a belief.,inconceivable,0.0,0.0,0.2857142857142857,0.7142857142857143
+Someone shaved their beard using a razor.,probable,0.9761904761904762,0.023809523809523808,0.0,0.0
+Someone smashed a pumpkin using a leaf.,impossible,0.0,0.125,0.7916666666666666,0.08333333333333333
+Someone smashed a pumpkin using a boulder.,improbable,0.6,0.37142857142857144,0.02857142857142857,0.0
+Someone smashed a pumpkin using a number.,inconceivable,0.0,0.02127659574468085,0.14893617021276595,0.8297872340425532
+Someone smashed a pumpkin using a hammer.,probable,0.9069767441860465,0.09302325581395349,0.0,0.0
+Someone split a log using a feather.,impossible,0.0,0.029411764705882353,0.9117647058823529,0.058823529411764705
+Someone split a log using a saw.,improbable,0.9428571428571428,0.05714285714285714,0.0,0.0
+Someone split a log using a gasp.,inconceivable,0.022222222222222223,0.022222222222222223,0.15555555555555556,0.8
+Someone split a log using an axe.,probable,1.0,0.0,0.0,0.0
+Someone squeezed juice from an envelope.,impossible,0.0,0.17073170731707318,0.4878048780487805,0.34146341463414637
+Someone squeezed juice from meat.,improbable,0.4186046511627907,0.4186046511627907,0.13953488372093023,0.023255813953488372
+Someone squeezed juice from a mumble.,inconceivable,0.0,0.02702702702702703,0.02702702702702703,0.9459459459459459
+Someone squeezed juice from an orange.,probable,1.0,0.0,0.0,0.0
+Someone squished a blueberry using their breath.,impossible,0.058823529411764705,0.029411764705882353,0.7058823529411765,0.20588235294117646
+Someone squished a blueberry using their nose.,improbable,0.12195121951219512,0.8780487804878049,0.0,0.0
+Someone squished a blueberry using a sight.,inconceivable,0.029411764705882353,0.029411764705882353,0.29411764705882354,0.6470588235294118
+Someone squished a blueberry using their finger.,probable,1.0,0.0,0.0,0.0
+Someone started a fire using milk.,impossible,0.0,0.09523809523809523,0.8095238095238095,0.09523809523809523
+Someone started a fire using furniture.,improbable,0.20588235294117646,0.6176470588235294,0.17647058823529413,0.0
+Someone started a fire using humor.,inconceivable,0.0,0.0,0.3611111111111111,0.6388888888888888
+Someone started a fire using kindling.,probable,1.0,0.0,0.0,0.0
+Someone called a friend using a sandwich.,impossible,0.0,0.0,0.6046511627906976,0.3953488372093023
+Someone called a friend using a laptop.,improbable,0.5675675675675675,0.40540540540540543,0.0,0.02702702702702703
+Someone called a friend using mass.,inconceivable,0.030303030303030304,0.0,0.09090909090909091,0.8787878787878788
+Someone called a friend using a phone.,probable,1.0,0.0,0.0,0.0
+Someone stored dishes inside a thimble.,impossible,0.0,0.10810810810810811,0.8648648648648649,0.02702702702702703
+Someone stored dishes inside an attic.,improbable,0.6153846153846154,0.38461538461538464,0.0,0.0
+Someone stored dishes inside an equation.,inconceivable,0.0,0.0,0.13513513513513514,0.8648648648648649
+Someone stored dishes inside a cabinet.,probable,0.9722222222222222,0.027777777777777776,0.0,0.0
+Someone took a vacation to the sun.,impossible,0.0,0.03225806451612903,0.9032258064516129,0.06451612903225806
+Someone took a vacation to the desert.,improbable,0.5306122448979592,0.40816326530612246,0.02040816326530612,0.04081632653061224
+Someone took a vacation to a verb.,inconceivable,0.0,0.02857142857142857,0.02857142857142857,0.9428571428571428
+Someone took a vacation to the beach.,probable,1.0,0.0,0.0,0.0
+Someone tightened a bolt using a house.,impossible,0.0,0.021739130434782608,0.5217391304347826,0.45652173913043476
+Someone tightened a bolt using chopsticks.,improbable,0.0,0.6153846153846154,0.3333333333333333,0.05128205128205128
+Someone tightened a bolt using a dream.,inconceivable,0.0,0.0,0.1875,0.8125
+Someone tightened a bolt using a wrench.,probable,0.96875,0.03125,0.0,0.0
+Someone turned an apple into a cherry.,impossible,0.0,0.0,0.9032258064516129,0.0967741935483871
+Someone turned an apple into a salad.,improbable,0.5111111111111111,0.37777777777777777,0.1111111111111111,0.0
+Someone turned an apple into honesty.,inconceivable,0.0,0.0,0.09302325581395349,0.9069767441860465
+Someone turned an apple into a pie.,probable,0.7666666666666667,0.16666666666666666,0.06666666666666667,0.0
+Someone unlocked a door using a marshmallow.,impossible,0.0,0.15789473684210525,0.7368421052631579,0.10526315789473684
+Someone unlocked a door using a screwdriver.,improbable,0.17073170731707318,0.7560975609756098,0.07317073170731707,0.0
+Someone unlocked a door using a lie.,inconceivable,0.03225806451612903,0.06451612903225806,0.25806451612903225,0.6451612903225806
+Someone unlocked a door using a key.,probable,1.0,0.0,0.0,0.0
+Someone washed their hair using a rainbow.,impossible,0.0,0.0,0.4358974358974359,0.5641025641025641
+Someone washed their hair using detergent.,improbable,0.2222222222222222,0.75,0.0,0.027777777777777776
+Someone washed their hair using applause.,inconceivable,0.0,0.03333333333333333,0.2,0.7666666666666667
+Someone washed their hair using shampoo.,probable,1.0,0.0,0.0,0.0
+Someone wore shoes made of stars.,impossible,0.0,0.0,0.65,0.35
+Someone wore shoes made of wood.,improbable,0.21951219512195122,0.7804878048780488,0.0,0.0
+Someone wore shoes made of traffic.,inconceivable,0.0,0.0,0.10810810810810811,0.8918918918918919
+Someone wore shoes made of leather.,probable,1.0,0.0,0.0,0.0
+Someone wrapped a present using ketchup.,impossible,0.0,0.13157894736842105,0.47368421052631576,0.39473684210526316
+Someone wrapped a present using a dress.,improbable,0.03125,0.84375,0.09375,0.03125
+Someone wrapped a present using gossip.,inconceivable,0.0,0.0,0.05555555555555555,0.9444444444444444
+Someone wrapped a present using paper.,probable,0.9534883720930233,0.023255813953488372,0.0,0.023255813953488372
+Someone wrote a letter using a snowflake.,impossible,0.0,0.05555555555555555,0.75,0.19444444444444445
+Someone wrote a letter using a stylus.,improbable,0.7297297297297297,0.1891891891891892,0.08108108108108109,0.0
+Someone wrote a letter using a marathon.,inconceivable,0.0,0.046511627906976744,0.046511627906976744,0.9069767441860465
+Someone wrote a letter using a pen.,probable,1.0,0.0,0.0,0.0
+Someone wrote an equation on an atom.,impossible,0.0,0.07317073170731707,0.6585365853658537,0.2682926829268293
+Someone wrote an equation on a billboard.,improbable,0.475,0.5,0.0,0.025
+Someone wrote an equation on a scream.,inconceivable,0.0,0.0,0.030303030303030304,0.9696969696969697
+Someone wrote an equation on a chalkboard.,probable,1.0,0.0,0.0,0.0
+Someone carried groceries inside a tornado.,impossible,0.0,0.3333333333333333,0.3611111111111111,0.3055555555555556
+Someone carried groceries inside a backpack.,improbable,0.7878787878787878,0.21212121212121213,0.0,0.0
+Someone carried groceries inside a law.,inconceivable,0.0,0.0,0.03125,0.96875
+Someone carried groceries inside a tote bag.,probable,0.9583333333333334,0.041666666666666664,0.0,0.0
+Someone carved a statue using a sock.,impossible,0.0,0.13953488372093023,0.7906976744186046,0.06976744186046512
+Someone carved a statue using a nail.,improbable,0.075,0.875,0.05,0.0
+Someone carved a statue using laughter.,inconceivable,0.0,0.0,0.1875,0.8125
+Someone carved a statue using a chisel.,probable,0.9705882352941176,0.029411764705882353,0.0,0.0
+Someone caught a fish in a raindrop.,impossible,0.0,0.05405405405405406,0.6756756756756757,0.2702702702702703
+Someone caught a fish in a puddle.,improbable,0.30612244897959184,0.5714285714285714,0.12244897959183673,0.0
+Someone caught a fish in an exclamation.,inconceivable,0.0,0.0,0.08823529411764706,0.9117647058823529
+Someone caught a fish in a lake.,probable,1.0,0.0,0.0,0.0
+Someone chilled a drink using fire.,impossible,0.0,0.029411764705882353,0.9411764705882353,0.029411764705882353
+Someone chilled a drink using snow.,improbable,0.36363636363636365,0.6136363636363636,0.0,0.022727272727272728
+Someone chilled a drink using yesterday.,inconceivable,0.0,0.0,0.0,1.0
+Someone chilled a drink using ice.,probable,1.0,0.0,0.0,0.0

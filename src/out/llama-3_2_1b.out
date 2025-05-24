@@ -1,0 +1,9 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 11546268
+##  Job Name : llama-3_2_1b
+##  Nodelist : gpu2505
+##      CPUs : 2
+##  Mem/Node : 204800 MB
+## Directory : /oscar/data/epavlick/mlepori/projects/Impossible_Features/src
+##   Job Started : Thu May 22 09:34:17 AM EDT 2025
+###############################################################################

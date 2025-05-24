@@ -1,0 +1,5 @@
+classifier_type: Random
+dataset_path: vega_mendoza/data.csv
+dtype: bfloat16
+model: meta-llama/Llama-3.2-3B
+results_path: ../results/meta-llama/Llama-3.2-3B/Classification

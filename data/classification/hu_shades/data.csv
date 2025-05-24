@@ -1,0 +1,281 @@
+item_set_id,sentence,label
+0,Someone baked a cake inside an oven.,probable
+0,Someone baked a cake inside an airfryer.,improbable
+0,Someone baked a cake inside a freezer.,impossible
+0,Someone baked a cake inside a sigh.,inconceivable
+1,Someone boiled water using a kettle.,probable
+1,Someone boiled water using a microwave.,improbable
+1,Someone boiled water using a refrigerator.,impossible
+1,Someone boiled water using justice.,inconceivable
+2,Someone broke a coconut using a rock.,probable
+2,Someone broke a coconut using a table.,improbable
+2,Someone broke a coconut using a pillow.,impossible
+2,Someone broke a coconut using a texture.,inconceivable
+3,Someone built a house out of brick.,probable
+3,Someone built a house out of grass.,improbable
+3,Someone built a house out of gas.,impossible
+3,Someone built a house out of language.,inconceivable
+4,Someone built a bridge out of steel.,probable
+4,Someone built a bridge out of plastic.,improbable
+4,Someone built a bridge out of soup.,impossible
+4,Someone built a bridge out of dance.,inconceivable
+5,Someone called a friend using a phone.,probable
+5,Someone called a friend using a laptop.,improbable
+5,Someone called a friend using a sandwich.,impossible
+5,Someone called a friend using mass.,inconceivable
+6,Someone carried groceries inside a tote bag.,probable
+6,Someone carried groceries inside a backpack.,improbable
+6,Someone carried groceries inside a tornado.,impossible
+6,Someone carried groceries inside a law.,inconceivable
+7,Someone carved a statue using a chisel.,probable
+7,Someone carved a statue using a nail.,improbable
+7,Someone carved a statue using a sock.,impossible
+7,Someone carved a statue using laughter.,inconceivable
+8,Someone caught a fish in a lake.,probable
+8,Someone caught a fish in a puddle.,improbable
+8,Someone caught a fish in a raindrop.,impossible
+8,Someone caught a fish in an exclamation.,inconceivable
+9,Someone chilled a drink using ice.,probable
+9,Someone chilled a drink using snow.,improbable
+9,Someone chilled a drink using fire.,impossible
+9,Someone chilled a drink using yesterday.,inconceivable
+10,Someone chopped a carrot using a knife.,probable
+10,Someone chopped a carrot using a sword.,improbable
+10,Someone chopped a carrot using a rag.,impossible
+10,Someone chopped a carrot using a color.,inconceivable
+11,Someone cleaned a spill using a sponge.,probable
+11,Someone cleaned a spill using a scarf.,improbable
+11,Someone cleaned a spill using mustard.,impossible
+11,Someone cleaned a spill using a country.,inconceivable
+12,Someone cleaned a carpet using a vacuum.,probable
+12,Someone cleaned a carpet using a hat.,improbable
+12,Someone cleaned a carpet using a crayon.,impossible
+12,Someone cleaned a carpet using a week.,inconceivable
+13,Someone climbed a tree using a ladder.,probable
+13,Someone climbed a tree using a rope.,improbable
+13,Someone climbed a tree using oil.,impossible
+13,Someone climbed a tree using a poem.,inconceivable
+14,Someone closed a jacket using a zipper.,probable
+14,Someone closed a jacket using glue.,improbable
+14,Someone closed a jacket using fog.,impossible
+14,Someone closed a jacket using a word.,inconceivable
+15,Someone constructed a tower out of blocks.,probable
+15,Someone constructed a tower out of bubbles.,improbable
+15,Someone constructed a tower out of sparks.,impossible
+15,Someone constructed a tower out of seasons.,inconceivable
+16,Someone cooked dinner out of pasta.,probable
+16,Someone cooked dinner out of insects.,improbable
+16,Someone cooked dinner out of the moon.,impossible
+16,Someone cooked dinner out of thoughts.,inconceivable
+17,Someone cooled a room using a fan.,probable
+17,Someone cooled a room using shades.,improbable
+17,Someone cooled a room using a heater.,impossible
+17,Someone cooled a room using a taste.,inconceivable
+18,Someone covered a window using curtains.,probable
+18,Someone covered a window using sheets.,improbable
+18,Someone covered a window using a hair.,impossible
+18,Someone covered a window using a chant.,inconceivable
+19,Someone crafted a bowl out of clay.,probable
+19,Someone crafted a bowl out of mud.,improbable
+19,Someone crafted a bowl out of smoke.,impossible
+19,Someone crafted a bowl out of math.,inconceivable
+20,Someone crushed a soda can using a shoe.,probable
+20,Someone crushed a soda can using a chair.,improbable
+20,Someone crushed a soda can using a tissue.,impossible
+20,Someone crushed a soda can using a day.,inconceivable
+21,Someone cut grass using a lawnmower.,probable
+21,Someone cut grass using a scythe.,improbable
+21,Someone cut grass using a popsicle.,impossible
+21,Someone cut grass using an essay.,inconceivable
+22,Someone cut cardboard using scissors.,probable
+22,Someone cut cardboard using a scalpel.,improbable
+22,Someone cut cardboard using fur.,impossible
+22,Someone cut cardboard using a snore.,inconceivable
+23,Someone dented a car with a baseball bat.,probable
+23,Someone dented a car with a dumbbell.,improbable
+23,Someone dented a car with a breeze.,impossible
+23,Someone dented a car with a nap.,inconceivable
+24,Someone dug a hole using a shovel.,probable
+24,Someone dug a hole using a spatula.,improbable
+24,Someone dug a hole using dirt.,impossible
+24,Someone dug a hole using a yawn.,inconceivable
+25,Someone dipped a biscuit into coffee.,probable
+25,Someone dipped a biscuit into wine.,improbable
+25,Someone dipped a biscuit into a floor.,impossible
+25,Someone dipped a biscuit into a myth.,inconceivable
+26,Someone displayed books on a shelf.,probable
+26,Someone displayed books on a bed.,improbable
+26,Someone displayed books on a galaxy.,impossible
+26,Someone displayed books on a sigh.,inconceivable
+27,Someone docked a boat using an anchor.,probable
+27,Someone docked a boat using an anvil.,improbable
+27,Someone docked a boat using a balloon.,impossible
+27,Someone docked a boat using a lesson.,inconceivable
+28,Someone drank a cup full of water.,probable
+28,Someone drank a cup full of honey.,improbable
+28,Someone drank a cup full of lightning.,impossible
+28,Someone drank a cup full of minutes.,inconceivable
+29,Someone dried their hands using a towel.,probable
+29,Someone dried their hands using a sweater.,improbable
+29,Someone dried their hands using a liquid.,impossible
+29,Someone dried their hands using freedom.,inconceivable
+30,Someone dried laundry using a clothesline.,probable
+30,Someone dried laundry using a fan.,improbable
+30,Someone dried laundry using juice.,impossible
+30,Someone dried laundry using courage.,inconceivable
+31,Someone ate soup using a spoon.,probable
+31,Someone ate soup using a bucket.,improbable
+31,Someone ate soup using a sieve.,impossible
+31,Someone ate soup using history.,inconceivable
+32,Someone entered a room through a door.,probable
+32,Someone entered a room through a window.,improbable
+32,Someone entered a room through a wall.,impossible
+32,Someone entered a room through a theory.,inconceivable
+33,Someone filled a bucket with sand.,probable
+33,Someone filled a bucket with acorns.,improbable
+33,Someone filled a bucket with buildings.,impossible
+33,Someone filled a bucket with time.,inconceivable
+34,Someone filled a purse with coins.,probable
+34,Someone filled a purse with cream.,improbable
+34,Someone filled a purse with sofas.,impossible
+34,Someone filled a purse with luck.,inconceivable
+35,Someone grew flowers inside a pot.,probable
+35,Someone grew flowers inside a mug.,improbable
+35,Someone grew flowers inside a marble.,impossible
+35,Someone grew flowers inside a sneeze.,inconceivable
+36,Someone hung a painting using screws.,probable
+36,Someone hung a painting using string.,improbable
+36,Someone hung a painting using vapor.,impossible
+36,Someone hung a painting using a handshake.,inconceivable
+37,Someone hid a gift inside a closet.,probable
+37,Someone hid a gift inside a forest.,improbable
+37,Someone hid a gift inside a cloud.,impossible
+37,Someone hid a gift inside a gasp.,inconceivable
+38,Someone lifted a box using a forklift.,probable
+38,Someone lifted a box using a pulley.,improbable
+38,Someone lifted a box using foam.,impossible
+38,Someone lifted a box using an emotion.,inconceivable
+39,Someone lit a candle using a match.,probable
+39,Someone lit a candle using a blowtorch.,improbable
+39,Someone lit a candle using yogurt.,impossible
+39,Someone lit a candle using surprises.,inconceivable
+40,Someone made a sandwich using bread.,probable
+40,Someone made a sandwich using lettuce.,improbable
+40,Someone made a sandwich using a star.,impossible
+40,Someone made a sandwich using a mile.,inconceivable
+41,Someone made a smoothie using a blender.,probable
+41,Someone made a smoothie using a whisk.,improbable
+41,Someone made a smoothie using wind.,impossible
+41,Someone made a smoothie using decades.,inconceivable
+42,Someone melted a chocolate bar using a stove.,probable
+42,Someone melted a chocolate bar using a radiator.,improbable
+42,Someone melted a chocolate bar using a napkin.,impossible
+42,Someone melted a chocolate bar using a promise.,inconceivable
+43,Someone opened a jar using their hands.,probable
+43,Someone opened a jar using their feet.,improbable
+43,Someone opened a jar using their mind.,impossible
+43,Someone opened a jar using an opinion.,inconceivable
+44,Someone packed a suit inside a suitcase.,probable
+44,Someone packed a suit inside a pocket.,improbable
+44,Someone packed a suit inside a raspberry.,impossible
+44,Someone packed a suit inside a groan.,inconceivable
+45,Someone painted a wall using a brush.,probable
+45,Someone painted a wall using a mop.,improbable
+45,Someone painted a wall using a bathtub.,impossible
+45,Someone painted a wall using a whisper.,inconceivable
+46,Someone paved a road using cement.,probable
+46,Someone paved a road using seashells.,improbable
+46,Someone paved a road using a comet.,impossible
+46,Someone paved a road using happiness.,inconceivable
+47,Someone plucked a hair using tweezers.,probable
+47,Someone plucked a hair using tongs.,improbable
+47,Someone plucked a hair using a spoon.,impossible
+47,Someone plucked a hair using sympathy.,inconceivable
+48,Someone polished jewelry using a cloth.,probable
+48,Someone polished jewelry using a shirt.,improbable
+48,Someone polished jewelry using a chainsaw.,impossible
+48,Someone polished jewelry using music.,inconceivable
+49,Someone popped a balloon using a thumbtack.,probable
+49,Someone popped a balloon using a spear.,improbable
+49,Someone popped a balloon using cotton balls.,impossible
+49,Someone popped a balloon using a story.,inconceivable
+50,Someone removed a stain using bleach.,probable
+50,Someone removed a stain using vinegar.,improbable
+50,Someone removed a stain using dirt.,impossible
+50,Someone removed a stain using truth.,inconceivable
+51,Someone rinsed fruit using a sink.,probable
+51,Someone rinsed fruit using a hose.,improbable
+51,Someone rinsed fruit using a clock.,impossible
+51,Someone rinsed fruit using a giggle.,inconceivable
+52,Someone sewed a shirt using a needle.,probable
+52,Someone sewed a shirt using a toothpick.,improbable
+52,Someone sewed a shirt using a potato.,impossible
+52,Someone sewed a shirt using thunder.,inconceivable
+53,Someone shattered a window using a stone.,probable
+53,Someone shattered a window using a frisbee.,improbable
+53,Someone shattered a window using confetti.,impossible
+53,Someone shattered a window using a concept.,inconceivable
+54,Someone shaved their beard using a razor.,probable
+54,Someone shaved their beard using a knife.,improbable
+54,Someone shaved their beard using a teabag.,impossible
+54,Someone shaved their beard using a belief.,inconceivable
+55,Someone smashed a pumpkin using a hammer.,probable
+55,Someone smashed a pumpkin using a boulder.,improbable
+55,Someone smashed a pumpkin using a leaf.,impossible
+55,Someone smashed a pumpkin using a number.,inconceivable
+56,Someone split a log using an axe.,probable
+56,Someone split a log using a saw.,improbable
+56,Someone split a log using a feather.,impossible
+56,Someone split a log using a gasp.,inconceivable
+57,Someone squeezed juice from an orange.,probable
+57,Someone squeezed juice from meat.,improbable
+57,Someone squeezed juice from an envelope.,impossible
+57,Someone squeezed juice from a mumble.,inconceivable
+58,Someone squished a blueberry using their finger.,probable
+58,Someone squished a blueberry using their nose.,improbable
+58,Someone squished a blueberry using their breath.,impossible
+58,Someone squished a blueberry using a sight.,inconceivable
+59,Someone started a fire using kindling.,probable
+59,Someone started a fire using furniture.,improbable
+59,Someone started a fire using milk.,impossible
+59,Someone started a fire using humor.,inconceivable
+60,Someone stored dishes inside a cabinet.,probable
+60,Someone stored dishes inside an attic.,improbable
+60,Someone stored dishes inside a thimble.,impossible
+60,Someone stored dishes inside an equation.,inconceivable
+61,Someone took a vacation to the beach.,probable
+61,Someone took a vacation to the desert.,improbable
+61,Someone took a vacation to the sun.,impossible
+61,Someone took a vacation to a verb.,inconceivable
+62,Someone tightened a bolt using a wrench.,probable
+62,Someone tightened a bolt using chopsticks.,improbable
+62,Someone tightened a bolt using a house.,impossible
+62,Someone tightened a bolt using a dream.,inconceivable
+63,Someone turned an apple into a pie.,probable
+63,Someone turned an apple into a salad.,improbable
+63,Someone turned an apple into a cherry.,impossible
+63,Someone turned an apple into honesty.,inconceivable
+64,Someone unlocked a door using a key.,probable
+64,Someone unlocked a door using a screwdriver.,improbable
+64,Someone unlocked a door using a marshmallow.,impossible
+64,Someone unlocked a door using a lie.,inconceivable
+65,Someone washed their hair using shampoo.,probable
+65,Someone washed their hair using detergent.,improbable
+65,Someone washed their hair using a rainbow.,impossible
+65,Someone washed their hair using applause.,inconceivable
+66,Someone wore shoes made of leather.,probable
+66,Someone wore shoes made of wood.,improbable
+66,Someone wore shoes made of stars.,impossible
+66,Someone wore shoes made of traffic.,inconceivable
+67,Someone wrapped a present using paper.,probable
+67,Someone wrapped a present using a dress.,improbable
+67,Someone wrapped a present using ketchup.,impossible
+67,Someone wrapped a present using gossip.,inconceivable
+68,Someone wrote a letter using a pen.,probable
+68,Someone wrote a letter using a stylus.,improbable
+68,Someone wrote a letter using a snowflake.,impossible
+68,Someone wrote a letter using a marathon.,inconceivable
+69,Someone wrote an equation on a chalkboard.,probable
+69,Someone wrote an equation on a billboard.,improbable
+69,Someone wrote an equation on an atom.,impossible
+69,Someone wrote an equation on a scream.,inconceivable

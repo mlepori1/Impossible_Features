@@ -1,0 +1,5 @@
+model: "openai-community/gpt2-medium"
+dataset_path: "vega_mendoza/data.csv"
+results_path: "../results/openai-community/gpt2-medium/Classification"
+classifier_type: "Linear_Representation"
+dtype: "bfloat16"

@@ -1,0 +1,4 @@
+model: "google/gemma-3-4b-pt"
+artifact_path: "../artifacts/google/gemma-3-4b-pt/Linear_Representation"
+results_path: "../results/google/gemma-3-4b-pt/Linear_Representation"
+dtype: "bfloat16"

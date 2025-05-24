@@ -1,0 +1,5 @@
+classifier_type: Probability
+dataset_path: vega_mendoza/data.csv
+dtype: bfloat16
+model: google/gemma-2-9b
+results_path: ../results/google/gemma-2-9b/Classification

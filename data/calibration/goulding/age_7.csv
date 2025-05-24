@@ -1,0 +1,79 @@
+sentence,label,possible,impossible
+Someone is about to be born with 12 toes.,improbable,0.1,0.9
+Someone is about to be born with 2 feet.,possible,0.9285714285714286,0.07142857142857142
+Someone is about to be born with 2 wings.,impossible,0.024390243902439025,0.975609756097561
+Someone is about to buy a large rock.,possible,0.42105263157894735,0.5789473684210527
+Someone is about to clean a car.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to clean a cloud.,impossible,0.0,1.0
+Someone is about to clean a road.,improbable,0.7073170731707317,0.2926829268292683
+Someone is about to count all of the hairs on a dog.,improbable,0.1,0.9
+Someone is about to count all of the sand in the world.,impossible,0.02631578947368421,0.9736842105263158
+Someone is about to count all of the students in a room.,possible,0.9285714285714286,0.07142857142857142
+Someone is about to cut the line to go into the store.,improbable,0.41025641025641024,0.5897435897435898
+Someone is about to eat a brownie for dessert.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to eat a large rock.,impossible,0.0,1.0
+Someone is about to eat a lollipop.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to eat a pickle for dessert.,improbable,0.8378378378378378,0.16216216216216217
+Someone is about to eat a planet.,impossible,0.0,1.0
+Someone is about to eat a rainbow for dessert.,impossible,0.0,1.0
+Someone is about to eat a whole sandwich for dinner.,possible,0.9285714285714286,0.07142857142857142
+Someone is about to eat a whole turkey for dinner.,improbable,0.5952380952380952,0.40476190476190477
+Someone is about to eat a whole whale for dinner.,impossible,0.023809523809523808,0.9761904761904762
+Someone is about to eat an insect.,improbable,0.2619047619047619,0.7380952380952381
+Someone is about to find a monkey in a closet.,improbable,0.075,0.925
+Someone is about to find a sweater in a closet.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to find a unicorn in a closet.,impossible,0.023809523809523808,0.9761904761904762
+Someone is about to have a cat as a pet.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to have a lion as a pet.,improbable,0.34146341463414637,0.6585365853658537
+Someone is about to have the moon as a pet.,impossible,0.024390243902439025,0.975609756097561
+Someone is about to know the name of someone they just met.,possible,0.6666666666666666,0.3333333333333333
+Someone is about to know the names of everyone in the world.,impossible,0.023809523809523808,0.9761904761904762
+Someone is about to know the names of everyone they ever met.,improbable,0.775,0.225
+Someone is about to live for 1000 years.,impossible,0.05,0.95
+Someone is about to live for 110 years.,improbable,0.325,0.675
+Someone is about to live for 60 years.,possible,0.8,0.2
+Someone is about to magically appear into the store.,impossible,0.0,1.0
+Someone is about to make a house out of bricks.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to make a house out of gas.,impossible,0.04878048780487805,0.9512195121951219
+Someone is about to make a house out of grass.,improbable,0.04878048780487805,0.9512195121951219
+Someone is about to make their friend cry.,improbable,0.9047619047619048,0.09523809523809523
+Someone is about to make their friend shrink.,impossible,0.024390243902439025,0.975609756097561
+Someone is about to make their friend smile.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to move a marble with their breath.,improbable,0.625,0.375
+Someone is about to move a marble with their hand.,possible,0.975609756097561,0.024390243902439025
+Someone is about to move a marble with their mind.,impossible,0.023809523809523808,0.9761904761904762
+Someone is about to not eat for 1 hour.,possible,0.6842105263157895,0.3157894736842105
+Someone is about to not eat for 10 days.,improbable,0.2,0.8
+Someone is about to not eat for 100 days.,impossible,0.09523809523809523,0.9047619047619048
+Someone is about to open a window with their breath.,impossible,0.0,1.0
+Someone is about to open a window with their feet.,improbable,0.2857142857142857,0.7142857142857143
+Someone is about to open a window with their hand.,possible,1.0,0.0
+Someone is about to paint polka dots on a cloud.,impossible,0.047619047619047616,0.9523809523809523
+Someone is about to paint polka dots on a plane.,improbable,0.5238095238095238,0.47619047619047616
+Someone is about to paint polka dots on a wall.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to play with a toy.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to play with a wolf.,improbable,0.14634146341463414,0.8536585365853658
+Someone is about to play with magic.,impossible,0.21428571428571427,0.7857142857142857
+Someone is about to ride a cow.,improbable,0.7317073170731707,0.2682926829268293
+Someone is about to ride a horse.,possible,1.0,0.0
+Someone is about to ride an ogre.,impossible,0.0625,0.9375
+Someone is about to shake someone's hand with their hand.,possible,1.0,0.0
+Someone is about to shake someone's hand with their mind.,impossible,0.0,1.0
+Someone is about to shake someone's hand with their mouth.,improbable,0.19047619047619047,0.8095238095238095
+Someone is about to stay awake for 5 days.,improbable,0.2,0.8
+Someone is about to stay awake for 5 hours.,possible,0.8780487804878049,0.12195121951219512
+Someone is about to stay awake for 5 years.,impossible,0.04878048780487805,0.9512195121951219
+Someone is about to steal a large rock.,improbable,0.4594594594594595,0.5405405405405406
+Someone is about to turn an onion into apple juice.,impossible,0.0,1.0
+Someone is about to turn an onion into onion juice.,improbable,0.55,0.45
+Someone is about to turn an onion into onion slices.,possible,0.9523809523809523,0.047619047619047616
+Someone is about to unlock a door with a doorkey.,possible,1.0,0.0
+Someone is about to unlock a door with a toothpick.,improbable,0.48717948717948717,0.5128205128205128
+Someone is about to unlock a door with their mind.,impossible,0.023809523809523808,0.9761904761904762
+Someone is about to wait in line to go into the store.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to walk through a brick wall.,impossible,0.11904761904761904,0.8809523809523809
+Someone is about to walk through a hot fire.,improbable,0.023809523809523808,0.9761904761904762
+Someone is about to walk through an open door.,possible,0.9761904761904762,0.023809523809523808
+Someone is about to wear shoes made out of leather.,possible,0.6388888888888888,0.3611111111111111
+Someone is about to wear shoes made out of light.,impossible,0.047619047619047616,0.9523809523809523
+Someone is about to wear shoes made out of stone.,improbable,0.1794871794871795,0.8205128205128205

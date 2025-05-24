@@ -1,0 +1,5 @@
+classifier_type: Random
+dataset_path: kauf/EventsRev_data.csv
+dtype: bfloat16
+model: google/gemma-2-2b
+results_path: ../results/google/gemma-2-2b/Classification

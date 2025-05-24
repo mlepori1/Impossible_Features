@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#SBATCH -N 1 -n 2 
+#SBATCH -p 3090-gcondo --gres=gpu:2
+#SBATCH --mem=200GB
+#SBATCH -t 10:00:00
+
+source /gpfs/data/epavlick/mlepori/miniconda3/etc/profile.d/conda.sh
+
+conda activate modal_features
+python $PROJECT_DIR/src/exp3_calibration.py --config $CONFIG

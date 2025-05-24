@@ -1,0 +1,5 @@
+model: "google/gemma-2-9b"
+dataset_path: "goulding/adults.csv"
+results_path: "../results/google/gemma-2-9b/Calibration"
+representation_type: "Linear_Representation"
+dtype: "bfloat16"

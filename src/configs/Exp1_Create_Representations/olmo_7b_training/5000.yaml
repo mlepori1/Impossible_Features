@@ -1,0 +1,6 @@
+model: "allenai/OLMo-2-1124-7B"
+revision: "stage1-step5000-tokens21B"
+artifact_path: "../artifacts/allenai/OLMo-2-1124-7B/Training_Analysis/5000"
+results_path: "../results/allenai/OLMo-2-1124-7B/Training_Analysis/5000"
+dtype: "bfloat16"
+only_linear: true

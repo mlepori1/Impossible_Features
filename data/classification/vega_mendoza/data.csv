@@ -1,0 +1,776 @@
+item_set_id,sentence,label,metadata
+0,The halftime show at the football match was organised by the goalpost.,inconceivable,related
+0,The halftime show at the football match was organised by the cheerleader.,probable,
+0,The halftime show at the football match was organised by the rum.,inconceivable,unrelated
+0,The halftime show at the football match was organised by the alcoholic.,improbable,unrelated
+0,The halftime show at the football match was organised by the striker.,improbable,related
+1,During the solo music performance the strings were plucked by the workman.,improbable,unrelated
+1,During the solo music performance the strings were plucked by the sculpture.,inconceivable,unrelated
+1,During the solo music performance the strings were plucked by the trumpeter.,improbable,related
+1,During the solo music performance the strings were plucked by the harpist.,probable,
+1,During the solo music performance the strings were plucked by the violin.,inconceivable,related
+2,At the restaurant all the meals were cooked by the arrow.,inconceivable,unrelated
+2,At the restaurant all the meals were cooked by the diner.,improbable,related
+2,At the restaurant all the meals were cooked by the chef.,probable,
+2,At the restaurant all the meals were cooked by the plate.,inconceivable,related
+2,At the restaurant all the meals were cooked by the aboriginal.,improbable,unrelated
+3,The scientific research was funded by the volunteer.,improbable,related
+3,The scientific research was funded by the sponsor.,probable,
+3,The scientific research was funded by the microscope.,inconceivable,related
+3,The scientific research was funded by the traveller.,improbable,unrelated
+3,The scientific research was funded by the suitcase.,inconceivable,unrelated
+4,Tenants were upset when housing prices were raised by the proprietor.,probable,
+4,Tenants were upset when housing prices were raised by the property.,inconceivable,related
+4,Tenants were upset when housing prices were raised by the script.,inconceivable,unrelated
+4,Tenants were upset when housing prices were raised by the occupant.,improbable,related
+4,Tenants were upset when housing prices were raised by the actress.,improbable,unrelated
+5,After crying and waking up his parents the baby was breast-fed by his mummy.,probable,
+5,After crying and waking up his parents the baby was breast-fed by his brother.,improbable,related
+5,After crying and waking up his parents the baby was breast-fed by his carry-cot.,inconceivable,related
+5,After crying and waking up his parents the baby was breast-fed by his coach.,improbable,unrelated
+5,After crying and waking up his parents the baby was breast-fed by his stadium.,inconceivable,unrelated
+6,"At the baseball game, a ball was thrown by the suspect.",improbable,unrelated
+6,"At the baseball game, a ball was thrown by the pitcher.",probable,
+6,"At the baseball game, a ball was thrown by the scoreboard.",inconceivable,related
+6,"At the baseball game, a ball was thrown by the catcher.",improbable,related
+6,"At the baseball game, a ball was thrown by the passport.",inconceivable,unrelated
+7,The cure for the disease was discovered by the doctor.,probable,
+7,The cure for the disease was discovered by the patient.,improbable,related
+7,The cure for the disease was discovered by the guest.,improbable,unrelated
+7,The cure for the disease was discovered by the stamp.,inconceivable,unrelated
+7,The cure for the disease was discovered by the medication.,inconceivable,related
+8,At the theatre the programs were given by the ticket.,inconceivable,related
+8,At the theatre the programs were given by the controller.,improbable,unrelated
+8,At the theatre the programs were given by the usher.,probable,
+8,At the theatre the programs were given by the audience.,improbable,related
+8,At the theatre the programs were given by the turbine.,inconceivable,unrelated
+9,At the wedding ceremony the ring was brought by the reverend.,improbable,related
+9,At the wedding ceremony the ring was brought by the groom.,probable,
+9,At the wedding ceremony the ring was brought by the veil.,inconceivable,related
+9,At the wedding ceremony the ring was brought by the diabetic.,improbable,unrelated
+9,At the wedding ceremony the ring was brought by the aspirin.,inconceivable,unrelated
+10,At the club the cocktails are served by the tonic.,inconceivable,related
+10,At the club the cocktails are served by the barmaid.,probable,
+10,At the club the cocktails are served by the queen.,improbable,unrelated
+10,At the club the cocktails are served by the dirt.,inconceivable,unrelated
+10,At the club the cocktails are served by the drunkard.,improbable,related
+11,The rules of the game show were explained by the tomb.,inconceivable,unrelated
+11,The rules of the game show were explained by the undertaker.,improbable,unrelated
+11,The rules of the game show were explained by the host.,probable,
+11,The rules of the game show were explained by the contestant.,improbable,related
+11,The rules of the game show were explained by the prize.,inconceivable,related
+12,The next bus stop was announced by the bell.,inconceivable,related
+12,The next bus stop was announced by the drunkard.,improbable,unrelated
+12,The next bus stop was announced by the coachman.,probable,
+12,The next bus stop was announced by the user.,improbable,related
+12,The next bus stop was announced by the tonic.,inconceivable,unrelated
+13,The child's dirty nappy was changed by his mum.,probable,
+13,The child's dirty nappy was changed by his captive.,improbable,unrelated
+13,The child's dirty nappy was changed by his toddler.,improbable,related
+13,The child's dirty nappy was changed by his powder.,inconceivable,related
+13,The child's dirty nappy was changed by his cannon.,inconceivable,unrelated
+14,"At the ballet, the music was played by the orchestra.",probable,
+14,"At the ballet, the music was played by the tutu.",inconceivable,related
+14,"At the ballet, the music was played by the dancer.",improbable,related
+14,"At the ballet, the music was played by the medicine.",inconceivable,unrelated
+14,"At the ballet, the music was played by the hypochondriac.",improbable,unrelated
+15,In ancient Egypt the people were governed by the pyramid.,inconceivable,related
+15,In ancient Egypt the people were governed by the slave.,improbable,related
+15,In ancient Egypt the people were governed by the baby.,improbable,unrelated
+15,In ancient Egypt the people were governed by the Pharaoh.,probable,
+15,In ancient Egypt the people were governed by the mess.,inconceivable,unrelated
+16,The patient's aches and pains were examined by the microphone.,inconceivable,unrelated
+16,The patient's aches and pains were examined by the physician.,probable,
+16,The patient's aches and pains were examined by the hypochondriac.,improbable,related
+16,The patient's aches and pains were examined by the medicine.,inconceivable,related
+16,The patient's aches and pains were examined by the candidate.,improbable,unrelated
+17,The rope was thrown by the Indian.,improbable,related
+17,The rope was thrown by the graduate.,improbable,unrelated
+17,The rope was thrown by the saddle.,inconceivable,related
+17,The rope was thrown by the diploma.,inconceivable,unrelated
+17,The rope was thrown by the cowboy.,probable,
+18,The murder witness was cross-questioned by the chalk.,inconceivable,unrelated
+18,The murder witness was cross-questioned by the detective.,probable,
+18,The murder witness was cross-questioned by the blood.,inconceivable,related
+18,The murder witness was cross-questioned by the freshman.,improbable,unrelated
+18,The murder witness was cross-questioned by the convict.,improbable,related
+19,The violent demonstration was policed by the cleaner.,improbable,unrelated
+19,The violent demonstration was policed by the turkey.,inconceivable,unrelated
+19,The violent demonstration was policed by the policeman.,probable,
+19,The violent demonstration was policed by the hooligan.,improbable,related
+19,The violent demonstration was policed by the banner.,inconceivable,related
+20,The cult's prophecies were established by the candle.,inconceivable,related
+20,The cult's prophecies were established by the admirer.,improbable,related
+20,The cult's prophecies were established by the prophet.,probable,
+20,The cult's prophecies were established by the wrestler.,improbable,unrelated
+20,The cult's prophecies were established by the trampoline.,inconceivable,unrelated
+21,"While eating dinner with her parents, the woman was proposed to by her pupil.",improbable,unrelated
+21,"While eating dinner with her parents, the woman was proposed to by her pencil.",inconceivable,unrelated
+21,"While eating dinner with her parents, the woman was proposed to by her father.",improbable,related
+21,"While eating dinner with her parents, the woman was proposed to by her boyfriend.",probable,
+21,"While eating dinner with her parents, the woman was proposed to by her diamond.",inconceivable,related
+22,The studio recorded an album with music sung by the keyboard.,inconceivable,related
+22,The studio recorded an album with music sung by the vocalist.,probable,
+22,The studio recorded an album with music sung by the producer.,improbable,related
+22,The studio recorded an album with music sung by the merchant.,improbable,unrelated
+22,The studio recorded an album with music sung by the tear-gas.,inconceivable,unrelated
+23,The aeroplane was flown by the controller.,improbable,related
+23,The aeroplane was flown by the nurse.,improbable,unrelated
+23,The aeroplane was flown by the turbine.,inconceivable,related
+23,The aeroplane was flown by the pilot.,probable,
+23,The aeroplane was flown by the anaesthesia.,inconceivable,unrelated
+24,The first lectures in college were given by the shotgun.,inconceivable,unrelated
+24,The first lectures in college were given by the lecturer.,probable,
+24,The first lectures in college were given by the chalk.,inconceivable,related
+24,The first lectures in college were given by the freshman.,improbable,related
+24,The first lectures in college were given by the gangster.,improbable,unrelated
+25,The car's new features were marketed by the engine.,inconceivable,related
+25,The car's new features were marketed by the saleswoman.,probable,
+25,The car's new features were marketed by the client.,improbable,related
+25,The car's new features were marketed by the concierge.,improbable,unrelated
+25,The car's new features were marketed by the fuse.,inconceivable,unrelated
+26,The husband got involved in an affair after having been seduced by his mistress.,probable,
+26,The husband got involved in an affair after having been seduced by his contestant.,improbable,unrelated
+26,The husband got involved in an affair after having been seduced by his wife.,improbable,related
+26,The husband got involved in an affair after having been seduced by his divorce.,inconceivable,related
+26,The husband got involved in an affair after having been seduced by his prize.,inconceivable,unrelated
+27,At UK pubs every drink is poured by the architect.,improbable,unrelated
+27,At UK pubs every drink is poured by the crane.,inconceivable,unrelated
+27,At UK pubs every drink is poured by the barman.,probable,
+27,At UK pubs every drink is poured by the alcoholic.,improbable,related
+27,At UK pubs every drink is poured by the rum.,inconceivable,related
+28,"At the hotel, luggage is delivered by the medication.",inconceivable,unrelated
+28,"At the hotel, luggage is delivered by the porter.",probable,
+28,"At the hotel, luggage is delivered by the patient.",improbable,unrelated
+28,"At the hotel, luggage is delivered by the traveller.",improbable,related
+28,"At the hotel, luggage is delivered by the suitcase.",inconceivable,related
+29,The clever boy was able to win the contest helped by his cutlery.,inconceivable,unrelated
+29,The clever boy was able to win the contest helped by his opponent.,improbable,related
+29,The clever boy was able to win the contest helped by his buyer.,improbable,unrelated
+29,The clever boy was able to win the contest helped by his challenge.,inconceivable,related
+29,The clever boy was able to win the contest helped by his mate.,probable,
+30,"Thanks to the union talks, improved benefits were received by the dress.",inconceivable,unrelated
+30,"Thanks to the union talks, improved benefits were received by the model.",improbable,unrelated
+30,"Thanks to the union talks, improved benefits were received by the list.",inconceivable,related
+30,"Thanks to the union talks, improved benefits were received by the boss.",improbable,related
+30,"Thanks to the union talks, improved benefits were received by the employee.",probable,
+31,"In the fairy-tale, the princess was rescued by the witch.",improbable,related
+31,"In the fairy-tale, the princess was rescued by the prince.",probable,
+31,"In the fairy-tale, the princess was rescued by the intern.",improbable,unrelated
+31,"In the fairy-tale, the princess was rescued by the artery.",inconceivable,unrelated
+31,"In the fairy-tale, the princess was rescued by the crown.",inconceivable,related
+32,The chaos in the classroom was initiated by the schoolmaster.,improbable,related
+32,The chaos in the classroom was initiated by the belt.,inconceivable,unrelated
+32,The chaos in the classroom was initiated by the blackboard.,inconceivable,related
+32,The chaos in the classroom was initiated by the beginner.,improbable,unrelated
+32,The chaos in the classroom was initiated by the preschooler.,probable,
+33,Every day the rich Duke's soiled underwear was scrubbed by the earlobe.,inconceivable,unrelated
+33,Every day the rich Duke's soiled underwear was scrubbed by the principal.,improbable,unrelated
+33,Every day the rich Duke's soiled underwear was scrubbed by the maid.,probable,
+33,Every day the rich Duke's soiled underwear was scrubbed by the queen.,improbable,related
+33,Every day the rich Duke's soiled underwear was scrubbed by the dirt.,inconceivable,related
+34,The pianist played his music while the bass was strummed by the guitarist.,probable,
+34,The pianist played his music while the bass was strummed by the diner.,improbable,unrelated
+34,The pianist played his music while the bass was strummed by the drummer.,improbable,related
+34,The pianist played his music while the bass was strummed by the drum.,inconceivable,related
+34,The pianist played his music while the bass was strummed by the plate.,inconceivable,unrelated
+35,"During the exam, unacceptable cheating behaviour was exhibited by the admirer.",improbable,unrelated
+35,"During the exam, unacceptable cheating behaviour was exhibited by the student.",probable,
+35,"During the exam, unacceptable cheating behaviour was exhibited by the professor.",improbable,related
+35,"During the exam, unacceptable cheating behaviour was exhibited by the candle.",inconceivable,unrelated
+35,"During the exam, unacceptable cheating behaviour was exhibited by the chair.",inconceivable,related
+36,Everyone sat around the campfire to hear a tale told by the listener.,improbable,related
+36,Everyone sat around the campfire to hear a tale told by the camera.,inconceivable,unrelated
+36,Everyone sat around the campfire to hear a tale told by the viewer.,improbable,unrelated
+36,Everyone sat around the campfire to hear a tale told by the storyteller.,probable,
+36,Everyone sat around the campfire to hear a tale told by the log.,inconceivable,related
+37,At the pharmacy three bottles of insulin were sold by the striker.,improbable,unrelated
+37,At the pharmacy three bottles of insulin were sold by the goalpost.,inconceivable,unrelated
+37,At the pharmacy three bottles of insulin were sold by the diabetic.,improbable,related
+37,At the pharmacy three bottles of insulin were sold by the pharmacist.,probable,
+37,At the pharmacy three bottles of insulin were sold by the aspirin.,inconceivable,related
+38,"At the school, punishments for being late in class were given by the accomplice.",improbable,unrelated
+38,"At the school, punishments for being late in class were given by the desk.",inconceivable,related
+38,"At the school, punishments for being late in class were given by the child.",improbable,related
+38,"At the school, punishments for being late in class were given by the handcuff.",inconceivable,unrelated
+38,"At the school, punishments for being late in class were given by the headmistress.",probable,
+39,After the meal was over the waitress was tipped by the customer.,probable,
+39,After the meal was over the waitress was tipped by the speaker.,improbable,unrelated
+39,After the meal was over the waitress was tipped by the cook.,improbable,related
+39,After the meal was over the waitress was tipped by the penny.,inconceivable,related
+39,After the meal was over the waitress was tipped by the television.,inconceivable,unrelated
+40,At the wedding the couple was married by the bride.,improbable,related
+40,At the wedding the couple was married by the ring.,inconceivable,related
+40,At the wedding the couple was married by the commercial.,inconceivable,unrelated
+40,At the wedding the couple was married by the pastor.,probable,
+40,At the wedding the couple was married by the watcher.,improbable,unrelated
+41,The car was given a parking ticket by the ocean.,inconceivable,unrelated
+41,The car was given a parking ticket by the delinquent.,improbable,related
+41,The car was given a parking ticket by the traffic warden.,probable,
+41,The car was given a parking ticket by the brake.,inconceivable,related
+41,The car was given a parking ticket by the explorer.,improbable,unrelated
+42,The film was recorded by the director.,probable,
+42,The film was recorded by the assassin.,improbable,unrelated
+42,The film was recorded by the rifle.,inconceivable,unrelated
+42,The film was recorded by the script.,inconceivable,related
+42,The film was recorded by the actress.,improbable,related
+43,During the basketball game hot dogs were sold by the mustard.,inconceivable,related
+43,During the basketball game hot dogs were sold by the schoolmaster.,improbable,unrelated
+43,During the basketball game hot dogs were sold by the blackboard.,inconceivable,unrelated
+43,During the basketball game hot dogs were sold by the spectator.,improbable,related
+43,During the basketball game hot dogs were sold by the vendor.,probable,
+44,The man who stole the money was prosecuted by the receptionist.,improbable,unrelated
+44,The man who stole the money was prosecuted by the lawyer.,probable,
+44,The man who stole the money was prosecuted by the witness.,improbable,related
+44,The man who stole the money was prosecuted by the confession.,inconceivable,related
+44,The man who stole the money was prosecuted by the headlight.,inconceivable,unrelated
+45,"At the roller coaster in the amusement park, customers are counted by the print.",inconceivable,unrelated
+45,"At the roller coaster in the amusement park, customers are counted by the personnel.",probable,
+45,"At the roller coaster in the amusement park, customers are counted by the rider.",improbable,related
+45,"At the roller coaster in the amusement park, customers are counted by the journalist.",improbable,unrelated
+45,"At the roller coaster in the amusement park, customers are counted by the track.",inconceivable,related
+46,The skin operation was performed by the anaesthesia.,inconceivable,related
+46,The skin operation was performed by the dermatologist.,probable,
+46,The skin operation was performed by the nurse.,improbable,related
+46,The skin operation was performed by the parent.,improbable,unrelated
+46,The skin operation was performed by the whistle.,inconceivable,unrelated
+47,"At the track, the horse was raced by the jockey.",probable,
+47,"At the track, the horse was raced by the gambler.",improbable,related
+47,"At the track, the horse was raced by the applicant.",improbable,unrelated
+47,"At the track, the horse was raced by the curriculum.",inconceivable,unrelated
+47,"At the track, the horse was raced by the harness.",inconceivable,related
+48,The burglars were caught and arrested by the pianist.,improbable,unrelated
+48,The burglars were caught and arrested by the handcuff.,inconceivable,related
+48,The burglars were caught and arrested by the accomplice.,improbable,related
+48,The burglars were caught and arrested by the cop.,probable,
+48,The burglars were caught and arrested by the metronome.,inconceivable,unrelated
+49,The castle was attacked by the toffee.,inconceivable,unrelated
+49,The castle was attacked by the shopper.,improbable,unrelated
+49,The castle was attacked by the protection.,inconceivable,related
+49,The castle was attacked by the enemy.,probable,
+49,The castle was attacked by the protector.,improbable,related
+50,"In the court-case that attracted lots of media, the man was sentenced by the judge.",probable,
+50,"In the court-case that attracted lots of media, the man was sentenced by the verdict.",inconceivable,related
+50,"In the court-case that attracted lots of media, the man was sentenced by the granny.",improbable,unrelated
+50,"In the court-case that attracted lots of media, the man was sentenced by the extinguisher.",inconceivable,unrelated
+50,"In the court-case that attracted lots of media, the man was sentenced by the reporter.",improbable,related
+51,Everyone watched while the man was mugged by the telescope.,inconceivable,unrelated
+51,Everyone watched while the man was mugged by the attacker.,probable,
+51,Everyone watched while the man was mugged by the bystander.,improbable,related
+51,Everyone watched while the man was mugged by the wallet.,inconceivable,related
+51,Everyone watched while the man was mugged by the technician.,improbable,unrelated
+52,At the sausage stand lots of food was bought by the villain.,improbable,unrelated
+52,At the sausage stand lots of food was bought by the onion.,inconceivable,related
+52,At the sausage stand lots of food was bought by the eater.,probable,
+52,At the sausage stand lots of food was bought by the seller.,improbable,related
+52,At the sausage stand lots of food was bought by the tower.,inconceivable,unrelated
+53,The decision to cancel the television show was made by the coffin.,inconceivable,unrelated
+53,The decision to cancel the television show was made by the executive.,probable,
+53,The decision to cancel the television show was made by the watcher.,improbable,related
+53,The decision to cancel the television show was made by the widow.,improbable,unrelated
+53,The decision to cancel the television show was made by the commercial.,inconceivable,related
+54,In the courtroom the killer was set free by the murderer.,improbable,related
+54,In the courtroom the killer was set free by the flute.,inconceivable,unrelated
+54,In the courtroom the killer was set free by the jury.,probable,
+54,In the courtroom the killer was set free by the violinist.,improbable,unrelated
+54,In the courtroom the killer was set free by the bullet.,inconceivable,related
+55,All possessions in the will were left by the deceased.,probable,
+55,All possessions in the will were left by the verdict.,inconceivable,unrelated
+55,All possessions in the will were left by the survivor.,improbable,related
+55,All possessions in the will were left by the reporter.,improbable,unrelated
+55,All possessions in the will were left by the grave.,inconceivable,related
+56,In an act of generosity a large sum was donated by the sunbather.,improbable,unrelated
+56,In an act of generosity a large sum was donated by the paddle.,inconceivable,unrelated
+56,In an act of generosity a large sum was donated by the checkbook.,inconceivable,related
+56,In an act of generosity a large sum was donated by the millionaire.,probable,
+56,In an act of generosity a large sum was donated by the recipient.,improbable,related
+57,The novel was written by the page.,inconceivable,related
+57,The novel was written by the reader.,improbable,related
+57,The novel was written by the author.,probable,
+57,The novel was written by the builder.,improbable,unrelated
+57,The novel was written by the lawn-mower.,inconceivable,unrelated
+58,The holiday cruise ship was sailed by the constitution.,inconceivable,unrelated
+58,The holiday cruise ship was sailed by the president.,improbable,unrelated
+58,The holiday cruise ship was sailed by the captain.,probable,
+58,The holiday cruise ship was sailed by the tourist.,improbable,related
+58,The holiday cruise ship was sailed by the anchor.,inconceivable,related
+59,At the church the baptism was conducted by the basin.,inconceivable,related
+59,At the church the baptism was conducted by the passenger.,improbable,unrelated
+59,At the church the baptism was conducted by the infant.,improbable,related
+59,At the church the baptism was conducted by the deck.,inconceivable,unrelated
+59,At the church the baptism was conducted by the minister.,probable,
+60,"Before the island was discovered, it was inhabited by the native.",probable,
+60,"Before the island was discovered, it was inhabited by the explorer.",improbable,related
+60,"Before the island was discovered, it was inhabited by the assistant.",improbable,unrelated
+60,"Before the island was discovered, it was inhabited by the ocean.",inconceivable,related
+60,"Before the island was discovered, it was inhabited by the tooth.",inconceivable,unrelated
+61,The ship was navigated by the deck.,inconceivable,related
+61,The ship was navigated by the passenger.,improbable,related
+61,The ship was navigated by the sailor.,probable,
+61,The ship was navigated by the toddler.,improbable,unrelated
+61,The ship was navigated by the powder.,inconceivable,unrelated
+62,The bank's vault had been robbed by the burglar.,probable,
+62,The bank's vault had been robbed by the jewellery.,inconceivable,related
+62,The bank's vault had been robbed by the psychologist.,improbable,unrelated
+62,The bank's vault had been robbed by the watchman.,improbable,related
+62,The bank's vault had been robbed by the tape-measure.,inconceivable,unrelated
+63,The advanced karate class was taught by the belt.,inconceivable,related
+63,The advanced karate class was taught by the beginner.,improbable,related
+63,The advanced karate class was taught by the master.,probable,
+63,The advanced karate class was taught by the fingerprint.,inconceivable,unrelated
+63,The advanced karate class was taught by the culprit.,improbable,unrelated
+64,Every day the school facilities were cleaned by the boot.,inconceivable,unrelated
+64,Every day the school facilities were cleaned by the amateur.,improbable,unrelated
+64,Every day the school facilities were cleaned by the kid.,improbable,related
+64,Every day the school facilities were cleaned by the janitor.,probable,
+64,Every day the school facilities were cleaned by the soap.,inconceivable,related
+65,Every morning at 6am the newspaper was delivered by the newsboy.,probable,
+65,Every morning at 6am the newspaper was delivered by the print.,inconceivable,related
+65,Every morning at 6am the newspaper was delivered by the journalist.,improbable,related
+65,Every morning at 6am the newspaper was delivered by the aerosol.,inconceivable,unrelated
+65,Every morning at 6am the newspaper was delivered by the lookout.,improbable,unrelated
+66,The president was interviewed on television by the viewer.,improbable,related
+66,The president was interviewed on television by the camera.,inconceivable,related
+66,The president was interviewed on television by the correspondent.,probable,
+66,The president was interviewed on television by the gambler.,improbable,unrelated
+66,The president was interviewed on television by the harness.,inconceivable,unrelated
+67,"At the children football game, a goal was scored by the player.",probable,
+67,"At the children football game, a goal was scored by the brake.",inconceivable,unrelated
+67,"At the children football game, a goal was scored by the parent.",improbable,related
+67,"At the children football game, a goal was scored by the whistle.",inconceivable,related
+67,"At the children football game, a goal was scored by the delinquent.",improbable,unrelated
+68,When there was a fire in the home everyone was carried out by the extinguisher.,inconceivable,related
+68,When there was a fire in the home everyone was carried out by the granny.,improbable,related
+68,When there was a fire in the home everyone was carried out by the examiner.,improbable,unrelated
+68,When there was a fire in the home everyone was carried out by the fireman.,probable,
+68,When there was a fire in the home everyone was carried out by the textbook.,inconceivable,unrelated
+69,During art lessons at kindergarten lots of messy pictures were created by the youngster.,probable,
+69,During art lessons at kindergarten lots of messy pictures were created by the teacher.,improbable,related
+69,During art lessons at kindergarten lots of messy pictures were created by the parking-meter.,inconceivable,unrelated
+69,During art lessons at kindergarten lots of messy pictures were created by the waiter.,improbable,unrelated
+69,During art lessons at kindergarten lots of messy pictures were created by the table.,inconceivable,related
+70,"During a speech, the political rally was bombed by the microphone.",inconceivable,related
+70,"During a speech, the political rally was bombed by the bride.",improbable,unrelated
+70,"During a speech, the political rally was bombed by the terrorist.",probable,
+70,"During a speech, the political rally was bombed by the candidate.",improbable,related
+70,"During a speech, the political rally was bombed by the ring.",inconceivable,unrelated
+71,Data from the drug trial was analysed by the injection.,inconceivable,related
+71,Data from the drug trial was analysed by the scientist.,probable,
+71,Data from the drug trial was analysed by the brick.,inconceivable,unrelated
+71,Data from the drug trial was analysed by the participant.,improbable,related
+71,Data from the drug trial was analysed by the engineer.,improbable,unrelated
+72,The advanced mountain climbing lesson was given by the shellfish.,inconceivable,unrelated
+72,The advanced mountain climbing lesson was given by the grocer.,improbable,unrelated
+72,The advanced mountain climbing lesson was given by the amateur.,improbable,related
+72,The advanced mountain climbing lesson was given by the boot.,inconceivable,related
+72,The advanced mountain climbing lesson was given by the mountaineer.,probable,
+73,The couple was afraid that their missing baby girl would be found by the bib.,inconceivable,related
+73,The couple was afraid that their missing baby girl would be found by the spectator.,improbable,unrelated
+73,The couple was afraid that their missing baby girl would be found by the stranger.,probable,
+73,The couple was afraid that their missing baby girl would be found by the newborn.,improbable,related
+73,The couple was afraid that their missing baby girl would be found by the mustard.,inconceivable,unrelated
+74,Before the funeral of the old man the grave was dug by the digger.,probable,
+74,Before the funeral of the old man the grave was dug by the coffin.,inconceivable,related
+74,Before the funeral of the old man the grave was dug by the catalogue.,inconceivable,unrelated
+74,Before the funeral of the old man the grave was dug by the widow.,improbable,related
+74,Before the funeral of the old man the grave was dug by the dean.,improbable,unrelated
+75,Because of the recent threats the mayor was escorted by the assassin.,improbable,related
+75,Because of the recent threats the mayor was escorted by the rifle.,inconceivable,related
+75,Because of the recent threats the mayor was escorted by the bodyguard.,probable,
+75,Because of the recent threats the mayor was escorted by the frame.,inconceivable,unrelated
+75,Because of the recent threats the mayor was escorted by the sculptor.,improbable,unrelated
+76,Because the car was parked illegally a ticket was issued by the windscreen.,inconceivable,related
+76,Because the car was parked illegally a ticket was issued by the attendant.,probable,
+76,Because the car was parked illegally a ticket was issued by the trainee.,improbable,unrelated
+76,Because the car was parked illegally a ticket was issued by the statement.,inconceivable,unrelated
+76,Because the car was parked illegally a ticket was issued by the driver.,improbable,related
+77,When the bottle leaked the milk was mopped up by the sewing-machine.,inconceivable,unrelated
+77,When the bottle leaked the milk was mopped up by the apprentice.,improbable,unrelated
+77,When the bottle leaked the milk was mopped up by the mother.,probable,
+77,When the bottle leaked the milk was mopped up by the baby.,improbable,related
+77,When the bottle leaked the milk was mopped up by the mess.,inconceivable,related
+78,"At the estate sale, prices are announced by the auctioneer.",probable,
+78,"At the estate sale, prices are announced by the bidder.",improbable,related
+78,"At the estate sale, prices are announced by the furniture.",inconceivable,related
+78,"At the estate sale, prices are announced by the rider.",improbable,unrelated
+78,"At the estate sale, prices are announced by the track.",inconceivable,unrelated
+79,"Because of his ears, the student was targeted by the principal.",improbable,related
+79,"Because of his ears, the student was targeted by the photograph.",inconceivable,unrelated
+79,"Because of his ears, the student was targeted by the bully.",probable,
+79,"Because of his ears, the student was targeted by the holiday-maker.",improbable,unrelated
+79,"Because of his ears, the student was targeted by the earlobe.",inconceivable,related
+80,A big crowd had gathered to watch as the rocket was launched by the astronaut.,probable,
+80,A big crowd had gathered to watch as the rocket was launched by the planet.,inconceivable,related
+80,A big crowd had gathered to watch as the rocket was launched by the caller.,improbable,unrelated
+80,A big crowd had gathered to watch as the rocket was launched by the onlooker.,improbable,related
+80,A big crowd had gathered to watch as the rocket was launched by the receiver.,inconceivable,unrelated
+81,The soup company for homeless people was funded by the beggar.,improbable,related
+81,The soup company for homeless people was funded by the keyhole.,inconceivable,unrelated
+81,The soup company for homeless people was funded by the plumber.,improbable,unrelated
+81,The soup company for homeless people was funded by the entrepreneur.,probable,
+81,The soup company for homeless people was funded by the bowl.,inconceivable,related
+82,"During the election, the presidential candidate was voted for by his supporter.",probable,
+82,"During the election, the presidential candidate was voted for by his ballot.",inconceivable,related
+82,"During the election, the presidential candidate was voted for by his soap.",inconceivable,unrelated
+82,"During the election, the presidential candidate was voted for by his rival.",improbable,related
+82,"During the election, the presidential candidate was voted for by his kid.",improbable,unrelated
+83,"Despite the high security in the castle, the crown was stolen by the winner.",improbable,unrelated
+83,"Despite the high security in the castle, the crown was stolen by the thief.",probable,
+83,"Despite the high security in the castle, the crown was stolen by the golf-ball.",inconceivable,unrelated
+83,"Despite the high security in the castle, the crown was stolen by the king.",improbable,related
+83,"Despite the high security in the castle, the crown was stolen by the throne.",inconceivable,related
+84,"During the kidnapping, freedom was requested by the fan.",improbable,unrelated
+84,"During the kidnapping, freedom was requested by the hostage.",probable,
+84,"During the kidnapping, freedom was requested by the extortion.",inconceivable,related
+84,"During the kidnapping, freedom was requested by the kidnapper.",improbable,related
+84,"During the kidnapping, freedom was requested by the bicycle.",inconceivable,unrelated
+85,The town was defended with guns by the paperback.,inconceivable,unrelated
+85,The town was defended with guns by the invader.,improbable,related
+85,The town was defended with guns by the army.,probable,
+85,The town was defended with guns by the bookworm.,improbable,unrelated
+85,The town was defended with guns by the weapon.,inconceivable,related
+86,At the sweet shop six pounds of candy was sold by the centurion.,improbable,unrelated
+86,At the sweet shop six pounds of candy was sold by the toffee.,inconceivable,related
+86,At the sweet shop six pounds of candy was sold by the shopper.,improbable,related
+86,At the sweet shop six pounds of candy was sold by the shopkeeper.,probable,
+86,At the sweet shop six pounds of candy was sold by the sword.,inconceivable,unrelated
+87,The hole through the prison wall was drilled by the bouquet.,inconceivable,unrelated
+87,The hole through the prison wall was drilled by the fugitive.,probable,
+87,The hole through the prison wall was drilled by the guard.,improbable,related
+87,The hole through the prison wall was drilled by the fence.,inconceivable,related
+87,The hole through the prison wall was drilled by the bachelor.,improbable,unrelated
+88,All the information for the test was memorised by the scholar.,probable,
+88,All the information for the test was memorised by the examiner.,improbable,related
+88,All the information for the test was memorised by the tourist.,improbable,unrelated
+88,All the information for the test was memorised by the textbook.,inconceivable,related
+88,All the information for the test was memorised by the anchor.,inconceivable,unrelated
+89,Each month the rent payment was paid by the costume.,inconceivable,unrelated
+89,Each month the rent payment was paid by the composer.,improbable,unrelated
+89,Each month the rent payment was paid by the tenant.,probable,
+89,Each month the rent payment was paid by the landlord.,improbable,related
+89,Each month the rent payment was paid by the lease.,inconceivable,related
+90,At the football match the winning goal was scored by the referee.,improbable,related
+90,At the football match the winning goal was scored by the defender.,probable,
+90,At the football match the winning goal was scored by the crossbar.,inconceivable,related
+90,At the football match the winning goal was scored by the crown.,inconceivable,unrelated
+90,At the football match the winning goal was scored by the witch.,improbable,unrelated
+91,At night the jail was locked by the warden.,probable,
+91,At night the jail was locked by the gate.,inconceivable,related
+91,At night the jail was locked by the prisoner.,improbable,related
+91,At night the jail was locked by the magazine.,inconceivable,unrelated
+91,At night the jail was locked by the character.,improbable,unrelated
+92,During the concert the symphony was conducted by the reverend.,improbable,unrelated
+92,During the concert the symphony was conducted by the veil.,inconceivable,unrelated
+92,During the concert the symphony was conducted by the flute.,inconceivable,related
+92,During the concert the symphony was conducted by the violinist.,improbable,related
+92,During the concert the symphony was conducted by the maestro.,probable,
+93,The phone call was redirected by the operator.,probable,
+93,The phone call was redirected by the caller.,improbable,related
+93,The phone call was redirected by the receiver.,inconceivable,related
+93,The phone call was redirected by the bidder.,improbable,unrelated
+93,The phone call was redirected by the furniture.,inconceivable,unrelated
+94,"During the athletic tournament, the runner was overtaken by the coach.",improbable,related
+94,"During the athletic tournament, the runner was overtaken by the stadium.",inconceivable,related
+94,"During the athletic tournament, the runner was overtaken by the competitor.",probable,
+94,"During the athletic tournament, the runner was overtaken by the jewellery.",inconceivable,unrelated
+94,"During the athletic tournament, the runner was overtaken by the watchman.",improbable,unrelated
+95,Because of the recall everything was refunded by the consumer.,improbable,related
+95,Because of the recall everything was refunded by the penny.,inconceivable,unrelated
+95,Because of the recall everything was refunded by the cook.,improbable,unrelated
+95,Because of the recall everything was refunded by the manufacturer.,probable,
+95,Because of the recall everything was refunded by the package.,inconceivable,related
+96,At the construction site all of the dirtiest work was done by the brick.,inconceivable,related
+96,At the construction site all of the dirtiest work was done by the worker.,probable,
+96,At the construction site all of the dirtiest work was done by the producer.,improbable,unrelated
+96,At the construction site all of the dirtiest work was done by the keyboard.,inconceivable,unrelated
+96,At the construction site all of the dirtiest work was done by the engineer.,improbable,related
+97,Invitations to the dinner party were posted by the stamp.,inconceivable,related
+97,Invitations to the dinner party were posted by the guest.,improbable,related
+97,Invitations to the dinner party were posted by the hostess.,probable,
+97,Invitations to the dinner party were posted by the treasure.,inconceivable,unrelated
+97,Invitations to the dinner party were posted by the victim.,improbable,unrelated
+98,"At the airport, the luggage is searched by the official.",probable,
+98,"At the airport, the luggage is searched by the boss.",improbable,unrelated
+98,"At the airport, the luggage is searched by the list.",inconceivable,unrelated
+98,"At the airport, the luggage is searched by the suspect.",improbable,related
+98,"At the airport, the luggage is searched by the passport.",inconceivable,related
+99,In the Texan town the bank was robbed by the participant.,improbable,unrelated
+99,In the Texan town the bank was robbed by the revolver.,inconceivable,related
+99,In the Texan town the bank was robbed by the injection.,inconceivable,unrelated
+99,In the Texan town the bank was robbed by the outlaw.,probable,
+99,In the Texan town the bank was robbed by the sheriff.,improbable,related
+100,The employment interviews were administered by the tray.,inconceivable,unrelated
+100,The employment interviews were administered by the committee.,probable,
+100,The employment interviews were administered by the servant.,improbable,unrelated
+100,The employment interviews were administered by the curriculum.,inconceivable,related
+100,The employment interviews were administered by the applicant.,improbable,related
+101,The interesting story was written by the magazine.,inconceivable,related
+101,The interesting story was written by the character.,improbable,related
+101,The interesting story was written by the wine.,inconceivable,unrelated
+101,The interesting story was written by the escort.,improbable,unrelated
+101,The interesting story was written by the writer.,probable,
+102,The taxi was driven by the wheel.,inconceivable,related
+102,The taxi was driven by the cabdriver.,probable,
+102,The taxi was driven by the tutu.,inconceivable,unrelated
+102,The taxi was driven by the pedestrian.,improbable,related
+102,The taxi was driven by the dancer.,improbable,unrelated
+103,"At the golf game, a hole-in-one was scored by the golfer.",probable,
+103,"At the golf game, a hole-in-one was scored by the lease.",inconceivable,unrelated
+103,"At the golf game, a hole-in-one was scored by the cart.",inconceivable,related
+103,"At the golf game, a hole-in-one was scored by the landlord.",improbable,unrelated
+103,"At the golf game, a hole-in-one was scored by the umpire.",improbable,related
+104,"At the pet hospital, dogs were cured by the ambulance.",inconceivable,related
+104,"At the pet hospital, dogs were cured by the soldier.",improbable,unrelated
+104,"At the pet hospital, dogs were cured by the uniform.",inconceivable,unrelated
+104,"At the pet hospital, dogs were cured by the owner.",improbable,related
+104,"At the pet hospital, dogs were cured by the vet.",probable,
+105,"At the post office, letters are collected and delivered by the couch.",inconceivable,unrelated
+105,"At the post office, letters are collected and delivered by the cashier.",improbable,related
+105,"At the post office, letters are collected and delivered by the postman.",probable,
+105,"At the post office, letters are collected and delivered by the maniac.",improbable,unrelated
+105,"At the post office, letters are collected and delivered by the mailbox.",inconceivable,related
+106,"At the garage, the car maintenance is performed by the mechanic.",probable,
+106,"At the garage, the car maintenance is performed by the receptionist.",improbable,related
+106,"At the garage, the car maintenance is performed by the headlight.",inconceivable,related
+106,"At the garage, the car maintenance is performed by the beggar.",improbable,unrelated
+106,"At the garage, the car maintenance is performed by the bowl.",inconceivable,unrelated
+107,At the hospital the complex heart surgery was performed by the slave.,improbable,unrelated
+107,At the hospital the complex heart surgery was performed by the artery.,inconceivable,related
+107,At the hospital the complex heart surgery was performed by the intern.,improbable,related
+107,At the hospital the complex heart surgery was performed by the surgeon.,probable,
+107,At the hospital the complex heart surgery was performed by the pyramid.,inconceivable,unrelated
+108,"Upon arriving at the restaurant, the car was parked by the monitor.",inconceivable,unrelated
+108,"Upon arriving at the restaurant, the car was parked by the cameraman.",improbable,unrelated
+108,"Upon arriving at the restaurant, the car was parked by the chauffeur.",probable,
+108,"Upon arriving at the restaurant, the car was parked by the waiter.",improbable,related
+108,"Upon arriving at the restaurant, the car was parked by the parking-meter.",inconceivable,related
+109,The circus performance was directed by the trapeze.,inconceivable,related
+109,The circus performance was directed by the nun.,improbable,unrelated
+109,The circus performance was directed by the presenter.,probable,
+109,The circus performance was directed by the oratory.,inconceivable,unrelated
+109,The circus performance was directed by the juggler.,improbable,related
+110,"To keep visitors safe, the national park was patrolled by the camper.",improbable,related
+110,"To keep visitors safe, the national park was patrolled by the ranger.",probable,
+110,"To keep visitors safe, the national park was patrolled by the repairer.",improbable,unrelated
+110,"To keep visitors safe, the national park was patrolled by the sunlight.",inconceivable,related
+110,"To keep visitors safe, the national park was patrolled by the radiator.",inconceivable,unrelated
+111,"At the library, the books are organised on the shelves by the librarian.",probable,
+111,"At the library, the books are organised on the shelves by the king.",improbable,unrelated
+111,"At the library, the books are organised on the shelves by the catalogue.",inconceivable,related
+111,"At the library, the books are organised on the shelves by the dean.",improbable,related
+111,"At the library, the books are organised on the shelves by the throne.",inconceivable,unrelated
+112,"At the bank, credit card requests are authorised by the receipt.",inconceivable,related
+112,"At the bank, credit card requests are authorised by the teller.",improbable,related
+112,"At the bank, credit card requests are authorised by the manager.",probable,
+112,"At the bank, credit card requests are authorised by the restorer.",improbable,unrelated
+112,"At the bank, credit card requests are authorised by the spade.",inconceivable,unrelated
+113,Fish in the aquarium were studied by the swimmer.,improbable,related
+113,Fish in the aquarium were studied by the seaweed.,inconceivable,related
+113,Fish in the aquarium were studied by the biologist.,probable,
+113,Fish in the aquarium were studied by the musician.,improbable,unrelated
+113,Fish in the aquarium were studied by the spotlight.,inconceivable,unrelated
+114,"At the exhibition, all the pictures were taken by the frame.",inconceivable,related
+114,"At the exhibition, all the pictures were taken by the photographer.",probable,
+114,"At the exhibition, all the pictures were taken by the sculptor.",improbable,related
+114,"At the exhibition, all the pictures were taken by the protector.",improbable,unrelated
+114,"At the exhibition, all the pictures were taken by the protection.",inconceivable,unrelated
+115,"At the graduation reception, the dinner was provided by the diploma.",inconceivable,related
+115,"At the graduation reception, the dinner was provided by the graduate.",improbable,related
+115,"At the graduation reception, the dinner was provided by the prisoner.",improbable,unrelated
+115,"At the graduation reception, the dinner was provided by the gate.",inconceivable,unrelated
+115,"At the graduation reception, the dinner was provided by the caterer.",probable,
+116,"When the Italian diplomat gave a speech, the translation was performed by the interpreter.",probable,
+116,"When the Italian diplomat gave a speech, the translation was performed by the windscreen.",inconceivable,unrelated
+116,"When the Italian diplomat gave a speech, the translation was performed by the driver.",improbable,unrelated
+116,"When the Italian diplomat gave a speech, the translation was performed by the television.",inconceivable,related
+116,"When the Italian diplomat gave a speech, the translation was performed by the speaker.",improbable,related
+117,The prescription for the mental disorder was written by the pill.,inconceivable,related
+117,The prescription for the mental disorder was written by the schizophrenic.,improbable,related
+117,The prescription for the mental disorder was written by the guard.,improbable,unrelated
+117,The prescription for the mental disorder was written by the fence.,inconceivable,unrelated
+117,The prescription for the mental disorder was written by the psychiatrist.,probable,
+118,The bank robbery was prevented by the hero.,probable,
+118,The bank robbery was prevented by the spoon.,inconceivable,unrelated
+118,The bank robbery was prevented by the server.,improbable,unrelated
+118,The bank robbery was prevented by the gangster.,improbable,related
+118,The bank robbery was prevented by the shotgun.,inconceivable,related
+119,The attacks on the ships were led by the cannon.,inconceivable,related
+119,The attacks on the ships were led by the pirate.,probable,
+119,The attacks on the ships were led by the trumpeter.,improbable,unrelated
+119,The attacks on the ships were led by the violin.,inconceivable,unrelated
+119,The attacks on the ships were led by the captive.,improbable,related
+120,"At the opera concert in the theatre, the musical pieces were sung by the visitor.",improbable,unrelated
+120,"At the opera concert in the theatre, the musical pieces were sung by the costume.",inconceivable,related
+120,"At the opera concert in the theatre, the musical pieces were sung by the cage.",inconceivable,unrelated
+120,"At the opera concert in the theatre, the musical pieces were sung by the composer.",improbable,related
+120,"At the opera concert in the theatre, the musical pieces were sung by the tenor.",probable,
+121,"Because his parents work all day, the baby was attended by the consumer.",improbable,unrelated
+121,"Because his parents work all day, the baby was attended by the nanny.",probable,
+121,"Because his parents work all day, the baby was attended by the dummy.",inconceivable,related
+121,"Because his parents work all day, the baby was attended by the package.",inconceivable,unrelated
+121,"Because his parents work all day, the baby was attended by the dad.",improbable,related
+122,The dental restoration was performed by the tooth.,inconceivable,related
+122,The dental restoration was performed by the saddle.,inconceivable,unrelated
+122,The dental restoration was performed by the dentist.,probable,
+122,The dental restoration was performed by the assistant.,improbable,related
+122,The dental restoration was performed by the Indian.,improbable,unrelated
+123,"At the Olympics, the bars competition was won by the trampoline.",inconceivable,related
+123,"At the Olympics, the bars competition was won by the gymnast.",probable,
+123,"At the Olympics, the bars competition was won by the crucifix.",inconceivable,unrelated
+123,"At the Olympics, the bars competition was won by the wrestler.",improbable,related
+123,"At the Olympics, the bars competition was won by the cardinal.",improbable,unrelated
+124,"To lose weight, the woman's meal plan was prescribed by the banner.",inconceivable,unrelated
+124,"To lose weight, the woman's meal plan was prescribed by the dietician.",probable,
+124,"To lose weight, the woman's meal plan was prescribed by the tape-measure.",inconceivable,related
+124,"To lose weight, the woman's meal plan was prescribed by the psychologist.",improbable,related
+124,"To lose weight, the woman's meal plan was prescribed by the hooligan.",improbable,unrelated
+125,The psychotherapy session was delivered by the couch.,inconceivable,related
+125,The psychotherapy session was delivered by the teacher.,improbable,unrelated
+125,The psychotherapy session was delivered by the table.,inconceivable,unrelated
+125,The psychotherapy session was delivered by the counsellor.,probable,
+125,The psychotherapy session was delivered by the maniac.,improbable,related
+126,"In the circus, the lions were tamed by the chemist.",improbable,unrelated
+126,"In the circus, the lions were tamed by the tightrope.",inconceivable,related
+126,"In the circus, the lions were tamed by the ballerina.",improbable,related
+126,"In the circus, the lions were tamed by the trainer.",probable,
+126,"In the circus, the lions were tamed by the manuscript.",inconceivable,unrelated
+127,"At the salon, the clients get her hair cut by the wheel.",inconceivable,unrelated
+127,"At the salon, the clients get her hair cut by the pedestrian.",improbable,unrelated
+127,"At the salon, the clients get her hair cut by the stylist.",probable,
+127,"At the salon, the clients get her hair cut by the hairbrush.",inconceivable,related
+127,"At the salon, the clients get her hair cut by the manicurist.",improbable,related
+128,"At the museum, a tour and descriptions of the paintings were given by the guide.",probable,
+128,"At the museum, a tour and descriptions of the paintings were given by the kidnapper.",improbable,unrelated
+128,"At the museum, a tour and descriptions of the paintings were given by the workman.",improbable,related
+128,"At the museum, a tour and descriptions of the paintings were given by the extortion.",inconceivable,unrelated
+128,"At the museum, a tour and descriptions of the paintings were given by the sculpture.",inconceivable,related
+129,The safari excursion to Africa was led by the juggler.,improbable,unrelated
+129,The safari excursion to Africa was led by the photograph.,inconceivable,related
+129,The safari excursion to Africa was led by the holiday-maker.,improbable,related
+129,The safari excursion to Africa was led by the trapeze.,inconceivable,unrelated
+129,The safari excursion to Africa was led by the adventurer.,probable,
+130,The corrupt tax fraud was discovered by the accountant.,probable,
+130,The corrupt tax fraud was discovered by the dummy.,inconceivable,unrelated
+130,The corrupt tax fraud was discovered by the charlatan.,improbable,related
+130,The corrupt tax fraud was discovered by the dad.,improbable,unrelated
+130,The corrupt tax fraud was discovered by the calculator.,inconceivable,related
+131,"After the electricity outage, the apartment was checked by the fuse.",inconceivable,related
+131,"After the electricity outage, the apartment was checked by the concierge.",improbable,related
+131,"After the electricity outage, the apartment was checked by the wreckage.",inconceivable,unrelated
+131,"After the electricity outage, the apartment was checked by the electrician.",probable,
+131,"After the electricity outage, the apartment was checked by the observer.",improbable,unrelated
+132,"After being locked, the door was repaired by the reader.",improbable,unrelated
+132,"After being locked, the door was repaired by the repairman.",probable,
+132,"After being locked, the door was repaired by the page.",inconceivable,unrelated
+132,"After being locked, the door was repaired by the keyhole.",inconceivable,related
+132,"After being locked, the door was repaired by the plumber.",improbable,related
+133,"In the theatre production, the villain was played by the recipient.",improbable,unrelated
+133,"In the theatre production, the villain was played by the checkbook.",inconceivable,unrelated
+133,"In the theatre production, the villain was played by the actor.",probable,
+133,"In the theatre production, the villain was played by the musician.",improbable,related
+133,"In the theatre production, the villain was played by the spotlight.",inconceivable,related
+134,The suit was adjusted by the ice-pick.,inconceivable,unrelated
+134,The suit was adjusted by the apprentice.,improbable,related
+134,The suit was adjusted by the shepherd.,improbable,unrelated
+134,The suit was adjusted by the sewing-machine.,inconceivable,related
+134,The suit was adjusted by the tailor.,probable,
+135,"At the farmers market, fresh fish is sold by the grocer.",improbable,related
+135,"At the farmers market, fresh fish is sold by the grave.",inconceivable,unrelated
+135,"At the farmers market, fresh fish is sold by the survivor.",improbable,unrelated
+135,"At the farmers market, fresh fish is sold by the shellfish.",inconceivable,related
+135,"At the farmers market, fresh fish is sold by the fisherman.",probable,
+136,The Tour de France was won by the bicycle.,inconceivable,related
+136,The Tour de France was won by the bystander.,improbable,unrelated
+136,The Tour de France was won by the wallet.,inconceivable,unrelated
+136,The Tour de France was won by the fan.,improbable,related
+136,The Tour de France was won by the cyclist.,probable,
+137,The book signing was attended by the famous camper.,improbable,unrelated
+137,The book signing was attended by the famous novelist.,probable,
+137,The book signing was attended by the famous paperback.,inconceivable,related
+137,The book signing was attended by the famous bookworm.,improbable,related
+137,The book signing was attended by the famous sunlight.,inconceivable,unrelated
+138,The mountain summit was conquered by the ice-pick.,inconceivable,related
+138,The mountain summit was conquered by the audience.,improbable,unrelated
+138,The mountain summit was conquered by the ticket.,inconceivable,unrelated
+138,The mountain summit was conquered by the shepherd.,improbable,related
+138,The mountain summit was conquered by the climber.,probable,
+139,The school walls were ruined with graffiti drawn by the vandal.,probable,
+139,The school walls were ruined with graffiti drawn by the lookout.,improbable,related
+139,The school walls were ruined with graffiti drawn by the client.,improbable,unrelated
+139,The school walls were ruined with graffiti drawn by the aerosol.,inconceivable,related
+139,The school walls were ruined with graffiti drawn by the engine.,inconceivable,unrelated
+140,"On the lake, the boat race was won by the rower.",probable,
+140,"On the lake, the boat race was won by the sheriff.",improbable,unrelated
+140,"On the lake, the boat race was won by the sunbather.",improbable,related
+140,"On the lake, the boat race was won by the paddle.",inconceivable,related
+140,"On the lake, the boat race was won by the revolver.",inconceivable,unrelated
+141,The bush in the garden was trimmed by the opponent.,improbable,unrelated
+141,The bush in the garden was trimmed by the challenge.,inconceivable,unrelated
+141,The bush in the garden was trimmed by the lawn-mower.,inconceivable,related
+141,The bush in the garden was trimmed by the builder.,improbable,related
+141,The bush in the garden was trimmed by the gardener.,probable,
+142,"At the observatory, a new star was discovered by the criminal.",improbable,unrelated
+142,"At the observatory, a new star was discovered by the astronomer.",probable,
+142,"At the observatory, a new star was discovered by the telescope.",inconceivable,related
+142,"At the observatory, a new star was discovered by the technician.",improbable,related
+142,"At the observatory, a new star was discovered by the bench.",inconceivable,unrelated
+143,The card trick on the TV show was performed by the magician.,probable,
+143,The card trick on the TV show was performed by the newborn.,improbable,unrelated
+143,The card trick on the TV show was performed by the cameraman.,improbable,related
+143,The card trick on the TV show was performed by the monitor.,inconceivable,related
+143,The card trick on the TV show was performed by the bib.,inconceivable,unrelated
+144,"During Christmas dinner, gifts for the family were bought by the invader.",improbable,unrelated
+144,"During Christmas dinner, gifts for the family were bought by the weapon.",inconceivable,unrelated
+144,"During Christmas dinner, gifts for the family were bought by the turkey.",inconceivable,related
+144,"During Christmas dinner, gifts for the family were bought by the cleaner.",improbable,related
+144,"During Christmas dinner, gifts for the family were bought by the grandma.",probable,
+145,"At the wedding on the church, the service was performed by the cleric.",probable,
+145,"At the wedding on the church, the service was performed by the listener.",improbable,unrelated
+145,"At the wedding on the church, the service was performed by the bachelor.",improbable,related
+145,"At the wedding on the church, the service was performed by the bouquet.",inconceivable,related
+145,"At the wedding on the church, the service was performed by the log.",inconceivable,unrelated
+146,The destruction of the building was performed by the architect.,improbable,related
+146,The destruction of the building was performed by the wrecker.,probable,
+146,The destruction of the building was performed by the catcher.,improbable,unrelated
+146,The destruction of the building was performed by the crane.,inconceivable,related
+146,The destruction of the building was performed by the scoreboard.,inconceivable,unrelated
+147,"At the monastery, a prayer was said by the owner.",improbable,unrelated
+147,"At the monastery, a prayer was said by the ambulance.",inconceivable,unrelated
+147,"At the monastery, a prayer was said by the oratory.",inconceivable,related
+147,"At the monastery, a prayer was said by the nun.",improbable,related
+147,"At the monastery, a prayer was said by the monk.",probable,
+148,The Vatican has been ruled by the cardinal.,improbable,related
+148,The Vatican has been ruled by the pope.,probable,
+148,The Vatican has been ruled by the crucifix.,inconceivable,related
+148,The Vatican has been ruled by the swimmer.,improbable,unrelated
+148,The Vatican has been ruled by the seaweed.,inconceivable,unrelated
+149,"During the protests, the shops were attacked by the agitator.",probable,
+149,"During the protests, the shops were attacked by the child.",improbable,unrelated
+149,"During the protests, the shops were attacked by the tear-gas.",inconceivable,related
+149,"During the protests, the shops were attacked by the merchant.",improbable,related
+149,"During the protests, the shops were attacked by the desk.",inconceivable,unrelated
+150,"At the restaurant, the plates are washed by the charlatan.",improbable,unrelated
+150,"At the restaurant, the plates are washed by the calculator.",inconceivable,unrelated
+150,"At the restaurant, the plates are washed by the spoon.",inconceivable,related
+150,"At the restaurant, the plates are washed by the server.",improbable,related
+150,"At the restaurant, the plates are washed by the washer.",probable,
+151,The roman empire defences were attacked by the seller.,improbable,unrelated
+151,The roman empire defences were attacked by the barbarian.,probable,
+151,The roman empire defences were attacked by the sword.,inconceivable,related
+151,The roman empire defences were attacked by the centurion.,improbable,related
+151,The roman empire defences were attacked by the onion.,inconceivable,unrelated
+152,The stolen new car was raced through town by the robber.,probable,
+152,The stolen new car was raced through town by the schizophrenic.,improbable,unrelated
+152,The stolen new car was raced through town by the radiator.,inconceivable,related
+152,The stolen new car was raced through town by the repairer.,improbable,related
+152,The stolen new car was raced through town by the pill.,inconceivable,unrelated
+153,The Nobel prize in literature was won by the murderer.,improbable,unrelated
+153,The Nobel prize in literature was won by the bullet.,inconceivable,unrelated
+153,The Nobel prize in literature was won by the manuscript.,inconceivable,related
+153,The Nobel prize in literature was won by the chemist.,improbable,related
+153,The Nobel prize in literature was won by the poet.,probable,
+154,"During the excavation, an ancient artefact was discovered by the spade.",inconceivable,related
+154,"During the excavation, an ancient artefact was discovered by the restorer.",improbable,related
+154,"During the excavation, an ancient artefact was discovered by the bell.",inconceivable,unrelated
+154,"During the excavation, an ancient artefact was discovered by the user.",improbable,unrelated
+154,"During the excavation, an ancient artefact was discovered by the archaeologist.",probable,

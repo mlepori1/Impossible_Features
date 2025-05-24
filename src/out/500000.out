@@ -1,0 +1,11 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 11537901
+##  Job Name : 500000
+##  Nodelist : gpu2254
+##      CPUs : 2
+##  Mem/Node : 204800 MB
+## Directory : /oscar/data/epavlick/mlepori/projects/Impossible_Features/src
+##   Job Started : Wed May 21 12:03:54 AM EDT 2025
+###############################################################################
+{"timestamp":"2025-05-21T04:04:16.620892Z","level":"WARN","fields":{"message":"Reqwest(reqwest::Error { kind: Request, url: \"https://transfer.xethub.hf.co/xorbs/default/b7154eddcc879332c27204fa81586cb64fef8d18eeaf003bf99834404b972b98?X-Xet-Signed-Range=bytes%3D0-869902&Expires=1747803845&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmFuc2Zlci54ZXRodWIuaGYuY28veG9yYnMvZGVmYXVsdC9iNzE1NGVkZGNjODc5MzMyYzI3MjA0ZmE4MTU4NmNiNjRmZWY4ZDE4ZWVhZjAwM2JmOTk4MzQ0MDRiOTcyYjk4P1gtWGV0LVNpZ25lZC1SYW5nZT1ieXRlcyUzRDAtODY5OTAyIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ3ODAzODQ1fX19XX0_&Signature=kb2J2r84GNeM0DL0D5ZBXg1lne~MXyPd3ZigkABgJ9FBii9mQ6lHbYYtY3bUaOXnof6mLmYQc22ZyOwoWt8QyqVz3SKCQ7WAUigCEcnfwARtY-1WyRUUrGbj0RsiX01SpYzCG~SRt6OF9tS45JlN6niUtvm~Ek2RPkCxz2KViZjCHFE5aj5IwseTu39InZEMHqPdZw8eyso-VB9xFzBFr228qL8N-cKaULWEtdWvg27F1MDQ3~jbluXEuoIj-Dm7A1R28qzbtgtidgKoSavcedLmlTLECsXs3jMzASRq5~E9fYc-NdScEFsPJZOefmdmh9~PewbLaEjfUj8ls8yKGQ__&Key-Pair-Id=K2L8F4GPSG1IFC\", source: hyper_util::client::legacy::Error(Connect, ConnectError(\"dns error\", Custom { kind: Uncategorized, error: \"failed to lookup address information: Name or service not known\" })) }). Retrying..."},"filename":"/home/runner/work/xet-core/xet-core/cas_client/src/http_client.rs","line_number":175}
+{"timestamp":"2025-05-21T04:04:16.620951Z","level":"WARN","fields":{"message":"Retry attempt #0. Sleeping 2.671118417s before the next attempt"},"filename":"/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/reqwest-retry-0.6.1/src/middleware.rs","line_number":166}

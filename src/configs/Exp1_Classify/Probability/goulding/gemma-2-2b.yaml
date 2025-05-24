@@ -1,0 +1,5 @@
+classifier_type: Probability
+dataset_path: goulding/data.csv
+dtype: bfloat16
+model: google/gemma-2-2b
+results_path: ../results/google/gemma-2-2b/Classification

@@ -1,0 +1,9 @@
+comparison,accuracy
+probable_improbable_unrelated,0.4645161290322581
+probable_improbable_related,0.5032258064516129
+probable_inconceivable_unrelated,0.8129032258064516
+probable_inconceivable_related,0.7870967741935484
+improbable_unrelated_inconceivable_unrelated,0.6
+improbable_unrelated_inconceivable_related,0.6
+improbable_related_inconceivable_unrelated,0.6709677419354839
+improbable_related_inconceivable_related,0.6258064516129033

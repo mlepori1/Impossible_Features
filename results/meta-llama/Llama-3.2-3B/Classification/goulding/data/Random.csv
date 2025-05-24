@@ -1,0 +1,4 @@
+comparison,accuracy
+probable_improbable,0.8461538461538461
+probable_impossible,0.5384615384615384
+improbable_impossible,0.5384615384615384

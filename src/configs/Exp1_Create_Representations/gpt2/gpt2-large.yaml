@@ -1,0 +1,4 @@
+model: "openai-community/gpt2-large"
+artifact_path: "../artifacts/openai-community/gpt2-large/Linear_Representation"
+results_path: "../results/openai-community/gpt2-large/Linear_Representation"
+dtype: "bfloat16"

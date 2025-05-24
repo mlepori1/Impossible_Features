@@ -1,0 +1,77 @@
+item_set_id,sentence,label,voice
+1,The cop is arresting the criminal.,probable,active
+1,The criminal is arresting the cop.,improbable,active
+2,The babysitter is scolding the child.,probable,active
+2,The child is scolding the babysitter.,improbable,active
+3,The doctor is using a stethoscope on the patient.,probable,active
+3,The patient is using a stethoscope on the doctor.,improbable,active
+4,The fireman is rescuing the grandmother.,probable,active
+4,The grandmother is rescuing the fireman.,improbable,active
+5,The dentist is treating the patient.,probable,active
+5,The patient is treating the dentist.,improbable,active
+6,The ghost is frightening the girl.,probable,active
+6,The girl is frightening the ghost.,improbable,active
+7,The mother is feeding the baby.,probable,active
+7,The baby is feeding the mother.,improbable,active
+8,The artist is painting the businessman.,probable,active
+8,The businessman is painting the artist.,improbable,active
+9,The groom is carrying the bride.,probable,active
+9,The bride is carrying the groom.,improbable,active
+10,The jester is entertaining the king.,probable,active
+10,The king is entertaining the jester.,improbable,active
+11,The lion is pouncing on the Safari guide.,probable,active
+11,The Safari guide is pouncing on the lion.,improbable,active
+12,The photographer is taking a picture of the model.,probable,active
+12,The model is taking a picture of the photographer.,improbable,active
+13,The pirate is kidnapping the princess.,probable,active
+13,The princess is kidnapping the pirate.,improbable,active
+14,The priest is blessing the bride.,probable,active
+14,The bride is blessing the priest.,improbable,active
+15,The shark is biting the snorkeler.,probable,active
+15,The snorkeler is biting the shark.,improbable,active
+16,The professor is lecturing to the student.,probable,active
+16,The student is lecturing to the professor.,improbable,active
+17,The vampire is biting the woman.,probable,active
+17,The woman is biting the vampire.,improbable,active
+18,The waiter is serving the customer.,probable,active
+18,The customer is serving the waiter.,improbable,active
+19,The lawyer is giving money to the beggar.,probable,active
+19,The beggar is giving money to the lawyer.,improbable,active
+20,The chef is cooking for the lady.,probable,active
+20,The lady is cooking for the chef.,improbable,active
+21,The ballerina is dancing for the grandpa.,probable,active
+21,The grandpa is dancing for the ballerina.,improbable,active
+23,The judge is sentencing the criminal.,probable,active
+23,The criminal is sentencing the judge.,improbable,active
+24,The father is pulling the child on the sled.,probable,active
+24,The child is pulling the father on the sled.,improbable,active
+25,Santa is giving the girl a present.,probable,active
+25,The girl is giving Santa a present.,improbable,active
+26,The peasant is bowing to the queen.,probable,active
+26,The queen is bowing to the peasant.,improbable,active
+28,The father is tying the son's shoes.,probable,active
+28,The son is tying the father's shoes.,improbable,active
+29,The thief is stealing the purse from the grandma.,probable,active
+29,The grandma is stealing the purse from the thief.,improbable,active
+30,The cat is chasing the mouse.,probable,active
+30,The mouse is chasing the cat.,improbable,active
+31,The visitor is pushing the patient.,probable,active
+31,The patient is pushing the visitor.,improbable,active
+32,The relative is bringing flowers to the patient.,probable,active
+32,The patient is bringing flowers to the relative.,improbable,active
+33,The boss is yelling at the worker.,probable,active
+33,The worker is yelling at the boss.,improbable,active
+34,The dog is leading the blind person.,probable,active
+34,The blind person is leading the dog.,improbable,active
+35,The bouncer is preventing the woman from entering.,probable,active
+35,The woman is preventing the bouncer from entering.,improbable,active
+36,The dog is licking the girl on the face.,probable,active
+36,The girl is licking the dog on the face.,improbable,active
+37,The man is proposing to the woman.,probable,active
+37,The woman is proposing to the man.,improbable,active
+38,The tailor is measuring the princess.,probable,active
+38,The princess is measuring the tailor.,improbable,active
+39,The lifeguard is saving the grandmother.,probable,active
+39,The grandmother is saving the lifeguard.,improbable,active
+40,The chauffeur is opening the door for the lady.,probable,active
+40,The lady is opening the door for the chauffeur.,improbable,active

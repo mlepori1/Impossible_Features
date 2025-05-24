@@ -1,0 +1,5 @@
+model: "meta-llama/Llama-3.2-3B"
+dataset_path: "kauf/EventsAdapt_data.csv"
+results_path: "../results/meta-llama/Llama-3.2-3B/Classification"
+classifier_type: "Linear_Representation"
+dtype: "bfloat16"

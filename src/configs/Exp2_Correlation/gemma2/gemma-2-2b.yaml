@@ -1,0 +1,3 @@
+model: "google/gemma-2-2b"
+results_path: "../results/google/gemma-2-2b/Correlation"
+dtype: "bfloat16"

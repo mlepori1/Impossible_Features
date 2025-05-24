@@ -1,0 +1,245 @@
+/gpfs/data/epavlick/mlepori/miniconda3/envs/modal_features/lib/python3.11/site-packages/requests/__init__.py:86: RequestsDependencyWarning: Unable to find acceptable character detection dependency (chardet or charset_normalizer).
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:01<00:05,  1.01s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:01<00:03,  1.05it/s]Loading checkpoint shards:  50%|█████     | 3/6 [00:02<00:02,  1.07it/s]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:03<00:01,  1.09it/s]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:04<00:00,  1.08it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:05<00:00,  1.12it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:05<00:00,  1.09it/s]
+  0%|          | 0/5 [00:00<?, ?it/s]
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:   7%|▋         | 1/14 [00:00<00:02,  4.70it/s][A
+Computing Hidden States:  29%|██▊       | 4/14 [00:00<00:00, 13.34it/s][A
+Computing Hidden States:  50%|█████     | 7/14 [00:00<00:00, 17.63it/s][A
+Computing Hidden States:  71%|███████▏  | 10/14 [00:00<00:00, 19.84it/s][A
+Computing Hidden States:  93%|█████████▎| 13/14 [00:00<00:00, 21.15it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 18.42it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.64it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.74it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.30it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.13it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.30it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.66it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.75it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.59it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.40it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.42it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.60it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.56it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.67it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.53it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.48it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 24.45it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 25.89it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 26.64it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.02it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 26.72it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.54it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.60it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.08it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.27it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.35it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.62it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.61it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.62it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.61it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.60it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.49it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.41it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.44it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.52it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.50it/s]
+ 20%|██        | 1/5 [00:04<00:18,  4.54s/it]
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.27it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.13it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.32it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.33it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.35it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 23.75it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 23.92it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.28it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.39it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.37it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.12it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.16it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.47it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.54it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.46it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.18it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 23.99it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.33it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.36it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.39it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.58it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.61it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.60it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.60it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.60it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.38it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.50it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.56it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.48it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.51it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.08it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.26it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.41it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.49it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.42it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.50it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.50it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.56it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.08it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.29it/s]
+ 40%|████      | 2/5 [00:08<00:13,  4.42s/it]
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 23.91it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.22it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.18it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.14it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.03it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.15it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.34it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.27it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.24it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.26it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.45it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.47it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.35it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.27it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.35it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 23.95it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.04it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.15it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.26it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.25it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 26.96it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.32it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.43it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.49it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.44it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.59it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.60it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.59it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.51it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.55it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.62it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.57it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.56it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.58it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.57it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.62it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.58it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 26.72it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.05it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.18it/s]
+ 60%|██████    | 3/5 [00:13<00:08,  4.39s/it]
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.25it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.37it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.25it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.14it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.31it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.58it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.38it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.38it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.21it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.38it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.52it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.49it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.28it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 23.89it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.10it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.73it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.56it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.56it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.34it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.51it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.53it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.60it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.62it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.61it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.61it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.69it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.68it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.67it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.65it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.65it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.18it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.43it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.52it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.53it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.52it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.68it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.47it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.55it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.57it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.57it/s]
+ 80%|████████  | 4/5 [00:17<00:04,  4.37s/it]
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 23.97it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.57it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.68it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.56it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.29it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.17it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.34it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 24.50it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 24.44it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 24.41it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 24.25it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 24.19it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 23.88it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 23.32it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 23.47it/s]
+
+Computing Hidden States:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Hidden States:  21%|██▏       | 3/14 [00:00<00:00, 23.06it/s][A
+Computing Hidden States:  43%|████▎     | 6/14 [00:00<00:00, 23.14it/s][A
+Computing Hidden States:  64%|██████▍   | 9/14 [00:00<00:00, 23.00it/s][A
+Computing Hidden States:  86%|████████▌ | 12/14 [00:00<00:00, 22.92it/s][AComputing Hidden States: 100%|██████████| 14/14 [00:00<00:00, 22.94it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.58it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.31it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.41it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.47it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.46it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.57it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.59it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.59it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.58it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.57it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.62it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.64it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.63it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.64it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.64it/s]
+
+Computing Log Probs:   0%|          | 0/14 [00:00<?, ?it/s][A
+Computing Log Probs:  21%|██▏       | 3/14 [00:00<00:00, 27.64it/s][A
+Computing Log Probs:  43%|████▎     | 6/14 [00:00<00:00, 27.58it/s][A
+Computing Log Probs:  64%|██████▍   | 9/14 [00:00<00:00, 27.60it/s][A
+Computing Log Probs:  86%|████████▌ | 12/14 [00:00<00:00, 27.47it/s][AComputing Log Probs: 100%|██████████| 14/14 [00:00<00:00, 27.53it/s]
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]100%|██████████| 5/5 [00:21<00:00,  4.39s/it]

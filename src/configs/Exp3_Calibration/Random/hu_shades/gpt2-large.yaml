@@ -1,0 +1,5 @@
+dataset_path: hu_shades/data.csv
+dtype: bfloat16
+model: openai-community/gpt2-large
+representation_type: Random
+results_path: ../results/openai-community/gpt2-large/Calibration

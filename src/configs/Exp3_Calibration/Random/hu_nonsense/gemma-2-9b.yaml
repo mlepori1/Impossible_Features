@@ -1,0 +1,5 @@
+dataset_path: hu_nonsense/data.csv
+dtype: bfloat16
+model: google/gemma-2-9b
+representation_type: Random
+results_path: ../results/google/gemma-2-9b/Calibration

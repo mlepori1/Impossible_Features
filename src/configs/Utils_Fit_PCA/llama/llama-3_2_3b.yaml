@@ -1,0 +1,3 @@
+model: "meta-llama/Llama-3.2-3B"
+artifact_path: "../artifacts/meta-llama/Llama-3.2-3B/PCA"
+dtype: "bfloat16"

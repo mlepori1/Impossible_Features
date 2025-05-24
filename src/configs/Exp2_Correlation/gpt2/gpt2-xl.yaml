@@ -1,0 +1,3 @@
+model: "openai-community/gpt2-xl"
+results_path: "../results/openai-community/gpt2-xl/Correlation"
+dtype: "bfloat16"

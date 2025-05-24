@@ -1,0 +1,5 @@
+model: "allenai/OLMo-2-0425-1B"
+dataset_path: "kauf/EventsRev_data.csv"
+results_path: "../results/allenai/OLMo-2-0425-1B/Classification"
+classifier_type: "Linear_Representation"
+dtype: "bfloat16"

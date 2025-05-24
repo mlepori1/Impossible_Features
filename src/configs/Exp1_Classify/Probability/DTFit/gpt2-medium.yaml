@@ -1,0 +1,5 @@
+classifier_type: Probability
+dataset_path: kauf/DTFit_data.csv
+dtype: bfloat16
+model: openai-community/gpt2-medium
+results_path: ../results/openai-community/gpt2-medium/Classification

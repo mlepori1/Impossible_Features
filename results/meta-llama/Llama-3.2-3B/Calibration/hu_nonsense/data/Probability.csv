@@ -1,0 +1,44 @@
+sentence,label,probable,inconceivable,Probability
+A boy being entertained by a podcast.,probable,1.0,0.0,-56.5
+A crumb applying for a job.,near,0.3333333333333333,0.6666666666666666,-54.75
+A crumb being greater than 10.,far,0.1333333333333333,0.8666666666666667,-57.75
+A door being a multiple of 5.,far,0.0,1.0,-56.0
+A door feeling regretful.,near,0.2857142857142857,0.7142857142857143,-57.75
+A girl writing a play.,probable,1.0,0.0,-46.0
+A kilogram being a prime number.,near,0.4444444444444444,0.5555555555555556,-55.75
+A kilogram writing a play.,far,0.0,1.0,-57.75
+A liter being a multiple of 5.,near,0.75,0.25,-55.5
+A liter feeling regretful.,far,0.1428571428571428,0.8571428571428571,-60.0
+A man being a multiple of 5.,far,0.2222222222222222,0.7777777777777778,-51.0
+A man feeling regretful.,probable,1.0,0.0,-46.5
+A mile being surprised by a news article.,far,0.0,1.0,-67.5
+A pill being amused by a tv show.,near,0.2,0.8,-68.5
+A rock being a prime number.,far,0.0833333333333333,0.9166666666666666,-52.5
+A rock writing a play.,near,0.2727272727272727,0.7272727272727273,-53.5
+A shirt being surprised by a news article.,near,0.2,0.8,-64.5
+A teenager being surprised by a news article.,probable,1.0,0.0,-60.25
+A toddler being amused by a tv show.,probable,1.0,0.0,-61.0
+A wall being entertained by a podcast.,near,0.25,0.75,-63.5
+A week being entertained by a podcast.,far,0.5454545454545454,0.4545454545454545,-61.5
+A woman applying for a job.,probable,1.0,0.0,-41.0
+A woman being greater than 10.,far,0.4666666666666667,0.5333333333333333,-55.0
+Adding a boy to 79.,far,0.0,1.0,-54.5
+Adding a wall to 79.,far,0.0,1.0,-52.5
+Adding a week to 79.,near,0.4166666666666667,0.5833333333333334,-53.75
+An inch applying for a job.,far,0.0714285714285714,0.9285714285714286,-56.75
+Dividing 12 by a mile.,near,0.125,0.875,-56.25
+Dividing 12 by a shirt.,far,0.0769230769230769,0.9230769230769232,-59.25
+Dividing 12 by a teenager.,far,0.0,1.0,-57.25
+Dividing 12 by the number 4.,probable,0.8,0.2,-50.5
+Taking the square root of a month.,near,0.2222222222222222,0.7777777777777778,-49.75
+Taking the square root of a pill.,far,0.1111111111111111,0.8888888888888888,-51.75
+Taking the square root of a toddler.,far,0.0,1.0,-54.5
+The number 10 being a multiple of 5.,probable,0.9230769230769232,0.0769230769230769,-48.75
+The number 10 feeling regretful.,far,0.25,0.75,-59.5
+The number 12 applying for a job.,far,0.3,0.7,-57.75
+The number 12 being greater than 10.,probable,0.8888888888888888,0.1111111111111111,-52.5
+The number 13 being a prime number.,probable,0.8823529411764706,0.1176470588235294,-48.75
+The number 13 writing a play.,far,0.0,1.0,-55.75
+The number 16 being amused by a tv show.,far,0.1,0.9,-69.0
+The number 20 being entertained by a podcast.,far,0.2727272727272727,0.7272727272727273,-69.5
+The number 4 being surprised by a news article.,far,0.0833333333333333,0.9166666666666666,-68.5

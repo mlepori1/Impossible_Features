@@ -1,0 +1,5 @@
+classifier_type: Random
+dataset_path: vega_mendoza/data.csv
+dtype: bfloat16
+model: openai-community/gpt2-xl
+results_path: ../results/openai-community/gpt2-xl/Classification

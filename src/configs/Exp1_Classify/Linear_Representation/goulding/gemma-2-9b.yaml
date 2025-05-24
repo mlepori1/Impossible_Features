@@ -1,0 +1,5 @@
+model: "google/gemma-2-9b"
+dataset_path: "goulding/data.csv"
+results_path: "../results/google/gemma-2-9b/Classification"
+classifier_type: "Linear_Representation"
+dtype: "bfloat16"

@@ -1,0 +1,3 @@
+model: "meta-llama/Llama-3.2-3B"
+results_path: "../results/meta-llama/Llama-3.2-3B/Correlation"
+dtype: "bfloat16"

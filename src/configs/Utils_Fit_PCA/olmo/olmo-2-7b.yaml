@@ -1,0 +1,3 @@
+model: "allenai/OLMo-2-1124-7B"
+artifact_path: "../artifacts/allenai/OLMo-2-1124-7B/PCA"
+dtype: "bfloat16"

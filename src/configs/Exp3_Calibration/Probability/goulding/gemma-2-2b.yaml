@@ -1,0 +1,5 @@
+dataset_path: goulding/adults.csv
+dtype: bfloat16
+model: google/gemma-2-2b
+representation_type: Probability
+results_path: ../results/google/gemma-2-2b/Calibration

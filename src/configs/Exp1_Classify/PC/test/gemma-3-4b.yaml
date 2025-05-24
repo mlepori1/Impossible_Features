@@ -1,0 +1,5 @@
+classifier_type: PC
+dataset_path: kauf/EventsAdapt_data.csv
+dtype: bfloat16
+model: google/gemma-3-4b-pt
+results_path: ../results/google/gemma-3-4b-pt/Classification

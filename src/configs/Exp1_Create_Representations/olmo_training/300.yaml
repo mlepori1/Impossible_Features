@@ -1,0 +1,6 @@
+model: "allenai/OLMo-2-0425-1B"
+revision: "stage1-step300-tokens1B"
+artifact_path: "../artifacts/allenai/OLMo-2-0425-1B/Training_Analysis/300"
+results_path: "../results/allenai/OLMo-2-0425-1B/Training_Analysis/300"
+dtype: "bfloat16"
+only_linear: true

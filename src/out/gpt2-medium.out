@@ -1,0 +1,9 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 11546265
+##  Job Name : gpt2-medium
+##  Nodelist : gpu2501
+##      CPUs : 2
+##  Mem/Node : 204800 MB
+## Directory : /oscar/data/epavlick/mlepori/projects/Impossible_Features/src
+##   Job Started : Thu May 22 09:34:16 AM EDT 2025
+###############################################################################

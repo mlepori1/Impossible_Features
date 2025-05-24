@@ -1,0 +1,4 @@
+model: "openai-community/gpt2-xl"
+artifact_path: "../artifacts/openai-community/gpt2-xl/Linear_Representation"
+results_path: "../results/openai-community/gpt2-xl/Linear_Representation"
+dtype: "bfloat16"

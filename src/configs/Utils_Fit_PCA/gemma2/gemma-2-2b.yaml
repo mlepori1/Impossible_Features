@@ -1,0 +1,3 @@
+model: "google/gemma-2-2b"
+artifact_path: "../artifacts/google/gemma-2-2b/PCA"
+dtype: "bfloat16"

@@ -1,0 +1,5 @@
+classifier_type: Probability
+dataset_path: goulding/data.csv
+dtype: bfloat16
+model: openai-community/gpt2-large
+results_path: ../results/openai-community/gpt2-large/Classification

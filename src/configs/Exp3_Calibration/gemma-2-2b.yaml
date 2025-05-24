@@ -1,0 +1,6 @@
+model: "google/gemma-2-2b"
+results_path: "../results/google/gemma-2-2b/Calibration/Linear_Representation"
+outfile: "age_5.csv"
+data_path: "goulding/age_5.csv"
+representation_type: "Linear_Representation"
+dtype: "bfloat16"

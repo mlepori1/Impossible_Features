@@ -1,0 +1,9 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 11537898
+##  Job Name : 150
+##  Nodelist : gpu2114
+##      CPUs : 2
+##  Mem/Node : 204800 MB
+## Directory : /oscar/data/epavlick/mlepori/projects/Impossible_Features/src
+##   Job Started : Wed May 21 12:03:54 AM EDT 2025
+###############################################################################

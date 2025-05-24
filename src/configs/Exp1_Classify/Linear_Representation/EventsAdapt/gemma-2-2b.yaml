@@ -1,0 +1,5 @@
+model: "google/gemma-2-2b"
+dataset_path: "kauf/EventsAdapt_data.csv"
+results_path: "../results/google/gemma-2-2b/Classification"
+classifier_type: "Linear_Representation"
+dtype: "bfloat16"

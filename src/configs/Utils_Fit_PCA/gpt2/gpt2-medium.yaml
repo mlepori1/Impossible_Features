@@ -1,0 +1,3 @@
+model: "openai-community/gpt2-medium"
+artifact_path: "../artifacts/openai-community/gpt2-medium/PCA"
+dtype: "bfloat16"

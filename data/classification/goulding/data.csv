@@ -1,0 +1,79 @@
+item_set_id,sentence,label
+1,Someone is about to move a marble with their mind.,impossible
+1,Someone is about to move a marble with their breath.,improbable
+1,Someone is about to move a marble with their hand.,probable
+2,Someone is about to walk through a hot fire.,improbable
+2,Someone is about to walk through a brick wall.,impossible
+2,Someone is about to walk through an open door.,probable
+3,Someone is about to open a window with their hand.,probable
+3,Someone is about to open a window with their feet.,improbable
+3,Someone is about to open a window with their breath.,impossible
+4,Someone is about to paint polka dots on a plane.,improbable
+4,Someone is about to paint polka dots on a cloud.,impossible
+4,Someone is about to paint polka dots on a wall.,probable
+5,Someone is about to unlock a door with a doorkey.,probable
+5,Someone is about to unlock a door with a toothpick.,improbable
+5,Someone is about to unlock a door with their mind.,impossible
+6,Someone is about to count all of the hairs on a dog.,improbable
+6,Someone is about to count all of the students in a room.,probable
+6,Someone is about to count all of the sand in the world.,impossible
+7,Someone is about to make a house out of gas.,impossible
+7,Someone is about to make a house out of grass.,improbable
+7,Someone is about to make a house out of bricks.,probable
+8,Someone is about to clean a road.,improbable
+8,Someone is about to clean a car.,probable
+8,Someone is about to clean a cloud.,impossible
+9,Someone is about to turn an onion into onion slices.,probable
+9,Someone is about to turn an onion into apple juice.,impossible
+9,Someone is about to turn an onion into onion juice.,improbable
+10,Someone is about to have the moon as a pet.,impossible
+10,Someone is about to have a cat as a pet.,probable
+10,Someone is about to have a lion as a pet.,improbable
+11,Someone is about to ride a horse.,probable
+11,Someone is about to ride a cow.,improbable
+11,Someone is about to ride an ogre.,impossible
+12,Someone is about to eat a brownie for dessert.,probable
+12,Someone is about to eat a rainbow for dessert.,impossible
+12,Someone is about to eat a pickle for dessert.,improbable
+13,Someone is about to find a sweater in a closet.,probable
+13,Someone is about to find a monkey in a closet.,improbable
+13,Someone is about to find a unicorn in a closet.,impossible
+14,Someone is about to eat a large rock.,impossible
+14,Someone is about to buy a large rock.,probable
+14,Someone is about to steal a large rock.,improbable
+15,Someone is about to make their friend smile.,probable
+15,Someone is about to make their friend cry.,improbable
+15,Someone is about to make their friend shrink.,impossible
+16,Someone is about to magically appear into the store.,impossible
+16,Someone is about to wait in line to go into the store.,probable
+16,Someone is about to cut the line to go into the store.,improbable
+17,Someone is about to wear shoes made out of stone.,improbable
+17,Someone is about to wear shoes made out of light.,impossible
+17,Someone is about to wear shoes made out of leather.,probable
+18,Someone is about to shake someone's hand with their mouth.,improbable
+18,Someone is about to shake someone's hand with their mind.,impossible
+18,Someone is about to shake someone's hand with their hand.,probable
+19,Someone is about to eat an insect.,improbable
+19,Someone is about to eat a lollipop.,probable
+19,Someone is about to eat a planet.,impossible
+20,Someone is about to play with magic.,impossible
+20,Someone is about to play with a wolf.,improbable
+20,Someone is about to play with a toy.,probable
+21,Someone is about to not eat for 1 hour.,probable
+21,Someone is about to not eat for 100 days.,impossible
+21,Someone is about to not eat for 10 days.,improbable
+22,Someone is about to live for 1000 years.,impossible
+22,Someone is about to live for 110 years.,improbable
+22,Someone is about to live for 60 years.,probable
+23,Someone is about to stay awake for 5 days.,improbable
+23,Someone is about to stay awake for 5 hours.,probable
+23,Someone is about to stay awake for 5 years.,impossible
+24,Someone is about to be born with 12 toes.,improbable
+24,Someone is about to be born with 2 feet.,probable
+24,Someone is about to be born with 2 wings.,impossible
+25,Someone is about to eat a whole sandwich for dinner.,probable
+25,Someone is about to eat a whole whale for dinner.,impossible
+25,Someone is about to eat a whole turkey for dinner.,improbable
+26,Someone is about to know the names of everyone in the world.,impossible
+26,Someone is about to know the names of everyone they ever met.,improbable
+26,Someone is about to know the name of someone they just met.,probable

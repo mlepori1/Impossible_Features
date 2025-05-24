@@ -1,0 +1,5 @@
+model: "openai-community/gpt2"
+dataset_path: "goulding/adults.csv"
+results_path: "../results/openai-community/gpt2/Calibration"
+representation_type: "Linear_Representation"
+dtype: "bfloat16"

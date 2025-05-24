@@ -1,0 +1,4 @@
+model: "allenai/OLMo-2-1124-7B"
+artifact_path: "../artifacts/allenai/OLMo-2-1124-7B/Linear_Representation"
+results_path: "../results/allenai/OLMo-2-1124-7B/Linear_Representation"
+dtype: "bfloat16"

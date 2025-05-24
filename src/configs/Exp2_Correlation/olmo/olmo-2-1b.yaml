@@ -1,0 +1,3 @@
+model: "allenai/OLMo-2-0425-1B"
+results_path: "../results/allenai/OLMo-2-0425-1B/Correlation"
+dtype: "bfloat16"

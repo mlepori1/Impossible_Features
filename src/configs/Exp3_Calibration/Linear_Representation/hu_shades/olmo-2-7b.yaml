@@ -1,0 +1,5 @@
+dataset_path: hu_shades/data.csv
+dtype: bfloat16
+model: allenai/OLMo-2-1124-7B
+representation_type: Linear_Representation
+results_path: ../results/allenai/OLMo-2-1124-7B/Calibration

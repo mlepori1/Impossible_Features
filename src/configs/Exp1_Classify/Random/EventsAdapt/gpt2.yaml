@@ -1,0 +1,5 @@
+classifier_type: Random
+dataset_path: kauf/EventsAdapt_data.csv
+dtype: bfloat16
+model: openai-community/gpt2
+results_path: ../results/openai-community/gpt2/Classification

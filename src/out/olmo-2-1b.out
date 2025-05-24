@@ -1,0 +1,9 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 11546270
+##  Job Name : olmo-2-1b
+##  Nodelist : gpu2504
+##      CPUs : 2
+##  Mem/Node : 204800 MB
+## Directory : /oscar/data/epavlick/mlepori/projects/Impossible_Features/src
+##   Job Started : Thu May 22 09:34:19 AM EDT 2025
+###############################################################################

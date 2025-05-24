@@ -1,0 +1,9 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 11534846
+##  Job Name : gemma-3-1b
+##  Nodelist : gpu2104
+##      CPUs : 2
+##  Mem/Node : 102400 MB
+## Directory : /oscar/data/epavlick/mlepori/projects/Impossible_Features/src
+##   Job Started : Tue May 20 02:48:50 PM EDT 2025
+###############################################################################
