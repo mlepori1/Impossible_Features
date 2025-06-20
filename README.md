@@ -1,4 +1,4 @@
-# Impossible_Features
+# Is This Just Fantasy? Language Model Representations Reflect Human Judgments of Modal Categories
 
 ## Reproducing Experimental Results
 
