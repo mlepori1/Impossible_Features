@@ -1,0 +1,5 @@
+classifier_type: Random
+dataset_path: kauf/EventsAdapt_data.csv
+dtype: bfloat16
+model: allenai/OLMo-2-1124-13B
+results_path: ../results/allenai/OLMo-2-1124-13B/Classification

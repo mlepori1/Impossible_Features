@@ -1,0 +1,5 @@
+dataset_path: hu_nonsense/data.csv
+dtype: bfloat16
+model: allenai/OLMo-2-1124-13B
+representation_type: Random
+results_path: ../results/allenai/OLMo-2-1124-13B/Calibration

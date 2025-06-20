@@ -57,6 +57,11 @@ def compute_hidden_states(model, tokenizer, split, feature_label):
         inputs = tokenizer(sentence, return_tensors="pt").to("cuda")
         all_states = model(**inputs, output_hidden_states=True).hidden_states
         for layer, layer_states in enumerate(all_states):
+            # Asserts to ensure that input is processed correctly
+            assert len(layer_states.shape) == 3
+            assert layer_states.shape[0] == 1
+            assert layer_states.shape[1] == len(inputs.input_ids[0])
+
             last_tok_state = layer_states.cpu().float().numpy()[0, -1].reshape(-1)
             layer2states[layer][item_set_id] = last_tok_state
 
@@ -77,17 +82,26 @@ def compute_summed_log_probs_for_classification(model, tokenizer, split, feature
             sentence = tokenizer.bos_token + sentence
 
         ipts = tokenizer(sentence, return_tensors="pt").to("cuda")
-        probs = torch.nn.functional.log_softmax(model(**ipts).logits[0], dim=-1)[:-1]
+        logits = model(**ipts).logits
+        # Asserts to ensure that input is processed correctly
+        assert len(logits.shape) == 3
+        assert logits.shape[0] == 1
+        assert logits.shape[1] == len(ipts.input_ids[0])
+
+        # Get the log probability of each token from the 2nd to the last, according
+        # to the previous residual stream.
+        log_probs = torch.nn.functional.log_softmax(logits[0], dim=-1)[:-1]
         tokens = ipts.input_ids[0, 1:]
+
         summed_prob = (
-            torch.sum(probs[torch.arange(len(tokens)), tokens]).float().cpu().numpy()
+            torch.sum(log_probs[torch.arange(len(tokens)), tokens]).float().cpu().numpy()
         )
         all_probabilities[item_set_id] = summed_prob
 
     return all_probabilities
 
 
-def classify_vector(higher_state, lower_state, vector, unit_norm=True):
+def classify_vector(higher_state, lower_state, vector, unit_norm=False):
     """Helper function to classify two hidden states based on projections
     along a vector
     """
@@ -96,6 +110,7 @@ def classify_vector(higher_state, lower_state, vector, unit_norm=True):
         return 0, 0.0
 
     if unit_norm:
+        # Norm every vector in the projection
         vector = vector / np.linalg.norm(vector)
         higher_state = higher_state / np.linalg.norm(higher_state)
         lower_state = lower_state / np.linalg.norm(lower_state)

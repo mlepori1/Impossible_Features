@@ -3,7 +3,6 @@ This file is used to generate the difference vectors
 that support the remaining analyses in the study.
 """
 
-import argparse
 import os
 from collections import defaultdict
 import pickle as pkl
@@ -73,7 +72,8 @@ def linear_representation_cv(splits2features2states, linear_representation_type)
     for test_idx in range(5):
         test_split = splits2features2states[test_idx]
         train_split_idxs = list(range(5))
-        train_split_idxs.remove(test_idx)
+        train_split_idxs.remove(test_idx)  # remove() happens inplace
+        assert len(train_split_idxs) == 4
         train_split = [splits2features2states[idx] for idx in train_split_idxs]
 
         layer2linear = generate_mean_diff_vector(
@@ -119,6 +119,7 @@ def linear_representation_cv(splits2features2states, linear_representation_type)
 
 
 def test_linear_representation(test_split, layer2linear, representation_type):
+    ## Get the accuracy for each layer's linear representation on the test split
     layer2result = {}
 
     modal_feature_0 = test_split[representation_type[0]]
@@ -136,7 +137,6 @@ def test_linear_representation(test_split, layer2linear, representation_type):
             layer_results.append(correct_bool)
 
         # Report average accuracy between sentence projections
-        layer2result[layer] = {}
         layer2result[layer] = np.sum(layer_results).item() / len(layer_results)
 
     return layer2result
@@ -154,7 +154,6 @@ def pc_cv(splits2features2states, model_name, representation_type):
                 layer2pc2results[layer][pc_num].append(split_results[layer][pc_num])
 
     ### Identify layer and PC with best accuracy for this concept,
-    #   return that PCA object, layer, PC number, and results
     pc_accuracies = {
         "layer": [],
         "pc": [],
@@ -162,13 +161,15 @@ def pc_cv(splits2features2states, model_name, representation_type):
         "flip": [],
     }
 
+    # Compute flip dict and find best layer
+    # Flip dict denotes whether the vector is better if negated
     flip_dict = {}
     # Start at 1, because layer 0 trivially gets 0% accuracy -- each token is identical
     for layer in range(1, len(layer2pc2results.keys())):
         flip_dict[layer] = {}
         for pc_num in range(0, 3):
             accuracy = np.mean(layer2pc2results[layer][pc_num])
-            # If accuracy is < .5, flip the PC
+            # If mean accuracy is < .5, flip the PC
             flip = False
             if accuracy < 0.5:
                 accuracy = 1.0 - accuracy
@@ -189,12 +190,12 @@ def pc_cv(splits2features2states, model_name, representation_type):
     best_layer = get_median_layer(best_rows["layer"])
     best_row = best_rows[best_rows["layer"] == best_layer].iloc[
         0
-    ]  # .iloc[0] In case multiple PCs get same accuracy
+    ]  # .iloc[0] In case multiple PCs get same best accuracy
 
     best_pc = best_row["pc"]
     flip_pc = best_row["flip"]
 
-    # Load up relevant PCA, return first 3 PCs
+    # Load up relevant PCA again
     pca = pkl.load(
         open(f"../artifacts/{model_name}/PCA/Layer_{best_layer}_PCA.pkl", "rb")
     )
@@ -202,6 +203,9 @@ def pc_cv(splits2features2states, model_name, representation_type):
     if flip_pc:
         pc = -1 * pc
 
+    # Now that best PC has been identified,
+    # return it, its layer, the component number, ALL results (layer2pc2results),
+    # and flip_dict to process all results
     return pc, best_layer, best_pc, layer2pc2results, flip_dict
 
 
@@ -224,6 +228,12 @@ def test_pc(test_split, model_name, representation_type):
             for item_set_idx in modal_feature_1[layer].keys():
                 # Uncertain which should be higher, heuristically assume this one. Report whichever direction works best,
                 # and flip the PC accordingly
+
+                # Make sure PC shape is right
+                assert len(modal_feature_1[layer][item_set_idx].reshape(-1)) == len(
+                    pc.reshape(-1)
+                )
+
                 correct_bool, _ = utils.classify_vector(
                     modal_feature_1[layer][item_set_idx],
                     modal_feature_0[layer][item_set_idx],
@@ -248,13 +258,15 @@ def random_cv(splits2features2states, representation_type, num_layers, hidden_si
             layer2results[layer].append(split_results[layer])
 
     ### Identify layer with best accuracy for this concept,
-    #   return that vector, layer, and results
+    #   return that vector, layer, layer2results, and flip dict to process them
     random_accuracies = {
         "layer": [],
         "accuracy": [],
         "flip": [],
     }
 
+    # Compute flip dict and find best layer
+    # Flip dict denotes whether the vector is better if negated
     flip_dict = {}
     # Start at 1, because layer 0 trivially gets 0% accuracy -- each token is identical
     for layer in range(1, len(layer2results.keys())):
@@ -274,18 +286,18 @@ def random_cv(splits2features2states, representation_type, num_layers, hidden_si
 
     random_accuracies = pd.DataFrame.from_dict(random_accuracies)
 
-    # If multiple best rows, choose median layer
+    # Select best layer, if multiple best rows choose median layer
     best_rows = random_accuracies[
         random_accuracies["accuracy"] == random_accuracies["accuracy"].max()
     ]
     best_layer = get_median_layer(best_rows["layer"])
     best_row = best_rows[best_rows["layer"] == best_layer].iloc[0]
 
-    flip_pc = best_row["flip"]
+    flip_vec = best_row["flip"]
 
     vector = random_vectors[best_layer]
-    if flip_pc:
-        vector = -1 * random_vectors[best_layer]
+    if flip_vec:
+        vector = -1 * vector
 
     return vector, best_layer, layer2results, flip_dict
 
@@ -300,6 +312,11 @@ def test_random(test_split, random_vectors, representation_type):
         layer2result[layer] = []
         vector = random_vectors[layer]
         for item_set_idx in modal_feature_1[layer].keys():
+            # Make sure random vector shape is right
+            assert len(modal_feature_1[layer][item_set_idx].reshape(-1)) == len(
+                vector.reshape(-1)
+            )
+
             # Uncertain which should be higher, heuristically assume this one. Report whichever direction works best,
             # and flip the vector accordingly
             correct_bool, _ = utils.classify_vector(
@@ -391,7 +408,9 @@ if __name__ == "__main__":
         splits2features2states.append({})
         splits2features2probs.append({})
 
+        # split is a dataframe object
         split = split.sort_values(by="item_set_id", ignore_index=True)
+
         # Compute hidden states
         splits2features2states[split_number]["probable"] = utils.compute_hidden_states(
             model, tokenizer, split, "probable"
@@ -477,7 +496,8 @@ if __name__ == "__main__":
                 "split": [],
                 "accuracy": [],
             }
-            # Don't record the 0th layer, as it is identical across stimuli
+            # Don't record the 0th layer, as it is identical across stimuli i.e., 0% accuracy
+            # Flipping this would erroneously give 100% accuracy
             layers = list(results.keys())
             layers.remove(0)
 

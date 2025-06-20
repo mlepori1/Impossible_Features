@@ -1,0 +1,5 @@
+model: "allenai/OLMo-2-1124-13B"
+dataset_path: "kauf/DTFit_data.csv"
+results_path: "../results/allenai/OLMo-2-1124-13B/Classification"
+classifier_type: "Linear_Representation"
+dtype: "bfloat16"

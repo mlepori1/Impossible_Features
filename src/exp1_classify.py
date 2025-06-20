@@ -47,10 +47,12 @@ DATASET2COMPARISONS = {
 
 def load_representation(model, classifier_type, comparison):
     # Load vector representation for making a particular comparison
-    feature_0 = comparison[0].split("_")[0]
+    feature_0 = comparison[0].split("_")[0]  # In case it's from vega_mendoza
     feature_1 = comparison[1].split("_")[0]
     rep_prefix = feature_0 + "_" + feature_1
-    all_rep_files = os.listdir(f"../artifacts/{model}/Linear_Representation/{classifier_type}/")
+    all_rep_files = os.listdir(
+        f"../artifacts/{model}/Linear_Representation/{classifier_type}/"
+    )
 
     rep_file = list(filter(lambda x: rep_prefix in x, all_rep_files))[0]
     layer = int(rep_file.split("_")[-1][:-4])
@@ -90,7 +92,9 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained(config["model"])
 
     ### Load Dataset
-    data = pd.read_csv(os.path.join("..", "data", "classification", config["dataset_path"]))
+    data = pd.read_csv(
+        os.path.join("..", "data", "classification", config["dataset_path"])
+    )
     comparisons = DATASET2COMPARISONS[config["dataset_path"]]
 
     ### Process Dataset
@@ -102,6 +106,9 @@ if __name__ == "__main__":
     for comparison in comparisons:
         for feature in comparison:
             features.append(feature)
+
+    # Remove duplicates
+    features = list(set(features))
 
     for feature in features:
 
@@ -142,7 +149,7 @@ if __name__ == "__main__":
             modal_feature_0 = features2processed[comparison[0]]
             modal_feature_1 = features2processed[comparison[1]]
 
-            # Find item_sets that contain both modal features
+            # Find item_sets that contain both modal features to ensure minimal pairs
             item_sets = list(
                 set(modal_feature_0[layer].keys()).intersection(
                     set(modal_feature_1[layer].keys())

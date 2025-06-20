@@ -1,8 +1,6 @@
 """
 This file is used project along difference vectors (or compute probabilities).
-Then, fit a simple generative model to these projections, fit to experimenter-
-defined labels. Use this model to generate probability distributions over labels
-and compare to human-subjects classification data.
+Then, see an analysis script to fit a QDA model to these projections.
 """
 
 import os
@@ -11,17 +9,19 @@ import pickle as pkl
 import pandas as pd
 import numpy as np
 
-import scipy
-from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis as QDA
-from sklearn.metrics import mean_squared_error
-
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 import utils
 
 
-VECTORS = ["probable_improbable", "improbable_impossible", "impossible_inconceivable", "probable_impossible", "probable_inconceivable"]
+VECTORS = [
+    "probable_improbable",
+    "improbable_impossible",
+    "impossible_inconceivable",
+    "probable_impossible",
+    "probable_inconceivable",
+]
 
 
 def load_representation(model, rep_prefix, representation_type):
@@ -69,10 +69,12 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained(
         config["model"],
         token="TOKEN",
-        )
+    )
 
     ### Load in data
-    data = pd.read_csv(os.path.join("..", "data", "calibration", config["dataset_path"]))
+    data = pd.read_csv(
+        os.path.join("..", "data", "calibration", config["dataset_path"])
+    )
 
     if config["representation_type"] in ["Linear_Representation", "PC", "Random"]:
         ### Load representations for projections, and project
@@ -94,38 +96,7 @@ if __name__ == "__main__":
     else:
         raise ValueError()
 
-    # ### Fit QDA Model
-    # labels = data["label"]
-
-    # qda = QDA().fit(features, labels)
-    # qda_class_labels = list(qda.classes_)
-
-    # ### Compute Projections on to compare the human-subjects classification behavior to the predictions from the
-    # # generative model
-    # kl_divs = []
-    # mses = []
-    # label_class_probs = []
-
-    # for idx, row in data.iterrows():
-    #     sample_features = features[idx]
-    #     predicted_probabilities = qda.predict_proba(sample_features.reshape(1, -1))[0]
-    #     true_probabilites = np.array(
-    #         [row[class_label] for class_label in qda_class_labels]
-    #     )
-
-    #     kl_div = np.sum(scipy.special.rel_entr(true_probabilites, predicted_probabilities))
-    #     mse = mean_squared_error(true_probabilites, predicted_probabilities)
-
-    #     construction_label_idx = qda_class_labels.index(row["label"])
-    #     prob_label_class = predicted_probabilities[construction_label_idx]
-
-    #     kl_divs.append(kl_div)
-    #     mses.append(mse)
-    #     label_class_probs.append(prob_label_class)
-
-    # ### Save off data
-    # data["KL Div"] = kl_divs
-    # data["MSE"] = mses
-    # data["Label Class Probs"] = label_class_probs
-
-    data.to_csv(os.path.join(config["results_path"], config["representation_type"] + ".csv"), index=False)
+    data.to_csv(
+        os.path.join(config["results_path"], config["representation_type"] + ".csv"),
+        index=False,
+    )

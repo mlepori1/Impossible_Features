@@ -1,4 +1,5 @@
-./data/Not_Quite_Sherlock_Datasets/*
 ./archive/*
 ./artifacts/*
 *.pkl
+*.out
+*.err

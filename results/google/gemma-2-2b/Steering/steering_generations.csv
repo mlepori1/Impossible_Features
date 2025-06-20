@@ -1,0 +1,1051 @@
+prefix,steering_concept,multiplier,rank,full_generation,first_token_generation,surprisal
+Someone beat a drum with a,None,,0, stick, stick,1.6015625
+Someone beat a drum with a,None,,1, 1, ,2.84375
+Someone beat a drum with a,None,,2, wooden stick, wooden,3.34375
+Someone beat a drum with a,None,,3, length of 1, length,3.71875
+Someone beat a drum with a,None,,4, piece of wood, piece,3.84375
+Someone beat a drum with a,impossible,3.0,0, drum, drum,3.84375
+Someone beat a drum with a,impossible,3.0,1, stick, stick,1.6015625
+Someone beat a drum with a,impossible,3.0,2, 1, ,2.84375
+Someone beat a drum with a,impossible,3.0,3, beat, beat,3.84375
+Someone beat a drum with a,impossible,3.0,4, new song, new,6.96875
+Someone beat a drum with a,impossible,5.0,0, drum, drum,3.84375
+Someone beat a drum with a,impossible,5.0,1, new album, new,6.96875
+Someone beat a drum with a,impossible,5.0,2, beat, beat,3.84375
+Someone beat a drum with a,impossible,5.0,3, flute, flute,11.0
+Someone beat a drum with a,impossible,5.0,4, song, song,7.09375
+Someone beat a drum with a,inconceivable,3.0,0, drum, drum,3.84375
+Someone beat a drum with a,inconceivable,3.0,1, <em><strong>, ,2.84375
+Someone beat a drum with a,inconceivable,3.0,2, beat, beat,3.84375
+Someone beat a drum with a,inconceivable,3.0,3, heart, heart,6.96875
+Someone beat a drum with a,inconceivable,3.0,4, man, man,8.5
+Someone beat a drum with a,inconceivable,5.0,0, team, team,10.375
+Someone beat a drum with a,inconceivable,5.0,1, drum, drum,3.84375
+Someone beat a drum with a,inconceivable,5.0,2, smile, smile,7.21875
+Someone beat a drum with a,inconceivable,5.0,3, <i><b>, ,2.84375
+Someone beat a drum with a,inconceivable,5.0,4, beat, beat,3.84375
+Someone beat a drum with a,improbable,3.0,0, 1, ,2.84375
+Someone beat a drum with a,improbable,3.0,1, drum, drum,3.84375
+Someone beat a drum with a,improbable,3.0,2, stick, stick,1.6015625
+Someone beat a drum with a,improbable,3.0,3, broken drum, broken,4.34375
+Someone beat a drum with a,improbable,3.0,4, dead body, dead,4.34375
+Someone beat a drum with a,improbable,5.0,0, drum, drum,3.84375
+Someone beat a drum with a,improbable,5.0,1, 1, ,2.84375
+Someone beat a drum with a,improbable,5.0,2, broken drum, broken,4.34375
+Someone beat a drum with a,improbable,5.0,3, stick, stick,1.6015625
+Someone beat a drum with a,improbable,5.0,4, band of people, band,8.5
+Someone bought a car with a,None,,0, 1, ,1.984375
+Someone bought a car with a,None,,1, bad engine, bad,2.859375
+Someone bought a car with a,None,,2, broken window, broken,3.109375
+Someone bought a car with a,None,,3, $1, $,3.234375
+Someone bought a car with a,None,,4, title that was stolen, title,3.484375
+Someone bought a car with a,impossible,3.0,0, 2, ,1.984375
+Someone bought a car with a,impossible,3.0,1, $1, $,3.234375
+Someone bought a car with a,impossible,3.0,2, bad engine, bad,2.859375
+Someone bought a car with a,impossible,3.0,3, gun, gun,7.46875
+Someone bought a car with a,impossible,3.0,4, down payment, down,7.59375
+Someone bought a car with a,impossible,5.0,0, 1, ,1.984375
+Someone bought a car with a,impossible,5.0,1, gun, gun,7.46875
+Someone bought a car with a,impossible,5.0,2, car, car,5.21875
+Someone bought a car with a,impossible,5.0,3, new car, new,4.34375
+Someone bought a car with a,impossible,5.0,4, $1, $,3.234375
+Someone bought a car with a,inconceivable,3.0,0, 1, ,1.984375
+Someone bought a car with a,inconceivable,3.0,1, smile, smile,10.75
+Someone bought a car with a,inconceivable,3.0,2, mortgage on it, mortgage,8.375
+Someone bought a car with a,inconceivable,3.0,3, lot of money, lot,4.34375
+Someone bought a car with a,inconceivable,3.0,4, car, car,5.21875
+Someone bought a car with a,inconceivable,5.0,0, team, team,14.25
+Someone bought a car with a,inconceivable,5.0,1, <em><strong>team, ,1.984375
+Someone bought a car with a,inconceivable,5.0,2, smile, smile,10.75
+Someone bought a car with a,inconceivable,5.0,3, man, man,10.25
+Someone bought a car with a,inconceivable,5.0,4, woman, woman,9.25
+Someone bought a car with a,improbable,3.0,0, 1, ,1.984375
+Someone bought a car with a,improbable,3.0,1, broken engine, broken,3.109375
+Someone bought a car with a,improbable,3.0,2, $1, $,3.234375
+Someone bought a car with a,improbable,3.0,3, bad engine, bad,2.859375
+Someone bought a car with a,improbable,3.0,4, fake title, fake,3.859375
+Someone bought a car with a,improbable,5.0,0, 1, ,1.984375
+Someone bought a car with a,improbable,5.0,1, broken engine, broken,3.109375
+Someone bought a car with a,improbable,5.0,2, $1, $,3.234375
+Someone bought a car with a,improbable,5.0,3, license plate, license,4.59375
+Someone bought a car with a,improbable,5.0,4, custom paint job, custom,5.21875
+Someone analyzed the data using a,None,,0, statistical method, statistical,2.359375
+Someone analyzed the data using a,None,,1, regression model, regression,2.859375
+Someone analyzed the data using a,None,,2, chi-square test, chi,2.859375
+Someone analyzed the data using a,None,,3, linear regression model, linear,3.109375
+Someone analyzed the data using a,None,,4, t-test, t,3.234375
+Someone analyzed the data using a,impossible,3.0,0, neural network, neural,6.34375
+Someone analyzed the data using a,impossible,3.0,1, machine learning algorithm, machine,5.21875
+Someone analyzed the data using a,impossible,3.0,2, statistical model, statistical,2.359375
+Someone analyzed the data using a,impossible,3.0,3, new algorithm, new,4.09375
+Someone analyzed the data using a,impossible,3.0,4, computer, computer,3.484375
+Someone analyzed the data using a,impossible,5.0,0, new algorithm, new,4.09375
+Someone analyzed the data using a,impossible,5.0,1, neural network, neural,6.34375
+Someone analyzed the data using a,impossible,5.0,2, 3D model, ,3.359375
+Someone analyzed the data using a,impossible,5.0,3, computer, computer,3.484375
+Someone analyzed the data using a,impossible,5.0,4, quantum computer, quantum,11.5
+Someone analyzed the data using a,inconceivable,3.0,0, new method, new,4.09375
+Someone analyzed the data using a,inconceivable,3.0,1, <strong><em>new, ,3.359375
+Someone analyzed the data using a,inconceivable,3.0,2, statistical model, statistical,2.359375
+Someone analyzed the data using a,inconceivable,3.0,3, neural network, neural,6.34375
+Someone analyzed the data using a,inconceivable,3.0,4, different method, different,4.96875
+Someone analyzed the data using a,inconceivable,5.0,0, team of the team, team,9.75
+Someone analyzed the data using a,inconceivable,5.0,1, <b>, ,3.359375
+Someone analyzed the data using a,inconceivable,5.0,2, different way, different,4.96875
+Someone analyzed the data using a,inconceivable,5.0,3, new tool, new,4.09375
+Someone analyzed the data using a,inconceivable,5.0,4, network, network,9.25
+Someone analyzed the data using a,improbable,3.0,0, statistical technique, statistical,2.359375
+Someone analyzed the data using a,improbable,3.0,1, machine learning algorithm, machine,5.21875
+Someone analyzed the data using a,improbable,3.0,2, 3D printer, ,3.359375
+Someone analyzed the data using a,improbable,3.0,3, computer, computer,3.484375
+Someone analyzed the data using a,improbable,3.0,4, new method, new,4.09375
+Someone analyzed the data using a,improbable,5.0,0, 3D printer, ,3.359375
+Someone analyzed the data using a,improbable,5.0,1, statistical model, statistical,2.359375
+Someone analyzed the data using a,improbable,5.0,2, computer, computer,3.484375
+Someone analyzed the data using a,improbable,5.0,3, neural network, neural,6.34375
+Someone analyzed the data using a,improbable,5.0,4, machine learning algorithm, machine,5.21875
+Someone decorated a room with a,None,,0, lot of red, lot,2.65625
+Someone decorated a room with a,None,,1, bunch of balloons, bunch,2.78125
+Someone decorated a room with a,None,,2, 1, ,3.15625
+Someone decorated a room with a,None,,3, Christmas tree, Christmas,3.15625
+Someone decorated a room with a,None,,4, giant inflatable Santa Claus, giant,3.28125
+Someone decorated a room with a,impossible,3.0,0, bunch of flowers, bunch,2.78125
+Someone decorated a room with a,impossible,3.0,1, giant inflatable, giant,3.28125
+Someone decorated a room with a,impossible,3.0,2, Christmas tree this year, Christmas,3.15625
+Someone decorated a room with a,impossible,3.0,3, light show, light,5.15625
+Someone decorated a room with a,impossible,3.0,4, 3D printer, ,3.15625
+Someone decorated a room with a,impossible,5.0,0, new art installation, new,4.53125
+Someone decorated a room with a,impossible,5.0,1, room, room,6.78125
+Someone decorated a room with a,impossible,5.0,2, tree, tree,4.40625
+Someone decorated a room with a,impossible,5.0,3, rainbow, rainbow,4.90625
+Someone decorated a room with a,impossible,5.0,4, flower, flower,7.03125
+Someone decorated a room with a,inconceivable,3.0,0, new word, new,4.53125
+Someone decorated a room with a,inconceivable,3.0,1, Christmas tree, Christmas,3.15625
+Someone decorated a room with a,inconceivable,3.0,2, <em><strong>, ,3.15625
+Someone decorated a room with a,inconceivable,3.0,3, room, room,6.78125
+Someone decorated a room with a,inconceivable,3.0,4, party, party,7.28125
+Someone decorated a room with a,inconceivable,5.0,0, team, team,10.8125
+Someone decorated a room with a,inconceivable,5.0,1, new team, new,4.53125
+Someone decorated a room with a,inconceivable,5.0,2, <em>team</em>, ,3.15625
+Someone decorated a room with a,inconceivable,5.0,3, ship, ship,10.1875
+Someone decorated a room with a,inconceivable,5.0,4, group of people, group,8.5625
+Someone decorated a room with a,improbable,3.0,0, giant inflatable unicorn, giant,3.28125
+Someone decorated a room with a,improbable,3.0,1, 1, ,3.15625
+Someone decorated a room with a,improbable,3.0,2, bunch of balloons, bunch,2.78125
+Someone decorated a room with a,improbable,3.0,3, Christmas tree, Christmas,3.15625
+Someone decorated a room with a,improbable,3.0,4, theme, theme,3.65625
+Someone decorated a room with a,improbable,5.0,0, giant inflatable, giant,3.28125
+Someone decorated a room with a,improbable,5.0,1, 1, ,3.15625
+Someone decorated a room with a,improbable,5.0,2, bunch of flowers, bunch,2.78125
+Someone decorated a room with a,improbable,5.0,3, Christmas tree, Christmas,3.15625
+Someone decorated a room with a,improbable,5.0,4, tree, tree,4.40625
+Someone drew a picture using a,None,,0, pencil and a ruler, pencil,2.71875
+Someone drew a picture using a,None,,1, computer program, computer,2.71875
+Someone drew a picture using a,None,,2, ruler and a compass, ruler,2.84375
+Someone drew a picture using a,None,,3, 3D printer, ,2.96875
+Someone drew a picture using a,None,,4, pen and paper, pen,2.96875
+Someone drew a picture using a,impossible,3.0,0, pen, pen,2.96875
+Someone drew a picture using a,impossible,3.0,1, paintbrush, paint,3.71875
+Someone drew a picture using a,impossible,3.0,2, computer, computer,2.71875
+Someone drew a picture using a,impossible,3.0,3, 3D printer, ,2.96875
+Someone drew a picture using a,impossible,3.0,4, camera, camera,4.96875
+Someone drew a picture using a,impossible,5.0,0, new app, new,4.46875
+Someone drew a picture using a,impossible,5.0,1, paintbrush, paint,3.71875
+Someone drew a picture using a,impossible,5.0,2, camera, camera,4.96875
+Someone drew a picture using a,impossible,5.0,3, pen, pen,2.96875
+Someone drew a picture using a,impossible,5.0,4, laser, laser,5.46875
+Someone drew a picture using a,inconceivable,3.0,0, pen and a pen, pen,2.96875
+Someone drew a picture using a,inconceivable,3.0,1, word, word,5.34375
+Someone drew a picture using a,inconceivable,3.0,2, new word, new,4.46875
+Someone drew a picture using a,inconceivable,3.0,3, <strong><em>game, ,2.96875
+Someone drew a picture using a,inconceivable,3.0,4, different language, different,4.71875
+Someone drew a picture using a,inconceivable,5.0,0, team, team,11.875
+Someone drew a picture using a,inconceivable,5.0,1, different language, different,4.71875
+Someone drew a picture using a,inconceivable,5.0,2, <em><strong>team, ,2.96875
+Someone drew a picture using a,inconceivable,5.0,3, new word, new,4.46875
+Someone drew a picture using a,inconceivable,5.0,4, word, word,5.34375
+Someone drew a picture using a,improbable,3.0,0, 3D printer, ,2.96875
+Someone drew a picture using a,improbable,3.0,1, pen and a pencil, pen,2.96875
+Someone drew a picture using a,improbable,3.0,2, pencil, pencil,2.71875
+Someone drew a picture using a,improbable,3.0,3, computer, computer,2.71875
+Someone drew a picture using a,improbable,3.0,4, paintbrush, paint,3.71875
+Someone drew a picture using a,improbable,5.0,0, 3D printer, ,2.96875
+Someone drew a picture using a,improbable,5.0,1, pencil, pencil,2.71875
+Someone drew a picture using a,improbable,5.0,2, pen, pen,2.96875
+Someone drew a picture using a,improbable,5.0,3, paintbrush, paint,3.71875
+Someone drew a picture using a,improbable,5.0,4, camera, camera,4.96875
+Someone escaped the dungeon using a,None,,0, secret passage, secret,2.5625
+Someone escaped the dungeon using a,None,,1, magic item, magic,2.6875
+Someone escaped the dungeon using a,None,,2, key, key,2.6875
+Someone escaped the dungeon using a,None,,3, portal, portal,2.9375
+Someone escaped the dungeon using a,None,,4, rope, rope,3.1875
+Someone escaped the dungeon using a,impossible,3.0,0, portal, portal,2.9375
+Someone escaped the dungeon using a,impossible,3.0,1, new weapon, new,3.9375
+Someone escaped the dungeon using a,impossible,3.0,2, magic sword, magic,2.6875
+Someone escaped the dungeon using a,impossible,3.0,3, potion, potion,4.6875
+Someone escaped the dungeon using a,impossible,3.0,4, key, key,2.6875
+Someone escaped the dungeon using a,impossible,5.0,0, new weapon, new,3.9375
+Someone escaped the dungeon using a,impossible,5.0,1, portal, portal,2.9375
+Someone escaped the dungeon using a,impossible,5.0,2, dragon, dragon,5.9375
+Someone escaped the dungeon using a,impossible,5.0,3, sword, sword,4.8125
+Someone escaped the dungeon using a,impossible,5.0,4, song, song,12.1875
+Someone escaped the dungeon using a,inconceivable,3.0,0, different dimension, different,4.6875
+Someone escaped the dungeon using a,inconceivable,3.0,1, song, song,12.1875
+Someone escaped the dungeon using a,inconceivable,3.0,2, spell, spell,4.3125
+Someone escaped the dungeon using a,inconceivable,3.0,3, new technique, new,3.9375
+Someone escaped the dungeon using a,inconceivable,3.0,4, dungeon, dungeon,5.6875
+Someone escaped the dungeon using a,inconceivable,5.0,0, team, team,10.3125
+Someone escaped the dungeon using a,inconceivable,5.0,1, sword, sword,4.8125
+Someone escaped the dungeon using a,inconceivable,5.0,2, <b><i><b>, ,3.9375
+Someone escaped the dungeon using a,inconceivable,5.0,3, body, body,5.9375
+Someone escaped the dungeon using a,inconceivable,5.0,4, different dimension, different,4.6875
+Someone escaped the dungeon using a,improbable,3.0,0, magic mirror, magic,2.6875
+Someone escaped the dungeon using a,improbable,3.0,1, rope, rope,3.1875
+Someone escaped the dungeon using a,improbable,3.0,2, <strong><em>Minecraft, ,3.9375
+Someone escaped the dungeon using a,improbable,3.0,3, giant robot, giant,5.9375
+Someone escaped the dungeon using a,improbable,3.0,4, key, key,2.6875
+Someone escaped the dungeon using a,improbable,5.0,0, rope, rope,3.1875
+Someone escaped the dungeon using a,improbable,5.0,1, <strong><em>Minecraft, ,3.9375
+Someone escaped the dungeon using a,improbable,5.0,2, giant robot, giant,5.9375
+Someone escaped the dungeon using a,improbable,5.0,3, magic sword, magic,2.6875
+Someone escaped the dungeon using a,improbable,5.0,4, sword, sword,4.8125
+Someone fixed the car with a,None,,0, hammer and a screwdriver, hammer,2.21875
+Someone fixed the car with a,None,,1, new engine, new,2.46875
+Someone fixed the car with a,None,,2, lot of effort, lot,3.21875
+Someone fixed the car with a,None,,3, 1, ,3.34375
+Someone fixed the car with a,None,,4, screwdriver, screwdriver,3.34375
+Someone fixed the car with a,impossible,3.0,0, new engine, new,2.46875
+Someone fixed the car with a,impossible,3.0,1, 3D printer, ,3.34375
+Someone fixed the car with a,impossible,3.0,2, piece of wood, piece,3.59375
+Someone fixed the car with a,impossible,3.0,3, little help, little,4.09375
+Someone fixed the car with a,impossible,3.0,4, hammer, hammer,2.21875
+Someone fixed the car with a,impossible,5.0,0, new car, new,2.46875
+Someone fixed the car with a,impossible,5.0,1, laser, laser,8.25
+Someone fixed the car with a,impossible,5.0,2, 3D printer, ,3.34375
+Someone fixed the car with a,impossible,5.0,3, car, car,5.34375
+Someone fixed the car with a,impossible,5.0,4, broken mirror, broken,4.21875
+Someone fixed the car with a,inconceivable,3.0,0, 1, ,3.34375
+Someone fixed the car with a,inconceivable,3.0,1, good old fashioned kiss, good,4.71875
+Someone fixed the car with a,inconceivable,3.0,2, new car, new,2.46875
+Someone fixed the car with a,inconceivable,3.0,3, smile, smile,6.34375
+Someone fixed the car with a,inconceivable,3.0,4, car, car,5.34375
+Someone fixed the car with a,inconceivable,5.0,0, team, team,9.625
+Someone fixed the car with a,inconceivable,5.0,1, smile, smile,6.34375
+Someone fixed the car with a,inconceivable,5.0,2, good team, good,4.71875
+Someone fixed the car with a,inconceivable,5.0,3, <em>team</em>, ,3.34375
+Someone fixed the car with a,inconceivable,5.0,4, great team, great,5.96875
+Someone fixed the car with a,improbable,3.0,0, hammer, hammer,2.21875
+Someone fixed the car with a,improbable,3.0,1, 3D printer, ,3.34375
+Someone fixed the car with a,improbable,3.0,2, piece of wood, piece,3.59375
+Someone fixed the car with a,improbable,3.0,3, screwdriver, screwdriver,3.34375
+Someone fixed the car with a,improbable,3.0,4, sledgehammer, sledge,4.34375
+Someone fixed the car with a,improbable,5.0,0, hammer, hammer,2.21875
+Someone fixed the car with a,improbable,5.0,1, 1, ,3.34375
+Someone fixed the car with a,improbable,5.0,2, piece of wood, piece,3.59375
+Someone fixed the car with a,improbable,5.0,3, rubber band, rubber,5.46875
+Someone fixed the car with a,improbable,5.0,4, sledgehammer, sledge,4.34375
+Someone fed the child with a,None,,0, spoon, spoon,2.0
+Someone fed the child with a,None,,1, bottle of milk, bottle,2.5
+Someone fed the child with a,None,,2, knife, knife,3.0
+Someone fed the child with a,None,,3, syringe, syringe,3.5
+Someone fed the child with a,None,,4, glass of water, glass,3.625
+Someone fed the child with a,impossible,3.0,0, bottle of milk, bottle,2.5
+Someone fed the child with a,impossible,3.0,1, baby bottle, baby,4.25
+Someone fed the child with a,impossible,3.0,2, drink in the US, drink,5.125
+Someone fed the child with a,impossible,3.0,3, spoon, spoon,2.0
+Someone fed the child with a,impossible,3.0,4, hot dog, hot,4.25
+Someone fed the child with a,impossible,5.0,0, new song, new,6.75
+Someone fed the child with a,impossible,5.0,1, baby, baby,4.25
+Someone fed the child with a,impossible,5.0,2, song, song,14.25
+Someone fed the child with a,impossible,5.0,3, video game, video,7.125
+Someone fed the child with a,impossible,5.0,4, snake, snake,7.0
+Someone fed the child with a,inconceivable,3.0,0, child, child,6.125
+Someone fed the child with a,inconceivable,3.0,1, smile, smile,8.5
+Someone fed the child with a,inconceivable,3.0,2, lot of people, lot,4.125
+Someone fed the child with a,inconceivable,3.0,3, <strong>, ,4.125
+Someone fed the child with a,inconceivable,3.0,4, baby bottle, baby,4.25
+Someone fed the child with a,inconceivable,5.0,0, smile, smile,8.5
+Someone fed the child with a,inconceivable,5.0,1, child, child,6.125
+Someone fed the child with a,inconceivable,5.0,2, good thing, good,6.875
+Someone fed the child with a,inconceivable,5.0,3, team, team,15.0625
+Someone fed the child with a,inconceivable,5.0,4, different kind of child, different,6.375
+Someone fed the child with a,improbable,3.0,0, spoon, spoon,2.0
+Someone fed the child with a,improbable,3.0,1, bottle of milk, bottle,2.5
+Someone fed the child with a,improbable,3.0,2, knife, knife,3.0
+Someone fed the child with a,improbable,3.0,3, bowl of soup, bowl,4.25
+Someone fed the child with a,improbable,3.0,4, baby bottle, baby,4.25
+Someone fed the child with a,improbable,5.0,0, spoon, spoon,2.0
+Someone fed the child with a,improbable,5.0,1, <strong><em>pizza, ,4.125
+Someone fed the child with a,improbable,5.0,2, bowl of soup, bowl,4.25
+Someone fed the child with a,improbable,5.0,3, baby bottle, baby,4.25
+Someone fed the child with a,improbable,5.0,4, pizza, pizza,7.375
+Someone grilled the hot dogs with a,None,,0, gas grill, gas,2.21875
+Someone grilled the hot dogs with a,None,,1, charcoal grill, charcoal,2.71875
+Someone grilled the hot dogs with a,None,,2, lot of love, lot,2.71875
+Someone grilled the hot dogs with a,None,,3, propane grill, propane,2.96875
+Someone grilled the hot dogs with a,None,,4, little too much heat, little,2.96875
+Someone grilled the hot dogs with a,impossible,3.0,0, blowtorch, blow,3.71875
+Someone grilled the hot dogs with a,impossible,3.0,1, torch, torch,4.46875
+Someone grilled the hot dogs with a,impossible,3.0,2, hot dog grill, hot,4.09375
+Someone grilled the hot dogs with a,impossible,3.0,3, propane torch, propane,2.96875
+Someone grilled the hot dogs with a,impossible,3.0,4, grill, grill,3.59375
+Someone grilled the hot dogs with a,impossible,5.0,0, hot dog, hot,4.09375
+Someone grilled the hot dogs with a,impossible,5.0,1, grill, grill,3.59375
+Someone grilled the hot dogs with a,impossible,5.0,2, new grill, new,7.71875
+Someone grilled the hot dogs with a,impossible,5.0,3, good reason, good,4.71875
+Someone grilled the hot dogs with a,impossible,5.0,4, great deal of success, great,4.96875
+Someone grilled the hot dogs with a,inconceivable,3.0,0, good amount of salt, good,4.71875
+Someone grilled the hot dogs with a,inconceivable,3.0,1, smile, smile,7.84375
+Someone grilled the hot dogs with a,inconceivable,3.0,2, little bit, little,2.96875
+Someone grilled the hot dogs with a,inconceivable,3.0,3, great deal of respect, great,4.96875
+Someone grilled the hot dogs with a,inconceivable,3.0,4, lot of love, lot,2.71875
+Someone grilled the hot dogs with a,inconceivable,5.0,0, team, team,12.6875
+Someone grilled the hot dogs with a,inconceivable,5.0,1, great team, great,4.96875
+Someone grilled the hot dogs with a,inconceivable,5.0,2, good thing, good,4.71875
+Someone grilled the hot dogs with a,inconceivable,5.0,3, smile, smile,7.84375
+Someone grilled the hot dogs with a,inconceivable,5.0,4, <i><b>, ,4.84375
+Someone grilled the hot dogs with a,improbable,3.0,0, blowtorch, blow,3.71875
+Someone grilled the hot dogs with a,improbable,3.0,1, torch, torch,4.46875
+Someone grilled the hot dogs with a,improbable,3.0,2, propane torch, propane,2.96875
+Someone grilled the hot dogs with a,improbable,3.0,3, gas grill, gas,2.21875
+Someone grilled the hot dogs with a,improbable,3.0,4, hot dog grill, hot,4.09375
+Someone grilled the hot dogs with a,improbable,5.0,0, blowtorch, blow,3.71875
+Someone grilled the hot dogs with a,improbable,5.0,1, torch, torch,4.46875
+Someone grilled the hot dogs with a,improbable,5.0,2, flamethrower, flame,4.09375
+Someone grilled the hot dogs with a,improbable,5.0,3, hot dog, hot,4.09375
+Someone grilled the hot dogs with a,improbable,5.0,4, gas grill, gas,2.21875
+Someone hit the ball with a,None,,0, bat, bat,1.7421875
+Someone hit the ball with a,None,,1, stick, stick,2.484375
+Someone hit the ball with a,None,,2, club, club,2.609375
+Someone hit the ball with a,None,,3, baseball bat, baseball,2.859375
+Someone hit the ball with a,None,,4, hammer, hammer,3.109375
+Someone hit the ball with a,impossible,3.0,0, golf club, golf,3.359375
+Someone hit the ball with a,impossible,3.0,1, bat, bat,1.7421875
+Someone hit the ball with a,impossible,3.0,2, baseball bat, baseball,2.859375
+Someone hit the ball with a,impossible,3.0,3, hammer, hammer,3.109375
+Someone hit the ball with a,impossible,3.0,4, club, club,2.609375
+Someone hit the ball with a,impossible,5.0,0, golf club, golf,3.359375
+Someone hit the ball with a,impossible,5.0,1, bat, bat,1.7421875
+Someone hit the ball with a,impossible,5.0,2, laser, laser,6.5
+Someone hit the ball with a,impossible,5.0,3, hammer, hammer,3.109375
+Someone hit the ball with a,impossible,5.0,4, baseball bat, baseball,2.859375
+Someone hit the ball with a,inconceivable,3.0,0, ball, ball,4.375
+Someone hit the ball with a,inconceivable,3.0,1, 1, ,3.234375
+Someone hit the ball with a,inconceivable,3.0,2, lot of pressure, lot,3.734375
+Someone hit the ball with a,inconceivable,3.0,3, great deal of power, great,5.25
+Someone hit the ball with a,inconceivable,3.0,4, good one, good,5.5
+Someone hit the ball with a,inconceivable,5.0,0, team, team,11.9375
+Someone hit the ball with a,inconceivable,5.0,1, smile, smile,7.75
+Someone hit the ball with a,inconceivable,5.0,2, <b><i><b>, ,3.234375
+Someone hit the ball with a,inconceivable,5.0,3, lot of the team, lot,3.734375
+Someone hit the ball with a,inconceivable,5.0,4, good thing, good,5.5
+Someone hit the ball with a,improbable,3.0,0, golf club, golf,3.359375
+Someone hit the ball with a,improbable,3.0,1, baseball bat, baseball,2.859375
+Someone hit the ball with a,improbable,3.0,2, hammer, hammer,3.109375
+Someone hit the ball with a,improbable,3.0,3, bat, bat,1.7421875
+Someone hit the ball with a,improbable,3.0,4, club, club,2.609375
+Someone hit the ball with a,improbable,5.0,0, golf club, golf,3.359375
+Someone hit the ball with a,improbable,5.0,1, tennis racket, tennis,4.625
+Someone hit the ball with a,improbable,5.0,2, club, club,2.609375
+Someone hit the ball with a,improbable,5.0,3, baseball bat, baseball,2.859375
+Someone hit the ball with a,improbable,5.0,4, hammer, hammer,3.109375
+Someone inspected the scene with a,None,,0, drone, drone,2.21875
+Someone inspected the scene with a,None,,1, flashlight, flashlight,2.59375
+Someone inspected the scene with a,None,,2, metal detector, metal,2.84375
+Someone inspected the scene with a,None,,3, camera, camera,3.09375
+Someone inspected the scene with a,None,,4, police dog, police,3.09375
+Someone inspected the scene with a,impossible,3.0,0, laser, laser,3.46875
+Someone inspected the scene with a,impossible,3.0,1, drone, drone,2.21875
+Someone inspected the scene with a,impossible,3.0,2, telescope, telescope,5.84375
+Someone inspected the scene with a,impossible,3.0,3, microscope, microscope,6.21875
+Someone inspected the scene with a,impossible,3.0,4, thermal camera, thermal,3.84375
+Someone inspected the scene with a,impossible,5.0,0, telescope, telescope,5.84375
+Someone inspected the scene with a,impossible,5.0,1, laser, laser,3.46875
+Someone inspected the scene with a,impossible,5.0,2, microscope, microscope,6.21875
+Someone inspected the scene with a,impossible,5.0,3, camera, camera,3.09375
+Someone inspected the scene with a,impossible,5.0,4, new telescope, new,6.71875
+Someone inspected the scene with a,inconceivable,3.0,0, team, team,4.34375
+Someone inspected the scene with a,inconceivable,3.0,1, smile, smile,6.59375
+Someone inspected the scene with a,inconceivable,3.0,2, group of people, group,4.71875
+Someone inspected the scene with a,inconceivable,3.0,3, little bit, little,5.59375
+Someone inspected the scene with a,inconceivable,3.0,4, great deal of care, great,8.125
+Someone inspected the scene with a,inconceivable,5.0,0, team, team,4.34375
+Someone inspected the scene with a,inconceivable,5.0,1, smile, smile,6.59375
+Someone inspected the scene with a,inconceivable,5.0,2, <i><b>team, ,3.96875
+Someone inspected the scene with a,inconceivable,5.0,3, great team, great,8.125
+Someone inspected the scene with a,inconceivable,5.0,4, group of the team, group,4.71875
+Someone inspected the scene with a,improbable,3.0,0, drone, drone,2.21875
+Someone inspected the scene with a,improbable,3.0,1, helicopter, helicopter,4.71875
+Someone inspected the scene with a,improbable,3.0,2, metal detector, metal,2.84375
+Someone inspected the scene with a,improbable,3.0,3, police dog, police,3.09375
+Someone inspected the scene with a,improbable,3.0,4, team of experts, team,4.34375
+Someone inspected the scene with a,improbable,5.0,0, drone, drone,2.21875
+Someone inspected the scene with a,improbable,5.0,1, team of experts, team,4.34375
+Someone inspected the scene with a,improbable,5.0,2, helicopter, helicopter,4.71875
+Someone inspected the scene with a,improbable,5.0,3, police officer, police,3.09375
+Someone inspected the scene with a,improbable,5.0,4, fire extinguisher, fire,4.46875
+Someone kept the money in a,None,,0, safe deposit box, safe,1.9296875
+Someone kept the money in a,None,,1, bank account, bank,2.671875
+Someone kept the money in a,None,,2, drawer in the office, drawer,3.046875
+Someone kept the money in a,None,,3, bag, bag,3.171875
+Someone kept the money in a,None,,4, box, box,3.171875
+Someone kept the money in a,impossible,3.0,0, safe, safe,1.9296875
+Someone kept the money in a,impossible,3.0,1, bank, bank,2.671875
+Someone kept the money in a,impossible,3.0,2, jar, jar,4.0625
+Someone kept the money in a,impossible,3.0,3, piggy bank, piggy,4.6875
+Someone kept the money in a,impossible,3.0,4, box, box,3.171875
+Someone kept the money in a,impossible,5.0,0, jar, jar,4.0625
+Someone kept the money in a,impossible,5.0,1, bank, bank,2.671875
+Someone kept the money in a,impossible,5.0,2, bag, bag,3.171875
+Someone kept the money in a,impossible,5.0,3, bottle, bottle,6.1875
+Someone kept the money in a,impossible,5.0,4, new year, new,7.5625
+Someone kept the money in a,inconceivable,3.0,0, safe, safe,1.9296875
+Someone kept the money in a,inconceivable,3.0,1, jar, jar,4.0625
+Someone kept the money in a,inconceivable,3.0,2, bank account, bank,2.671875
+Someone kept the money in a,inconceivable,3.0,3, bottle, bottle,6.1875
+Someone kept the money in a,inconceivable,3.0,4, pocket, pocket,5.0625
+Someone kept the money in a,inconceivable,5.0,0, good place, good,9.9375
+Someone kept the money in a,inconceivable,5.0,1, way, way,7.9375
+Someone kept the money in a,inconceivable,5.0,2, safe, safe,1.9296875
+Someone kept the money in a,inconceivable,5.0,3, pocket, pocket,5.0625
+Someone kept the money in a,inconceivable,5.0,4, smile, smile,19.125
+Someone kept the money in a,improbable,3.0,0, safe at the bank, safe,1.9296875
+Someone kept the money in a,improbable,3.0,1, bank account, bank,2.671875
+Someone kept the money in a,improbable,3.0,2, shoebox, shoe,3.671875
+Someone kept the money in a,improbable,3.0,3, jar, jar,4.0625
+Someone kept the money in a,improbable,3.0,4, box in a bank, box,3.171875
+Someone kept the money in a,improbable,5.0,0, safe, safe,1.9296875
+Someone kept the money in a,improbable,5.0,1, bank, bank,2.671875
+Someone kept the money in a,improbable,5.0,2, jar, jar,4.0625
+Someone kept the money in a,improbable,5.0,3, bag, bag,3.171875
+Someone kept the money in a,improbable,5.0,4, box, box,3.171875
+Someone measured the furniture using a,None,,0, tape measure, tape,1.015625
+Someone measured the furniture using a,None,,1, ruler, ruler,2.140625
+Someone measured the furniture using a,None,,2, 1, ,2.515625
+Someone measured the furniture using a,None,,3, measuring tape, measuring,3.015625
+Someone measured the furniture using a,None,,4, laser level, laser,3.640625
+Someone measured the furniture using a,impossible,3.0,0, laser, laser,3.640625
+Someone measured the furniture using a,impossible,3.0,1, ruler, ruler,2.140625
+Someone measured the furniture using a,impossible,3.0,2, tape measure, tape,1.015625
+Someone measured the furniture using a,impossible,3.0,3, 3D scanner, ,2.515625
+Someone measured the furniture using a,impossible,3.0,4, light meter, light,7.53125
+Someone measured the furniture using a,impossible,5.0,0, laser, laser,3.640625
+Someone measured the furniture using a,impossible,5.0,1, telescope, telescope,10.0
+Someone measured the furniture using a,impossible,5.0,2, microscope, microscope,8.75
+Someone measured the furniture using a,impossible,5.0,3, new technique, new,6.03125
+Someone measured the furniture using a,impossible,5.0,4, camera, camera,7.28125
+Someone measured the furniture using a,inconceivable,3.0,0, ruler and a ruler, ruler,2.140625
+Someone measured the furniture using a,inconceivable,3.0,1, <strong><em>quantum, ,2.515625
+Someone measured the furniture using a,inconceivable,3.0,2, tape measure, tape,1.015625
+Someone measured the furniture using a,inconceivable,3.0,3, new tool, new,6.03125
+Someone measured the furniture using a,inconceivable,3.0,4, scale of 1, scale,4.03125
+Someone measured the furniture using a,inconceivable,5.0,0, <b><i><u>, ,2.515625
+Someone measured the furniture using a,inconceivable,5.0,1, team, team,12.1875
+Someone measured the furniture using a,inconceivable,5.0,2, different scale, different,5.28125
+Someone measured the furniture using a,inconceivable,5.0,3, word, word,11.3125
+Someone measured the furniture using a,inconceivable,5.0,4, new one, new,6.03125
+Someone measured the furniture using a,improbable,3.0,0, tape measure, tape,1.015625
+Someone measured the furniture using a,improbable,3.0,1, ruler, ruler,2.140625
+Someone measured the furniture using a,improbable,3.0,2, laser level, laser,3.640625
+Someone measured the furniture using a,improbable,3.0,3, 3D scanner, ,2.515625
+Someone measured the furniture using a,improbable,3.0,4, measuring tape, measuring,3.015625
+Someone measured the furniture using a,improbable,5.0,0, tape measure, tape,1.015625
+Someone measured the furniture using a,improbable,5.0,1, ruler, ruler,2.140625
+Someone measured the furniture using a,improbable,5.0,2, laser, laser,3.640625
+Someone measured the furniture using a,improbable,5.0,3, measuring tape, measuring,3.015625
+Someone measured the furniture using a,improbable,5.0,4, 3D scanner, ,2.515625
+Someone navigated the seas using a,None,,0, compass, compass,1.421875
+Someone navigated the seas using a,None,,1, sextant, sext,2.171875
+Someone navigated the seas using a,None,,2, map, map,2.671875
+Someone navigated the seas using a,None,,3, 1, ,3.296875
+Someone navigated the seas using a,None,,4, magnetic compass, magnetic,3.421875
+Someone navigated the seas using a,impossible,3.0,0, compass, compass,1.421875
+Someone navigated the seas using a,impossible,3.0,1, map, map,2.671875
+Someone navigated the seas using a,impossible,3.0,2, 1, ,3.296875
+Someone navigated the seas using a,impossible,3.0,3, sextant, sext,2.171875
+Someone navigated the seas using a,impossible,3.0,4, star map, star,3.796875
+Someone navigated the seas using a,impossible,5.0,0, new telescope, new,5.28125
+Someone navigated the seas using a,impossible,5.0,1, telescope, telescope,5.28125
+Someone navigated the seas using a,impossible,5.0,2, 3D map, ,3.296875
+Someone navigated the seas using a,impossible,5.0,3, compass, compass,1.421875
+Someone navigated the seas using a,impossible,5.0,4, map, map,2.671875
+Someone navigated the seas using a,inconceivable,3.0,0, different language, different,6.40625
+Someone navigated the seas using a,inconceivable,3.0,1, compass, compass,1.421875
+Someone navigated the seas using a,inconceivable,3.0,2, 1, ,3.296875
+Someone navigated the seas using a,inconceivable,3.0,3, star map, star,3.796875
+Someone navigated the seas using a,inconceivable,3.0,4, ship, ship,4.53125
+Someone navigated the seas using a,inconceivable,5.0,0, different language, different,6.40625
+Someone navigated the seas using a,inconceivable,5.0,1, <em><strong>, ,3.296875
+Someone navigated the seas using a,inconceivable,5.0,2, team, team,8.8125
+Someone navigated the seas using a,inconceivable,5.0,3, new strategy, new,5.28125
+Someone navigated the seas using a,inconceivable,5.0,4, ship, ship,4.53125
+Someone navigated the seas using a,improbable,3.0,0, compass, compass,1.421875
+Someone navigated the seas using a,improbable,3.0,1, 1, ,3.296875
+Someone navigated the seas using a,improbable,3.0,2, map, map,2.671875
+Someone navigated the seas using a,improbable,3.0,3, sextant, sext,2.171875
+Someone navigated the seas using a,improbable,3.0,4, boat, boat,5.03125
+Someone navigated the seas using a,improbable,5.0,0, boat, boat,5.03125
+Someone navigated the seas using a,improbable,5.0,1, 1, ,3.296875
+Someone navigated the seas using a,improbable,5.0,2, compass, compass,1.421875
+Someone navigated the seas using a,improbable,5.0,3, ship, ship,4.53125
+Someone navigated the seas using a,improbable,5.0,4, map, map,2.671875
+Someone organized their files using a,None,,0, folder structure, folder,2.8125
+Someone organized their files using a,None,,1, <strong>folder</strong>, ,2.9375
+Someone organized their files using a,None,,2, custom folder structure, custom,3.1875
+Someone organized their files using a,None,,3, hierarchical structure, hierarchical,3.4375
+Someone organized their files using a,None,,4, simple folder structure, simple,3.4375
+Someone organized their files using a,impossible,3.0,0, spreadsheet, spreadsheet,3.6875
+Someone organized their files using a,impossible,3.0,1, new file system, new,3.6875
+Someone organized their files using a,impossible,3.0,2, 3D printer, ,2.9375
+Someone organized their files using a,impossible,3.0,3, cloud service, cloud,5.4375
+Someone organized their files using a,impossible,3.0,4, file manager, file,3.8125
+Someone organized their files using a,impossible,5.0,0, new app, new,3.6875
+Someone organized their files using a,impossible,5.0,1, 3D file, ,2.9375
+Someone organized their files using a,impossible,5.0,2, cloud, cloud,5.4375
+Someone organized their files using a,impossible,5.0,3, file, file,3.8125
+Someone organized their files using a,impossible,5.0,4, game, game,10.0625
+Someone organized their files using a,inconceivable,3.0,0, new feature, new,3.6875
+Someone organized their files using a,inconceivable,3.0,1, <strong>, ,2.9375
+Someone organized their files using a,inconceivable,3.0,2, file system, file,3.8125
+Someone organized their files using a,inconceivable,3.0,3, different language, different,3.8125
+Someone organized their files using a,inconceivable,3.0,4, very interesting concept, very,4.0625
+Someone organized their files using a,inconceivable,5.0,0, team, team,10.5625
+Someone organized their files using a,inconceivable,5.0,1, <em>team</em>, ,2.9375
+Someone organized their files using a,inconceivable,5.0,2, new word, new,3.6875
+Someone organized their files using a,inconceivable,5.0,3, different language, different,3.8125
+Someone organized their files using a,inconceivable,5.0,4, very different strategy, very,4.0625
+Someone organized their files using a,improbable,3.0,0, spreadsheet, spreadsheet,3.6875
+Someone organized their files using a,improbable,3.0,1, 3D printer, ,2.9375
+Someone organized their files using a,improbable,3.0,2, folder structure, folder,2.8125
+Someone organized their files using a,improbable,3.0,3, Google Drive folder, Google,4.9375
+Someone organized their files using a,improbable,3.0,4, custom folder structure, custom,3.1875
+Someone organized their files using a,improbable,5.0,0, 3D printer, ,2.9375
+Someone organized their files using a,improbable,5.0,1, spreadsheet, spreadsheet,3.6875
+Someone organized their files using a,improbable,5.0,2, USB drive, USB,6.1875
+Someone organized their files using a,improbable,5.0,3, cloud, cloud,5.4375
+Someone organized their files using a,improbable,5.0,4, file system, file,3.8125
+Someone protected the garden with a,None,,0, fence, fence,1.703125
+Someone protected the garden with a,None,,1, net, net,3.078125
+Someone protected the garden with a,None,,2, protective fence, protective,3.703125
+Someone protected the garden with a,None,,3, plastic sheet, plastic,3.703125
+Someone protected the garden with a,None,,4, wire fence, wire,3.703125
+Someone protected the garden with a,impossible,3.0,0, blanket of snow, blanket,4.46875
+Someone protected the garden with a,impossible,3.0,1, plastic bag, plastic,3.703125
+Someone protected the garden with a,impossible,3.0,2, new species of plant, new,4.59375
+Someone protected the garden with a,impossible,3.0,3, 3D printer, ,3.953125
+Someone protected the garden with a,impossible,3.0,4, giant inflatable, giant,5.96875
+Someone protected the garden with a,impossible,5.0,0, new song, new,4.59375
+Someone protected the garden with a,impossible,5.0,1, cloud, cloud,9.5625
+Someone protected the garden with a,impossible,5.0,2, virus, virus,12.0625
+Someone protected the garden with a,impossible,5.0,3, song, song,10.1875
+Someone protected the garden with a,impossible,5.0,4, flower, flower,6.71875
+Someone protected the garden with a,inconceivable,3.0,0, smile, smile,10.3125
+Someone protected the garden with a,inconceivable,3.0,1, shield, shield,5.34375
+Someone protected the garden with a,inconceivable,3.0,2, new generation, new,4.59375
+Someone protected the garden with a,inconceivable,3.0,3, spell, spell,6.84375
+Someone protected the garden with a,inconceivable,3.0,4, guard, guard,5.96875
+Someone protected the garden with a,inconceivable,5.0,0, team, team,12.3125
+Someone protected the garden with a,inconceivable,5.0,1, smile, smile,10.3125
+Someone protected the garden with a,inconceivable,5.0,2, family, family,11.0625
+Someone protected the garden with a,inconceivable,5.0,3, new one, new,4.59375
+Someone protected the garden with a,inconceivable,5.0,4, <em>team</em>, ,3.953125
+Someone protected the garden with a,improbable,3.0,0, fence, fence,1.703125
+Someone protected the garden with a,improbable,3.0,1, 1, ,3.953125
+Someone protected the garden with a,improbable,3.0,2, blanket, blanket,4.46875
+Someone protected the garden with a,improbable,3.0,3, net, net,3.078125
+Someone protected the garden with a,improbable,3.0,4, plastic sheet, plastic,3.703125
+Someone protected the garden with a,improbable,5.0,0, fence, fence,1.703125
+Someone protected the garden with a,improbable,5.0,1, 1, ,3.953125
+Someone protected the garden with a,improbable,5.0,2, giant inflatable, giant,5.96875
+Someone protected the garden with a,improbable,5.0,3, blanket, blanket,4.46875
+Someone protected the garden with a,improbable,5.0,4, net, net,3.078125
+Someone played the game with a,None,,0, friend of mine, friend,1.859375
+Someone played the game with a,None,,1, 1, ,2.359375
+Someone played the game with a,None,,2, controller, controller,2.859375
+Someone played the game with a,None,,3, different name, different,2.859375
+Someone played the game with a,None,,4, mouse and keyboard, mouse,3.234375
+Someone played the game with a,impossible,3.0,0, friend and it worked, friend,1.859375
+Someone played the game with a,impossible,3.0,1, controller, controller,2.859375
+Someone played the game with a,impossible,3.0,2, 3DS, ,2.359375
+Someone played the game with a,impossible,3.0,3, real person, real,4.75
+Someone played the game with a,impossible,3.0,4, different controller, different,2.859375
+Someone played the game with a,impossible,5.0,0, friend, friend,1.859375
+Someone played the game with a,impossible,5.0,1, real person, real,4.75
+Someone played the game with a,impossible,5.0,2, controller, controller,2.859375
+Someone played the game with a,impossible,5.0,3, 1, ,2.359375
+Someone played the game with a,impossible,5.0,4, new character, new,4.25
+Someone played the game with a,inconceivable,3.0,0, team, team,4.5
+Someone played the game with a,inconceivable,3.0,1, 1, ,2.359375
+Someone played the game with a,inconceivable,3.0,2, lot of people, lot,3.984375
+Someone played the game with a,inconceivable,3.0,3, friend, friend,1.859375
+Someone played the game with a,inconceivable,3.0,4, different team, different,2.859375
+Someone played the game with a,inconceivable,5.0,0, team, team,4.5
+Someone played the game with a,inconceivable,5.0,1, different team, different,2.859375
+Someone played the game with a,inconceivable,5.0,2, <em>team</em>, ,2.359375
+Someone played the game with a,inconceivable,5.0,3, good team, good,5.75
+Someone played the game with a,inconceivable,5.0,4, group, group,4.75
+Someone played the game with a,improbable,3.0,0, friend and they won, friend,1.859375
+Someone played the game with a,improbable,3.0,1, 1, ,2.359375
+Someone played the game with a,improbable,3.0,2, controller, controller,2.859375
+Someone played the game with a,improbable,3.0,3, bunch of people, bunch,3.859375
+Someone played the game with a,improbable,3.0,4, mouse, mouse,3.234375
+Someone played the game with a,improbable,5.0,0, friend, friend,1.859375
+Someone played the game with a,improbable,5.0,1, 1, ,2.359375
+Someone played the game with a,improbable,5.0,2, controller, controller,2.859375
+Someone played the game with a,improbable,5.0,3, bunch of people, bunch,3.859375
+Someone played the game with a,improbable,5.0,4, group of friends, group,4.75
+Someone treated the wound using a,None,,0, tourniquet, tour,3.3125
+Someone treated the wound using a,None,,1, hot water bottle, hot,3.3125
+Someone treated the wound using a,None,,2, piece of cloth, piece,3.6875
+Someone treated the wound using a,None,,3, <strong>bandage, ,3.6875
+Someone treated the wound using a,None,,4, cotton swab, cotton,3.8125
+Someone treated the wound using a,impossible,3.0,0, special cream, special,6.5625
+Someone treated the wound using a,impossible,3.0,1, 3D printer, ,3.6875
+Someone treated the wound using a,impossible,3.0,2, plant and it worked, plant,5.3125
+Someone treated the wound using a,impossible,3.0,3, home remedy, home,4.4375
+Someone treated the wound using a,impossible,3.0,4, new drug, new,6.9375
+Someone treated the wound using a,impossible,5.0,0, new drug, new,6.9375
+Someone treated the wound using a,impossible,5.0,1, laser, laser,8.5625
+Someone treated the wound using a,impossible,5.0,2, tattoo, tattoo,8.9375
+Someone treated the wound using a,impossible,5.0,3, <em>laser</em>, ,3.6875
+Someone treated the wound using a,impossible,5.0,4, plant, plant,5.3125
+Someone treated the wound using a,inconceivable,3.0,0, <strong><em>, ,3.6875
+Someone treated the wound using a,inconceivable,3.0,1, new technology, new,6.9375
+Someone treated the wound using a,inconceivable,3.0,2, traditional medicine, traditional,6.4375
+Someone treated the wound using a,inconceivable,3.0,3, very old, very,5.5625
+Someone treated the wound using a,inconceivable,3.0,4, drug, drug,6.1875
+Someone treated the wound using a,inconceivable,5.0,0, <em><strong>team, ,3.6875
+Someone treated the wound using a,inconceivable,5.0,1, different word, different,7.3125
+Someone treated the wound using a,inconceivable,5.0,2, very different tool, very,5.5625
+Someone treated the wound using a,inconceivable,5.0,3, team, team,12.1875
+Someone treated the wound using a,inconceivable,5.0,4, new tool, new,6.9375
+Someone treated the wound using a,improbable,3.0,0, hot water bottle, hot,3.3125
+Someone treated the wound using a,improbable,3.0,1, 3D printer, ,3.6875
+Someone treated the wound using a,improbable,3.0,2, piece of cloth, piece,3.6875
+Someone treated the wound using a,improbable,3.0,3, mixture, mixture,3.9375
+Someone treated the wound using a,improbable,3.0,4, paper towel, paper,4.3125
+Someone treated the wound using a,improbable,5.0,0, <strong><em>, ,3.6875
+Someone treated the wound using a,improbable,5.0,1, hot dog, hot,3.3125
+Someone treated the wound using a,improbable,5.0,2, banana, banana,8.0625
+Someone treated the wound using a,improbable,5.0,3, piece of paper, piece,3.6875
+Someone treated the wound using a,improbable,5.0,4, paper towel, paper,4.3125
+Someone trimmed the hedges using a,None,,0, chainsaw, chainsaw,1.828125
+Someone trimmed the hedges using a,None,,1, hedge trimmer, hedge,2.328125
+Someone trimmed the hedges using a,None,,2, weed wacker, weed,2.703125
+Someone trimmed the hedges using a,None,,3, lawnmower, lawn,2.953125
+Someone trimmed the hedges using a,None,,4, chain saw, chain,3.078125
+Someone trimmed the hedges using a,impossible,3.0,0, chainsaw in the UK, chainsaw,1.828125
+Someone trimmed the hedges using a,impossible,3.0,1, hedge trimmer, hedge,2.328125
+Someone trimmed the hedges using a,impossible,3.0,2, weed wacker, weed,2.703125
+Someone trimmed the hedges using a,impossible,3.0,3, leaf blower, leaf,4.71875
+Someone trimmed the hedges using a,impossible,3.0,4, pair of scissors, pair,3.453125
+Someone trimmed the hedges using a,impossible,5.0,0, laser, laser,6.96875
+Someone trimmed the hedges using a,impossible,5.0,1, chainsaw, chainsaw,1.828125
+Someone trimmed the hedges using a,impossible,5.0,2, weed killer, weed,2.703125
+Someone trimmed the hedges using a,impossible,5.0,3, drone, drone,8.9375
+Someone trimmed the hedges using a,impossible,5.0,4, new technique, new,7.09375
+Someone trimmed the hedges using a,inconceivable,3.0,0, pair of scissors, pair,3.453125
+Someone trimmed the hedges using a,inconceivable,3.0,1, hedge trimmer, hedge,2.328125
+Someone trimmed the hedges using a,inconceivable,3.0,2, chainsaw, chainsaw,1.828125
+Someone trimmed the hedges using a,inconceivable,3.0,3, laser cutter, laser,6.96875
+Someone trimmed the hedges using a,inconceivable,3.0,4, power tool, power,3.453125
+Someone trimmed the hedges using a,inconceivable,5.0,0, team of the team, team,13.1875
+Someone trimmed the hedges using a,inconceivable,5.0,1, 3rd party, ,4.09375
+Someone trimmed the hedges using a,inconceivable,5.0,2, sword, sword,6.34375
+Someone trimmed the hedges using a,inconceivable,5.0,3, new word, new,7.09375
+Someone trimmed the hedges using a,inconceivable,5.0,4, different team, different,7.84375
+Someone trimmed the hedges using a,improbable,3.0,0, chainsaw, chainsaw,1.828125
+Someone trimmed the hedges using a,improbable,3.0,1, weed wacker, weed,2.703125
+Someone trimmed the hedges using a,improbable,3.0,2, hedge trimmer, hedge,2.328125
+Someone trimmed the hedges using a,improbable,3.0,3, lawnmower, lawn,2.953125
+Someone trimmed the hedges using a,improbable,3.0,4, chain saw, chain,3.078125
+Someone trimmed the hedges using a,improbable,5.0,0, chainsaw, chainsaw,1.828125
+Someone trimmed the hedges using a,improbable,5.0,1, weed wacker, weed,2.703125
+Someone trimmed the hedges using a,improbable,5.0,2, hedge trimmer, hedge,2.328125
+Someone trimmed the hedges using a,improbable,5.0,3, lawnmower, lawn,2.953125
+Someone trimmed the hedges using a,improbable,5.0,4, pair of scissors, pair,3.453125
+Someone uploaded the document using a,None,,0, different name, different,2.484375
+Someone uploaded the document using a,None,,1, fake name, fake,2.859375
+Someone uploaded the document using a,None,,2, Google account, Google,2.984375
+Someone uploaded the document using a,None,,3, free account, free,3.234375
+Someone uploaded the document using a,None,,4, public link, public,3.359375
+Someone uploaded the document using a,impossible,3.0,0, different name, different,2.484375
+Someone uploaded the document using a,impossible,3.0,1, VPN, VPN,4.21875
+Someone uploaded the document using a,impossible,3.0,2, new format, new,3.734375
+Someone uploaded the document using a,impossible,3.0,3, 3D printer, ,3.484375
+Someone uploaded the document using a,impossible,3.0,4, browser, browser,4.46875
+Someone uploaded the document using a,impossible,5.0,0, new app, new,3.734375
+Someone uploaded the document using a,impossible,5.0,1, 3D printer, ,3.484375
+Someone uploaded the document using a,impossible,5.0,2, cloud, cloud,6.09375
+Someone uploaded the document using a,impossible,5.0,3, virus, virus,6.59375
+Someone uploaded the document using a,impossible,5.0,4, different app, different,2.484375
+Someone uploaded the document using a,inconceivable,3.0,0, new feature, new,3.734375
+Someone uploaded the document using a,inconceivable,3.0,1, <em><strong>document, ,3.484375
+Someone uploaded the document using a,inconceivable,3.0,2, file upload, file,3.484375
+Someone uploaded the document using a,inconceivable,3.0,3, different name, different,2.484375
+Someone uploaded the document using a,inconceivable,3.0,4, video game, video,6.46875
+Someone uploaded the document using a,inconceivable,5.0,0, <em><strong>team, ,3.484375
+Someone uploaded the document using a,inconceivable,5.0,1, team, team,9.625
+Someone uploaded the document using a,inconceivable,5.0,2, different word, different,2.484375
+Someone uploaded the document using a,inconceivable,5.0,3, word, word,5.34375
+Someone uploaded the document using a,inconceivable,5.0,4, new tool, new,3.734375
+Someone uploaded the document using a,improbable,3.0,0, fake name, fake,2.859375
+Someone uploaded the document using a,improbable,3.0,1, Google Doc, Google,2.984375
+Someone uploaded the document using a,improbable,3.0,2, 3D printer, ,3.484375
+Someone uploaded the document using a,improbable,3.0,3, different name, different,2.484375
+Someone uploaded the document using a,improbable,3.0,4, link, link,3.359375
+Someone uploaded the document using a,improbable,5.0,0, 3D printer, ,3.484375
+Someone uploaded the document using a,improbable,5.0,1, fake name, fake,2.859375
+Someone uploaded the document using a,improbable,5.0,2, Google Doc, Google,2.984375
+Someone uploaded the document using a,improbable,5.0,3, link on the internet, link,3.359375
+Someone uploaded the document using a,improbable,5.0,4, form on the website, form,5.21875
+Someone verified the facts with a,None,,0, source, source,2.734375
+Someone verified the facts with a,None,,1, friend of mine, friend,2.859375
+Someone verified the facts with a,None,,2, local police officer, local,2.859375
+Someone verified the facts with a,None,,3, few people, few,3.234375
+Someone verified the facts with a,None,,4, 1, ,3.359375
+Someone verified the facts with a,impossible,3.0,0, NASA scientist, NASA,8.125
+Someone verified the facts with a,impossible,3.0,1, 1, ,3.359375
+Someone verified the facts with a,impossible,3.0,2, scientist, scientist,8.25
+Someone verified the facts with a,impossible,3.0,3, lie detector, lie,7.75
+Someone verified the facts with a,impossible,3.0,4, new study, new,5.0
+Someone verified the facts with a,impossible,5.0,0, new song, new,5.0
+Someone verified the facts with a,impossible,5.0,1, scientist, scientist,8.25
+Someone verified the facts with a,impossible,5.0,2, <em><strong>, ,3.359375
+Someone verified the facts with a,impossible,5.0,3, lie, lie,7.75
+Someone verified the facts with a,impossible,5.0,4, NASA scientist, NASA,8.125
+Someone verified the facts with a,inconceivable,3.0,0, friend, friend,2.859375
+Someone verified the facts with a,inconceivable,3.0,1, lot of people, lot,5.0
+Someone verified the facts with a,inconceivable,3.0,2, few, few,3.234375
+Someone verified the facts with a,inconceivable,3.0,3, smile, smile,8.5
+Someone verified the facts with a,inconceivable,3.0,4, <strong><em>yes, ,3.359375
+Someone verified the facts with a,inconceivable,5.0,0, team, team,5.75
+Someone verified the facts with a,inconceivable,5.0,1, friend, friend,2.859375
+Someone verified the facts with a,inconceivable,5.0,2, smile, smile,8.5
+Someone verified the facts with a,inconceivable,5.0,3, <b>, ,3.359375
+Someone verified the facts with a,inconceivable,5.0,4, great team, great,7.125
+Someone verified the facts with a,improbable,3.0,0, friend of mine, friend,2.859375
+Someone verified the facts with a,improbable,3.0,1, 1, ,3.359375
+Someone verified the facts with a,improbable,3.0,2, local police department, local,2.859375
+Someone verified the facts with a,improbable,3.0,3, video of the incident, video,4.625
+Someone verified the facts with a,improbable,3.0,4, few of the people, few,3.234375
+Someone verified the facts with a,improbable,5.0,0, 1, ,3.359375
+Someone verified the facts with a,improbable,5.0,1, friend of mine, friend,2.859375
+Someone verified the facts with a,improbable,5.0,2, doctor, doctor,3.984375
+Someone verified the facts with a,improbable,5.0,3, local news station, local,2.859375
+Someone verified the facts with a,improbable,5.0,4, real-life expert, real,4.375
+Someone watched the show using a,None,,0, VPN, VPN,1.6953125
+Someone watched the show using a,None,,1, different account, different,2.953125
+Someone watched the show using a,None,,2, computer, computer,3.203125
+Someone watched the show using a,None,,3, proxy server, proxy,3.328125
+Someone watched the show using a,None,,4, TV, TV,3.453125
+Someone watched the show using a,impossible,3.0,0, VPN, VPN,1.6953125
+Someone watched the show using a,impossible,3.0,1, telescope, telescope,6.6875
+Someone watched the show using a,impossible,3.0,2, 3D TV, ,3.453125
+Someone watched the show using a,impossible,3.0,3, drone, drone,7.8125
+Someone watched the show using a,impossible,3.0,4, TV remote, TV,3.453125
+Someone watched the show using a,impossible,5.0,0, telescope, telescope,6.6875
+Someone watched the show using a,impossible,5.0,1, new app, new,4.9375
+Someone watched the show using a,impossible,5.0,2, 3D projector, ,3.453125
+Someone watched the show using a,impossible,5.0,3, drone, drone,7.8125
+Someone watched the show using a,impossible,5.0,4, different lens, different,2.953125
+Someone watched the show using a,inconceivable,3.0,0, different language, different,2.953125
+Someone watched the show using a,inconceivable,3.0,1, <strong><em>Star, ,3.453125
+Someone watched the show using a,inconceivable,3.0,2, new feature, new,4.9375
+Someone watched the show using a,inconceivable,3.0,3, very different lens, very,5.9375
+Someone watched the show using a,inconceivable,3.0,4, lot, lot,7.8125
+Someone watched the show using a,inconceivable,5.0,0, team, team,10.1875
+Someone watched the show using a,inconceivable,5.0,1, <em>team</em>, ,3.453125
+Someone watched the show using a,inconceivable,5.0,2, different language, different,2.953125
+Someone watched the show using a,inconceivable,5.0,3, new word, new,4.9375
+Someone watched the show using a,inconceivable,5.0,4, very different tool, very,5.9375
+Someone watched the show using a,improbable,3.0,0, VPN, VPN,1.6953125
+Someone watched the show using a,improbable,3.0,1, 3D TV, ,3.453125
+Someone watched the show using a,improbable,3.0,2, remote control, remote,3.828125
+Someone watched the show using a,improbable,3.0,3, TV and a computer, TV,3.453125
+Someone watched the show using a,improbable,3.0,4, live stream, live,4.3125
+Someone watched the show using a,improbable,5.0,0, 3D TV, ,3.453125
+Someone watched the show using a,improbable,5.0,1, remote control, remote,3.828125
+Someone watched the show using a,improbable,5.0,2, drone, drone,7.8125
+Someone watched the show using a,improbable,5.0,3, camera, camera,6.1875
+Someone watched the show using a,improbable,5.0,4, TV remote control, TV,3.453125
+Someone yanked the door using their,None,,0, foot, foot,2.1875
+Someone yanked the door using their,None,,1, shoulder, shoulder,2.9375
+Someone yanked the door using their,None,,2, hand, hand,2.9375
+Someone yanked the door using their,None,,3, teeth, teeth,3.0625
+Someone yanked the door using their,None,,4, hands, hands,3.0625
+Someone yanked the door using their,impossible,3.0,0, teeth, teeth,3.0625
+Someone yanked the door using their,impossible,3.0,1, hands, hands,3.0625
+Someone yanked the door using their,impossible,3.0,2, fingers, fingers,3.8125
+Someone yanked the door using their,impossible,3.0,3, finger, finger,4.0625
+Someone yanked the door using their,impossible,3.0,4, own strength, own,4.1875
+Someone yanked the door using their,impossible,5.0,0, new weapon, new,8.3125
+Someone yanked the door using their,impossible,5.0,1, tongue, tongue,8.1875
+Someone yanked the door using their,impossible,5.0,2, own song, own,4.1875
+Someone yanked the door using their,impossible,5.0,3, mouth, mouth,7.1875
+Someone yanked the door using their,impossible,5.0,4, first song, first,8.1875
+Someone yanked the door using their,inconceivable,3.0,0, own body, own,4.1875
+Someone yanked the door using their,inconceivable,3.0,1, hands, hands,3.0625
+Someone yanked the door using their,inconceivable,3.0,2, very own, very,9.1875
+Someone yanked the door using their,inconceivable,3.0,3, favorite weapon, favorite,9.9375
+Someone yanked the door using their,inconceivable,3.0,4, power, power,5.1875
+Someone yanked the door using their,inconceivable,5.0,0, own, own,4.1875
+Someone yanked the door using their,inconceivable,5.0,1, team, team,12.1875
+Someone yanked the door using their,inconceivable,5.0,2, mouth, mouth,7.1875
+Someone yanked the door using their,inconceivable,5.0,3, breath, breath,10.3125
+Someone yanked the door using their,inconceivable,5.0,4, head, head,4.5625
+Someone yanked the door using their,improbable,3.0,0, car, car,3.3125
+Someone yanked the door using their,improbable,3.0,1, teeth, teeth,3.0625
+Someone yanked the door using their,improbable,3.0,2, bare hands, bare,3.1875
+Someone yanked the door using their,improbable,3.0,3, hands, hands,3.0625
+Someone yanked the door using their,improbable,3.0,4, own body, own,4.1875
+Someone yanked the door using their,improbable,5.0,0, car, car,3.3125
+Someone yanked the door using their,improbable,5.0,1, own body, own,4.1875
+Someone yanked the door using their,improbable,5.0,2, hands, hands,3.0625
+Someone yanked the door using their,improbable,5.0,3, teeth, teeth,3.0625
+Someone yanked the door using their,improbable,5.0,4, bike, bike,6.1875
+Someone delivered the package using a,None,,0, different name, different,3.15625
+Someone delivered the package using a,None,,1, UPS truck, UPS,3.15625
+Someone delivered the package using a,None,,2, bicycle, bicycle,3.28125
+Someone delivered the package using a,None,,3, truck, truck,3.28125
+Someone delivered the package using a,None,,4, bike, bike,3.40625
+Someone delivered the package using a,impossible,3.0,0, drone, drone,3.78125
+Someone delivered the package using a,impossible,3.0,1, helicopter, helicopter,5.90625
+Someone delivered the package using a,impossible,3.0,2, plane, plane,8.625
+Someone delivered the package using a,impossible,3.0,3, truck, truck,3.28125
+Someone delivered the package using a,impossible,3.0,4, car, car,3.90625
+Someone delivered the package using a,impossible,5.0,0, drone, drone,3.78125
+Someone delivered the package using a,impossible,5.0,1, delivery service, delivery,3.53125
+Someone delivered the package using a,impossible,5.0,2, new delivery service, new,5.53125
+Someone delivered the package using a,impossible,5.0,3, carrier, carrier,4.28125
+Someone delivered the package using a,impossible,5.0,4, package, package,5.40625
+Someone delivered the package using a,inconceivable,3.0,0, third party, third,4.28125
+Someone delivered the package using a,inconceivable,3.0,1, 3rd party, ,3.40625
+Someone delivered the package using a,inconceivable,3.0,2, delivery service, delivery,3.53125
+Someone delivered the package using a,inconceivable,3.0,3, package, package,5.40625
+Someone delivered the package using a,inconceivable,3.0,4, very good friend, very,4.90625
+Someone delivered the package using a,inconceivable,5.0,0, team, team,12.375
+Someone delivered the package using a,inconceivable,5.0,1, <em>team</em>, ,3.40625
+Someone delivered the package using a,inconceivable,5.0,2, very good team, very,4.90625
+Someone delivered the package using a,inconceivable,5.0,3, different team, different,3.15625
+Someone delivered the package using a,inconceivable,5.0,4, great team, great,8.625
+Someone delivered the package using a,improbable,3.0,0, drone, drone,3.78125
+Someone delivered the package using a,improbable,3.0,1, bicycle, bicycle,3.28125
+Someone delivered the package using a,improbable,3.0,2, bike, bike,3.40625
+Someone delivered the package using a,improbable,3.0,3, car, car,3.90625
+Someone delivered the package using a,improbable,3.0,4, truck, truck,3.28125
+Someone delivered the package using a,improbable,5.0,0, drone, drone,3.78125
+Someone delivered the package using a,improbable,5.0,1, bicycle, bicycle,3.28125
+Someone delivered the package using a,improbable,5.0,2, bike, bike,3.40625
+Someone delivered the package using a,improbable,5.0,3, car, car,3.90625
+Someone delivered the package using a,improbable,5.0,4, motorcycle, motorcycle,4.03125
+Someone destroyed a building using a,None,,0, bomb, bomb,2.375
+Someone destroyed a building using a,None,,1, car, car,2.75
+Someone destroyed a building using a,None,,2, rocket launcher, rocket,3.25
+Someone destroyed a building using a,None,,3, large amount of explosives, large,3.5
+Someone destroyed a building using a,None,,4, fire bomb, fire,3.625
+Someone destroyed a building using a,impossible,3.0,0, laser, laser,4.625
+Someone destroyed a building using a,impossible,3.0,1, drone, drone,3.875
+Someone destroyed a building using a,impossible,3.0,2, bomb, bomb,2.375
+Someone destroyed a building using a,impossible,3.0,3, fire bomb, fire,3.625
+Someone destroyed a building using a,impossible,3.0,4, flamethrower, flame,4.875
+Someone destroyed a building using a,impossible,5.0,0, laser, laser,4.625
+Someone destroyed a building using a,impossible,5.0,1, new weapon, new,5.875
+Someone destroyed a building using a,impossible,5.0,2, drone, drone,3.875
+Someone destroyed a building using a,impossible,5.0,3, fire, fire,3.625
+Someone destroyed a building using a,impossible,5.0,4, nuclear bomb, nuclear,6.125
+Someone destroyed a building using a,inconceivable,3.0,0, new weapon, new,5.875
+Someone destroyed a building using a,inconceivable,3.0,1, weapon of mass destruction, weapon,4.875
+Someone destroyed a building using a,inconceivable,3.0,2, <strong><em>Star, ,3.75
+Someone destroyed a building using a,inconceivable,3.0,3, nuclear bomb, nuclear,6.125
+Someone destroyed a building using a,inconceivable,3.0,4, powerful weapon, powerful,3.875
+Someone destroyed a building using a,inconceivable,5.0,0, team, team,10.25
+Someone destroyed a building using a,inconceivable,5.0,1, new word, new,5.875
+Someone destroyed a building using a,inconceivable,5.0,2, word, word,12.5625
+Someone destroyed a building using a,inconceivable,5.0,3, <em><strong>team, ,3.75
+Someone destroyed a building using a,inconceivable,5.0,4, sword, sword,6.625
+Someone destroyed a building using a,improbable,3.0,0, car, car,2.75
+Someone destroyed a building using a,improbable,3.0,1, drone in the Netherlands, drone,3.875
+Someone destroyed a building using a,improbable,3.0,2, bomb, bomb,2.375
+Someone destroyed a building using a,improbable,3.0,3, fire extinguisher, fire,3.625
+Someone destroyed a building using a,improbable,3.0,4, 3D printer, ,3.75
+Someone destroyed a building using a,improbable,5.0,0, drone, drone,3.875
+Someone destroyed a building using a,improbable,5.0,1, fire extinguisher, fire,3.625
+Someone destroyed a building using a,improbable,5.0,2, car, car,2.75
+Someone destroyed a building using a,improbable,5.0,3, 3D printer, ,3.75
+Someone destroyed a building using a,improbable,5.0,4, wrecking ball, wrecking,4.75
+Someone explained a concept using a,None,,0, picture of a car, picture,2.453125
+Someone explained a concept using a,None,,1, metaphor, metaphor,2.953125
+Someone explained a concept using a,None,,2, diagram, diagram,2.953125
+Someone explained a concept using a,None,,3, 3D model, ,3.078125
+Someone explained a concept using a,None,,4, simple example, simple,3.078125
+Someone explained a concept using a,impossible,3.0,0, song, song,5.59375
+Someone explained a concept using a,impossible,3.0,1, picture, picture,2.453125
+Someone explained a concept using a,impossible,3.0,2, video game, video,4.21875
+Someone explained a concept using a,impossible,3.0,3, meme, meme,6.96875
+Someone explained a concept using a,impossible,3.0,4, movie, movie,5.84375
+Someone explained a concept using a,impossible,5.0,0, song, song,5.59375
+Someone explained a concept using a,impossible,5.0,1, video, video,4.21875
+Someone explained a concept using a,impossible,5.0,2, new song, new,6.46875
+Someone explained a concept using a,impossible,5.0,3, concept, concept,5.59375
+Someone explained a concept using a,impossible,5.0,4, picture, picture,2.453125
+Someone explained a concept using a,inconceivable,3.0,0, concept, concept,5.59375
+Someone explained a concept using a,inconceivable,3.0,1, metaphor, metaphor,2.953125
+Someone explained a concept using a,inconceivable,3.0,2, story, story,3.578125
+Someone explained a concept using a,inconceivable,3.0,3, word, word,4.09375
+Someone explained a concept using a,inconceivable,3.0,4, different language, different,5.46875
+Someone explained a concept using a,inconceivable,5.0,0, concept, concept,5.59375
+Someone explained a concept using a,inconceivable,5.0,1, word, word,4.09375
+Someone explained a concept using a,inconceivable,5.0,2, different word, different,5.46875
+Someone explained a concept using a,inconceivable,5.0,3, very different word, very,3.578125
+Someone explained a concept using a,inconceivable,5.0,4, <em><strong>, ,3.078125
+Someone explained a concept using a,improbable,3.0,0, picture, picture,2.453125
+Someone explained a concept using a,improbable,3.0,1, video game, video,4.21875
+Someone explained a concept using a,improbable,3.0,2, 1, ,3.078125
+Someone explained a concept using a,improbable,3.0,3, game of chess, game,4.46875
+Someone explained a concept using a,improbable,3.0,4, song, song,5.59375
+Someone explained a concept using a,improbable,5.0,0, video game, video,4.21875
+Someone explained a concept using a,improbable,5.0,1, 3D printer, ,3.078125
+Someone explained a concept using a,improbable,5.0,2, song, song,5.59375
+Someone explained a concept using a,improbable,5.0,3, game, game,4.46875
+Someone explained a concept using a,improbable,5.0,4, picture, picture,2.453125
+Someone played a song on a,None,,0, guitar, guitar,1.796875
+Someone played a song on a,None,,1, piano, piano,2.046875
+Someone played a song on a,None,,2, radio station, radio,2.046875
+Someone played a song on a,None,,3, keyboard, keyboard,3.171875
+Someone played a song on a,None,,4, jukebox, ju,3.421875
+Someone played a song on a,impossible,3.0,0, guitar, guitar,1.796875
+Someone played a song on a,impossible,3.0,1, flute, flute,3.921875
+Someone played a song on a,impossible,3.0,2, piano, piano,2.046875
+Someone played a song on a,impossible,3.0,3, violin, violin,4.15625
+Someone played a song on a,impossible,3.0,4, harmonica, harmon,3.546875
+Someone played a song on a,impossible,5.0,0, flute, flute,3.921875
+Someone played a song on a,impossible,5.0,1, guitar, guitar,1.796875
+Someone played a song on a,impossible,5.0,2, harp, harp,5.15625
+Someone played a song on a,impossible,5.0,3, violin, violin,4.15625
+Someone played a song on a,impossible,5.0,4, saxophone, saxophone,5.15625
+Someone played a song on a,inconceivable,3.0,0, card, card,9.9375
+Someone played a song on a,inconceivable,3.0,1, radio station, radio,2.046875
+Someone played a song on a,inconceivable,3.0,2, song card, song,6.03125
+Someone played a song on a,inconceivable,3.0,3, piano, piano,2.046875
+Someone played a song on a,inconceivable,3.0,4, TV show, TV,5.15625
+Someone played a song on a,inconceivable,5.0,0, team, team,11.75
+Someone played a song on a,inconceivable,5.0,1, stick, stick,9.9375
+Someone played a song on a,inconceivable,5.0,2, <em><strong>, ,4.40625
+Someone played a song on a,inconceivable,5.0,3, harp, harp,5.15625
+Someone played a song on a,inconceivable,5.0,4, ship, ship,9.5625
+Someone played a song on a,improbable,3.0,0, piano in a bar, piano,2.046875
+Someone played a song on a,improbable,3.0,1, guitar at a wedding, guitar,1.796875
+Someone played a song on a,improbable,3.0,2, flute, flute,3.921875
+Someone played a song on a,improbable,3.0,3, violin, violin,4.15625
+Someone played a song on a,improbable,3.0,4, keyboard at a wedding, keyboard,3.171875
+Someone played a song on a,improbable,5.0,0, piano in a bar, piano,2.046875
+Someone played a song on a,improbable,5.0,1, guitar at a concert, guitar,1.796875
+Someone played a song on a,improbable,5.0,2, violin, violin,4.15625
+Someone played a song on a,improbable,5.0,3, flute, flute,3.921875
+Someone played a song on a,improbable,5.0,4, harp, harp,5.15625
+Someone burned a piece of paper with a,None,,0, dollar bill on it, dollar,3.421875
+Someone burned a piece of paper with a,None,,1, message on it, message,3.421875
+Someone burned a piece of paper with a,None,,2, burning time, burning,3.421875
+Someone burned a piece of paper with a,None,,3, 1, ,3.421875
+Someone burned a piece of paper with a,None,,4, $1, $,3.546875
+Someone burned a piece of paper with a,impossible,3.0,0, candle, candle,5.4375
+Someone burned a piece of paper with a,impossible,3.0,1, match, match,4.5625
+Someone burned a piece of paper with a,impossible,3.0,2, 3D printer, ,3.421875
+Someone burned a piece of paper with a,impossible,3.0,3, cigarette, cigarette,6.1875
+Someone burned a piece of paper with a,impossible,3.0,4, friend, friend,5.8125
+Someone burned a piece of paper with a,impossible,5.0,0, new song, new,7.4375
+Someone burned a piece of paper with a,impossible,5.0,1, fire, fire,5.5625
+Someone burned a piece of paper with a,impossible,5.0,2, 1, ,3.421875
+Someone burned a piece of paper with a,impossible,5.0,3, little help, little,5.5625
+Someone burned a piece of paper with a,impossible,5.0,4, piece of paper, piece,3.796875
+Someone burned a piece of paper with a,inconceivable,3.0,0, fire, fire,5.5625
+Someone burned a piece of paper with a,inconceivable,3.0,1, <em><strong>fire, ,3.421875
+Someone burned a piece of paper with a,inconceivable,3.0,2, piece of paper, piece,3.796875
+Someone burned a piece of paper with a,inconceivable,3.0,3, smile, smile,9.1875
+Someone burned a piece of paper with a,inconceivable,3.0,4, lot of people, lot,5.4375
+Someone burned a piece of paper with a,inconceivable,5.0,0, team, team,9.0625
+Someone burned a piece of paper with a,inconceivable,5.0,1, smile, smile,9.1875
+Someone burned a piece of paper with a,inconceivable,5.0,2, <i><b>, ,3.421875
+Someone burned a piece of paper with a,inconceivable,5.0,3, little of the team, little,5.5625
+Someone burned a piece of paper with a,inconceivable,5.0,4, piece of the soul, piece,3.796875
+Someone burned a piece of paper with a,improbable,3.0,0, message on it, message,3.421875
+Someone burned a piece of paper with a,improbable,3.0,1, picture of a cat, picture,3.671875
+Someone burned a piece of paper with a,improbable,3.0,2, 1, ,3.421875
+Someone burned a piece of paper with a,improbable,3.0,3, note on it, note,4.3125
+Someone burned a piece of paper with a,improbable,3.0,4, photo of a woman, photo,4.8125
+Someone burned a piece of paper with a,improbable,5.0,0, message on it, message,3.421875
+Someone burned a piece of paper with a,improbable,5.0,1, 1, ,3.421875
+Someone burned a piece of paper with a,improbable,5.0,2, $1, $,3.546875
+Someone burned a piece of paper with a,improbable,5.0,3, picture of a cat, picture,3.671875
+Someone burned a piece of paper with a,improbable,5.0,4, photo of a man, photo,4.8125
+Someone communicated a message with a,None,,0, friend, friend,2.15625
+Someone communicated a message with a,None,,1, <strong>message</strong>, ,2.90625
+Someone communicated a message with a,None,,2, message, message,3.03125
+Someone communicated a message with a,None,,3, person, person,3.78125
+Someone communicated a message with a,None,,4, very important message, very,3.78125
+Someone communicated a message with a,impossible,3.0,0, message, message,3.03125
+Someone communicated a message with a,impossible,3.0,1, 1, ,2.90625
+Someone communicated a message with a,impossible,3.0,2, new medium, new,5.03125
+Someone communicated a message with a,impossible,3.0,3, friend, friend,2.15625
+Someone communicated a message with a,impossible,3.0,4, song, song,6.90625
+Someone communicated a message with a,impossible,5.0,0, new artist, new,5.03125
+Someone communicated a message with a,impossible,5.0,1, message, message,3.03125
+Someone communicated a message with a,impossible,5.0,2, song, song,6.90625
+Someone communicated a message with a,impossible,5.0,3, 1, ,2.90625
+Someone communicated a message with a,impossible,5.0,4, friend, friend,2.15625
+Someone communicated a message with a,inconceivable,3.0,0, person, person,3.78125
+Someone communicated a message with a,inconceivable,3.0,1, message, message,3.03125
+Someone communicated a message with a,inconceivable,3.0,2, friend, friend,2.15625
+Someone communicated a message with a,inconceivable,3.0,3, <strong><em>Star, ,2.90625
+Someone communicated a message with a,inconceivable,3.0,4, great deal of power, great,5.03125
+Someone communicated a message with a,inconceivable,5.0,0, team, team,6.28125
+Someone communicated a message with a,inconceivable,5.0,1, message, message,3.03125
+Someone communicated a message with a,inconceivable,5.0,2, <i><b>, ,2.90625
+Someone communicated a message with a,inconceivable,5.0,3, different, different,4.65625
+Someone communicated a message with a,inconceivable,5.0,4, new one, new,5.03125
+Someone communicated a message with a,improbable,3.0,0, friend, friend,2.15625
+Someone communicated a message with a,improbable,3.0,1, 1, ,2.90625
+Someone communicated a message with a,improbable,3.0,2, message, message,3.03125
+Someone communicated a message with a,improbable,3.0,3, group of people, group,4.15625
+Someone communicated a message with a,improbable,3.0,4, man in a wheelchair, man,5.03125
+Someone communicated a message with a,improbable,5.0,0, 1, ,2.90625
+Someone communicated a message with a,improbable,5.0,1, friend, friend,2.15625
+Someone communicated a message with a,improbable,5.0,2, message, message,3.03125
+Someone communicated a message with a,improbable,5.0,3, group of people, group,4.15625
+Someone communicated a message with a,improbable,5.0,4, man in a restaurant, man,5.03125
+Someone fought their enemy with a,None,,0, sword, sword,1.71875
+Someone fought their enemy with a,None,,1, knife, knife,2.34375
+Someone fought their enemy with a,None,,2, gun, gun,2.96875
+Someone fought their enemy with a,None,,3, stick, stick,3.21875
+Someone fought their enemy with a,None,,4, weapon, weapon,3.34375
+Someone fought their enemy with a,impossible,3.0,0, sword, sword,1.71875
+Someone fought their enemy with a,impossible,3.0,1, lightsaber, lightsaber,4.96875
+Someone fought their enemy with a,impossible,3.0,2, gun, gun,2.96875
+Someone fought their enemy with a,impossible,3.0,3, <em><strong>Star, ,3.96875
+Someone fought their enemy with a,impossible,3.0,4, new weapon, new,6.59375
+Someone fought their enemy with a,impossible,5.0,0, new weapon, new,6.59375
+Someone fought their enemy with a,impossible,5.0,1, sword, sword,1.71875
+Someone fought their enemy with a,impossible,5.0,2, lightsaber, lightsaber,4.96875
+Someone fought their enemy with a,impossible,5.0,3, gun, gun,2.96875
+Someone fought their enemy with a,impossible,5.0,4, song, song,7.34375
+Someone fought their enemy with a,inconceivable,3.0,0, sword, sword,1.71875
+Someone fought their enemy with a,inconceivable,3.0,1, smile, smile,5.59375
+Someone fought their enemy with a,inconceivable,3.0,2, weapon, weapon,3.34375
+Someone fought their enemy with a,inconceivable,3.0,3, friend, friend,6.84375
+Someone fought their enemy with a,inconceivable,3.0,4, new weapon, new,6.59375
+Someone fought their enemy with a,inconceivable,5.0,0, team, team,9.375
+Someone fought their enemy with a,inconceivable,5.0,1, whole, whole,7.96875
+Someone fought their enemy with a,inconceivable,5.0,2, smile, smile,5.59375
+Someone fought their enemy with a,inconceivable,5.0,3, sword, sword,1.71875
+Someone fought their enemy with a,inconceivable,5.0,4, friend, friend,6.84375
+Someone fought their enemy with a,improbable,3.0,0, sword, sword,1.71875
+Someone fought their enemy with a,improbable,3.0,1, knife, knife,2.34375
+Someone fought their enemy with a,improbable,3.0,2, <strong>sword</strong>, ,3.96875
+Someone fought their enemy with a,improbable,3.0,3, giant sword, giant,4.71875
+Someone fought their enemy with a,improbable,3.0,4, gun, gun,2.96875
+Someone fought their enemy with a,improbable,5.0,0, sword, sword,1.71875
+Someone fought their enemy with a,improbable,5.0,1, knife, knife,2.34375
+Someone fought their enemy with a,improbable,5.0,2, <strong><em>Star, ,3.96875
+Someone fought their enemy with a,improbable,5.0,3, giant sword, giant,4.71875
+Someone fought their enemy with a,improbable,5.0,4, gun, gun,2.96875

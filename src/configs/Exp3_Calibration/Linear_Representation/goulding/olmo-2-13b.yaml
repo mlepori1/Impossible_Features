@@ -1,0 +1,5 @@
+model: "allenai/OLMo-2-1124-13B"
+dataset_path: "goulding/adults.csv"
+results_path: "../results/allenai/OLMo-2-1124-13B/Calibration"
+representation_type: "Linear_Representation"
+dtype: "bfloat16"
