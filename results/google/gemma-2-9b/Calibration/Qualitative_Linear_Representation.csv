@@ -1,0 +1,79 @@
+,sentence,model probability,human probability
+0,Someone is about to be born with 12 toes.,0.21778,0.8918918918918919
+1,Someone is about to be born with 2 feet.,0.4406786,1.0
+2,Someone is about to be born with 2 wings.,0.3261485,0.07894736842105277
+3,Someone is about to buy a large rock.,0.7095484,0.9487179487179488
+4,Someone is about to clean a car.,0.99086696,1.0
+5,Someone is about to clean a cloud.,0.09351593,0.050000000000000044
+6,Someone is about to clean a road.,0.93695235,0.9743589743589745
+7,Someone is about to count all of the hairs on a dog.,0.70467293,0.29729729729729726
+8,Someone is about to count all of the sand in the world.,0.099375546,0.025000000000000022
+9,Someone is about to count all of the students in a room.,0.9861899,1.0
+10,Someone is about to cut the line to go into the store.,0.81164575,1.0
+11,Someone is about to eat a brownie for dessert.,0.9856219,1.0
+12,Someone is about to eat a large rock.,0.50713056,0.19444444444444442
+13,Someone is about to eat a lollipop.,0.94762135,1.0
+14,Someone is about to eat a pickle for dessert.,0.4985618,0.95
+15,Someone is about to eat a planet.,0.1658737,0.025000000000000022
+16,Someone is about to eat a rainbow for dessert.,0.45486552,0.0
+17,Someone is about to eat a whole sandwich for dinner.,0.8906827,1.0
+18,Someone is about to eat a whole turkey for dinner.,0.9380351,0.9
+19,Someone is about to eat a whole whale for dinner.,0.7223761,0.02631578947368418
+20,Someone is about to eat an insect.,0.8177272,0.9743589743589745
+21,Someone is about to find a monkey in a closet.,0.62323487,0.736842105263158
+22,Someone is about to find a sweater in a closet.,0.79473186,1.0
+23,Someone is about to find a unicorn in a closet.,0.5478792,0.07499999999999996
+24,Someone is about to have a cat as a pet.,0.96058285,1.0
+25,Someone is about to have a lion as a pet.,0.6234143,0.6666666666666667
+26,Someone is about to have the moon as a pet.,0.18025845,0.02564102564102555
+27,Someone is about to know the name of someone they just met.,0.44779903,0.9705882352941178
+28,Someone is about to know the names of everyone in the world.,0.073706865,0.02564102564102555
+29,Someone is about to know the names of everyone they ever met.,0.06249672,0.5526315789473684
+30,Someone is about to live for 1000 years.,0.36715692,0.0
+31,Someone is about to live for 110 years.,0.4311006,1.0
+32,Someone is about to live for 60 years.,0.84515095,1.0
+33,Someone is about to magically appear into the store.,0.71506,0.05263157894736836
+34,Someone is about to make a house out of bricks.,0.9575817,0.975
+35,Someone is about to make a house out of gas.,0.049543977,0.0
+36,Someone is about to make a house out of grass.,0.2160539,0.5135135135135135
+37,Someone is about to make their friend cry.,0.51628536,1.0
+38,Someone is about to make their friend shrink.,0.24998969,0.07894736842105277
+39,Someone is about to make their friend smile.,0.7496238,1.0
+40,Someone is about to move a marble with their breath.,0.5995825,0.8205128205128205
+41,Someone is about to move a marble with their hand.,0.9882412,1.0
+42,Someone is about to move a marble with their mind.,0.62811583,0.05128205128205121
+43,Someone is about to not eat for 1 hour.,0.7316577,1.0
+44,Someone is about to not eat for 10 days.,0.54227495,0.8108108108108107
+45,Someone is about to not eat for 100 days.,0.37890083,0.054054054054053946
+46,Someone is about to open a window with their breath.,0.6704136,0.1351351351351351
+47,Someone is about to open a window with their feet.,0.50967145,0.8974358974358975
+48,Someone is about to open a window with their hand.,0.96273714,1.0
+49,Someone is about to paint polka dots on a cloud.,0.41725093,0.025000000000000022
+50,Someone is about to paint polka dots on a plane.,0.3471828,0.925
+51,Someone is about to paint polka dots on a wall.,0.994625,1.0
+52,Someone is about to play with a toy.,0.96927804,1.0
+53,Someone is about to play with a wolf.,0.61462224,0.8
+54,Someone is about to play with magic.,0.44695723,0.4358974358974359
+55,Someone is about to ride a cow.,0.22353935,0.85
+56,Someone is about to ride a horse.,0.98335564,1.0
+57,Someone is about to ride an ogre.,0.10525906,0.07692307692307676
+58,Someone is about to shake someone's hand with their hand.,0.9538766,1.0
+59,Someone is about to shake someone's hand with their mind.,0.49112165,0.02631578947368418
+60,Someone is about to shake someone's hand with their mouth.,0.5214843,0.5641025641025641
+61,Someone is about to stay awake for 5 days.,0.66964734,0.525
+62,Someone is about to stay awake for 5 hours.,0.93994445,1.0
+63,Someone is about to stay awake for 5 years.,0.24858463,0.05128205128205121
+64,Someone is about to steal a large rock.,0.84870285,0.975
+65,Someone is about to turn an onion into apple juice.,0.7042865,0.0
+66,Someone is about to turn an onion into onion juice.,0.842412,0.9230769230769231
+67,Someone is about to turn an onion into onion slices.,0.9601247,0.9736842105263158
+68,Someone is about to unlock a door with a doorkey.,0.9940896,1.0
+69,Someone is about to unlock a door with a toothpick.,0.6555643,0.6666666666666667
+70,Someone is about to unlock a door with their mind.,0.71282256,0.050000000000000044
+71,Someone is about to wait in line to go into the store.,0.98703146,1.0
+72,Someone is about to walk through a brick wall.,0.7093504,0.10256410256410253
+73,Someone is about to walk through a hot fire.,0.65673417,0.6153846153846154
+74,Someone is about to walk through an open door.,0.87880737,1.0
+75,Someone is about to wear shoes made out of leather.,0.9342114,1.0
+76,Someone is about to wear shoes made out of light.,0.002789557,0.050000000000000044
+77,Someone is about to wear shoes made out of stone.,0.27841443,0.45945945945945943

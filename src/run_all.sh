@@ -1,5 +1,5 @@
 export PROJECT_DIR=/users/mlepori/data/mlepori/projects/Impossible_Features/
-export CONFIG_DIR=configs/Exp4_Correlation/test
+export CONFIG_DIR=configs/Exp3_Regressions/
 for file in ${CONFIG_DIR}/*;
 do
     echo "$file"

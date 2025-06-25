@@ -1,10 +1,15 @@
-## SLURM PROLOG ###############################################################
-##    Job ID : 11705623
-##  Job Name : gemma-2-2b
-##  Nodelist : gpu2106
-##      CPUs : 1
-##  Mem/Node : 204800 MB
-## Directory : /oscar/data/epavlick/mlepori/projects/Impossible_Features/src
-##   Job Started : Tue Jun 10 05:15:31 PM EDT 2025
-###############################################################################
-Loaded pretrained model gemma-2-2b into HookedTransformer
+hu_nonsense/data
+Linear_Representation
+Probability
+PC
+Random
+hu_shades/data
+Linear_Representation
+Probability
+PC
+Random
+goulding/adults
+Linear_Representation
+Probability
+PC
+Random

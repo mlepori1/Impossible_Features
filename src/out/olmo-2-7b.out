@@ -1,9 +1,15 @@
-## SLURM PROLOG ###############################################################
-##    Job ID : 11546271
-##  Job Name : olmo-2-7b
-##  Nodelist : gpu2254
-##      CPUs : 2
-##  Mem/Node : 204800 MB
-## Directory : /oscar/data/epavlick/mlepori/projects/Impossible_Features/src
-##   Job Started : Thu May 22 09:34:19 AM EDT 2025
-###############################################################################
+hu_nonsense/data
+Linear_Representation
+Probability
+PC
+Random
+hu_shades/data
+Linear_Representation
+Probability
+PC
+Random
+goulding/adults
+Linear_Representation
+Probability
+PC
+Random

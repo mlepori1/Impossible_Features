@@ -1,6 +1,6 @@
 """
 This file is used project along difference vectors (or compute probabilities).
-Then, see an analysis script to fit a QDA model to these projections.
+Then, see an analysis script to fit a LR model to these projections.
 """
 
 import os

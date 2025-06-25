@@ -1,11 +1,11 @@
 #!/bin/bash
 
-#SBATCH -N 1 -n 4
-#SBATCH -p 3090-gcondo --gres=gpu:3
-#SBATCH --mem=200GB
+#SBATCH -N 1 -n 1
+#SBATCH -p 3090-gcondo --gres=gpu:1
+#SBATCH --mem=100GB
 #SBATCH -t 2:00:00
 
 source /gpfs/data/epavlick/mlepori/miniconda3/etc/profile.d/conda.sh
 
 conda activate modal_features
-python $PROJECT_DIR/src/exp4_correlate.py --config $CONFIG
+python $PROJECT_DIR/src/exp3_regressions.py --config $CONFIG
