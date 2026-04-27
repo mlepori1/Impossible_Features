@@ -12,9 +12,10 @@ Use these modal difference vectors (and other baselines) to classify stimuli usi
 Analyze these results to produce the figures from Study 1 and Study 2 using `analysis/analyze_exp1.ipynb`.
 
 ### Study 3:
-Use these modal difference vectors (and other baselines) to featurize stimuli using `exp3_calibration.py` and the configs found in `src/configs/Exp3_Calibration`.
+Use these modal difference vectors (and other baselines) to featurize stimuli using `exp3_projections.py` and the configs found in `src/configs/Exp3_Projections`.
 
-Fit QDA models to produce the figures from Study 3 using `analysis/analyze_exp3.ipynb`.
+Fit Logistic Regression models to human response distributions using `exp3_regressions.py` and the configs found in `src/configs/Exp3_Regressions`.
+Produce the figures from Study 3 using `analysis/analyze_exp3.ipynb`.
 
 ### Study 4:
 Get projections along  modal difference vectors using `exp4_correlate.py` and the configs found in `src/configs/Exp4_Correlation`.
