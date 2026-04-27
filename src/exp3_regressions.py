@@ -254,11 +254,7 @@ def generate_plot(model):
         'Inconceivable': 'red'
     }
 
-    # Create legend patches
-    legend_handles = [mpatches.Patch(facecolor=color, label=label, edgecolor="black") for label, color in legend_colors.items()]
-
     ax.scatter(x=features[:, 0], y=features[:, 1], c=colors)
-    plt.legend(handles=legend_handles, title="Expert Labels")
 
     xlim = ax.get_xlim()
     ylim = ax.get_ylim()
@@ -301,15 +297,24 @@ def generate_plot(model):
                     antialiased=True)
     
     ax.scatter(x=features[:, 0], y=features[:, 1], c=colors, edgecolors="black")
-    plt.title("Projections on Modal Difference Vectors")
-    plt.ylabel("Impossible-Inconceivable")
-    plt.xlabel("Improbable-Impossible")
+
+    # Create legend patches
+    legend_handles = [mpatches.Patch(facecolor=color, label=label, edgecolor="black") for label, color in legend_colors.items()]
+    legend = plt.legend(handles=legend_handles, title="Expert Labels", fontsize=13)
+    legend.get_title().set_fontsize(15)
+
+    ax.tick_params(axis='both', which='major', labelsize=14)
+    plt.title("Projections on Modal Difference Vectors", fontsize=17)
+    plt.ylabel("Impossible-Inconceivable", fontsize=14)
+    plt.xlabel("Improbable-Impossible", fontsize=14)
     plt.savefig("../Figures/Study3_Example.pdf", format="pdf", bbox_inches="tight")
 
 
 if __name__ == "__main__":
 
     config = utils.get_config()
+    if "ablation" not in config.keys():
+        config["ablation"] = False
 
     # Establish a dataframe to store all of the results
     # from the regression analysis
@@ -339,20 +344,48 @@ if __name__ == "__main__":
 
     for dataset in ["hu_nonsense/data", "hu_shades/data", "goulding/adults"]:
         print(dataset)
-        for condition in ["Linear_Representation", "Probability", "PC", "Random"]:
+        
+        if config["ablation"]:
+            conditions = ["Ablate_Probable_Improbable", "Ablate_Improbable_Impossible", "Ablate_Impossible_Inconceivable"]
+        else:
+            conditions = ["Linear_Representation", "Probability", "PC", "Random"]
+
+        for condition in conditions:
             print(condition)
             if condition == "Probability":
                 features = ["Probability"]
-            else:
+            elif condition in ["Linear_Representation", "PC", "Random"]:
                 features = [
                     "probable_improbable",
                     "improbable_impossible",
                     "impossible_inconceivable",
                 ]
+            elif condition == "Ablate_Probable_Improbable":
+                features = [
+                    "improbable_impossible",
+                    "impossible_inconceivable"
+                ]
+            elif condition == "Ablate_Improbable_Impossible":
+                features = [
+                    "probable_improbable",
+                    "impossible_inconceivable"
+                ]
+            elif condition == "Ablate_Impossible_Inconceivable":
+                features = [
+                    "probable_improbable",
+                    "improbable_impossible"
+                ]
+            else:
+                raise ValueError("Invalid condition")
 
-            path = os.path.join(
-                "../results", model, "Calibration", dataset, f"{condition}.csv"
-            )
+            if config["ablation"]:
+                path = os.path.join(
+                    "../results", model, "Calibration", dataset, f"Linear_Representation.csv"
+                )
+            else:
+                path = os.path.join(
+                    "../results", model, "Calibration", dataset, f"{condition}.csv"
+                )
             data = pd.read_csv(path)
             data = lr_analysis(data, features, dataset)
 
@@ -390,10 +423,12 @@ if __name__ == "__main__":
                 model == "google/gemma-2-9b"
                 and condition in ["Linear_Representation", "Probability"]
                 and dataset == "goulding/adults"
+                and not config["ablation"]
             ):
                 process_qualitative(data, condition, config["results_path"])
 
     regression_results = pd.DataFrame.from_dict(regression_results)
+    os.makedirs(config["results_path"], exist_ok=True)
 
     regression_results.to_csv(
         os.path.join(config["results_path"], "regression_analysis.csv")
